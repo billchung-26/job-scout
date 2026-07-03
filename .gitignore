@@ -1,0 +1,13 @@
+# --- secrets: NEVER commit ---
+secrets.yaml
+
+# --- runtime / generated ---
+state.json
+.last_promote
+companies_auto.yaml
+watchlist.md
+digests/
+recommendations/
+logs/
+__pycache__/
+*.pyc

@@ -1,0 +1,89 @@
+# ============================================================
+#  COMPANIES TO WATCH
+#  ats: greenhouse | lever | ashby   (slug verified working as of 2026-07-02)
+#  Comment out (add #) any you want to pause. Add your own below.
+# ============================================================
+
+companies:
+  # ---- Your shortlist (supported by the public APIs) ----
+  - name: Anthropic          # frontier lab
+    ats: greenhouse
+    slug: anthropic
+  - name: OpenAI             # frontier lab
+    ats: ashby
+    slug: openai
+  - name: Sierra             # enterprise conversational AI agents  <- strong fit (your Shopee chatbot + enterprise SaaS)
+    ats: ashby
+    slug: sierra
+  - name: Decagon            # AI customer-support agents            <- strong fit
+    ats: ashby
+    slug: decagon
+  - name: Glean              # enterprise work AI / search
+    ats: greenhouse
+    slug: gleanwork
+
+  # ---- Expansion: DATA / CDP (your core — Adobe RTCDP, 91APP CDP, segmentation) ----
+  - name: Hightouch          # composable CDP / data activation      <- closest match to your RTCDP work
+    ats: greenhouse
+    slug: hightouch
+
+  # ---- Expansion: ENTERPRISE / AGENT AI (conversational + GTM strengths) ----
+  - name: Cresta             # contact-center AI (chatbot at enterprise scale)
+    ats: greenhouse
+    slug: cresta
+  - name: Writer             # enterprise GenAI platform, GTM-heavy
+    ats: ashby
+    slug: writer
+  - name: Hebbia             # enterprise knowledge / document AI
+    ats: ashby
+    slug: hebbia-ai
+  - name: Harvey             # vertical enterprise AI (legal); hiring heavily
+    ats: ashby
+    slug: harvey
+  - name: Perplexity         # AI search (consumer + enterprise)
+    ats: ashby
+    slug: perplexity
+
+  # ---- Expansion: FRONTIER / FOUNDATION LABS ----
+  - name: Cohere             # enterprise-focused lab (good GTM fit)
+    ats: ashby
+    slug: cohere
+  - name: Mistral
+    ats: lever
+    slug: mistral
+  - name: xAI
+    ats: greenhouse
+    slug: xai
+
+  # ---- Expansion: AUTONOMY / ROBOTICS (your Waymo/Zoox interest) ----
+  - name: Nuro               # autonomous delivery
+    ats: greenhouse
+    slug: nuro
+  - name: Figure             # humanoid robotics
+    ats: greenhouse
+    slug: figure
+
+  # ---- More verified options — uncomment to add ----
+  # - name: Scale AI
+  #   ats: greenhouse
+  #   slug: scaleai
+  # - name: Together AI
+  #   ats: greenhouse
+  #   slug: togetherai
+  # - name: Physical Intelligence
+  #   ats: ashby
+  #   slug: physicalintelligence
+  # - name: Ramp
+  #   ats: ashby
+  #   slug: ramp
+  # - name: Notion
+  #   ats: ashby
+  #   slug: notion
+
+# ============================================================
+#  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
+#    - Google, Waymo  -> Alphabet's own careers site (careers.google.com)
+#    - Zoox           -> Amazon Jobs
+#  For these three: use LinkedIn "follow + job alert", or ask Claude to
+#  add a custom per-site fetcher later.
+# ============================================================

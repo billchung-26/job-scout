@@ -1,0 +1,63 @@
+# ============================================================
+#  YOUR JOB CONDITIONS  —  edit anytime, no code needed.
+#  Case-insensitive. Empty list = that filter is off.
+#  Tuned to Bill's profile: enterprise PM, CDP/data platform,
+#  conversational/agent AI, GTM. Adjust as your search evolves.
+# ============================================================
+
+# Keep a role only if its title contains AT LEAST ONE of these.
+include_title_keywords:
+  - product manager      # also catches "Group/Senior/Principal Product Manager"
+  - product management
+  - product lead
+  - head of product
+  - director, product
+  - director of product
+  - product engineer     # added per request
+  - product engineering  # added per request
+  - customer success     # added per request (catches "Customer Success Manager")
+  - program manager      # added per request (also catches "Technical Program Manager")
+  - gtm
+  - go-to-market
+
+# Drop a role if its title contains ANY of these (wins over include).
+exclude_title_keywords:
+  - intern
+  - sales
+  - account executive
+  - recruiter
+  - contract
+  - software engineer
+  - research engineer
+  - research scientist
+  - hardware
+  - counsel
+  - designer
+
+# Keep a role only if its location contains ONE of these substrings.
+locations:
+  - remote
+  - san francisco
+  - san jose
+  - palo alto
+  - mountain view
+  - bay area
+  - new york
+  - united states
+  - us
+
+# Ranking boost only (does not filter). More hits = higher in the digest.
+# Weighted to where you're strongest.
+priority_keywords:
+  - data
+  - platform
+  - cdp
+  - segmentation
+  - growth
+  - gtm
+  - agent
+  - conversational
+  - monetization
+  - pricing
+  - enterprise
+  - ai
