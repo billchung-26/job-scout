@@ -63,6 +63,26 @@ companies:
     ats: greenhouse
     slug: figure
 
+  # ---- Recovered 2026-07-03: had non-obvious slugs, now verified working ----
+  - name: Clay               # GTM / growth AI  <- strong fit (17 matching roles)
+    ats: ashby
+    slug: claylabs
+  - name: Sana               # enterprise agentic AI for work (like Glean)
+    ats: ashby
+    slug: sana-roles
+  - name: Sourcegraph        # code intelligence / dev AI (like Glean)
+    ats: greenhouse
+    slug: sourcegraph91
+  - name: Applied Intuition  # autonomy / physical AI (your Waymo/Zoox interest)
+    ats: ashby
+    slug: applied
+  - name: Ada                # customer-support AI agents (like Decagon)
+    ats: greenhouse
+    slug: ada18
+  - name: Augment            # AI coding assistant
+    ats: greenhouse
+    slug: augmentcomputing
+
   # ---- More verified options — uncomment to add ----
   # - name: Scale AI
   #   ats: greenhouse

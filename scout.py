@@ -21,6 +21,7 @@ Files:
     watchlist.md          - auto-generated in/out list
 """
 
+import csv
 import html
 import json
 import os
@@ -46,6 +47,10 @@ DIGEST_DIR = os.path.join(HERE, "digests")
 QUEUE_FILE = os.path.join(HERE, "discovery_queue.yaml")
 AUTO_FILE = os.path.join(HERE, "companies_auto.yaml")
 PROMOTE_STAMP = os.path.join(HERE, ".last_promote")
+RECS_DIR = os.path.join(HERE, "recommendations")
+REC_STATE_FILE = os.path.join(HERE, "rec_state.json")
+APPLIED_FILE = os.path.join(HERE, "applied.yaml")
+SUNSET_DAYS = 30
 TIMEOUT = 20
 PROMOTE_PER_RUN = 2
 
@@ -53,12 +58,12 @@ PROMOTE_PER_RUN = 2
 NOT_WATCHABLE = [
     ("Own career site (not on these APIs)",
      ["Google", "Waymo (Alphabet)", "Zoox (Amazon Jobs)"]),
-    ("Probed, no public Greenhouse/Lever/Ashby board",
-     ["Ada", "AI21", "Adept", "Applied Intuition", "Augment", "Census",
-      "Chef Robotics", "Clay", "Cognigy", "Contextual AI", "Crescendo",
-      "dbt Labs", "EvenUp", "Forethought", "Hippocratic AI", "Luma AI",
-      "Magic", "Rippling", "Rudderstack", "Sana", "Skild AI", "Snowplow",
-      "Sourcegraph", "Windsurf/Codeium"]),
+    ("Migrated off / no longer served by the public API",
+     ["RudderStack", "Snowplow", "Forethought", "dbt Labs"]),
+    ("No public Greenhouse/Lever/Ashby board found",
+     ["AI21", "Adept", "Census", "Chef Robotics", "Cognigy", "Contextual AI",
+      "Crescendo", "EvenUp", "Hippocratic AI", "Luma AI", "Magic", "Rippling",
+      "Skild AI", "Windsurf/Codeium"]),
 ]
 
 
@@ -392,7 +397,190 @@ def write_watchlist(stats):
 
     with open(os.path.join(HERE, "watchlist.md"), "w") as f:
         f.write("\n".join(lines))
-    print("Wrote watchlist.md (%d watched)." % len(stats))
+    _write_companies_xlsx(stats)
+    print("Wrote watchlist.md + watchlist.xlsx (%d watched)." % len(stats))
+
+
+def _write_companies_xlsx(stats):
+    """Company list as a multi-sheet Excel workbook (Watching / Backlog / Not Watchable)."""
+    try:
+        from openpyxl import Workbook
+        from openpyxl.styles import Font, PatternFill
+        from openpyxl.utils import get_column_letter
+    except ImportError:
+        return
+
+    def style_sheet(ws, widths):
+        for cell in ws[1]:
+            cell.font = Font(bold=True)
+            cell.fill = PatternFill("solid", fgColor="D9D9D9")
+        ws.freeze_panes = "A2"
+        ws.auto_filter.ref = ws.dimensions
+        for i, w in enumerate(widths, start=1):
+            ws.column_dimensions[get_column_letter(i)].width = w
+
+    wb = Workbook()
+
+    # --- Sheet 1: Watching ---
+    ws = wb.active
+    ws.title = "Watching"
+    ws.append(["Company", "Source", "Platform", "Matching", "Total", "Careers URL"])
+    for s in sorted(stats, key=lambda x: x["name"].lower()):
+        url = careers_url(s.get("ats"), s.get("slug", ""))
+        ws.append([s["name"], s["source"], s["ats"], s["matches"], s["total"], url])
+        if url:
+            c = ws.cell(row=ws.max_row, column=6)
+            c.hyperlink = url
+            c.font = Font(color="0563C1", underline="single")
+    style_sheet(ws, [22, 16, 12, 10, 8, 55])
+
+    # --- Sheet 2: Backlog ---
+    ws2 = wb.create_sheet("Backlog")
+    ws2.append(["Company", "Platform", "Slug", "Related to"])
+    if os.path.exists(QUEUE_FILE):
+        with open(QUEUE_FILE) as f:
+            for c in (yaml.safe_load(f) or {}).get("queue") or []:
+                ws2.append([c.get("name"), c.get("ats"), c.get("slug"), c.get("related", "")])
+    style_sheet(ws2, [22, 12, 20, 44])
+
+    # --- Sheet 3: Not Watchable ---
+    ws3 = wb.create_sheet("Not Watchable")
+    ws3.append(["Reason", "Company"])
+    for grp, names in NOT_WATCHABLE:
+        for n in names:
+            ws3.append([grp, n])
+    style_sheet(ws3, [44, 24])
+
+    wb.save(os.path.join(HERE, "watchlist.xlsx"))
+
+
+# ---------------------------------------------------------------- recommendations
+
+def load_applied():
+    """Return a set of applied job URLs (hidden from recommendations)."""
+    if not os.path.exists(APPLIED_FILE):
+        return set()
+    with open(APPLIED_FILE) as f:
+        d = yaml.safe_load(f) or {}
+    keys = set()
+    for item in (d.get("applied") or []):
+        if isinstance(item, dict) and item.get("url"):
+            keys.add(item["url"].strip())
+        elif isinstance(item, str):
+            keys.add(item.strip())
+    return keys
+
+
+def _job_key(name, j):
+    return (j.get("url") or "").strip() or ("%s|%s" % (name, j.get("title", "")))
+
+
+def update_recommendations(all_matching):
+    """Refresh recommendations (latest.md / .csv / .xlsx): track first-seen per role,
+    flag roles you've applied to (applied.yaml) in an 'Applied' column, and sunset any
+    NON-applied role recommended for more than SUNSET_DAYS."""
+    os.makedirs(RECS_DIR, exist_ok=True)
+    today = datetime.now().date()
+    today_s = today.strftime("%Y-%m-%d")
+
+    prior = {}
+    if os.path.exists(REC_STATE_FILE):
+        with open(REC_STATE_FILE) as f:
+            prior = json.load(f)
+    applied = load_applied()
+
+    new_state, records = {}, []
+    n_applied = n_sunset = 0
+    for name, j in all_matching:
+        key = _job_key(name, j)
+        first_seen = prior.get(key, today_s)      # carry forward, or first seen today
+        new_state[key] = first_seen               # only current-open roles are kept
+        try:
+            age = (today - datetime.strptime(first_seen, "%Y-%m-%d").date()).days
+        except Exception:  # noqa
+            age = 0
+        is_applied = key in applied or (j.get("url", "").strip() in applied)
+        if is_applied:
+            n_applied += 1
+        elif age > SUNSET_DAYS:                    # sunset only un-applied stale roles
+            n_sunset += 1
+            continue
+        records.append({
+            "score": j.get("score", 0), "company": name, "role": j.get("title", ""),
+            "location": j.get("location", "") or "n/a", "url": j.get("url", ""),
+            "first_seen": first_seen, "age": age, "applied": is_applied,
+        })
+
+    with open(REC_STATE_FILE, "w") as f:
+        json.dump(new_state, f, indent=2)
+
+    # not-applied first, then by fit desc, then freshest
+    records.sort(key=lambda r: (r["applied"], -r["score"], r["age"], r["company"].lower()))
+
+    _write_recs_md(records, n_applied, n_sunset)
+    _write_recs_csv(records)
+    _write_recs_xlsx(records)
+    print("Updated recommendations: latest.md / .csv / .xlsx  (%d roles, %d applied, %d sunset hidden)"
+          % (len(records), n_applied, n_sunset))
+    return records
+
+
+def _write_recs_md(records, n_applied, n_sunset):
+    lines = ["# Job recommendations (live)", "",
+             "_Updated %s. %d roles · %d applied · %d sunset (>%dd) hidden._" %
+             (datetime.now().strftime("%Y-%m-%d %H:%M"), len(records), n_applied, n_sunset, SUNSET_DAYS),
+             "", "| Fit | Company | Role | Location | Applied | First seen | Age |",
+             "|---|---|---|---|---|---|---|"]
+    for r in records:
+        newtag = " 🆕" if r["age"] == 0 and not r["applied"] else ""
+        stars = "⭐" * r["score"]
+        lines.append("| %s | %s | [%s](%s)%s | %s | %s | %s | %dd |" %
+                     (stars or "—", r["company"], r["role"], r["url"], newtag,
+                      r["location"], "✅" if r["applied"] else "", r["first_seen"], r["age"]))
+    with open(os.path.join(RECS_DIR, "latest.md"), "w") as f:
+        f.write("\n".join(lines))
+
+
+def _write_recs_csv(records):
+    with open(os.path.join(RECS_DIR, "latest.csv"), "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["Fit", "Company", "Role", "Location", "Applied", "First Seen", "Age (days)", "URL"])
+        for r in records:
+            w.writerow([r["score"], r["company"], r["role"], r["location"],
+                        "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"]])
+
+
+def _write_recs_xlsx(records):
+    try:
+        from openpyxl import Workbook
+        from openpyxl.styles import Font, PatternFill
+        from openpyxl.utils import get_column_letter
+    except ImportError:
+        return  # openpyxl not installed -> csv/md still written
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Recommendations"
+    headers = ["Fit", "Company", "Role", "Location", "Applied", "First Seen", "Age (days)", "URL"]
+    ws.append(headers)
+    for r in records:
+        ws.append([r["score"], r["company"], r["role"], r["location"],
+                   "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"]])
+        row = ws.max_row
+        if r["url"]:                                   # make Role a clickable link
+            c = ws.cell(row=row, column=3)
+            c.hyperlink = r["url"]
+            c.font = Font(color="0563C1", underline="single")
+        if r["applied"]:                               # shade applied rows green
+            for col in range(1, len(headers) + 1):
+                ws.cell(row=row, column=col).fill = PatternFill("solid", fgColor="E2EFDA")
+    for cell in ws[1]:
+        cell.font = Font(bold=True)
+        cell.fill = PatternFill("solid", fgColor="D9D9D9")
+    ws.freeze_panes = "A2"
+    ws.auto_filter.ref = ws.dimensions
+    for i, w in enumerate([6, 16, 52, 30, 9, 12, 10, 55], start=1):
+        ws.column_dimensions[get_column_letter(i)].width = w
+    wb.save(os.path.join(RECS_DIR, "latest.xlsx"))
 
 
 # ---------------------------------------------------------------- main
@@ -413,7 +601,7 @@ def main():
     cond = load_conditions()
     state = load_state()
     new_state = {}
-    report, errors, stats = [], [], []
+    report, errors, stats, all_matching = [], [], [], []
 
     for c in companies:
         name, ats, slug = c.get("name"), c.get("ats"), c.get("slug")
@@ -442,7 +630,8 @@ def main():
         fresh = wanted if first_run else [j for j in wanted if j["id"] not in seen]
         report.append((name, fresh, first_run))
         stats.append({"name": name, "source": c.get("_source", "curated"),
-                      "ats": ats, "total": len(jobs), "matches": len(wanted)})
+                      "ats": ats, "slug": slug, "total": len(jobs), "matches": len(wanted)})
+        all_matching.extend((name, j) for j in wanted)
         time.sleep(0.3)
 
     save_state(new_state)
@@ -457,10 +646,11 @@ def main():
         notify_promotions(promoted, secrets)
         for c in promoted:
             stats.append({"name": c["name"], "source": "auto (new today)",
-                          "ats": c["ats"], "total": c.get("_total", 0),
+                          "ats": c["ats"], "slug": c["slug"], "total": c.get("_total", 0),
                           "matches": c.get("_matches", 0)})
 
     write_watchlist(stats)
+    update_recommendations(all_matching)
 
 
 if __name__ == "__main__":

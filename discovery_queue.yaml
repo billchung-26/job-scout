@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Parloa
-  ats: greenhouse
-  slug: parloa
-  related: customer-support agents, like Sierra/Decagon
-- name: Sigma Computing
-  ats: greenhouse
-  slug: sigmacomputing
-  related: analytics/data, like Hightouch
 - name: Dust
   ats: ashby
   slug: dust

@@ -3,9 +3,11 @@ secrets.yaml
 
 # --- runtime / generated ---
 state.json
+rec_state.json
 .last_promote
 companies_auto.yaml
 watchlist.md
+watchlist.xlsx
 digests/
 recommendations/
 logs/

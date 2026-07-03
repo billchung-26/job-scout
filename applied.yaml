@@ -1,0 +1,15 @@
+# Roles you've applied to — hidden from recommendations/latest.md.
+# Add an entry (url is the key) whenever you apply. Ask Claude to add them, or paste here.
+applied:
+  # --- Tier 1 (applied 2026-07-02) ---
+  - {company: Hightouch, role: "Lead Product Manager, Agentic Personalization", url: "https://job-boards.greenhouse.io/hightouch/jobs/5834919004"}
+  - {company: Sierra,    role: "Product Manager, Agent Data Platform",          url: "https://jobs.ashbyhq.com/sierra/422cb7bb-ab03-447b-808c-6d72f59bbd2f"}
+  - {company: OpenAI,    role: "Product Manager, Self-Serve Business Growth Lead", url: "https://jobs.ashbyhq.com/openai/d23c6966-e702-4088-860b-0f529745e03c"}
+  - {company: OpenAI,    role: "GTM Growth Product Manager, Agentic Systems",   url: "https://jobs.ashbyhq.com/openai/73e59b84-2e87-4637-8c4a-d271784afb30"}
+  - {company: Anthropic, role: "Product Management, Human Data Platform",        url: "https://job-boards.greenhouse.io/anthropic/jobs/5195866008"}
+  # --- Tier 2 (applied 2026-07-02) ---
+  - {company: Decagon,   role: "Senior Agent Product Manager (SF)",  url: "https://jobs.ashbyhq.com/decagon/dcf9b561-f2fb-422b-88a9-33ce76e96608"}
+  - {company: Decagon,   role: "Senior Agent Product Manager (NYC)", url: "https://jobs.ashbyhq.com/decagon/e31c0645-7325-43b9-9d58-0acc40904240"}
+  - {company: Cresta,    role: "Forward Deployed Product Manager, AI Agent", url: "https://job-boards.greenhouse.io/cresta/jobs/4738837008"}
+  - {company: Sierra,    role: "Product Manager, Agent Studio",      url: "https://jobs.ashbyhq.com/sierra/5aaa2eeb-92bc-4b0a-901e-8e091eff819e"}
+  - {company: Glean,     role: "Product Manager, Enterprise Intelligence", url: "https://job-boards.greenhouse.io/gleanwork/jobs/4701912005"}
