@@ -26,6 +26,7 @@ import html
 import json
 import os
 import ssl
+import subprocess
 import sys
 import time
 import urllib.parse
@@ -420,6 +421,7 @@ def _write_companies_xlsx(stats):
             ws.column_dimensions[get_column_letter(i)].width = w
 
     wb = Workbook()
+    wb.properties.created = wb.properties.modified = datetime(2024, 1, 1)  # deterministic file
 
     # --- Sheet 1: Watching ---
     ws = wb.active
@@ -558,6 +560,7 @@ def _write_recs_xlsx(records):
     except ImportError:
         return  # openpyxl not installed -> csv/md still written
     wb = Workbook()
+    wb.properties.created = wb.properties.modified = datetime(2024, 1, 1)  # deterministic file
     ws = wb.active
     ws.title = "Recommendations"
     headers = ["Fit", "Company", "Role", "Location", "Applied", "First Seen", "Age (days)", "URL"]
@@ -581,6 +584,25 @@ def _write_recs_xlsx(records):
     for i, w in enumerate([6, 16, 52, 30, 9, 12, 10, 55], start=1):
         ws.column_dimensions[get_column_letter(i)].width = w
     wb.save(os.path.join(RECS_DIR, "latest.xlsx"))
+
+
+# ---------------------------------------------------------------- git auto-push
+
+def git_autopush():
+    """Commit and push updated lists to GitHub. Uses the repo's deploy key
+    (core.sshCommand), so it works unattended from the launchd job."""
+    try:
+        subprocess.run(["git", "-C", HERE, "add", "-A"], check=True, capture_output=True)
+        if subprocess.run(["git", "-C", HERE, "diff", "--cached", "--quiet"]).returncode == 0:
+            print("git: no changes to push.")
+            return
+        msg = "Auto-update lists — %s" % datetime.now().strftime("%Y-%m-%d %H:%M")
+        subprocess.run(["git", "-C", HERE, "commit", "-q", "-m", msg], check=True, capture_output=True)
+        p = subprocess.run(["git", "-C", HERE, "push", "origin", "main"], capture_output=True, text=True)
+        print("git: pushed update." if p.returncode == 0
+              else "git push failed: %s" % ((p.stderr or p.stdout).strip()[:200]))
+    except Exception as e:  # noqa
+        print("git autopush error: %s" % e)
 
 
 # ---------------------------------------------------------------- main
@@ -651,6 +673,7 @@ def main():
 
     write_watchlist(stats)
     update_recommendations(all_matching)
+    git_autopush()
 
 
 if __name__ == "__main__":
