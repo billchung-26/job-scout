@@ -1,16 +1,20 @@
 # --- secrets: NEVER commit ---
 secrets.yaml
 
-# --- runtime / generated ---
+# --- runtime state (not useful in git) ---
 state.json
 rec_state.json
 .last_promote
-companies_auto.yaml
-watchlist.md
-watchlist.xlsx
-digests/
-recommendations/
 logs/
+digests/
 __pycache__/
 *.pyc
 .DS_Store
+
+# --- recommendations: publish only the rolling "latest" files ---
+recommendations/*
+!recommendations/latest.md
+!recommendations/latest.csv
+!recommendations/latest.xlsx
+
+# (tracked on purpose: companies_auto.yaml, watchlist.md, watchlist.xlsx)

@@ -1,0 +1,15 @@
+# Auto-added daily by scout.py from discovery_queue.yaml.
+# Safe to edit/remove; move favorites into companies.yaml if you like.
+companies:
+- name: Fivetran
+  ats: greenhouse
+  slug: fivetran
+- name: Gong
+  ats: greenhouse
+  slug: gongio
+- name: Parloa
+  ats: greenhouse
+  slug: parloa
+- name: Sigma Computing
+  ats: greenhouse
+  slug: sigmacomputing
