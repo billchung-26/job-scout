@@ -1,37 +1,11 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-07-03 22:23. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-07-04 11:00. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (26 companies)
+## ✅ Watching (0 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
-| Ada | curated | greenhouse | 0 / 10 |
-| Anthropic | curated | greenhouse | 39 / 388 |
-| Applied Intuition | curated | ashby | 0 / 248 |
-| Augment | curated | greenhouse | 0 / 1 |
-| Clay | curated | ashby | 17 / 81 |
-| Cohere | curated | ashby | 3 / 127 |
-| Cresta | curated | greenhouse | 6 / 104 |
-| Decagon | curated | ashby | 9 / 114 |
-| Figure | curated | greenhouse | 0 / 24 |
-| Fivetran | auto | greenhouse | 13 / 132 |
-| Glean | curated | greenhouse | 15 / 137 |
-| Gong | auto | greenhouse | 0 / 96 |
-| Harvey | curated | ashby | 27 / 329 |
-| Hebbia | curated | ashby | 0 / 34 |
-| Hightouch | curated | greenhouse | 4 / 63 |
-| Mistral | curated | lever | 1 / 175 |
-| Nuro | curated | greenhouse | 6 / 94 |
-| OpenAI | curated | ashby | 53 / 724 |
-| Parloa | auto | greenhouse | 4 / 54 |
-| Perplexity | curated | ashby | 3 / 78 |
-| Sana | curated | ashby | 1 / 31 |
-| Sierra | curated | ashby | 15 / 147 |
-| Sigma Computing | auto | greenhouse | 5 / 70 |
-| Sourcegraph | curated | greenhouse | 1 / 6 |
-| Writer | curated | ashby | 0 / 49 |
-| xAI | curated | greenhouse | 0 / 214 |
 
 ## ⏳ In discovery backlog — 27 left (~2 added/day)
 
