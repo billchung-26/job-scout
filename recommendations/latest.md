@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-07-03 22:21. 222 roles · 10 applied · 0 sunset (>30d) hidden._
+_Updated 2026-07-03 22:23. 222 roles · 10 applied · 0 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
