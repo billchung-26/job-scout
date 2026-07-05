@@ -13,3 +13,9 @@ companies:
 - name: Sigma Computing
   ats: greenhouse
   slug: sigmacomputing
+- name: Dust
+  ats: ashby
+  slug: dust
+- name: Observe.AI
+  ats: greenhouse
+  slug: observeai

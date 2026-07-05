@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Dust
-  ats: ashby
-  slug: dust
-  related: enterprise AI agents, like Glean/Sierra
-- name: Observe.AI
-  ats: greenhouse
-  slug: observeai
-  related: contact-center AI, like Cresta
 - name: Hex
   ats: greenhouse
   slug: hextechnologies
