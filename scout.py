@@ -58,7 +58,7 @@ PROMOTE_PER_RUN = 2
 # Companies known to be unwatchable via these APIs (for the watchlist report).
 NOT_WATCHABLE = [
     ("Own career site (not on these APIs)",
-     ["Google", "Waymo (Alphabet)", "Zoox (Amazon Jobs)"]),
+     ["Google", "Waymo (Alphabet)"]),
     ("Migrated off / no longer served by the public API",
      ["RudderStack", "Snowplow", "Forethought", "dbt Labs"]),
     ("No public Greenhouse/Lever/Ashby board found",

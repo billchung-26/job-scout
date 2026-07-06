@@ -100,6 +100,39 @@ companies:
   #   ats: ashby
   #   slug: notion
 
+  # ---- Added 2026-07-05: voice AI agents + CDP/retail (resume-driven picks) ----
+  - name: Vapi               # voice AI agent infra <- fits Shopee chatbot work; hottest voice AI startup, Series B $500M
+    ats: ashby
+    slug: vapi
+  - name: Bland              # enterprise voice AI, high-stakes calls <- peer to Sierra/Decagon/Cresta, Series C
+    ats: ashby
+    slug: bland
+  - name: Regal              # AI voice agents for contact centers <- adjacent to Cresta, Series B
+    ats: lever
+    slug: regal.ai
+  - name: Constructor        # AI product search/discovery for e-commerce <- fits 91APP/Shopee retail background, Series B
+    ats: ashby
+    slug: constructor
+  - name: Amperity           # enterprise CDP <- closest peer to your Adobe RTCDP/91APP CDP work, Series D
+    ats: greenhouse
+    slug: amperity
+  - name: Bloomreach         # commerce experience cloud (CDP + search + personalization) <- retail CDP fit, Series F
+    ats: greenhouse
+    slug: bloomreach
+
+  # ---- Added 2026-07-05: mature data platforms (per request, not early-stage) ----
+  - name: Snowflake          # data cloud platform
+    ats: ashby
+    slug: snowflake
+  - name: Databricks         # data + AI platform
+    ats: greenhouse
+    slug: databricks
+
+  # ---- Added 2026-07-05: Zoox now has a public Lever board (README's old NOT_WATCHABLE note was stale) ----
+  - name: Zoox               # autonomous vehicles (Amazon) <- your autonomy/robotics interest
+    ats: lever
+    slug: zoox
+
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
 #    - Google, Waymo  -> Alphabet's own careers site (careers.google.com)

@@ -53,6 +53,6 @@ arrive without you doing anything.
 
 ## Notes
 
-- Some companies (Google, Waymo, Zoox, and others on Workday/custom systems) don't
+- Some companies (Google, Waymo, and others on Workday/custom systems) don't
   expose a public board and can't be watched this way — `watchlist.md` lists them.
 - `secrets.yaml`, runtime state, and generated reports are git-ignored.
