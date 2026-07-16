@@ -1,11 +1,12 @@
 # Job recommendations (live)
 
-_Updated 2026-07-15 23:24. 329 roles · 15 applied · 0 sunset (>30d) hidden._
+_Updated 2026-07-15 23:30. 352 roles · 15 applied · 0 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
 | ⭐⭐⭐ | OpenAI | [Enterprise Application Data Architect, GTM Systems](https://jobs.ashbyhq.com/openai/a057c19d-83db-4bb2-a86f-07caa422d770) | San Francisco |  | 2026-07-05 | 10d |
 | ⭐⭐⭐ | Snowflake | [Director, Data Science – GTM (Data, Analytics & AI)](https://jobs.ashbyhq.com/snowflake/ff7fbdd3-98a7-4552-959f-bb4812b2dc8d) | US-CA-Menlo Park |  | 2026-07-05 | 10d |
+| ⭐⭐ | Replit | [GTM AI Operations Lead, Demand Generation](https://jobs.ashbyhq.com/replit/455c1feb-7157-48d5-b2a6-57606ed1a6cd) 🆕 | Foster City, CA |  | 2026-07-15 | 0d |
 | ⭐⭐ | Anthropic | [Finance & Strategy, GTM (Enterprise Tech)](https://job-boards.greenhouse.io/anthropic/jobs/5043427008) | San Francisco, CA; Seattle, WA |  | 2026-07-14 | 1d |
 | ⭐⭐ | Zoox | [Staff/Senior Staff Supply Chain Program Manager - Enterprise Business Applications](https://jobs.lever.co/zoox/2a7c9842-96ae-4a98-a2bd-152a720d81f7) | Foster City, CA |  | 2026-07-14 | 1d |
 | ⭐⭐ | Anthropic | [Data Scientist, GTM](https://job-boards.greenhouse.io/anthropic/jobs/5196852008) | New York City, NY; San Francisco, CA | New York City, NY |  | 2026-07-05 | 10d |
@@ -27,10 +28,22 @@ _Updated 2026-07-15 23:24. 329 roles · 15 applied · 0 sunset (>30d) hidden._
 | ⭐⭐ | Sigma Computing | [Product Manager, AI Platform & Performance ](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767898003) | San Francisco, CA |  | 2026-07-05 | 10d |
 | ⭐⭐ | Snowflake | [GTM Engineer - ABM, Advertising and Growth Marketing](https://jobs.ashbyhq.com/snowflake/38bd7f7f-d78b-4cd9-b307-8d183b902abb) | US-CA-Menlo Park |  | 2026-07-05 | 10d |
 | ⭐⭐ | Snowflake | [Enterprise Developer, GTM Applications](https://jobs.ashbyhq.com/snowflake/4d917314-90eb-47f1-a563-8a76bb7c3b34) | US-CA-Menlo Park |  | 2026-07-05 | 10d |
+| ⭐ | Abridge | [Director, Product Management - AI/ML, Core Product](https://jobs.ashbyhq.com/abridge/7745d77e-66a0-4175-89f4-1f18c4d3d405) 🆕 | SF Office |  | 2026-07-15 | 0d |
+| ⭐ | Abridge | [Product Lead, AI/ML (Evals) ](https://jobs.ashbyhq.com/abridge/9c7ba6c3-7744-48b8-a5b3-dab55c22e4b3) 🆕 | SF Office |  | 2026-07-15 | 0d |
 | ⭐ | Anthropic | [Product Manager, Enterprise](https://job-boards.greenhouse.io/anthropic/jobs/5253339008) 🆕 | San Francisco, CA | New York City, NY |  | 2026-07-15 | 0d |
 | ⭐ | Hebbia | [GTM Engineer](https://jobs.ashbyhq.com/hebbia-ai/4b1d51bc-2985-471b-b3b5-1ddf62e0a50a) 🆕 | NYC |  | 2026-07-15 | 0d |
 | ⭐ | Hebbia | [GTM Systems](https://jobs.ashbyhq.com/hebbia-ai/ef36fe55-afdf-4b1a-8965-cd9c05242b2e) 🆕 | NYC |  | 2026-07-15 | 0d |
 | ⭐ | Hex | [Senior Product Manager, Growth ](https://hex.tech/careers/6115504004/?gh_jid=6115504004) 🆕 | NYC or SF |  | 2026-07-15 | 0d |
+| ⭐ | Lorikeet | [GTM Engineer](https://jobs.ashbyhq.com/lorikeet/551c481b-b278-4e8f-9458-4d8c9d82b407) 🆕 | US - Remote |  | 2026-07-15 | 0d |
+| ⭐ | Mercor | [GTM Associate](https://jobs.ashbyhq.com/mercor/2d252cf2-649b-4cbd-a943-baf6a042dde1) 🆕 | San Francisco |  | 2026-07-15 | 0d |
+| ⭐ | Mercor | [Healthcare GTM Associate](https://jobs.ashbyhq.com/mercor/12ef2db7-5a92-417b-b101-8779b6fc71d0) 🆕 | San Francisco |  | 2026-07-15 | 0d |
+| ⭐ | PolyAI | [GTM Manager (BizDev)](https://job-boards.eu.greenhouse.io/polyai/jobs/4926483101) 🆕 | United States |  | 2026-07-15 | 0d |
+| ⭐ | PolyAI | [GTM Specialist (BizDev)](https://job-boards.eu.greenhouse.io/polyai/jobs/4926371101) 🆕 | United States |  | 2026-07-15 | 0d |
+| ⭐ | Replit | [Product Engineer, Product Platform](https://jobs.ashbyhq.com/replit/fc946efb-f0f1-4f83-9ae1-055a11e7146b) 🆕 | Foster City, CA |  | 2026-07-15 | 0d |
+| ⭐ | Replit | [Product Lead, Growth Marketing](https://jobs.ashbyhq.com/replit/55b3fb32-e920-471d-8980-6afb3f506d4e) 🆕 | Foster City, CA |  | 2026-07-15 | 0d |
+| ⭐ | Replit | [Product Engineer, Product Platform (Frontend)](https://jobs.ashbyhq.com/replit/657a90d2-23cc-4c86-b9ed-a21900efee0d) 🆕 | Foster City, CA |  | 2026-07-15 | 0d |
+| ⭐ | Replit | [GTM/G&A Sourcer](https://jobs.ashbyhq.com/replit/806139fd-e262-49af-89f5-83f1efc43050) 🆕 | Foster City, CA |  | 2026-07-15 | 0d |
+| ⭐ | Replit | [Enterprise Product Manager](https://jobs.ashbyhq.com/replit/06cbc016-f931-431a-92cf-29fa74eedbf1) 🆕 | Foster City, CA |  | 2026-07-15 | 0d |
 | ⭐ | Anthropic | [Technical Program Manager, Enterprise Commerce](https://job-boards.greenhouse.io/anthropic/jobs/5301958008) | San Francisco, CA | New York City, NY |  | 2026-07-14 | 1d |
 | ⭐ | Databricks | [Sr. Compensation Manager GTM](https://databricks.com/company/careers/open-positions/job?gh_jid=8627549002) | United States |  | 2026-07-14 | 1d |
 | ⭐ | Fivetran | [Director, GTM Strategy & Planning](https://www.fivetran.com/careers/job?gh_jid=7801100003) | USA - New York |  | 2026-07-14 | 1d |
@@ -147,9 +160,19 @@ _Updated 2026-07-15 23:24. 329 roles · 15 applied · 0 sunset (>30d) hidden._
 | ⭐ | Zoox | [Senior/Staff Technical Program Manager - Autonomous Test Fleet Data Strategy & Mileage Accumulation](https://jobs.lever.co/zoox/4a26b266-b3b2-4a08-be0d-de81029da441) | Foster City, CA |  | 2026-07-05 | 10d |
 | ⭐ | Zoox | [Senior/Staff Technical Program Manager - Robot Platform](https://jobs.lever.co/zoox/edd3a8ae-bc78-49ac-a536-2033d7c02dd6) | Foster City, CA |  | 2026-07-05 | 10d |
 | ⭐ | Zoox | [Technical Program Manager - Data Operations Lead](https://jobs.lever.co/zoox/cde4bf49-c8da-4e1a-b6e3-d2e1144a8fb3) | Foster City, CA |  | 2026-07-05 | 10d |
+| — | Abridge | [Product Lead - Core Product Experiences](https://jobs.ashbyhq.com/abridge/c45524b6-96b2-49f0-9cd5-176b998d6ba7) 🆕 | SF Office |  | 2026-07-15 | 0d |
+| — | Abridge | [Founding Forward Deployed Product Manager](https://jobs.ashbyhq.com/abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c) 🆕 | SF Office |  | 2026-07-15 | 0d |
+| — | Abridge | [Product Lead, Revenue Cycle Management (New Bets)](https://jobs.ashbyhq.com/abridge/991c2527-c2f9-41bb-a68f-282581b78794) 🆕 | SF Office |  | 2026-07-15 | 0d |
 | — | Anthropic | [Product Manager, Safeguards (Verticals)](https://job-boards.greenhouse.io/anthropic/jobs/5097490008) 🆕 | San Francisco, CA |  | 2026-07-15 | 0d |
 | — | Hex | [Product Manager](https://hex.tech/careers/5678156004/?gh_jid=5678156004) 🆕 | SF  |  | 2026-07-15 | 0d |
 | — | Hex | [Senior Product Manager ](https://hex.tech/careers/5983041004/?gh_jid=5983041004) 🆕 | NYC |  | 2026-07-15 | 0d |
+| — | Mercor | [Product Manager](https://jobs.ashbyhq.com/mercor/b0f22275-9ec5-4725-93f9-ea0104cc1272) 🆕 | San Francisco |  | 2026-07-15 | 0d |
+| — | Mercor | [Program Manager, Quality](https://jobs.ashbyhq.com/mercor/0843acbc-3614-48a0-957d-1f8ed0497bf0) 🆕 | San Francisco |  | 2026-07-15 | 0d |
+| — | Mercor | [Research Program Manager](https://jobs.ashbyhq.com/mercor/9c546843-035f-4400-9d0d-d5de5f7205ff) 🆕 | San Francisco |  | 2026-07-15 | 0d |
+| — | Mercor | [Product Engineer, Talent Experience](https://jobs.ashbyhq.com/mercor/72446ab6-5fcd-4c9e-93b4-2d2948709377) 🆕 | San Francisco |  | 2026-07-15 | 0d |
+| — | Omni | [Product Engineer](https://jobs.ashbyhq.com/omni/f2e510bf-82dd-4a86-94cf-d0a3b29b5889) 🆕 | United States |  | 2026-07-15 | 0d |
+| — | Replit | [Senior Product Manager](https://jobs.ashbyhq.com/replit/cf236c47-218b-4a31-b0b6-d6ed12a8e077) 🆕 | Foster City, CA |  | 2026-07-15 | 0d |
+| — | Replit | [Senior Product Engineer, Product Foundry](https://jobs.ashbyhq.com/replit/878d844f-f9c2-481d-bb6f-0578a2fe42af) 🆕 | Foster City, CA |  | 2026-07-15 | 0d |
 | — | Anthropic | [Product Management, Research](https://job-boards.greenhouse.io/anthropic/jobs/5123082008) | San Francisco, CA | New York City, NY |  | 2026-07-14 | 1d |
 | — | Anthropic | [Product Manager, Safeguards (Child Safety)](https://job-boards.greenhouse.io/anthropic/jobs/5164820008) | San Francisco, CA |  | 2026-07-14 | 1d |
 | — | Anthropic | [Research Product Manager, Labs](https://job-boards.greenhouse.io/anthropic/jobs/5096878008) | San Francisco, CA | New York City, NY |  | 2026-07-14 | 1d |

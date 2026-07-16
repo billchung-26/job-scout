@@ -1,6 +1,7 @@
 Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 3,OpenAI,"Enterprise Application Data Architect, GTM Systems",San Francisco,No,2026-07-05,10,https://jobs.ashbyhq.com/openai/a057c19d-83db-4bb2-a86f-07caa422d770
 3,Snowflake,"Director, Data Science – GTM (Data, Analytics & AI)",US-CA-Menlo Park,No,2026-07-05,10,https://jobs.ashbyhq.com/snowflake/ff7fbdd3-98a7-4552-959f-bb4812b2dc8d
+2,Replit,"GTM AI Operations Lead, Demand Generation","Foster City, CA",No,2026-07-15,0,https://jobs.ashbyhq.com/replit/455c1feb-7157-48d5-b2a6-57606ed1a6cd
 2,Anthropic,"Finance & Strategy, GTM (Enterprise Tech)","San Francisco, CA; Seattle, WA",No,2026-07-14,1,https://job-boards.greenhouse.io/anthropic/jobs/5043427008
 2,Zoox,Staff/Senior Staff Supply Chain Program Manager - Enterprise Business Applications,"Foster City, CA",No,2026-07-14,1,https://jobs.lever.co/zoox/2a7c9842-96ae-4a98-a2bd-152a720d81f7
 2,Anthropic,"Data Scientist, GTM","New York City, NY; San Francisco, CA | New York City, NY",No,2026-07-05,10,https://job-boards.greenhouse.io/anthropic/jobs/5196852008
@@ -22,10 +23,22 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 2,Sigma Computing,"Product Manager, AI Platform & Performance ","San Francisco, CA",No,2026-07-05,10,https://job-boards.greenhouse.io/sigmacomputing/jobs/7767898003
 2,Snowflake,"GTM Engineer - ABM, Advertising and Growth Marketing",US-CA-Menlo Park,No,2026-07-05,10,https://jobs.ashbyhq.com/snowflake/38bd7f7f-d78b-4cd9-b307-8d183b902abb
 2,Snowflake,"Enterprise Developer, GTM Applications",US-CA-Menlo Park,No,2026-07-05,10,https://jobs.ashbyhq.com/snowflake/4d917314-90eb-47f1-a563-8a76bb7c3b34
+1,Abridge,"Director, Product Management - AI/ML, Core Product",SF Office,No,2026-07-15,0,https://jobs.ashbyhq.com/abridge/7745d77e-66a0-4175-89f4-1f18c4d3d405
+1,Abridge,"Product Lead, AI/ML (Evals) ",SF Office,No,2026-07-15,0,https://jobs.ashbyhq.com/abridge/9c7ba6c3-7744-48b8-a5b3-dab55c22e4b3
 1,Anthropic,"Product Manager, Enterprise","San Francisco, CA | New York City, NY",No,2026-07-15,0,https://job-boards.greenhouse.io/anthropic/jobs/5253339008
 1,Hebbia,GTM Engineer,NYC,No,2026-07-15,0,https://jobs.ashbyhq.com/hebbia-ai/4b1d51bc-2985-471b-b3b5-1ddf62e0a50a
 1,Hebbia,GTM Systems,NYC,No,2026-07-15,0,https://jobs.ashbyhq.com/hebbia-ai/ef36fe55-afdf-4b1a-8965-cd9c05242b2e
 1,Hex,"Senior Product Manager, Growth ",NYC or SF,No,2026-07-15,0,https://hex.tech/careers/6115504004/?gh_jid=6115504004
+1,Lorikeet,GTM Engineer,US - Remote,No,2026-07-15,0,https://jobs.ashbyhq.com/lorikeet/551c481b-b278-4e8f-9458-4d8c9d82b407
+1,Mercor,GTM Associate,San Francisco,No,2026-07-15,0,https://jobs.ashbyhq.com/mercor/2d252cf2-649b-4cbd-a943-baf6a042dde1
+1,Mercor,Healthcare GTM Associate,San Francisco,No,2026-07-15,0,https://jobs.ashbyhq.com/mercor/12ef2db7-5a92-417b-b101-8779b6fc71d0
+1,PolyAI,GTM Manager (BizDev),United States,No,2026-07-15,0,https://job-boards.eu.greenhouse.io/polyai/jobs/4926483101
+1,PolyAI,GTM Specialist (BizDev),United States,No,2026-07-15,0,https://job-boards.eu.greenhouse.io/polyai/jobs/4926371101
+1,Replit,"Product Engineer, Product Platform","Foster City, CA",No,2026-07-15,0,https://jobs.ashbyhq.com/replit/fc946efb-f0f1-4f83-9ae1-055a11e7146b
+1,Replit,"Product Lead, Growth Marketing","Foster City, CA",No,2026-07-15,0,https://jobs.ashbyhq.com/replit/55b3fb32-e920-471d-8980-6afb3f506d4e
+1,Replit,"Product Engineer, Product Platform (Frontend)","Foster City, CA",No,2026-07-15,0,https://jobs.ashbyhq.com/replit/657a90d2-23cc-4c86-b9ed-a21900efee0d
+1,Replit,GTM/G&A Sourcer,"Foster City, CA",No,2026-07-15,0,https://jobs.ashbyhq.com/replit/806139fd-e262-49af-89f5-83f1efc43050
+1,Replit,Enterprise Product Manager,"Foster City, CA",No,2026-07-15,0,https://jobs.ashbyhq.com/replit/06cbc016-f931-431a-92cf-29fa74eedbf1
 1,Anthropic,"Technical Program Manager, Enterprise Commerce","San Francisco, CA | New York City, NY",No,2026-07-14,1,https://job-boards.greenhouse.io/anthropic/jobs/5301958008
 1,Databricks,Sr. Compensation Manager GTM,United States,No,2026-07-14,1,https://databricks.com/company/careers/open-positions/job?gh_jid=8627549002
 1,Fivetran,"Director, GTM Strategy & Planning",USA - New York,No,2026-07-14,1,https://www.fivetran.com/careers/job?gh_jid=7801100003
@@ -142,9 +155,19 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 1,Zoox,Senior/Staff Technical Program Manager - Autonomous Test Fleet Data Strategy & Mileage Accumulation,"Foster City, CA",No,2026-07-05,10,https://jobs.lever.co/zoox/4a26b266-b3b2-4a08-be0d-de81029da441
 1,Zoox,Senior/Staff Technical Program Manager - Robot Platform,"Foster City, CA",No,2026-07-05,10,https://jobs.lever.co/zoox/edd3a8ae-bc78-49ac-a536-2033d7c02dd6
 1,Zoox,Technical Program Manager - Data Operations Lead,"Foster City, CA",No,2026-07-05,10,https://jobs.lever.co/zoox/cde4bf49-c8da-4e1a-b6e3-d2e1144a8fb3
+0,Abridge,Product Lead - Core Product Experiences,SF Office,No,2026-07-15,0,https://jobs.ashbyhq.com/abridge/c45524b6-96b2-49f0-9cd5-176b998d6ba7
+0,Abridge,Founding Forward Deployed Product Manager,SF Office,No,2026-07-15,0,https://jobs.ashbyhq.com/abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c
+0,Abridge,"Product Lead, Revenue Cycle Management (New Bets)",SF Office,No,2026-07-15,0,https://jobs.ashbyhq.com/abridge/991c2527-c2f9-41bb-a68f-282581b78794
 0,Anthropic,"Product Manager, Safeguards (Verticals)","San Francisco, CA",No,2026-07-15,0,https://job-boards.greenhouse.io/anthropic/jobs/5097490008
 0,Hex,Product Manager,SF ,No,2026-07-15,0,https://hex.tech/careers/5678156004/?gh_jid=5678156004
 0,Hex,Senior Product Manager ,NYC,No,2026-07-15,0,https://hex.tech/careers/5983041004/?gh_jid=5983041004
+0,Mercor,Product Manager,San Francisco,No,2026-07-15,0,https://jobs.ashbyhq.com/mercor/b0f22275-9ec5-4725-93f9-ea0104cc1272
+0,Mercor,"Program Manager, Quality",San Francisco,No,2026-07-15,0,https://jobs.ashbyhq.com/mercor/0843acbc-3614-48a0-957d-1f8ed0497bf0
+0,Mercor,Research Program Manager,San Francisco,No,2026-07-15,0,https://jobs.ashbyhq.com/mercor/9c546843-035f-4400-9d0d-d5de5f7205ff
+0,Mercor,"Product Engineer, Talent Experience",San Francisco,No,2026-07-15,0,https://jobs.ashbyhq.com/mercor/72446ab6-5fcd-4c9e-93b4-2d2948709377
+0,Omni,Product Engineer,United States,No,2026-07-15,0,https://jobs.ashbyhq.com/omni/f2e510bf-82dd-4a86-94cf-d0a3b29b5889
+0,Replit,Senior Product Manager,"Foster City, CA",No,2026-07-15,0,https://jobs.ashbyhq.com/replit/cf236c47-218b-4a31-b0b6-d6ed12a8e077
+0,Replit,"Senior Product Engineer, Product Foundry","Foster City, CA",No,2026-07-15,0,https://jobs.ashbyhq.com/replit/878d844f-f9c2-481d-bb6f-0578a2fe42af
 0,Anthropic,"Product Management, Research","San Francisco, CA | New York City, NY",No,2026-07-14,1,https://job-boards.greenhouse.io/anthropic/jobs/5123082008
 0,Anthropic,"Product Manager, Safeguards (Child Safety)","San Francisco, CA",No,2026-07-14,1,https://job-boards.greenhouse.io/anthropic/jobs/5164820008
 0,Anthropic,"Research Product Manager, Labs","San Francisco, CA | New York City, NY",No,2026-07-14,1,https://job-boards.greenhouse.io/anthropic/jobs/5096878008
