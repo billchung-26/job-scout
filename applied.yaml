@@ -13,3 +13,13 @@ applied:
   - {company: Cresta,    role: "Forward Deployed Product Manager, AI Agent", url: "https://job-boards.greenhouse.io/cresta/jobs/4738837008"}
   - {company: Sierra,    role: "Product Manager, Agent Studio",      url: "https://jobs.ashbyhq.com/sierra/5aaa2eeb-92bc-4b0a-901e-8e091eff819e"}
   - {company: Glean,     role: "Product Manager, Enterprise Intelligence", url: "https://job-boards.greenhouse.io/gleanwork/jobs/4701912005"}
+  # --- Tier 3 (applied 2026-07-06) ---
+  - {company: Databricks, role: "Sr. Product Manager, Compute Platform (SF)",      url: "https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002"}
+  - {company: Databricks, role: "Sr. Product Manager, Compute Platform (Seattle)", url: "https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002"}
+  - {company: Harvey,     role: "GTM Technology Product Owner — Growth (SF)",      url: "https://jobs.ashbyhq.com/harvey/26954747-1019-405f-a6b7-ff454517924f"}
+  - {company: Harvey,     role: "GTM Technology Product Owner — Growth (NY)",      url: "https://jobs.ashbyhq.com/harvey/4ebfa721-ab27-44fb-8359-6daaede4b43e"}
+  - {company: Cresta,     role: "Platform Product Manager",                       url: "https://job-boards.greenhouse.io/cresta/jobs/5114374008"}
+  - {company: Cresta,     role: "Associate Forward Deployed Product Manager",      url: "https://job-boards.greenhouse.io/cresta/jobs/4992510008"}
+  # --- Tier 4 (applied 2026-07-15) ---
+  - {company: Sierra,     role: "Product Manager, Ghostwriter",                   url: "https://jobs.ashbyhq.com/sierra/22ba107d-de01-4aa3-98fc-838cccad760c"}
+  - {company: Decagon,    role: "Product Manager, Duet",                         url: "https://jobs.ashbyhq.com/decagon/9109be1c-b6e3-430f-a964-887253ef891a"}

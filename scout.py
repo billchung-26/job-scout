@@ -125,7 +125,7 @@ def careers_url(ats, slug):
 
 def matches(job, cond):
     title = job["title"].lower()
-    loc = job["location"].lower()
+    loc = (job.get("location") or "").lower()
 
     inc = [k.lower() for k in cond.get("include_title_keywords") or []]
     if inc and not any(k in title for k in inc):

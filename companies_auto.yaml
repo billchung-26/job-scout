@@ -19,3 +19,9 @@ companies:
 - name: Observe.AI
   ats: greenhouse
   slug: observeai
+- name: Hex
+  ats: greenhouse
+  slug: hextechnologies
+- name: Distyl
+  ats: ashby
+  slug: distyl

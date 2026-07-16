@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Hex
-  ats: greenhouse
-  slug: hextechnologies
-  related: data/analytics, like Hightouch
-- name: Distyl
-  ats: ashby
-  slug: distyl
-  related: enterprise AI, like Writer
 - name: Omni
   ats: ashby
   slug: omni
