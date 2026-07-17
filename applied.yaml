@@ -23,3 +23,6 @@ applied:
   # --- Tier 4 (applied 2026-07-15) ---
   - {company: Sierra,     role: "Product Manager, Ghostwriter",                   url: "https://jobs.ashbyhq.com/sierra/22ba107d-de01-4aa3-98fc-838cccad760c"}
   - {company: Decagon,    role: "Product Manager, Duet",                         url: "https://jobs.ashbyhq.com/decagon/9109be1c-b6e3-430f-a964-887253ef891a"}
+  # --- Tier 5 (applied 2026-07-16) ---
+  - {company: Mercor,     role: "Product Manager",                              url: "https://jobs.ashbyhq.com/mercor/b0f22275-9ec5-4725-93f9-ea0104cc1272"}
+  - {company: Databricks, role: "Associate Product Manager, New Grad (2027 Start)", url: "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002"}
