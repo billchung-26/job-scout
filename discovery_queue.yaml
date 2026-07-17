@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Cursor (Anysphere)
-  ats: ashby
-  slug: cursor
-  related: AI coding, like Anthropic/OpenAI
-- name: Cognition
-  ats: ashby
-  slug: cognition
-  related: coding agents, like OpenAI
 - name: ElevenLabs
   ats: ashby
   slug: elevenlabs
