@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-07-16 22:20. 354 roles · 15 applied · 0 sunset (>30d) hidden._
+_Updated 2026-07-16 22:29. 367 roles · 15 applied · 0 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -28,6 +28,13 @@ _Updated 2026-07-16 22:20. 354 roles · 15 applied · 0 sunset (>30d) hidden._
 | ⭐⭐ | Sigma Computing | [Product Manager, AI Platform & Performance ](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767898003) | San Francisco, CA |  | 2026-07-05 | 11d |
 | ⭐⭐ | Snowflake | [Enterprise Developer, GTM Applications](https://jobs.ashbyhq.com/snowflake/4d917314-90eb-47f1-a563-8a76bb7c3b34) | US-CA-Menlo Park |  | 2026-07-05 | 11d |
 | ⭐⭐ | Snowflake | [GTM Engineer - ABM, Advertising and Growth Marketing](https://jobs.ashbyhq.com/snowflake/38bd7f7f-d78b-4cd9-b307-8d183b902abb) | US-CA-Menlo Park |  | 2026-07-05 | 11d |
+| ⭐ | Cognition | [GTM Operations](https://jobs.ashbyhq.com/cognition/decd6bbe-1875-42e8-9440-f54fd9d2270f) 🆕 | San Francisco |  | 2026-07-16 | 0d |
+| ⭐ | Cursor (Anysphere) | [Full Stack Analyst, GTM](https://jobs.ashbyhq.com/cursor/7bc441a4-9bb6-45cb-a9e0-5ae1b9c7ac5b) 🆕 | San Francisco |  | 2026-07-16 | 0d |
+| ⭐ | Cursor (Anysphere) | [GTM Finance - Marketing](https://jobs.ashbyhq.com/cursor/ccf69bf0-69d9-4365-96a5-2c8cf4eb08b0) 🆕 | San Francisco |  | 2026-07-16 | 0d |
+| ⭐ | Cursor (Anysphere) | [GTM Strategy & Operations Lead - ANZ](https://jobs.ashbyhq.com/cursor/d44a113a-b83e-4c2c-950d-85a45154cd48) 🆕 | Australia |  | 2026-07-16 | 0d |
+| ⭐ | Cursor (Anysphere) | [GTM, Emerging Products](https://jobs.ashbyhq.com/cursor/b0d8ff6c-d37f-4dbc-b6c0-4fa84c38e224) 🆕 | New York |  | 2026-07-16 | 0d |
+| ⭐ | Cursor (Anysphere) | [HRBP, GTM](https://jobs.ashbyhq.com/cursor/736ebf73-beb1-417f-87a3-a74176399ba6) 🆕 | New York |  | 2026-07-16 | 0d |
+| ⭐ | Cursor (Anysphere) | [RVP, Customer Success, Strategic & Geo Enterprise (AMER)  ](https://jobs.ashbyhq.com/cursor/4c09122e-f621-4679-8e3f-5ed386bbb0e9) 🆕 | San Francisco |  | 2026-07-16 | 0d |
 | ⭐ | OpenAI | [GTM Process & Operations](https://jobs.ashbyhq.com/openai/3f696fe7-6a85-40e9-9514-6833a228a030) 🆕 | San Francisco |  | 2026-07-16 | 0d |
 | ⭐ | Abridge | [Director, Product Management - AI/ML, Core Product](https://jobs.ashbyhq.com/abridge/7745d77e-66a0-4175-89f4-1f18c4d3d405) | SF Office |  | 2026-07-15 | 1d |
 | ⭐ | Abridge | [Product Lead, AI/ML (Evals) ](https://jobs.ashbyhq.com/abridge/9c7ba6c3-7744-48b8-a5b3-dab55c22e4b3) | SF Office |  | 2026-07-15 | 1d |
@@ -162,6 +169,12 @@ _Updated 2026-07-16 22:20. 354 roles · 15 applied · 0 sunset (>30d) hidden._
 | ⭐ | Zoox | [Senior/Staff Technical Program Manager - Autonomous Test Fleet Data Strategy & Mileage Accumulation](https://jobs.lever.co/zoox/4a26b266-b3b2-4a08-be0d-de81029da441) | Foster City, CA |  | 2026-07-05 | 11d |
 | ⭐ | Zoox | [Senior/Staff Technical Program Manager - Robot Platform](https://jobs.lever.co/zoox/edd3a8ae-bc78-49ac-a536-2033d7c02dd6) | Foster City, CA |  | 2026-07-05 | 11d |
 | ⭐ | Zoox | [Technical Program Manager - Data Operations Lead](https://jobs.lever.co/zoox/cde4bf49-c8da-4e1a-b6e3-d2e1144a8fb3) | Foster City, CA |  | 2026-07-05 | 11d |
+| — | Cognition | [Product Engineer](https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6) 🆕 | San Francisco |  | 2026-07-16 | 0d |
+| — | Cursor (Anysphere) | [Customer Success Strategy & Operations Manager](https://jobs.ashbyhq.com/cursor/c3efa426-b51d-4b48-8bac-244e852981aa) 🆕 | San Francisco |  | 2026-07-16 | 0d |
+| — | Cursor (Anysphere) | [Director, Product Education Engineering](https://jobs.ashbyhq.com/cursor/f952050a-2a0a-48c8-87f3-bd8f5d28ed93) 🆕 | New York |  | 2026-07-16 | 0d |
+| — | Cursor (Anysphere) | [Marketing Program Manager](https://jobs.ashbyhq.com/cursor/064db0d3-3085-4fa4-8ba6-9c111a2bd329) 🆕 | New York |  | 2026-07-16 | 0d |
+| — | Cursor (Anysphere) | [Technical Program Manager (TPM), Infrastructure](https://jobs.ashbyhq.com/cursor/1910bd0e-806c-4e60-bfd6-157e369d6d02) 🆕 | San Francisco |  | 2026-07-16 | 0d |
+| — | Cursor (Anysphere) | [Technical Program Manager, Field](https://jobs.ashbyhq.com/cursor/d4308a8f-81b7-4f67-b3ae-111bb0d87197) 🆕 | San Francisco |  | 2026-07-16 | 0d |
 | — | Databricks | [Associate Product Manager, New Grad (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) 🆕 | Bellevue, Washington; Mountain View, California; San Francisco, California |  | 2026-07-16 | 0d |
 | — | Mercor | [Product Engineer](https://jobs.ashbyhq.com/mercor/03662092-4f6b-4c82-8d6d-5e7e839c31d7) 🆕 | San Francisco |  | 2026-07-16 | 0d |
 | — | OpenAI | [Technical Program Manager, Core Network & WAN Infrastructure](https://jobs.ashbyhq.com/openai/6d642115-b495-4119-818d-cdef2003ae93) 🆕 | San Francisco |  | 2026-07-16 | 0d |

@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-07-16 22:20. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-07-16 22:29. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (53 companies)
 
@@ -17,12 +17,12 @@ _Auto-generated 2026-07-16 22:20. Watched via the public Greenhouse / Lever / As
 | Bland | curated | ashby | 1 / 12 |
 | Bloomreach | curated | greenhouse | 2 / 82 |
 | Clay | curated | ashby | 15 / 76 |
-| Cognition | auto (new today) | ashby | 2 / 75 |
+| Cognition | auto | ashby | 2 / 75 |
 | Cohere | curated | ashby | 3 / 138 |
 | Constructor | curated | ashby | 7 / 46 |
 | Credal | auto | ashby | 0 / 3 |
 | Cresta | curated | greenhouse | 6 / 101 |
-| Cursor (Anysphere) | auto (new today) | ashby | 11 / 118 |
+| Cursor (Anysphere) | auto | ashby | 11 / 118 |
 | Databricks | curated | greenhouse | 36 / 793 |
 | Decagon | curated | ashby | 9 / 114 |
 | Distyl | auto | ashby | 0 / 28 |
