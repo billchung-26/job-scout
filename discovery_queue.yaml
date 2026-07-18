@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: ElevenLabs
-  ats: ashby
-  slug: elevenlabs
-  related: voice gen AI, like OpenAI
-- name: Reka
-  ats: ashby
-  slug: reka
-  related: foundation lab, like Cohere/Mistral
 - name: Liquid AI
   ats: ashby
   slug: liquid

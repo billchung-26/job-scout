@@ -67,3 +67,9 @@ companies:
 - name: Cognition
   ats: ashby
   slug: cognition
+- name: ElevenLabs
+  ats: ashby
+  slug: elevenlabs
+- name: Reka
+  ats: ashby
+  slug: reka
