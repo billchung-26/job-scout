@@ -1,8 +1,8 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-07-20 22:11. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-07-20 22:24. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (57 companies)
+## ✅ Watching (58 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
@@ -14,6 +14,7 @@ _Auto-generated 2026-07-20 22:11. Watched via the public Greenhouse / Lever / As
 | Anthropic | curated | greenhouse | 41 / 412 |
 | Applied Intuition | curated | ashby | 0 / 262 |
 | Augment | curated | greenhouse | 0 / 1 |
+| Aurora Innovation | curated | greenhouse | 15 / 151 |
 | Bland | curated | ashby | 1 / 12 |
 | Bloomreach | curated | greenhouse | 2 / 81 |
 | Clay | curated | ashby | 14 / 74 |

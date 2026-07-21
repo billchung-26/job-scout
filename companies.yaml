@@ -133,10 +133,13 @@ companies:
     ats: lever
     slug: zoox
 
+  # ---- Added 2026-07-20 ----
+  - name: Aurora Innovation  # autonomous trucking <- your autonomy/robotics interest, like Nuro/Zoox
+    ats: greenhouse
+    slug: aurorainnovation
+
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
-#    - Google, Waymo  -> Alphabet's own careers site (careers.google.com)
-#    - Zoox           -> Amazon Jobs
-#  For these three: use LinkedIn "follow + job alert", or ask Claude to
-#  add a custom per-site fetcher later.
+#  see NOT_WATCHABLE in scout.py / the "Not watchable" section of watchlist.md
+#  for the current, maintained list (Google, Waymo, Nvidia, AMD, and others).
 # ============================================================

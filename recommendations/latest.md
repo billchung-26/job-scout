@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-07-20 22:11. 379 roles · 17 applied · 0 sunset (>30d) hidden._
+_Updated 2026-07-20 22:24. 394 roles · 17 applied · 0 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -170,6 +170,21 @@ _Updated 2026-07-20 22:11. 379 roles · 17 applied · 0 sunset (>30d) hidden._
 | ⭐ | Zoox | [Senior/Staff Technical Program Manager - Autonomous Test Fleet Data Strategy & Mileage Accumulation](https://jobs.lever.co/zoox/4a26b266-b3b2-4a08-be0d-de81029da441) | Foster City, CA |  | 2026-07-05 | 15d |
 | ⭐ | Zoox | [Senior/Staff Technical Program Manager - Robot Platform](https://jobs.lever.co/zoox/edd3a8ae-bc78-49ac-a536-2033d7c02dd6) | Foster City, CA |  | 2026-07-05 | 15d |
 | ⭐ | Zoox | [Technical Program Manager - Data Operations Lead](https://jobs.lever.co/zoox/cde4bf49-c8da-4e1a-b6e3-d2e1144a8fb3) | Foster City, CA |  | 2026-07-05 | 15d |
+| — | Aurora Innovation | [Director of Product & Engineering Finance](https://aurora.tech/jobs/8460992002?gh_jid=8460992002) 🆕 | Mountain View, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Lidar Technical Program Manager](https://aurora.tech/jobs/8624950002?gh_jid=8624950002) 🆕 | Mountain View, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Product Program Manager](https://aurora.tech/jobs/8529806002?gh_jid=8529806002) 🆕 | San Francisco, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Product Program Manager](https://aurora.tech/jobs/8516337002?gh_jid=8516337002) 🆕 | Mountain View, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Product Program Manager](https://aurora.tech/jobs/8541479002?gh_jid=8541479002) 🆕 | San Francisco, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Product Program Manager](https://aurora.tech/jobs/8499754002?gh_jid=8499754002) 🆕 | Mountain View, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Technical Product & Program Manager - Architecture & Fallback Strategy](https://aurora.tech/jobs/8113217002?gh_jid=8113217002) 🆕 | Mountain View, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Technical Product & Program Manager, Architecture & Fallback Strategy](https://aurora.tech/jobs/8184520002?gh_jid=8184520002) 🆕 | San Francisco, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Technical Product & Program Manager, Security](https://aurora.tech/jobs/8633302002?gh_jid=8633302002) 🆕 | Seattle, Washington |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Technical Product & Program Manager, Security](https://aurora.tech/jobs/8633299002?gh_jid=8633299002) 🆕 | San Francisco, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Technical Product & Program Manager, Security](https://aurora.tech/jobs/8621389002?gh_jid=8621389002) 🆕 | Mountain View, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Technical Program Manager - HW NPI](https://aurora.tech/jobs/8402009002?gh_jid=8402009002) 🆕 | Mountain View, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Technical Program Manager, Vehicle Security ](https://aurora.tech/jobs/8629133002?gh_jid=8629133002) 🆕 | Seattle, Washington |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Technical Program Manager, Vehicle Security ](https://aurora.tech/jobs/8629134002?gh_jid=8629134002) 🆕 | San Francisco, California |  | 2026-07-20 | 0d |
+| — | Aurora Innovation | [Staff Technical Program Manager, Vehicle Security ](https://aurora.tech/jobs/8574556002?gh_jid=8574556002) 🆕 | Mountain View, California |  | 2026-07-20 | 0d |
 | — | Databricks | [Staff Program Manager, People M&A](https://databricks.com/company/careers/open-positions/job?gh_jid=8637368002) 🆕 | San Francisco, California |  | 2026-07-20 | 0d |
 | — | Glean | [Forward Deployed Product Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4659407005) 🆕 | Mountain View, CA |  | 2026-07-20 | 0d |
 | — | Glean | [Forward Deployed Product Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4651950005) 🆕 | Remote - US |  | 2026-07-20 | 0d |
