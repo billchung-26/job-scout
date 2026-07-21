@@ -26,3 +26,10 @@ applied:
   # --- Tier 5 (applied 2026-07-16) ---
   - {company: Mercor,     role: "Product Manager",                              url: "https://jobs.ashbyhq.com/mercor/b0f22275-9ec5-4725-93f9-ea0104cc1272"}
   - {company: Databricks, role: "Associate Product Manager, New Grad (2027 Start)", url: "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002"}
+  # --- Tier 6 (applied 2026-07-20) ---
+  - {company: Hex,        role: "Product Manager",                              url: "https://hex.tech/careers/5678156004/?gh_jid=5678156004"}
+  - {company: Glean,      role: "Forward Deployed Product Manager (Mountain View)", url: "https://job-boards.greenhouse.io/gleanwork/jobs/4659407005"}
+  - {company: Glean,      role: "Forward Deployed Product Manager (Remote - US)",   url: "https://job-boards.greenhouse.io/gleanwork/jobs/4651950005"}
+  - {company: Glean,      role: "Forward Deployed Product Manager (New York)",      url: "https://job-boards.greenhouse.io/gleanwork/jobs/4659409005"}
+  - {company: Nuro,       role: "Staff Product Manager",                        url: "https://nuro.ai/careersitem?gh_jid=8071808"}
+  - {company: Replit,     role: "Senior Product Manager",                       url: "https://jobs.ashbyhq.com/replit/cf236c47-218b-4a31-b0b6-d6ed12a8e077"}
