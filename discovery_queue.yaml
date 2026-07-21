@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Liquid AI
-  ats: ashby
-  slug: liquid
-  related: foundation lab, like Mistral
-- name: Poolside
-  ats: ashby
-  slug: poolside
-  related: AI coding, like Anthropic
 - name: Suno
   ats: ashby
   slug: suno

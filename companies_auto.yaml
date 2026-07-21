@@ -73,3 +73,9 @@ companies:
 - name: Reka
   ats: ashby
   slug: reka
+- name: Liquid AI
+  ats: ashby
+  slug: liquid
+- name: Poolside
+  ats: ashby
+  slug: poolside
