@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-07-20 22:07. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-07-20 22:11. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (57 companies)
 
@@ -36,7 +36,7 @@ _Auto-generated 2026-07-20 22:07. Watched via the public Greenhouse / Lever / As
 | Hebbia | curated | ashby | 2 / 26 |
 | Hex | auto | greenhouse | 4 / 27 |
 | Hightouch | curated | greenhouse | 4 / 67 |
-| Liquid AI | auto (new today) | ashby | 1 / 2 |
+| Liquid AI | auto | ashby | 1 / 2 |
 | Lorikeet | auto | ashby | 0 / 4 |
 | Mercor | auto | ashby | 6 / 72 |
 | Mistral | curated | lever | 0 / 0 |
@@ -49,7 +49,7 @@ _Auto-generated 2026-07-20 22:07. Watched via the public Greenhouse / Lever / As
 | Parloa | auto | greenhouse | 3 / 55 |
 | Perplexity | curated | ashby | 3 / 82 |
 | PolyAI | auto | greenhouse | 2 / 14 |
-| Poolside | auto (new today) | ashby | 0 / 14 |
+| Poolside | auto | ashby | 0 / 14 |
 | Regal | curated | lever | 1 / 9 |
 | Reka | auto | ashby | 0 / 6 |
 | Replit | auto | ashby | 8 / 95 |
@@ -74,7 +74,7 @@ _Auto-generated 2026-07-20 22:07. Watched via the public Greenhouse / Lever / As
 
 ## ❌ Not watchable by this tool
 
-**Own career site (not on these APIs):** Google, Waymo (Alphabet)
+**Own career site (not on these APIs):** Google, Waymo (Alphabet), Nvidia (Workday), AMD (Workday)
 
 **Migrated off / no longer served by the public API:** RudderStack, Snowplow, Forethought, dbt Labs
 

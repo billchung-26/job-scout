@@ -1,10 +1,11 @@
 # Job recommendations (live)
 
-_Updated 2026-07-20 22:07. 378 roles · 17 applied · 0 sunset (>30d) hidden._
+_Updated 2026-07-20 22:11. 379 roles · 17 applied · 0 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
 | ⭐⭐⭐ | OpenAI | [Enterprise Application Data Architect, GTM Systems](https://jobs.ashbyhq.com/openai/a057c19d-83db-4bb2-a86f-07caa422d770) | San Francisco |  | 2026-07-05 | 15d |
+| ⭐⭐ | Liquid AI | [Member of GTM - Head of Growth](https://jobs.ashbyhq.com/liquid/34fb0997-42ff-49f3-bcf3-231a54d204db) 🆕 | New York City |  | 2026-07-20 | 0d |
 | ⭐⭐ | Sierra | [GTM Operations, Agent Development](https://jobs.ashbyhq.com/sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872) 🆕 | San Francisco, CA |  | 2026-07-20 | 0d |
 | ⭐⭐ | Sierra | [GTM Operations, Agent Development](https://jobs.ashbyhq.com/sierra/84a9ecff-115c-452f-9f1f-1b0b142e256f) 🆕 | San Francisco, CA |  | 2026-07-20 | 0d |
 | ⭐⭐ | Replit | [GTM AI Operations Lead, Demand Generation](https://jobs.ashbyhq.com/replit/455c1feb-7157-48d5-b2a6-57606ed1a6cd) | Foster City, CA |  | 2026-07-15 | 5d |
