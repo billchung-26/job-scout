@@ -79,3 +79,9 @@ companies:
 - name: Poolside
   ats: ashby
   slug: poolside
+- name: Suno
+  ats: ashby
+  slug: suno
+- name: World Labs
+  ats: greenhouse
+  slug: worldlabs

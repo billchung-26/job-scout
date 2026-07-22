@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Suno
-  ats: ashby
-  slug: suno
-  related: generative audio, like Runway
-- name: World Labs
-  ats: greenhouse
-  slug: worldlabs
-  related: spatial AI, like OpenAI
 - name: Wayve
   ats: greenhouse
   slug: wayve
