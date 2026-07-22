@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-07-21 23:24. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-07-21 23:27. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (60 companies)
 
@@ -59,10 +59,10 @@ _Auto-generated 2026-07-21 23:24. Watched via the public Greenhouse / Lever / As
 | Sigma Computing | auto | greenhouse | 5 / 71 |
 | Snowflake | curated | ashby | 22 / 409 |
 | Sourcegraph | curated | greenhouse | 1 / 10 |
-| Suno | auto (new today) | ashby | 3 / 65 |
+| Suno | auto | ashby | 3 / 65 |
 | Vapi | curated | ashby | 1 / 31 |
 | Vectara | auto | greenhouse | 0 / 6 |
-| World Labs | auto (new today) | greenhouse | 1 / 8 |
+| World Labs | auto | greenhouse | 1 / 8 |
 | Writer | curated | ashby | 0 / 55 |
 | xAI | curated | greenhouse | 0 / 218 |
 | Zoox | curated | lever | 32 / 218 |

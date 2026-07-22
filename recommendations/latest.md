@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-07-21 23:24. 398 roles · 20 applied · 0 sunset (>30d) hidden._
+_Updated 2026-07-21 23:27. 402 roles · 20 applied · 0 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -177,6 +177,10 @@ _Updated 2026-07-21 23:24. 398 roles · 20 applied · 0 sunset (>30d) hidden._
 | — | OpenAI | [Strategic Program Manager, Office of the CRO](https://jobs.ashbyhq.com/openai/d2164371-83b0-4a39-86b1-f6c497bad175) 🆕 | San Francisco |  | 2026-07-21 | 0d |
 | — | OpenAI | [Technical Community Program Manager, Pro](https://jobs.ashbyhq.com/openai/a51bf098-168e-407a-bf8a-31c38336c6d3) 🆕 | New York City |  | 2026-07-21 | 0d |
 | — | Snowflake | [Principal Product Manager - Extensible Compute](https://jobs.ashbyhq.com/snowflake/11b8a499-e607-4cd4-8fbf-cf56e44e5644) 🆕 | US-CA-Menlo Park |  | 2026-07-21 | 0d |
+| — | Suno | [Creator Program Manager](https://jobs.ashbyhq.com/suno/1b305da3-8cdd-403a-a02a-106eaba028d0) 🆕 | NYC |  | 2026-07-21 | 0d |
+| — | Suno | [Product Manager, Web Creation](https://jobs.ashbyhq.com/suno/bae3aa2a-ba82-4015-9f62-2fd0aa35aaee) 🆕 | NYC |  | 2026-07-21 | 0d |
+| — | Suno | [Staff Product Manager](https://jobs.ashbyhq.com/suno/ea10a217-1e03-4620-b5bd-e43b67dadbb2) 🆕 | NYC |  | 2026-07-21 | 0d |
+| — | World Labs | [Senior Product Engineer (Tech Lead)](https://job-boards.greenhouse.io/worldlabs/jobs/4089337009) 🆕 | San Francisco |  | 2026-07-21 | 0d |
 | — | Aurora Innovation | [Director of Product & Engineering Finance](https://aurora.tech/jobs/8460992002?gh_jid=8460992002) | Mountain View, California |  | 2026-07-20 | 1d |
 | — | Aurora Innovation | [Lidar Technical Program Manager](https://aurora.tech/jobs/8624950002?gh_jid=8624950002) | Mountain View, California |  | 2026-07-20 | 1d |
 | — | Aurora Innovation | [Staff Product Program Manager](https://aurora.tech/jobs/8541479002?gh_jid=8541479002) | San Francisco, California |  | 2026-07-20 | 1d |

@@ -312,9 +312,15 @@ def promote_from_queue(n, existing, cond):
             except Exception:  # noqa
                 jobs = None
         if jobs:
+            wanted = [j for j in jobs if matches(j, cond)]
+            for j in wanted:
+                j["score"] = fit_score(j, cond)
+            wanted.sort(key=lambda j: (-j["score"], j["title"].lower()))
             c = dict(cand)
             c["_total"] = len(jobs)
-            c["_matches"] = sum(1 for j in jobs if matches(j, cond))
+            c["_matches"] = len(wanted)
+            c["_wanted"] = wanted
+            c["_all_ids"] = [j["id"] for j in jobs]
             promoted.append(c)
         else:
             rest.append(cand)  # keep for a later retry
@@ -656,13 +662,11 @@ def main():
         all_matching.extend((name, j) for j in wanted)
         time.sleep(0.3)
 
-    save_state(new_state)
-    write_digest(report, errors)
-
     secrets = load_secrets()
-    notify_telegram(report, secrets)
 
-    # grow the watchlist with related startups
+    # grow the watchlist with related startups — do this BEFORE saving state/digest/
+    # notifying, so a newly promoted company's current openings are scanned and
+    # surfaced the same day it's added, not just starting the next run.
     promoted = promote_from_queue(PROMOTE_PER_RUN, companies, cond)
     if promoted:
         notify_promotions(promoted, secrets)
@@ -670,6 +674,14 @@ def main():
             stats.append({"name": c["name"], "source": "auto (new today)",
                           "ats": c["ats"], "slug": c["slug"], "total": c.get("_total", 0),
                           "matches": c.get("_matches", 0)})
+            wanted = c.get("_wanted") or []
+            all_matching.extend((c["name"], j) for j in wanted)
+            report.append((c["name"], wanted, True))
+            new_state[c["name"]] = c.get("_all_ids") or []
+
+    save_state(new_state)
+    write_digest(report, errors)
+    notify_telegram(report, secrets)
 
     write_watchlist(stats)
     update_recommendations(all_matching)
