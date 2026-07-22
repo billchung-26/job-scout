@@ -17,6 +17,8 @@ include_title_keywords:
   - product engineering  # added per request
   - customer success     # added per request (catches "Customer Success Manager")
   - program manager      # added per request (also catches "Technical Program Manager")
+  - product operations   # added per request
+  - program operations   # added per request
   - gtm
   - go-to-market
 
