@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-07-21 23:32. 413 roles · 20 applied · 0 sunset (>30d) hidden._
+_Updated 2026-07-21 23:35. 413 roles · 21 applied · 0 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -188,7 +188,6 @@ _Updated 2026-07-21 23:32. 413 roles · 20 applied · 0 sunset (>30d) hidden._
 | — | OpenAI | [Technical Community Program Manager, Pro](https://jobs.ashbyhq.com/openai/a51bf098-168e-407a-bf8a-31c38336c6d3) 🆕 | New York City |  | 2026-07-21 | 0d |
 | — | OpenAI | [Strategic Program Manager, Office of the CRO](https://jobs.ashbyhq.com/openai/d2164371-83b0-4a39-86b1-f6c497bad175) 🆕 | San Francisco |  | 2026-07-21 | 0d |
 | — | Snowflake | [Principal Product Manager - Extensible Compute](https://jobs.ashbyhq.com/snowflake/11b8a499-e607-4cd4-8fbf-cf56e44e5644) 🆕 | US-CA-Menlo Park |  | 2026-07-21 | 0d |
-| — | Suno | [Product Manager, Web Creation](https://jobs.ashbyhq.com/suno/bae3aa2a-ba82-4015-9f62-2fd0aa35aaee) 🆕 | NYC |  | 2026-07-21 | 0d |
 | — | Suno | [Creator Program Manager](https://jobs.ashbyhq.com/suno/1b305da3-8cdd-403a-a02a-106eaba028d0) 🆕 | NYC |  | 2026-07-21 | 0d |
 | — | Suno | [Staff Product Manager](https://jobs.ashbyhq.com/suno/ea10a217-1e03-4620-b5bd-e43b67dadbb2) 🆕 | NYC |  | 2026-07-21 | 0d |
 | — | World Labs | [Senior Product Engineer (Tech Lead)](https://job-boards.greenhouse.io/worldlabs/jobs/4089337009) 🆕 | San Francisco |  | 2026-07-21 | 0d |
@@ -409,6 +408,7 @@ _Updated 2026-07-21 23:32. 413 roles · 20 applied · 0 sunset (>30d) hidden._
 | ⭐ | Glean | [Product Manager, Enterprise Intelligence](https://job-boards.greenhouse.io/gleanwork/jobs/4701912005) | San Francisco, CA | ✅ | 2026-07-05 | 16d |
 | ⭐ | Hightouch | [Lead Product Manager, Agentic Personalization](https://job-boards.greenhouse.io/hightouch/jobs/5834919004) | SF, NY, Remote | ✅ | 2026-07-05 | 16d |
 | ⭐ | Sierra | [Product Manager, Agent Studio](https://jobs.ashbyhq.com/sierra/5aaa2eeb-92bc-4b0a-901e-8e091eff819e) | San Francisco, CA | ✅ | 2026-07-05 | 16d |
+| — | Suno | [Product Manager, Web Creation](https://jobs.ashbyhq.com/suno/bae3aa2a-ba82-4015-9f62-2fd0aa35aaee) | NYC | ✅ | 2026-07-21 | 0d |
 | — | Nuro | [Staff Product Manager](https://nuro.ai/careersitem?gh_jid=8071808) | Mountain View, California (HQ) | ✅ | 2026-07-18 | 3d |
 | — | Databricks | [Associate Product Manager, New Grad (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) | Bellevue, Washington; Mountain View, California; San Francisco, California | ✅ | 2026-07-16 | 5d |
 | — | Hex | [Product Manager](https://hex.tech/careers/5678156004/?gh_jid=5678156004) | SF  | ✅ | 2026-07-15 | 6d |
