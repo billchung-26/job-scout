@@ -85,3 +85,9 @@ companies:
 - name: World Labs
   ats: greenhouse
   slug: worldlabs
+- name: Wayve
+  ats: greenhouse
+  slug: wayve
+- name: Waabi
+  ats: lever
+  slug: waabi

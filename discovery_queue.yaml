@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Wayve
-  ats: greenhouse
-  slug: wayve
-  related: autonomous driving, like Nuro
-- name: Waabi
-  ats: lever
-  slug: waabi
-  related: autonomous driving, like Nuro
 - name: 1X
   ats: ashby
   slug: 1x
