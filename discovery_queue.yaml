@@ -1,6 +1,2 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue:
-- name: 1X
-  ats: ashby
-  slug: 1x
-  related: humanoid robotics, like Figure
+queue: []
