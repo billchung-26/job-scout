@@ -1,10 +1,10 @@
 # --- secrets: NEVER commit ---
 secrets.yaml
 
-# --- runtime state (not useful in git) ---
-state.json
-rec_state.json
-.last_promote
+# --- runtime state ---
+# state.json / rec_state.json / .last_promote are tracked on purpose: GitHub Actions
+# runs on a fresh VM every time with no persistent disk, so these must round-trip
+# through git or every role looks "first seen today" and promotion re-fires daily.
 .last_session_run
 logs/
 digests/
