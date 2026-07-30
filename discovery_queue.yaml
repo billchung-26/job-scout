@@ -1,14 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Cartesia
-  ats: ashby
-  slug: cartesia
-  related: multimodal/voice foundation model, like Reka
-- name: Imbue
-  ats: greenhouse
-  slug: imbue
-  related: foundation model + agent reasoning lab, like Reka (very early stage, 2
-    openings)
 - name: Baseten
   ats: ashby
   slug: baseten

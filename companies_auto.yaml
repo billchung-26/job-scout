@@ -100,3 +100,9 @@ companies:
 - name: Genspark
   ats: ashby
   slug: genspark
+- name: Cartesia
+  ats: ashby
+  slug: cartesia
+- name: Imbue
+  ats: greenhouse
+  slug: imbue
