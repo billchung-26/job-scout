@@ -5,6 +5,7 @@ secrets.yaml
 state.json
 rec_state.json
 .last_promote
+.last_session_run
 logs/
 digests/
 __pycache__/
