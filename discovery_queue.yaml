@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-# Added 2026-07-23 — related startups found by randomly seeding off companies
-# already on the watchlist (Perplexity, Reka, OpenAI, Amperity, Glean, Parloa).
 queue:
-- name: Exa
-  ats: ashby
-  slug: exa
-  related: AI search API, like Perplexity
-- name: Genspark
-  ats: ashby
-  slug: genspark
-  related: AI search/agent product, like Perplexity
 - name: Cartesia
   ats: ashby
   slug: cartesia
@@ -17,7 +7,8 @@ queue:
 - name: Imbue
   ats: greenhouse
   slug: imbue
-  related: foundation model + agent reasoning lab, like Reka (very early stage, 2 openings)
+  related: foundation model + agent reasoning lab, like Reka (very early stage, 2
+    openings)
 - name: Baseten
   ats: ashby
   slug: baseten

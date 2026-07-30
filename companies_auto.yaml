@@ -94,3 +94,9 @@ companies:
 - name: 1X
   ats: ashby
   slug: 1x
+- name: Exa
+  ats: ashby
+  slug: exa
+- name: Genspark
+  ats: ashby
+  slug: genspark
