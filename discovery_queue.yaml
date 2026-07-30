@@ -1,2 +1,60 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue: []
+# Added 2026-07-23 — related startups found by randomly seeding off companies
+# already on the watchlist (Perplexity, Reka, OpenAI, Amperity, Glean, Parloa).
+queue:
+- name: Exa
+  ats: ashby
+  slug: exa
+  related: AI search API, like Perplexity
+- name: Genspark
+  ats: ashby
+  slug: genspark
+  related: AI search/agent product, like Perplexity
+- name: Cartesia
+  ats: ashby
+  slug: cartesia
+  related: multimodal/voice foundation model, like Reka
+- name: Imbue
+  ats: greenhouse
+  slug: imbue
+  related: foundation model + agent reasoning lab, like Reka (very early stage, 2 openings)
+- name: Baseten
+  ats: ashby
+  slug: baseten
+  related: AI inference infra, like OpenAI's platform layer
+- name: Modal
+  ats: ashby
+  slug: modal
+  related: AI compute/infra platform, like OpenAI's platform layer
+- name: Fireworks AI
+  ats: ashby
+  slug: fireworksai
+  related: AI inference infra, like OpenAI's platform layer
+- name: Simon Data
+  ats: ashby
+  slug: simondata
+  related: customer data platform, like Amperity (early stage, 2 openings)
+- name: Blueshift
+  ats: greenhouse
+  slug: blueshift
+  related: customer data platform / marketing AI, like Amperity (tiny, 1 opening)
+- name: Enterpret
+  ats: greenhouse
+  slug: enterpret
+  related: customer feedback intelligence, like Glean
+- name: Pryon
+  ats: lever
+  slug: pryon
+  related: enterprise knowledge AI, like Glean (early stage, 3 openings)
+- name: Rime
+  ats: ashby
+  slug: rime
+  related: voice synthesis AI, like Parloa
+- name: Deepgram
+  ats: ashby
+  slug: deepgram
+  related: speech-to-text/voice AI, like Parloa
+- name: Level AI
+  ats: lever
+  slug: levelai
+  related: contact center AI/QA, like Parloa
