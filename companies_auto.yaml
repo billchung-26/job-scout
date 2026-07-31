@@ -106,3 +106,9 @@ companies:
 - name: Imbue
   ats: greenhouse
   slug: imbue
+- name: Baseten
+  ats: ashby
+  slug: baseten
+- name: Modal
+  ats: ashby
+  slug: modal

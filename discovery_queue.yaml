@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Baseten
-  ats: ashby
-  slug: baseten
-  related: AI inference infra, like OpenAI's platform layer
-- name: Modal
-  ats: ashby
-  slug: modal
-  related: AI compute/infra platform, like OpenAI's platform layer
 - name: Fireworks AI
   ats: ashby
   slug: fireworksai
