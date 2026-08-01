@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Fireworks AI
-  ats: ashby
-  slug: fireworksai
-  related: AI inference infra, like OpenAI's platform layer
-- name: Simon Data
-  ats: ashby
-  slug: simondata
-  related: customer data platform, like Amperity (early stage, 2 openings)
 - name: Blueshift
   ats: greenhouse
   slug: blueshift

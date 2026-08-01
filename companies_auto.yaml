@@ -112,3 +112,9 @@ companies:
 - name: Modal
   ats: ashby
   slug: modal
+- name: Fireworks AI
+  ats: ashby
+  slug: fireworksai
+- name: Simon Data
+  ats: ashby
+  slug: simondata
