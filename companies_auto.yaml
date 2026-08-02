@@ -118,3 +118,9 @@ companies:
 - name: Simon Data
   ats: ashby
   slug: simondata
+- name: Blueshift
+  ats: greenhouse
+  slug: blueshift
+- name: Enterpret
+  ats: greenhouse
+  slug: enterpret

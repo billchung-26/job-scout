@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Blueshift
-  ats: greenhouse
-  slug: blueshift
-  related: customer data platform / marketing AI, like Amperity (tiny, 1 opening)
-- name: Enterpret
-  ats: greenhouse
-  slug: enterpret
-  related: customer feedback intelligence, like Glean
 - name: Pryon
   ats: lever
   slug: pryon
