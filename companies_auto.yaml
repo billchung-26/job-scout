@@ -124,3 +124,9 @@ companies:
 - name: Enterpret
   ats: greenhouse
   slug: enterpret
+- name: Pryon
+  ats: lever
+  slug: pryon
+- name: Rime
+  ats: ashby
+  slug: rime

@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Pryon
-  ats: lever
-  slug: pryon
-  related: enterprise knowledge AI, like Glean (early stage, 3 openings)
-- name: Rime
-  ats: ashby
-  slug: rime
-  related: voice synthesis AI, like Parloa
 - name: Deepgram
   ats: ashby
   slug: deepgram
