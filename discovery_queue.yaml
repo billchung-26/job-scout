@@ -1,10 +1,2 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue:
-- name: Deepgram
-  ats: ashby
-  slug: deepgram
-  related: speech-to-text/voice AI, like Parloa
-- name: Level AI
-  ats: lever
-  slug: levelai
-  related: contact center AI/QA, like Parloa
+queue: []

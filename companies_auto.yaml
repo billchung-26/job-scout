@@ -130,3 +130,9 @@ companies:
 - name: Rime
   ats: ashby
   slug: rime
+- name: Deepgram
+  ats: ashby
+  slug: deepgram
+- name: Level AI
+  ats: lever
+  slug: levelai
