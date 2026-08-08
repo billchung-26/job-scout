@@ -1,61 +1,61 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-08-07 15:44. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-08-08 15:20. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (75 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
-| 1X | auto | ashby | 0 / 80 |
-| Abridge | auto | ashby | 6 / 43 |
+| 1X | auto | ashby | 0 / 79 |
+| Abridge | auto | ashby | 6 / 44 |
 | Ada | curated | greenhouse | 0 / 9 |
 | Airbyte | auto | ashby | 0 / 10 |
 | Ambience | auto | ashby | 1 / 20 |
 | Amperity | curated | greenhouse | 2 / 18 |
-| Anthropic | curated | greenhouse | 40 / 387 |
-| Applied Intuition | curated | ashby | 0 / 260 |
+| Anthropic | curated | greenhouse | 40 / 393 |
+| Applied Intuition | curated | ashby | 0 / 262 |
 | Augment | curated | greenhouse | 0 / 2 |
 | Baseten | auto | ashby | 5 / 65 |
 | Bland | curated | ashby | 1 / 14 |
-| Bloomreach | curated | greenhouse | 4 / 73 |
+| Bloomreach | curated | greenhouse | 3 / 72 |
 | Blueshift | auto | greenhouse | 0 / 1 |
 | Cartesia | auto | ashby | 3 / 34 |
-| Clay | curated | ashby | 14 / 74 |
-| Cognition | auto | ashby | 2 / 83 |
-| Cohere | curated | ashby | 1 / 139 |
+| Clay | curated | ashby | 14 / 73 |
+| Cognition | auto | ashby | 2 / 84 |
+| Cohere | curated | ashby | 1 / 141 |
 | Constructor | curated | ashby | 7 / 49 |
 | Credal | auto | ashby | 0 / 4 |
-| Cresta | curated | greenhouse | 6 / 98 |
-| Cursor (Anysphere) | auto | ashby | 9 / 118 |
-| Databricks | curated | greenhouse | 41 / 815 |
-| Decagon | curated | ashby | 7 / 125 |
+| Cresta | curated | greenhouse | 6 / 97 |
+| Cursor (Anysphere) | auto | ashby | 9 / 119 |
+| Databricks | curated | greenhouse | 42 / 820 |
+| Decagon | curated | ashby | 8 / 126 |
 | Deepgram | auto | ashby | 7 / 80 |
 | Distyl | auto | ashby | 0 / 24 |
 | Dust | auto | ashby | 0 / 24 |
-| ElevenLabs | auto | ashby | 1 / 227 |
+| ElevenLabs | auto | ashby | 1 / 229 |
 | Enterpret | auto | greenhouse | 1 / 13 |
-| Exa | auto | ashby | 0 / 41 |
-| Figure | curated | greenhouse | 0 / 18 |
-| Fivetran | auto | greenhouse | 14 / 198 |
+| Exa | auto | ashby | 0 / 44 |
+| Figure | curated | greenhouse | 0 / 20 |
+| Fivetran | auto | greenhouse | 14 / 197 |
 | Genspark | auto | ashby | 2 / 8 |
-| Glean | curated | greenhouse | 14 / 104 |
-| Gong | auto | greenhouse | 4 / 105 |
-| Harvey | curated | ashby | 47 / 363 |
+| Glean | curated | greenhouse | 14 / 106 |
+| Gong | auto | greenhouse | 3 / 104 |
+| Harvey | curated | ashby | 50 / 373 |
 | Hebbia | curated | ashby | 2 / 25 |
-| Hex | auto | greenhouse | 4 / 29 |
-| Hightouch | curated | greenhouse | 6 / 68 |
+| Hex | auto | greenhouse | 4 / 30 |
+| Hightouch | curated | greenhouse | 6 / 69 |
 | Imbue | auto | greenhouse | 1 / 2 |
-| Level AI | auto | lever | 1 / 24 |
+| Level AI | auto | lever | 1 / 22 |
 | Liquid AI | auto | ashby | 1 / 2 |
 | Lorikeet | auto | ashby | 0 / 9 |
-| Mercor | auto | ashby | 8 / 78 |
+| Mercor | auto | ashby | 9 / 80 |
 | Mistral | curated | lever | 0 / 0 |
 | Modal | auto | ashby | 1 / 31 |
-| MotherDuck | auto | ashby | 0 / 7 |
-| Nuro | curated | greenhouse | 4 / 102 |
-| Observe.AI | auto | greenhouse | 1 / 20 |
-| Omni | auto | ashby | 1 / 23 |
-| OpenAI | curated | ashby | 60 / 746 |
+| MotherDuck | auto | ashby | 0 / 4 |
+| Nuro | curated | greenhouse | 4 / 104 |
+| Observe.AI | auto | greenhouse | 1 / 19 |
+| Omni | auto | ashby | 2 / 25 |
+| OpenAI | curated | ashby | 59 / 747 |
 | OpenEvidence | auto | ashby | 0 / 7 |
 | Parloa | auto | greenhouse | 2 / 59 |
 | Perplexity | curated | ashby | 5 / 92 |
@@ -72,15 +72,15 @@ _Auto-generated 2026-08-07 15:44. Watched via the public Greenhouse / Lever / As
 | Simon Data | auto | ashby | 0 / 2 |
 | Snowflake | curated | ashby | 26 / 395 |
 | Sourcegraph | curated | greenhouse | 1 / 8 |
-| Suno | auto | ashby | 3 / 64 |
+| Suno | auto | ashby | 3 / 62 |
 | Vapi | curated | ashby | 1 / 31 |
 | Vectara | auto | greenhouse | 0 / 3 |
 | Waabi | auto | lever | 2 / 57 |
-| Wayve | auto | greenhouse | 0 / 104 |
+| Wayve | auto | greenhouse | 0 / 107 |
 | World Labs | auto | greenhouse | 1 / 7 |
 | Writer | curated | ashby | 0 / 55 |
-| xAI | curated | greenhouse | 0 / 199 |
-| Zoox | curated | lever | 37 / 239 |
+| xAI | curated | greenhouse | 0 / 218 |
+| Zoox | curated | lever | 37 / 240 |
 
 ## ⏳ In discovery backlog — 0 left (~2 added/day)
 
