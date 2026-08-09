@@ -133,10 +133,7 @@ companies:
     ats: lever
     slug: zoox
 
-  # ---- Added 2026-07-20 ----
-  - name: Aurora Innovation  # autonomous trucking <- your autonomy/robotics interest, like Nuro/Zoox
-    ats: greenhouse
-    slug: aurorainnovation
+  # ---- Added 2026-07-20; removed 2026-08-09: Greenhouse board taken down, moved to NOT_WATCHABLE ----
 
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):

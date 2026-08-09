@@ -60,7 +60,7 @@ NOT_WATCHABLE = [
     ("Own career site (not on these APIs)",
      ["Google", "Waymo (Alphabet)", "Nvidia (Workday)", "AMD (Workday)"]),
     ("Migrated off / no longer served by the public API",
-     ["RudderStack", "Snowplow", "Forethought", "dbt Labs", "Fireworks AI"]),
+     ["RudderStack", "Snowplow", "Forethought", "dbt Labs", "Fireworks AI", "Aurora Innovation"]),
     ("No public Greenhouse/Lever/Ashby board found",
      ["AI21", "Adept", "Census", "Chef Robotics", "Cognigy", "Contextual AI",
       "Crescendo", "EvenUp", "Hippocratic AI", "Luma AI", "Magic", "Rippling",

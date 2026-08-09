@@ -35,3 +35,13 @@ applied:
   - {company: Replit,     role: "Senior Product Manager",                       url: "https://jobs.ashbyhq.com/replit/cf236c47-218b-4a31-b0b6-d6ed12a8e077"}
   # --- Tier 7 (applied 2026-07-21) ---
   - {company: Suno,       role: "Product Manager, Web Creation",                url: "https://jobs.ashbyhq.com/suno/bae3aa2a-ba82-4015-9f62-2fd0aa35aaee"}
+  # --- Tier 8 (applied 2026-08-09) ---
+  - {company: Omni,       role: "Senior Product Manager",                       url: "https://jobs.ashbyhq.com/omni/fab27855-8dc6-4947-8a75-ec8fb1835717"}
+  - {company: Deepgram,   role: "Senior Product Manager, Enterprise",           url: "https://jobs.ashbyhq.com/deepgram/3a12f539-7734-46fa-9e3b-28e041e56074"}
+  - {company: Deepgram,   role: "Senior Program Manager, Data Operations",      url: "https://jobs.ashbyhq.com/deepgram/681c5324-1234-4222-b783-a8a7a9440005"}
+  - {company: Decagon,    role: "Product Manager, Enterprise Agent Platform",   url: "https://jobs.ashbyhq.com/decagon/e27fcbdf-891c-4b2f-9c47-d2bdc26eb2d4"}
+  - {company: Baseten,    role: "Product Manager, Inference Platform",         url: "https://jobs.ashbyhq.com/baseten/3027e0bc-731f-4fef-b081-2031590766fd"}
+  - {company: Baseten,    role: "Product Manager, Enterprise",                 url: "https://jobs.ashbyhq.com/baseten/342a4c0e-7da3-490e-927f-dffb51f847b2"}
+  - {company: Constructor, role: "Senior Product Manager: Recall",             url: "https://jobs.ashbyhq.com/constructor/7bc86d05-145d-4b7c-aa6e-b0b207d46117"}
+  - {company: Snowflake,  role: "Senior Product Manager - Openflow",           url: "https://jobs.ashbyhq.com/snowflake/61d48d79-aeb8-45fb-806a-5b6e9f625de7"}
+  - {company: Snowflake,  role: "Senior Product Manager - Enterprise AI",      url: "https://jobs.ashbyhq.com/snowflake/5ee9f5f0-2942-4c17-81bf-f2ffec3a64b9"}
