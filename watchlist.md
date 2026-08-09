@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-08-08 15:20. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-08-09 15:21. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (75 companies)
 
@@ -12,8 +12,8 @@ _Auto-generated 2026-08-08 15:20. Watched via the public Greenhouse / Lever / As
 | Airbyte | auto | ashby | 0 / 10 |
 | Ambience | auto | ashby | 1 / 20 |
 | Amperity | curated | greenhouse | 2 / 18 |
-| Anthropic | curated | greenhouse | 40 / 393 |
-| Applied Intuition | curated | ashby | 0 / 262 |
+| Anthropic | curated | greenhouse | 40 / 392 |
+| Applied Intuition | curated | ashby | 0 / 261 |
 | Augment | curated | greenhouse | 0 / 2 |
 | Baseten | auto | ashby | 5 / 65 |
 | Bland | curated | ashby | 1 / 14 |
@@ -27,19 +27,19 @@ _Auto-generated 2026-08-08 15:20. Watched via the public Greenhouse / Lever / As
 | Credal | auto | ashby | 0 / 4 |
 | Cresta | curated | greenhouse | 6 / 97 |
 | Cursor (Anysphere) | auto | ashby | 9 / 119 |
-| Databricks | curated | greenhouse | 42 / 820 |
+| Databricks | curated | greenhouse | 42 / 823 |
 | Decagon | curated | ashby | 8 / 126 |
 | Deepgram | auto | ashby | 7 / 80 |
 | Distyl | auto | ashby | 0 / 24 |
 | Dust | auto | ashby | 0 / 24 |
-| ElevenLabs | auto | ashby | 1 / 229 |
+| ElevenLabs | auto | ashby | 1 / 230 |
 | Enterpret | auto | greenhouse | 1 / 13 |
 | Exa | auto | ashby | 0 / 44 |
 | Figure | curated | greenhouse | 0 / 20 |
 | Fivetran | auto | greenhouse | 14 / 197 |
 | Genspark | auto | ashby | 2 / 8 |
 | Glean | curated | greenhouse | 14 / 106 |
-| Gong | auto | greenhouse | 3 / 104 |
+| Gong | auto | greenhouse | 3 / 102 |
 | Harvey | curated | ashby | 50 / 373 |
 | Hebbia | curated | ashby | 2 / 25 |
 | Hex | auto | greenhouse | 4 / 30 |
@@ -55,7 +55,7 @@ _Auto-generated 2026-08-08 15:20. Watched via the public Greenhouse / Lever / As
 | Nuro | curated | greenhouse | 4 / 104 |
 | Observe.AI | auto | greenhouse | 1 / 19 |
 | Omni | auto | ashby | 2 / 25 |
-| OpenAI | curated | ashby | 59 / 747 |
+| OpenAI | curated | ashby | 59 / 750 |
 | OpenEvidence | auto | ashby | 0 / 7 |
 | Parloa | auto | greenhouse | 2 / 59 |
 | Perplexity | curated | ashby | 5 / 92 |
