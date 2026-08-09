@@ -45,9 +45,9 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 1,Modal,"Talent Partner, GTM",San Francisco,No,2026-07-31,9,https://jobs.ashbyhq.com/modal/1dffcf2e-32e1-4caa-a1ca-21ad416d4598
 1,Cartesia,GTM Strategist,"*HQ - San Francisco, CA",No,2026-07-30,10,https://jobs.ashbyhq.com/cartesia/c20f4644-c543-4ae2-9a0e-bc881a52b2f3
 1,Clay,"Manager, Strategic Growth (Customer Success)",New York,No,2026-07-30,10,https://jobs.ashbyhq.com/claylabs/73f9d129-1ea8-43cd-b69a-e08015aa057f
-1,Glean,GTM Enablement Manager,"Mountain View, CA",No,2026-07-30,10,https://job-boards.greenhouse.io/gleanwork/jobs/4718547005
-1,Glean,GTM Enablement Manager,"San Francisco, CA",No,2026-07-30,10,https://job-boards.greenhouse.io/gleanwork/jobs/4696203005
 1,Glean,GTM Enablement Manager,NYC,No,2026-07-30,10,https://job-boards.greenhouse.io/gleanwork/jobs/4718549005
+1,Glean,GTM Enablement Manager,"San Francisco, CA",No,2026-07-30,10,https://job-boards.greenhouse.io/gleanwork/jobs/4696203005
+1,Glean,GTM Enablement Manager,"Mountain View, CA",No,2026-07-30,10,https://job-boards.greenhouse.io/gleanwork/jobs/4718547005
 1,Harvey,Enterprise Customer Success Manager (Asset Management),New York,No,2026-07-30,10,https://jobs.ashbyhq.com/harvey/c011f3f0-205e-4e65-8ae1-c01ac885e25f
 1,Harvey,Head of GTM Incentive Strategy,New York,No,2026-07-30,10,https://jobs.ashbyhq.com/harvey/2d6765d1-0fe9-4d25-a0e3-053621ee3484
 1,Harvey,Head of GTM Incentive Strategy,San Francisco,No,2026-07-30,10,https://jobs.ashbyhq.com/harvey/4fb95783-d3ba-45f5-a07b-33d2cc076a3b
@@ -87,8 +87,8 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 1,Replit,"Product Lead, Growth Marketing","Foster City, CA",No,2026-07-15,25,https://jobs.ashbyhq.com/replit/55b3fb32-e920-471d-8980-6afb3f506d4e
 1,Anthropic,"Technical Program Manager, Enterprise Commerce","San Francisco, CA | New York City, NY",No,2026-07-14,26,https://job-boards.greenhouse.io/anthropic/jobs/5301958008
 1,Databricks,Sr. Compensation Manager GTM,United States,No,2026-07-14,26,https://databricks.com/company/careers/open-positions/job?gh_jid=8627549002
-1,Fivetran,"Director, GTM Strategy & Planning","Oakland, California, United States, AMER",No,2026-07-14,26,https://www.fivetran.com/careers/job?gh_jid=7801104003
 1,Fivetran,"Director, GTM Strategy & Planning",USA - New York,No,2026-07-14,26,https://www.fivetran.com/careers/job?gh_jid=7801100003
+1,Fivetran,"Director, GTM Strategy & Planning","Oakland, California, United States, AMER",No,2026-07-14,26,https://www.fivetran.com/careers/job?gh_jid=7801104003
 1,Fivetran,"Director, GTM Strategy & Planning",USA - Austin (dbt),No,2026-07-14,26,https://www.fivetran.com/careers/job?gh_jid=7801099003
 1,Harvey,"Customer Success Leader, Enterprise",New York,No,2026-07-14,26,https://jobs.ashbyhq.com/harvey/2e609316-c131-4c13-9564-34162ff15391
 1,Harvey,"Customer Success Leader, Enterprise",San Francisco,No,2026-07-14,26,https://jobs.ashbyhq.com/harvey/2c1be26f-51d4-4688-8671-f6c2f2a53751
@@ -161,8 +161,8 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 0,Abridge,"Product Lead, CDS ",SF Office,No,2026-07-21,19,https://jobs.ashbyhq.com/abridge/5acb269b-6ca0-4890-ae3f-ffb46e99d2ba
 0,Abridge,Product Operations and Strategy Manager,SF Office,No,2026-07-21,19,https://jobs.ashbyhq.com/abridge/bdbe64c1-cb3e-4ba6-a0fe-0bf76372a673
 0,Anthropic,"Product Manager, Research (Code) ","San Francisco, CA | New York City, NY",No,2026-07-21,19,https://job-boards.greenhouse.io/anthropic/jobs/5324349008
-0,Databricks,Sr Staff Product Operations Manager,"Bellevue, Washington; Seattle, Washington",No,2026-07-21,19,https://databricks.com/company/careers/open-positions/job?gh_jid=8524422002
 0,Databricks,Sr Staff Product Operations Manager,"Mountain View, California; San Francisco, California",No,2026-07-21,19,https://databricks.com/company/careers/open-positions/job?gh_jid=8524420002
+0,Databricks,Sr Staff Product Operations Manager,"Bellevue, Washington; Seattle, Washington",No,2026-07-21,19,https://databricks.com/company/careers/open-positions/job?gh_jid=8524422002
 0,Harvey,Senior Product Operations Manager,San Francisco,No,2026-07-21,19,https://jobs.ashbyhq.com/harvey/be87aefc-9e03-4294-a86f-a4c5e9fddb44
 0,Harvey,"Senior Product Operations Manager, Evaluation",San Francisco,No,2026-07-21,19,https://jobs.ashbyhq.com/harvey/70ac0c85-e987-4657-aae4-95337e344d4e
 0,Mercor,Product Operations Manager,San Francisco,No,2026-07-21,19,https://jobs.ashbyhq.com/mercor/1207581a-0df5-4814-a5e1-459ac34c95ac
@@ -219,8 +219,8 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 2,Anthropic,"Product Management, Human Data Platform","San Francisco, CA | New York City, NY",Yes,2026-07-05,35,https://job-boards.greenhouse.io/anthropic/jobs/5195866008
 2,Cresta,"Forward Deployed Product Manager, AI Agent",United States (Remote),Yes,2026-07-05,35,https://job-boards.greenhouse.io/cresta/jobs/4738837008
 1,Cresta,Platform Product Manager,United States (Remote),Yes,2026-07-05,35,https://job-boards.greenhouse.io/cresta/jobs/5114374008
-1,Databricks,"Sr. Product Manager, Compute Platform","San Francisco, California",Yes,2026-07-05,35,https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002
 1,Databricks,"Sr. Product Manager, Compute Platform","Seattle, Washington",Yes,2026-07-05,35,https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002
+1,Databricks,"Sr. Product Manager, Compute Platform","San Francisco, California",Yes,2026-07-05,35,https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002
 1,Decagon,Senior Agent Product Manager,San Francisco,Yes,2026-07-05,35,https://jobs.ashbyhq.com/decagon/dcf9b561-f2fb-422b-88a9-33ce76e96608
 1,Decagon,Senior Agent Product Manager,New York City,Yes,2026-07-05,35,https://jobs.ashbyhq.com/decagon/e31c0645-7325-43b9-9d58-0acc40904240
 1,Glean,"Product Manager, Enterprise Intelligence","San Francisco, CA",Yes,2026-07-05,35,https://job-boards.greenhouse.io/gleanwork/jobs/4701912005

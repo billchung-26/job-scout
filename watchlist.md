@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-08-09 15:21. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-08-09 20:43. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (75 companies)
 
@@ -43,7 +43,7 @@ _Auto-generated 2026-08-09 15:21. Watched via the public Greenhouse / Lever / As
 | Harvey | curated | ashby | 50 / 373 |
 | Hebbia | curated | ashby | 2 / 25 |
 | Hex | auto | greenhouse | 4 / 30 |
-| Hightouch | curated | greenhouse | 6 / 69 |
+| Hightouch | curated | greenhouse | 6 / 68 |
 | Imbue | auto | greenhouse | 1 / 2 |
 | Level AI | auto | lever | 1 / 22 |
 | Liquid AI | auto | ashby | 1 / 2 |
@@ -70,7 +70,7 @@ _Auto-generated 2026-08-09 15:21. Watched via the public Greenhouse / Lever / As
 | Sierra | curated | ashby | 17 / 191 |
 | Sigma Computing | auto | greenhouse | 4 / 70 |
 | Simon Data | auto | ashby | 0 / 2 |
-| Snowflake | curated | ashby | 26 / 395 |
+| Snowflake | curated | ashby | 26 / 394 |
 | Sourcegraph | curated | greenhouse | 1 / 8 |
 | Suno | auto | ashby | 3 / 62 |
 | Vapi | curated | ashby | 1 / 31 |
@@ -79,7 +79,7 @@ _Auto-generated 2026-08-09 15:21. Watched via the public Greenhouse / Lever / As
 | Wayve | auto | greenhouse | 0 / 107 |
 | World Labs | auto | greenhouse | 1 / 7 |
 | Writer | curated | ashby | 0 / 55 |
-| xAI | curated | greenhouse | 0 / 218 |
+| xAI | curated | greenhouse | 0 / 217 |
 | Zoox | curated | lever | 37 / 240 |
 
 ## ⏳ In discovery backlog — 0 left (~2 added/day)

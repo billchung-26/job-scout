@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-08-09 15:21. 235 roles · 19 applied · 211 sunset (>30d) hidden._
+_Updated 2026-08-09 20:43. 235 roles · 19 applied · 211 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -50,9 +50,9 @@ _Updated 2026-08-09 15:21. 235 roles · 19 applied · 211 sunset (>30d) hidden._
 | ⭐ | Modal | [Talent Partner, GTM](https://jobs.ashbyhq.com/modal/1dffcf2e-32e1-4caa-a1ca-21ad416d4598) | San Francisco |  | 2026-07-31 | 9d |
 | ⭐ | Cartesia | [GTM Strategist](https://jobs.ashbyhq.com/cartesia/c20f4644-c543-4ae2-9a0e-bc881a52b2f3) | *HQ - San Francisco, CA |  | 2026-07-30 | 10d |
 | ⭐ | Clay | [Manager, Strategic Growth (Customer Success)](https://jobs.ashbyhq.com/claylabs/73f9d129-1ea8-43cd-b69a-e08015aa057f) | New York |  | 2026-07-30 | 10d |
-| ⭐ | Glean | [GTM Enablement Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4718547005) | Mountain View, CA |  | 2026-07-30 | 10d |
-| ⭐ | Glean | [GTM Enablement Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4696203005) | San Francisco, CA |  | 2026-07-30 | 10d |
 | ⭐ | Glean | [GTM Enablement Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4718549005) | NYC |  | 2026-07-30 | 10d |
+| ⭐ | Glean | [GTM Enablement Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4696203005) | San Francisco, CA |  | 2026-07-30 | 10d |
+| ⭐ | Glean | [GTM Enablement Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4718547005) | Mountain View, CA |  | 2026-07-30 | 10d |
 | ⭐ | Harvey | [Enterprise Customer Success Manager (Asset Management)](https://jobs.ashbyhq.com/harvey/c011f3f0-205e-4e65-8ae1-c01ac885e25f) | New York |  | 2026-07-30 | 10d |
 | ⭐ | Harvey | [Head of GTM Incentive Strategy](https://jobs.ashbyhq.com/harvey/2d6765d1-0fe9-4d25-a0e3-053621ee3484) | New York |  | 2026-07-30 | 10d |
 | ⭐ | Harvey | [Head of GTM Incentive Strategy](https://jobs.ashbyhq.com/harvey/4fb95783-d3ba-45f5-a07b-33d2cc076a3b) | San Francisco |  | 2026-07-30 | 10d |
@@ -92,8 +92,8 @@ _Updated 2026-08-09 15:21. 235 roles · 19 applied · 211 sunset (>30d) hidden._
 | ⭐ | Replit | [Product Lead, Growth Marketing](https://jobs.ashbyhq.com/replit/55b3fb32-e920-471d-8980-6afb3f506d4e) | Foster City, CA |  | 2026-07-15 | 25d |
 | ⭐ | Anthropic | [Technical Program Manager, Enterprise Commerce](https://job-boards.greenhouse.io/anthropic/jobs/5301958008) | San Francisco, CA | New York City, NY |  | 2026-07-14 | 26d |
 | ⭐ | Databricks | [Sr. Compensation Manager GTM](https://databricks.com/company/careers/open-positions/job?gh_jid=8627549002) | United States |  | 2026-07-14 | 26d |
-| ⭐ | Fivetran | [Director, GTM Strategy & Planning](https://www.fivetran.com/careers/job?gh_jid=7801104003) | Oakland, California, United States, AMER |  | 2026-07-14 | 26d |
 | ⭐ | Fivetran | [Director, GTM Strategy & Planning](https://www.fivetran.com/careers/job?gh_jid=7801100003) | USA - New York |  | 2026-07-14 | 26d |
+| ⭐ | Fivetran | [Director, GTM Strategy & Planning](https://www.fivetran.com/careers/job?gh_jid=7801104003) | Oakland, California, United States, AMER |  | 2026-07-14 | 26d |
 | ⭐ | Fivetran | [Director, GTM Strategy & Planning](https://www.fivetran.com/careers/job?gh_jid=7801099003) | USA - Austin (dbt) |  | 2026-07-14 | 26d |
 | ⭐ | Harvey | [Customer Success Leader, Enterprise](https://jobs.ashbyhq.com/harvey/2e609316-c131-4c13-9564-34162ff15391) | New York |  | 2026-07-14 | 26d |
 | ⭐ | Harvey | [Customer Success Leader, Enterprise](https://jobs.ashbyhq.com/harvey/2c1be26f-51d4-4688-8671-f6c2f2a53751) | San Francisco |  | 2026-07-14 | 26d |
@@ -166,8 +166,8 @@ _Updated 2026-08-09 15:21. 235 roles · 19 applied · 211 sunset (>30d) hidden._
 | — | Abridge | [Product Lead, CDS ](https://jobs.ashbyhq.com/abridge/5acb269b-6ca0-4890-ae3f-ffb46e99d2ba) | SF Office |  | 2026-07-21 | 19d |
 | — | Abridge | [Product Operations and Strategy Manager](https://jobs.ashbyhq.com/abridge/bdbe64c1-cb3e-4ba6-a0fe-0bf76372a673) | SF Office |  | 2026-07-21 | 19d |
 | — | Anthropic | [Product Manager, Research (Code) ](https://job-boards.greenhouse.io/anthropic/jobs/5324349008) | San Francisco, CA | New York City, NY |  | 2026-07-21 | 19d |
-| — | Databricks | [Sr Staff Product Operations Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8524422002) | Bellevue, Washington; Seattle, Washington |  | 2026-07-21 | 19d |
 | — | Databricks | [Sr Staff Product Operations Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8524420002) | Mountain View, California; San Francisco, California |  | 2026-07-21 | 19d |
+| — | Databricks | [Sr Staff Product Operations Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8524422002) | Bellevue, Washington; Seattle, Washington |  | 2026-07-21 | 19d |
 | — | Harvey | [Senior Product Operations Manager](https://jobs.ashbyhq.com/harvey/be87aefc-9e03-4294-a86f-a4c5e9fddb44) | San Francisco |  | 2026-07-21 | 19d |
 | — | Harvey | [Senior Product Operations Manager, Evaluation](https://jobs.ashbyhq.com/harvey/70ac0c85-e987-4657-aae4-95337e344d4e) | San Francisco |  | 2026-07-21 | 19d |
 | — | Mercor | [Product Operations Manager](https://jobs.ashbyhq.com/mercor/1207581a-0df5-4814-a5e1-459ac34c95ac) | San Francisco |  | 2026-07-21 | 19d |
@@ -224,8 +224,8 @@ _Updated 2026-08-09 15:21. 235 roles · 19 applied · 211 sunset (>30d) hidden._
 | ⭐⭐ | Anthropic | [Product Management, Human Data Platform](https://job-boards.greenhouse.io/anthropic/jobs/5195866008) | San Francisco, CA | New York City, NY | ✅ | 2026-07-05 | 35d |
 | ⭐⭐ | Cresta | [Forward Deployed Product Manager, AI Agent](https://job-boards.greenhouse.io/cresta/jobs/4738837008) | United States (Remote) | ✅ | 2026-07-05 | 35d |
 | ⭐ | Cresta | [Platform Product Manager](https://job-boards.greenhouse.io/cresta/jobs/5114374008) | United States (Remote) | ✅ | 2026-07-05 | 35d |
-| ⭐ | Databricks | [Sr. Product Manager, Compute Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002) | San Francisco, California | ✅ | 2026-07-05 | 35d |
 | ⭐ | Databricks | [Sr. Product Manager, Compute Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002) | Seattle, Washington | ✅ | 2026-07-05 | 35d |
+| ⭐ | Databricks | [Sr. Product Manager, Compute Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002) | San Francisco, California | ✅ | 2026-07-05 | 35d |
 | ⭐ | Decagon | [Senior Agent Product Manager](https://jobs.ashbyhq.com/decagon/dcf9b561-f2fb-422b-88a9-33ce76e96608) | San Francisco | ✅ | 2026-07-05 | 35d |
 | ⭐ | Decagon | [Senior Agent Product Manager](https://jobs.ashbyhq.com/decagon/e31c0645-7325-43b9-9d58-0acc40904240) | New York City | ✅ | 2026-07-05 | 35d |
 | ⭐ | Glean | [Product Manager, Enterprise Intelligence](https://job-boards.greenhouse.io/gleanwork/jobs/4701912005) | San Francisco, CA | ✅ | 2026-07-05 | 35d |
