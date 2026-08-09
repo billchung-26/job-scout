@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-08-09 14:18. 235 roles · 28 applied · 211 sunset (>30d) hidden._
+_Updated 2026-08-09 14:30. 250 roles · 28 applied · 211 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -18,6 +18,10 @@ _Updated 2026-08-09 14:18. 235 roles · 28 applied · 211 sunset (>30d) hidden._
 | ⭐⭐ | Sierra | [GTM Operations Analyst, Agent Development](https://jobs.ashbyhq.com/sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872) | San Francisco, CA |  | 2026-07-20 | 20d |
 | ⭐⭐ | Sierra | [GTM Operations, Agent Development Enablement](https://jobs.ashbyhq.com/sierra/84a9ecff-115c-452f-9f1f-1b0b142e256f) | San Francisco, CA |  | 2026-07-20 | 20d |
 | ⭐⭐ | Zoox | [Staff/Senior Staff Supply Chain Program Manager - Enterprise Business Applications](https://jobs.lever.co/zoox/2a7c9842-96ae-4a98-a2bd-152a720d81f7) | Foster City, CA |  | 2026-07-14 | 26d |
+| ⭐ | Lyft | [Senior Technical Program Manager, AI Transformation](https://app.careerpuck.com/job-board/lyft/job/8657258002?gh_jid=8657258002) 🆕 | San Francisco, CA |  | 2026-08-09 | 0d |
+| ⭐ | Lyft | [Senior Technical Program Manager, AI Transformation](https://app.careerpuck.com/job-board/lyft/job/8657510002?gh_jid=8657510002) 🆕 | New York, NY |  | 2026-08-09 | 0d |
+| ⭐ | Lyft | [Staff Growth Product Manager, Lyft Business](https://app.careerpuck.com/job-board/lyft/job/8547660002?gh_jid=8547660002) 🆕 | San Francisco, CA |  | 2026-08-09 | 0d |
+| ⭐ | Lyft | [Staff Growth Product Manager, Lyft Business](https://app.careerpuck.com/job-board/lyft/job/8547683002?gh_jid=8547683002) 🆕 | New York, NY |  | 2026-08-09 | 0d |
 | ⭐ | Decagon | [Strategic Finance Manager, GTM](https://jobs.ashbyhq.com/decagon/ca3766a9-73d4-417b-8957-0ba41a2c2b67) | New York City |  | 2026-08-08 | 1d |
 | ⭐ | Harvey | [GTM Strategy & Operations](https://jobs.ashbyhq.com/harvey/091614d9-028d-4d57-acc0-d2203dc4e54e) | New York |  | 2026-08-08 | 1d |
 | ⭐ | Mercor | [GTM Engineer](https://jobs.ashbyhq.com/mercor/746c6df1-cc93-46ed-8f68-b8b8515398f4) | San Francisco |  | 2026-08-08 | 1d |
@@ -95,6 +99,17 @@ _Updated 2026-08-09 14:18. 235 roles · 28 applied · 211 sunset (>30d) hidden._
 | ⭐ | Snowflake | [GTM & Enablement Program Manager](https://jobs.ashbyhq.com/snowflake/b22cbd8d-7f30-4699-890e-b93eb90ef4e8) | US-CA-Menlo Park |  | 2026-07-14 | 26d |
 | ⭐ | Snowflake | [Director, Product Marketing — Platform](https://jobs.ashbyhq.com/snowflake/9a88d51a-09ef-4960-9c4d-be211affcc1b) | US-CA-Menlo Park |  | 2026-07-14 | 26d |
 | ⭐ | Zoox | [Staff Technical Program Manager, Powertrain & Thermal](https://jobs.lever.co/zoox/96faea2e-c539-4d63-89a5-f534b807ab09) | Foster City, CA |  | 2026-07-14 | 26d |
+| — | Lyft | [Global Equity Program Manager](https://app.careerpuck.com/job-board/lyft/job/8534529002?gh_jid=8534529002) 🆕 | Seattle, WA |  | 2026-08-09 | 0d |
+| — | Lyft | [Global Equity Program Manager](https://app.careerpuck.com/job-board/lyft/job/8534527002?gh_jid=8534527002) 🆕 | San Francisco, CA |  | 2026-08-09 | 0d |
+| — | Lyft | [Group Product Manager, Verticals](https://app.careerpuck.com/job-board/lyft/job/8513755002?gh_jid=8513755002) 🆕 | San Francisco, CA |  | 2026-08-09 | 0d |
+| — | Lyft | [Legal Operations Program Manager, Integrations](https://app.careerpuck.com/job-board/lyft/job/8689217002?gh_jid=8689217002) 🆕 | San Francisco, CA |  | 2026-08-09 | 0d |
+| — | Lyft | [Legal Operations Program Manager, Integrations](https://app.careerpuck.com/job-board/lyft/job/8689225002?gh_jid=8689225002) 🆕 | New York, NY |  | 2026-08-09 | 0d |
+| — | Lyft | [Product Manager, Driver Earnings](https://app.careerpuck.com/job-board/lyft/job/8550252002?gh_jid=8550252002) 🆕 | San Francisco, CA |  | 2026-08-09 | 0d |
+| — | Lyft | [Senior Product Manager, Customer Care – Emerging Businesses](https://app.careerpuck.com/job-board/lyft/job/8648179002?gh_jid=8648179002) 🆕 | San Francisco, CA |  | 2026-08-09 | 0d |
+| — | Lyft | [Senior Product Manager, Customer Care – Emerging Businesses](https://app.careerpuck.com/job-board/lyft/job/8648515002?gh_jid=8648515002) 🆕 | New York, NY |  | 2026-08-09 | 0d |
+| — | Lyft | [Senior Technical Program Manager, Infrastructure ](https://app.careerpuck.com/job-board/lyft/job/8604675002?gh_jid=8604675002) 🆕 | San Francisco, CA |  | 2026-08-09 | 0d |
+| — | Lyft | [Staff Product Manager, Core Rider](https://app.careerpuck.com/job-board/lyft/job/8614717002?gh_jid=8614717002) 🆕 | San Francisco, CA |  | 2026-08-09 | 0d |
+| — | Lyft | [Staff Product Manager I, Ad Serving](https://app.careerpuck.com/job-board/lyft/job/8594167002?gh_jid=8594167002) 🆕 | New York, NY |  | 2026-08-09 | 0d |
 | — | Databricks | [Staff Product Manager, SAP](https://databricks.com/company/careers/open-positions/job?gh_jid=8679974002) | Mountain View, California; San Francisco, California |  | 2026-08-08 | 1d |
 | — | Harvey | [Senior Program Manager, Web](https://jobs.ashbyhq.com/harvey/154007c0-8f5d-4737-a0eb-0a3f418e1596) | New York |  | 2026-08-08 | 1d |
 | — | Harvey | [ Senior Program Manager, Web](https://jobs.ashbyhq.com/harvey/f51c534a-cd96-40ee-8f6a-b39d9c99c8be) | San Francisco |  | 2026-08-08 | 1d |

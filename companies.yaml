@@ -135,6 +135,11 @@ companies:
 
   # ---- Added 2026-07-20; removed 2026-08-09: Greenhouse board taken down, moved to NOT_WATCHABLE ----
 
+  # ---- Added 2026-08-09 ----
+  - name: Lyft               # ride-share/mobility <- strong PM/growth/enterprise fit, 20 matching roles
+    ats: greenhouse
+    slug: lyft
+
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
 #  see NOT_WATCHABLE in scout.py / the "Not watchable" section of watchlist.md
