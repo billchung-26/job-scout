@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-08-16 15:12. 234 roles · 33 applied · 255 sunset (>30d) hidden._
+_Updated 2026-08-16 15:20. 249 roles · 33 applied · 255 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -16,6 +16,7 @@ _Updated 2026-08-16 15:12. 234 roles · 33 applied · 255 sunset (>30d) hidden._
 | ⭐⭐ | Liquid AI | [Member of GTM - Head of Growth](https://jobs.ashbyhq.com/liquid/34fb0997-42ff-49f3-bcf3-231a54d204db) | New York City |  | 2026-07-20 | 27d |
 | ⭐⭐ | Sierra | [GTM Operations Analyst, Agent Development](https://jobs.ashbyhq.com/sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872) | San Francisco, CA |  | 2026-07-20 | 27d |
 | ⭐⭐ | Sierra | [GTM Operations, Agent Development Enablement](https://jobs.ashbyhq.com/sierra/84a9ecff-115c-452f-9f1f-1b0b142e256f) | San Francisco, CA |  | 2026-07-20 | 27d |
+| ⭐ | Airbnb | [ Staff Product Manager, AI Personalization](https://careers.airbnb.com/positions/7834495?gh_jid=7834495) 🆕 | United States |  | 2026-08-16 | 0d |
 | ⭐ | Sigma Computing | [Enterprise Customer Success Manager - East](https://job-boards.greenhouse.io/sigmacomputing/jobs/7600033003) | New York |  | 2026-08-15 | 1d |
 | ⭐ | Fivetran | [Senior Product Manager, Enterprise & Deployments](https://www.fivetran.com/careers/job?gh_jid=7818304003) | USA - New York |  | 2026-08-14 | 2d |
 | ⭐ | Fivetran | [Senior Product Manager, Enterprise & Deployments](https://www.fivetran.com/careers/job?gh_jid=7865148003) | Denver, Colorado, United States, AMER |  | 2026-08-14 | 2d |
@@ -85,6 +86,20 @@ _Updated 2026-08-16 15:12. 234 roles · 33 applied · 255 sunset (>30d) hidden._
 | ⭐ | Anthropic | [Program Manager, GTM Systems ](https://job-boards.greenhouse.io/anthropic/jobs/5363352008) | San Francisco, CA | New York City, NY | Seattle, WA |  | 2026-07-20 | 27d |
 | ⭐ | ElevenLabs | [GTM Enablement - Expansion](https://jobs.ashbyhq.com/elevenlabs/eee2abfb-bd2f-410d-a339-3923e9c95043) | United States |  | 2026-07-20 | 27d |
 | ⭐ | OpenAI | [Compensation Business Partner, GTM ](https://jobs.ashbyhq.com/openai/f4720507-3c44-4162-af21-206ac3a78007) | San Francisco |  | 2026-07-18 | 29d |
+| — | Airbnb | [Lead Localization Operations Program Manager](https://careers.airbnb.com/positions/8120458?gh_jid=8120458) 🆕 | United States  |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Manager, Discounts & Promotions](https://careers.airbnb.com/positions/8096359?gh_jid=8096359) 🆕 | United States |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Manager, Identity](https://careers.airbnb.com/positions/8055637?gh_jid=8055637) 🆕 | United States |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Manager, Incubations](https://careers.airbnb.com/positions/8044715?gh_jid=8044715) 🆕 | San Francisco, CA, New York, NY |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Manager, People to Meet](https://careers.airbnb.com/positions/8112204?gh_jid=8112204) 🆕 | San Francisco, CA, Seattle, WA, New York, NY |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Manager, Relevance and Personalization](https://careers.airbnb.com/positions/7905365?gh_jid=7905365) 🆕 | San Francisco, United States |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Manager, Search](https://careers.airbnb.com/positions/8104444?gh_jid=8104444) 🆕 | San Francisco, United States |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Manager, Services](https://careers.airbnb.com/positions/8081925?gh_jid=8081925) 🆕 | San Francisco, CA, Seattle WA, New York, NY |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Manager, Tickets](https://careers.airbnb.com/positions/8082161?gh_jid=8082161) 🆕 | United States |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Manager, Wallet](https://careers.airbnb.com/positions/8082854?gh_jid=8082854) 🆕 | United States |  | 2026-08-16 | 0d |
+| — | Airbnb | [Product Program Manager, Roadmap Planning & Program Management](https://careers.airbnb.com/positions/8094412?gh_jid=8094412) 🆕 | San Francisco, United States  |  | 2026-08-16 | 0d |
+| — | Airbnb | [Senior Product Program Manager, Roadmap Planning & Program Management ](https://careers.airbnb.com/positions/8094462?gh_jid=8094462) 🆕 | San Francisco, United States  |  | 2026-08-16 | 0d |
+| — | Airbnb | [Staff Program Manager, Technical Education](https://careers.airbnb.com/positions/7698061?gh_jid=7698061) 🆕 | San Francisco, California, United States |  | 2026-08-16 | 0d |
+| — | Airbnb | [Workplace Operations Program Manager](https://careers.airbnb.com/positions/8079378?gh_jid=8079378) 🆕 | San Francisco, United States |  | 2026-08-16 | 0d |
 | — | Hippocratic AI | [Customer Success Executive (Central Region)](https://jobs.ashbyhq.com/Hippocratic%20AI/e7459801-68da-46ab-b018-6ec2b0e2affc) 🆕 | United States |  | 2026-08-16 | 0d |
 | — | Hippocratic AI | [Customer Success Executive (Columbus, OH)](https://jobs.ashbyhq.com/Hippocratic%20AI/242f66f2-d9a9-4397-9955-d25d178ff908) 🆕 | Columbus, OH |  | 2026-08-16 | 0d |
 | — | Hippocratic AI | [Customer Success Executive (East Region)](https://jobs.ashbyhq.com/Hippocratic%20AI/09aac763-09b7-4de2-ae6b-8a437e4599a0) 🆕 | United States |  | 2026-08-16 | 0d |

@@ -151,6 +151,11 @@ companies:
     ats: ashby
     slug: magic.dev
 
+  # ---- Added 2026-08-16 (later same day) ----
+  - name: Airbnb             # marketplace/consumer platform <- personalization/CDP-adjacent PM roles
+    ats: greenhouse
+    slug: airbnb
+
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
 #  see NOT_WATCHABLE in scout.py / the "Not watchable" section of watchlist.md

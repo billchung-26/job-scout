@@ -1,14 +1,15 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-08-16 15:12. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-08-16 15:20. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (79 companies)
+## ✅ Watching (80 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
 | 1X | auto | ashby | 0 / 83 |
 | Abridge | auto | ashby | 6 / 45 |
 | Ada | curated | greenhouse | 0 / 9 |
+| Airbnb | curated | greenhouse | 15 / 186 |
 | Airbyte | auto | ashby | 0 / 10 |
 | Ambience | auto | ashby | 1 / 21 |
 | Amperity | curated | greenhouse | 2 / 17 |
