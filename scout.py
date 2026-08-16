@@ -58,12 +58,14 @@ PROMOTE_PER_RUN = 2
 # Companies known to be unwatchable via these APIs (for the watchlist report).
 NOT_WATCHABLE = [
     ("Own career site (not on these APIs)",
-     ["Google", "Waymo (Alphabet)", "Nvidia (Workday)", "AMD (Workday)", "Uber (custom)"]),
+     ["Google", "Waymo (Alphabet)", "Nvidia (Workday)", "AMD (Workday)", "Uber (custom)",
+      "Census (Breezy HR)", "Chef Robotics (Gem)", "Cognigy (custom widget)",
+      "Contextual AI (custom Next.js)", "Crescendo (custom Webflow)",
+      "EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)"]),
     ("Migrated off / no longer served by the public API",
      ["RudderStack", "Snowplow", "Forethought", "dbt Labs", "Fireworks AI", "Aurora Innovation"]),
     ("No public Greenhouse/Lever/Ashby board found",
-     ["AI21", "Adept", "Census", "Chef Robotics", "Cognigy", "Contextual AI",
-      "Crescendo", "EvenUp", "Hippocratic AI", "Luma AI", "Magic", "Rippling",
+     ["AI21", "Adept", "Hippocratic AI", "Luma AI", "Magic", "Rippling",
       "Skild AI", "Windsurf/Codeium"]),
 ]
 

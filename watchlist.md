@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-08-15 15:10. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-08-16 00:56. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (76 companies)
 
@@ -12,7 +12,7 @@ _Auto-generated 2026-08-15 15:10. Watched via the public Greenhouse / Lever / As
 | Airbyte | auto | ashby | 0 / 10 |
 | Ambience | auto | ashby | 1 / 21 |
 | Amperity | curated | greenhouse | 2 / 17 |
-| Anthropic | curated | greenhouse | 45 / 439 |
+| Anthropic | curated | greenhouse | 45 / 441 |
 | Applied Intuition | curated | ashby | 0 / 274 |
 | Augment | curated | greenhouse | 0 / 2 |
 | Baseten | auto | ashby | 5 / 71 |
@@ -27,7 +27,7 @@ _Auto-generated 2026-08-15 15:10. Watched via the public Greenhouse / Lever / As
 | Credal | auto | ashby | 0 / 4 |
 | Cresta | curated | greenhouse | 6 / 95 |
 | Cursor (Anysphere) | auto | ashby | 7 / 114 |
-| Databricks | curated | greenhouse | 40 / 810 |
+| Databricks | curated | greenhouse | 40 / 809 |
 | Decagon | curated | ashby | 11 / 134 |
 | Deepgram | auto | ashby | 7 / 82 |
 | Distyl | auto | ashby | 0 / 25 |
@@ -42,7 +42,7 @@ _Auto-generated 2026-08-15 15:10. Watched via the public Greenhouse / Lever / As
 | Gong | auto | greenhouse | 5 / 97 |
 | Harvey | curated | ashby | 55 / 393 |
 | Hebbia | curated | ashby | 2 / 22 |
-| Hex | auto | greenhouse | 4 / 30 |
+| Hex | auto | greenhouse | 3 / 29 |
 | Hightouch | curated | greenhouse | 7 / 73 |
 | Imbue | auto | greenhouse | 1 / 2 |
 | Level AI | auto | lever | 1 / 20 |
@@ -65,7 +65,7 @@ _Auto-generated 2026-08-15 15:10. Watched via the public Greenhouse / Lever / As
 | Pryon | auto | lever | 0 / 3 |
 | Regal | curated | lever | 2 / 12 |
 | Reka | auto | ashby | 0 / 9 |
-| Replit | auto | ashby | 8 / 75 |
+| Replit | auto | ashby | 8 / 76 |
 | Rime | auto | ashby | 0 / 3 |
 | Sana | curated | ashby | 1 / 31 |
 | Sierra | curated | ashby | 16 / 191 |
@@ -73,7 +73,7 @@ _Auto-generated 2026-08-15 15:10. Watched via the public Greenhouse / Lever / As
 | Simon Data | auto | ashby | 0 / 2 |
 | Snowflake | curated | ashby | 24 / 389 |
 | Sourcegraph | curated | greenhouse | 1 / 8 |
-| Suno | auto | ashby | 4 / 59 |
+| Suno | auto | ashby | 7 / 59 |
 | Vapi | curated | ashby | 2 / 31 |
 | Vectara | auto | greenhouse | 0 / 3 |
 | Waabi | auto | lever | 2 / 58 |
@@ -88,8 +88,8 @@ _Auto-generated 2026-08-15 15:10. Watched via the public Greenhouse / Lever / As
 
 ## ❌ Not watchable by this tool
 
-**Own career site (not on these APIs):** Google, Waymo (Alphabet), Nvidia (Workday), AMD (Workday), Uber (custom)
+**Own career site (not on these APIs):** Google, Waymo (Alphabet), Nvidia (Workday), AMD (Workday), Uber (custom), Census (Breezy HR), Chef Robotics (Gem), Cognigy (custom widget), Contextual AI (custom Next.js), Crescendo (custom Webflow), EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)
 
 **Migrated off / no longer served by the public API:** RudderStack, Snowplow, Forethought, dbt Labs, Fireworks AI, Aurora Innovation
 
-**No public Greenhouse/Lever/Ashby board found:** AI21, Adept, Census, Chef Robotics, Cognigy, Contextual AI, Crescendo, EvenUp, Hippocratic AI, Luma AI, Magic, Rippling, Skild AI, Windsurf/Codeium
+**No public Greenhouse/Lever/Ashby board found:** AI21, Adept, Hippocratic AI, Luma AI, Magic, Rippling, Skild AI, Windsurf/Codeium
