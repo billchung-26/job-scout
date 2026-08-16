@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-08-16 00:19. 226 roles · 28 applied · 255 sunset (>30d) hidden._
+_Updated 2026-08-16 00:27. 226 roles · 30 applied · 255 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -96,7 +96,6 @@ _Updated 2026-08-16 00:19. 226 roles · 28 applied · 255 sunset (>30d) hidden._
 | — | Decagon | [Technical Program Manager](https://jobs.ashbyhq.com/decagon/d32da775-c5ea-420d-a07e-13412044c27b) | San Francisco |  | 2026-08-14 | 2d |
 | — | Harvey | [Senior Product Operations Manager](https://jobs.ashbyhq.com/harvey/dc967ec2-5fd8-4a92-9c81-513265cec47e) | New York |  | 2026-08-14 | 2d |
 | — | Hightouch | [Customer Success Engineer ](https://job-boards.greenhouse.io/hightouch/jobs/5770046004) | Remote (Europe) |  | 2026-08-14 | 2d |
-| — | Vapi | [Senior Product Manager](https://jobs.ashbyhq.com/vapi/0ec4a11b-09ec-43ed-aa79-e4718bebec1e) | San Francisco |  | 2026-08-14 | 2d |
 | — | Anthropic | [Executive Services Program Manager](https://job-boards.greenhouse.io/anthropic/jobs/5385626008) | Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC |  | 2026-08-13 | 3d |
 | — | Anthropic | [Manager, Customer Success - Beneficial Deployments](https://job-boards.greenhouse.io/anthropic/jobs/5383204008) | San Francisco, CA | New York City, NY |  | 2026-08-13 | 3d |
 | — | OpenAI | [Technical Program Manager, Infrastructure Delivery Operations](https://jobs.ashbyhq.com/openai/f0d51f11-0f35-4e10-b8bb-d24191ba26f3) | San Francisco |  | 2026-08-13 | 3d |
@@ -105,7 +104,6 @@ _Updated 2026-08-16 00:19. 226 roles · 28 applied · 255 sunset (>30d) hidden._
 | — | Harvey | [Staff Product Manager, Firm Intelligence](https://jobs.ashbyhq.com/harvey/43a70e6f-af43-4f78-8f30-a1a64d7d4986) | New York |  | 2026-08-12 | 4d |
 | — | OpenAI | [Technical Systems Program Manager, User Operations](https://jobs.ashbyhq.com/openai/e1b8fd3a-315c-4480-9105-98228093d429) | San Francisco |  | 2026-08-12 | 4d |
 | — | OpenAI | [Senior Program Manager, Consumer Device Safety Operations](https://jobs.ashbyhq.com/openai/b65f9125-2c3a-4507-bb20-6213952b5f2c) | San Francisco |  | 2026-08-12 | 4d |
-| — | Regal | [Product Manager](https://jobs.lever.co/regal.ai/fd0e9d70-942a-4850-bf1a-fa5372c486d4) | New York, New York |  | 2026-08-12 | 4d |
 | — | Zoox | [Senior / Staff Technical Program Manager -  End-to-End Features](https://jobs.lever.co/zoox/57462ce4-0270-4ad6-83ba-1c2427e80503) | Foster City, CA |  | 2026-08-12 | 4d |
 | — | Fivetran | [Senior Product Manager, Reverse ETL](https://www.fivetran.com/careers/job?gh_jid=6666499003) | Denver, Colorado, United States, AMER |  | 2026-08-11 | 5d |
 | — | Fivetran | [Senior Product Manager, Reverse ETL](https://www.fivetran.com/careers/job?gh_jid=6648720003) | Oakland, California, United States, AMER |  | 2026-08-11 | 5d |
@@ -219,6 +217,8 @@ _Updated 2026-08-16 00:19. 226 roles · 28 applied · 255 sunset (>30d) hidden._
 | ⭐ | Glean | [Product Manager, Enterprise Intelligence](https://job-boards.greenhouse.io/gleanwork/jobs/4701912005) | San Francisco, CA | ✅ | 2026-07-05 | 42d |
 | ⭐ | Hightouch | [Lead Product Manager, Agentic Personalization](https://job-boards.greenhouse.io/hightouch/jobs/5834919004) | SF, NY, Remote | ✅ | 2026-07-05 | 42d |
 | ⭐ | Sierra | [Product Manager, Agent Studio](https://jobs.ashbyhq.com/sierra/5aaa2eeb-92bc-4b0a-901e-8e091eff819e) | San Francisco, CA | ✅ | 2026-07-05 | 42d |
+| — | Vapi | [Senior Product Manager](https://jobs.ashbyhq.com/vapi/0ec4a11b-09ec-43ed-aa79-e4718bebec1e) | San Francisco | ✅ | 2026-08-14 | 2d |
+| — | Regal | [Product Manager](https://jobs.lever.co/regal.ai/fd0e9d70-942a-4850-bf1a-fa5372c486d4) | New York, New York | ✅ | 2026-08-12 | 4d |
 | — | Omni | [Senior Product Manager](https://jobs.ashbyhq.com/omni/fab27855-8dc6-4947-8a75-ec8fb1835717) | San Francisco, CA | ✅ | 2026-08-08 | 8d |
 | — | Constructor | [Senior Product Manager: Recall](https://jobs.ashbyhq.com/constructor/7bc86d05-145d-4b7c-aa6e-b0b207d46117) | Remote - EMEA | ✅ | 2026-07-30 | 17d |
 | — | Snowflake | [Senior Product Manager - Openflow](https://jobs.ashbyhq.com/snowflake/61d48d79-aeb8-45fb-806a-5b6e9f625de7) | US-CA-Menlo Park | ✅ | 2026-07-30 | 17d |

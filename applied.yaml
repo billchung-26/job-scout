@@ -45,3 +45,6 @@ applied:
   - {company: Constructor, role: "Senior Product Manager: Recall",             url: "https://jobs.ashbyhq.com/constructor/7bc86d05-145d-4b7c-aa6e-b0b207d46117"}
   - {company: Snowflake,  role: "Senior Product Manager - Openflow",           url: "https://jobs.ashbyhq.com/snowflake/61d48d79-aeb8-45fb-806a-5b6e9f625de7"}
   - {company: Snowflake,  role: "Senior Product Manager - Enterprise AI",      url: "https://jobs.ashbyhq.com/snowflake/5ee9f5f0-2942-4c17-81bf-f2ffec3a64b9"}
+  # --- Tier 9 (applied 2026-08-16) ---
+  - {company: Vapi,       role: "Senior Product Manager",                      url: "https://jobs.ashbyhq.com/vapi/0ec4a11b-09ec-43ed-aa79-e4718bebec1e"}
+  - {company: Regal,      role: "Product Manager",                             url: "https://jobs.lever.co/regal.ai/fd0e9d70-942a-4850-bf1a-fa5372c486d4"}
