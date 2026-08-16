@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-08-16 01:00. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-08-16 15:12. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (79 companies)
 
@@ -32,14 +32,14 @@ _Auto-generated 2026-08-16 01:00. Watched via the public Greenhouse / Lever / As
 | Deepgram | auto | ashby | 7 / 82 |
 | Distyl | auto | ashby | 0 / 25 |
 | Dust | auto | ashby | 0 / 23 |
-| ElevenLabs | auto | ashby | 1 / 242 |
+| ElevenLabs | auto | ashby | 1 / 243 |
 | Enterpret | auto | greenhouse | 1 / 14 |
 | Exa | auto | ashby | 0 / 50 |
-| Figure | curated | greenhouse | 0 / 17 |
+| Figure | curated | greenhouse | 0 / 16 |
 | Fivetran | auto | greenhouse | 20 / 230 |
 | Genspark | auto | ashby | 2 / 10 |
 | Glean | curated | greenhouse | 16 / 112 |
-| Gong | auto | greenhouse | 5 / 97 |
+| Gong | auto | greenhouse | 5 / 98 |
 | Harvey | curated | ashby | 55 / 393 |
 | Hebbia | curated | ashby | 2 / 22 |
 | Hex | auto | greenhouse | 3 / 29 |
