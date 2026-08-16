@@ -1,8 +1,8 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-08-16 00:56. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-08-16 01:00. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (76 companies)
+## ✅ Watching (79 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
@@ -44,11 +44,14 @@ _Auto-generated 2026-08-16 00:56. Watched via the public Greenhouse / Lever / As
 | Hebbia | curated | ashby | 2 / 22 |
 | Hex | auto | greenhouse | 3 / 29 |
 | Hightouch | curated | greenhouse | 7 / 73 |
+| Hippocratic AI | curated | ashby | 8 / 78 |
 | Imbue | auto | greenhouse | 1 / 2 |
 | Level AI | auto | lever | 1 / 20 |
 | Liquid AI | auto | ashby | 1 / 2 |
 | Lorikeet | auto | ashby | 0 / 10 |
+| Luma AI | curated | ashby | 0 / 50 |
 | Lyft | curated | greenhouse | 14 / 171 |
+| Magic | curated | ashby | 0 / 10 |
 | Mercor | auto | ashby | 11 / 85 |
 | Mistral | curated | lever | 0 / 0 |
 | Modal | auto | ashby | 1 / 30 |
@@ -88,8 +91,8 @@ _Auto-generated 2026-08-16 00:56. Watched via the public Greenhouse / Lever / As
 
 ## ❌ Not watchable by this tool
 
-**Own career site (not on these APIs):** Google, Waymo (Alphabet), Nvidia (Workday), AMD (Workday), Uber (custom), Census (Breezy HR), Chef Robotics (Gem), Cognigy (custom widget), Contextual AI (custom Next.js), Crescendo (custom Webflow), EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)
+**Own career site (not on these APIs):** Google, Waymo (Alphabet), Nvidia (Workday), AMD (Workday), Uber (custom), Census (Breezy HR), Chef Robotics (Gem), Cognigy (custom widget), Contextual AI (custom Next.js), Crescendo (custom Webflow), EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw), Rippling (custom Next.js — unsurprising, they build HR/ATS software themselves)
 
 **Migrated off / no longer served by the public API:** RudderStack, Snowplow, Forethought, dbt Labs, Fireworks AI, Aurora Innovation
 
-**No public Greenhouse/Lever/Ashby board found:** AI21, Adept, Hippocratic AI, Luma AI, Magic, Rippling, Skild AI, Windsurf/Codeium
+**No public Greenhouse/Lever/Ashby board found:** AI21, Adept, Skild AI, Windsurf/Codeium

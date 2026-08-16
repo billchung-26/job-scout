@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-08-16 00:56. 226 roles · 33 applied · 255 sunset (>30d) hidden._
+_Updated 2026-08-16 01:00. 234 roles · 33 applied · 255 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -85,6 +85,14 @@ _Updated 2026-08-16 00:56. 226 roles · 33 applied · 255 sunset (>30d) hidden._
 | ⭐ | Anthropic | [Program Manager, GTM Systems ](https://job-boards.greenhouse.io/anthropic/jobs/5363352008) | San Francisco, CA | New York City, NY | Seattle, WA |  | 2026-07-20 | 27d |
 | ⭐ | ElevenLabs | [GTM Enablement - Expansion](https://jobs.ashbyhq.com/elevenlabs/eee2abfb-bd2f-410d-a339-3923e9c95043) | United States |  | 2026-07-20 | 27d |
 | ⭐ | OpenAI | [Compensation Business Partner, GTM ](https://jobs.ashbyhq.com/openai/f4720507-3c44-4162-af21-206ac3a78007) | San Francisco |  | 2026-07-18 | 29d |
+| — | Hippocratic AI | [Customer Success Executive (Central Region)](https://jobs.ashbyhq.com/Hippocratic%20AI/e7459801-68da-46ab-b018-6ec2b0e2affc) 🆕 | United States |  | 2026-08-16 | 0d |
+| — | Hippocratic AI | [Customer Success Executive (Columbus, OH)](https://jobs.ashbyhq.com/Hippocratic%20AI/242f66f2-d9a9-4397-9955-d25d178ff908) 🆕 | Columbus, OH |  | 2026-08-16 | 0d |
+| — | Hippocratic AI | [Customer Success Executive (East Region)](https://jobs.ashbyhq.com/Hippocratic%20AI/09aac763-09b7-4de2-ae6b-8a437e4599a0) 🆕 | United States |  | 2026-08-16 | 0d |
+| — | Hippocratic AI | [Customer Success Executive (West Region)](https://jobs.ashbyhq.com/Hippocratic%20AI/99110206-a813-4040-a64c-f0ad6d876197) 🆕 | United States |  | 2026-08-16 | 0d |
+| — | Hippocratic AI | [Customer Success Executive - Payors](https://jobs.ashbyhq.com/Hippocratic%20AI/599adb4a-842b-498b-8b54-be24a7bb2790) 🆕 | United States |  | 2026-08-16 | 0d |
+| — | Hippocratic AI | [Customer Success Executive, Payors (Seattle, WA)](https://jobs.ashbyhq.com/Hippocratic%20AI/ce3b6be3-ab4a-4ed9-b44c-9935817ecd86) 🆕 | Seattle, WA |  | 2026-08-16 | 0d |
+| — | Hippocratic AI | [VP of Customer Success (Columbus, OH)](https://jobs.ashbyhq.com/Hippocratic%20AI/fe7af82d-2a95-4999-a5c3-ab5ab98ae5f5) 🆕 | Columbus, OH |  | 2026-08-16 | 0d |
+| — | Hippocratic AI | [VP, Customer Success, Payors (Seattle, WA)](https://jobs.ashbyhq.com/Hippocratic%20AI/d83d548f-4b0d-4989-9433-161aef869845) 🆕 | Seattle, WA |  | 2026-08-16 | 0d |
 | — | Suno | [Product Manager, ML Research](https://jobs.ashbyhq.com/suno/6d3fe0a1-6d85-4e72-abe9-09f782cb13c2) 🆕 | Boston |  | 2026-08-16 | 0d |
 | — | Suno | [Product Manager, Mobile Creation](https://jobs.ashbyhq.com/suno/b446cbad-7124-4c53-b417-ce49038609af) 🆕 | Los Angeles |  | 2026-08-16 | 0d |
 | — | Suno | [Staff Product Manager](https://jobs.ashbyhq.com/suno/8827d2bd-6676-4f4d-8877-bd662353ef9a) 🆕 | Los Angeles |  | 2026-08-16 | 0d |

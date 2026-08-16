@@ -140,6 +140,17 @@ companies:
     ats: greenhouse
     slug: lyft
 
+  # ---- Added 2026-08-16 ----
+  - name: Hippocratic AI     # healthcare vertical AI <- heavy Customer Success volume (18 matches)
+    ats: ashby
+    slug: "Hippocratic AI"   # yes, the literal slug has a space in it
+  - name: Luma AI            # generative video AI <- strong PM fit (Growth, Enterprise, Core Product)
+    ats: ashby
+    slug: lumaai
+  - name: Magic              # AI coding lab <- 0 matches today, still worth tracking as they grow
+    ats: ashby
+    slug: magic.dev
+
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
 #  see NOT_WATCHABLE in scout.py / the "Not watchable" section of watchlist.md

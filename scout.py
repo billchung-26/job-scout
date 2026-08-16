@@ -61,12 +61,12 @@ NOT_WATCHABLE = [
      ["Google", "Waymo (Alphabet)", "Nvidia (Workday)", "AMD (Workday)", "Uber (custom)",
       "Census (Breezy HR)", "Chef Robotics (Gem)", "Cognigy (custom widget)",
       "Contextual AI (custom Next.js)", "Crescendo (custom Webflow)",
-      "EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)"]),
+      "EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)",
+      "Rippling (custom Next.js — unsurprising, they build HR/ATS software themselves)"]),
     ("Migrated off / no longer served by the public API",
      ["RudderStack", "Snowplow", "Forethought", "dbt Labs", "Fireworks AI", "Aurora Innovation"]),
     ("No public Greenhouse/Lever/Ashby board found",
-     ["AI21", "Adept", "Hippocratic AI", "Luma AI", "Magic", "Rippling",
-      "Skild AI", "Windsurf/Codeium"]),
+     ["AI21", "Adept", "Skild AI", "Windsurf/Codeium"]),
 ]
 
 
@@ -79,7 +79,7 @@ def _get(url):
 
 
 def fetch_greenhouse(slug):
-    data = _get("https://boards-api.greenhouse.io/v1/boards/%s/jobs" % slug)
+    data = _get("https://boards-api.greenhouse.io/v1/boards/%s/jobs" % urllib.parse.quote(slug))
     return [{
         "id": str(j.get("id")),
         "title": j.get("title", ""),
@@ -89,7 +89,7 @@ def fetch_greenhouse(slug):
 
 
 def fetch_lever(slug):
-    data = _get("https://api.lever.co/v0/postings/%s?mode=json" % slug)
+    data = _get("https://api.lever.co/v0/postings/%s?mode=json" % urllib.parse.quote(slug))
     out = []
     for j in data:
         cats = j.get("categories") or {}
@@ -103,7 +103,7 @@ def fetch_lever(slug):
 
 
 def fetch_ashby(slug):
-    data = _get("https://api.ashbyhq.com/posting-api/job-board/%s" % slug)
+    data = _get("https://api.ashbyhq.com/posting-api/job-board/%s" % urllib.parse.quote(slug))
     return [{
         "id": str(j.get("id")),
         "title": j.get("title", ""),
