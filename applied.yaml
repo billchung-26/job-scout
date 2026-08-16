@@ -48,3 +48,6 @@ applied:
   # --- Tier 9 (applied 2026-08-16) ---
   - {company: Vapi,       role: "Senior Product Manager",                      url: "https://jobs.ashbyhq.com/vapi/0ec4a11b-09ec-43ed-aa79-e4718bebec1e"}
   - {company: Regal,      role: "Product Manager",                             url: "https://jobs.lever.co/regal.ai/fd0e9d70-942a-4850-bf1a-fa5372c486d4"}
+  - {company: Harvey,     role: "Senior Product Operations Manager, Data",     url: "https://jobs.ashbyhq.com/harvey/94495873-2f90-4c42-a45d-b10b2b0756a7"}
+  - {company: Harvey,     role: "Senior Product Operations Manager (New York)", url: "https://jobs.ashbyhq.com/harvey/dc967ec2-5fd8-4a92-9c81-513265cec47e"}
+  - {company: Harvey,     role: "Senior Product Operations Manager (San Francisco)", url: "https://jobs.ashbyhq.com/harvey/be87aefc-9e03-4294-a86f-a4c5e9fddb44"}

@@ -1,6 +1,6 @@
 # Job recommendations (live)
 
-_Updated 2026-08-16 00:27. 226 roles · 30 applied · 255 sunset (>30d) hidden._
+_Updated 2026-08-16 00:31. 226 roles · 33 applied · 255 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
@@ -16,7 +16,6 @@ _Updated 2026-08-16 00:27. 226 roles · 30 applied · 255 sunset (>30d) hidden._
 | ⭐⭐ | Liquid AI | [Member of GTM - Head of Growth](https://jobs.ashbyhq.com/liquid/34fb0997-42ff-49f3-bcf3-231a54d204db) | New York City |  | 2026-07-20 | 27d |
 | ⭐⭐ | Sierra | [GTM Operations Analyst, Agent Development](https://jobs.ashbyhq.com/sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872) | San Francisco, CA |  | 2026-07-20 | 27d |
 | ⭐⭐ | Sierra | [GTM Operations, Agent Development Enablement](https://jobs.ashbyhq.com/sierra/84a9ecff-115c-452f-9f1f-1b0b142e256f) | San Francisco, CA |  | 2026-07-20 | 27d |
-| ⭐ | Harvey | [Senior Product Operations Manager, Data](https://jobs.ashbyhq.com/harvey/94495873-2f90-4c42-a45d-b10b2b0756a7) | San Francisco |  | 2026-08-15 | 1d |
 | ⭐ | Sigma Computing | [Enterprise Customer Success Manager - East](https://job-boards.greenhouse.io/sigmacomputing/jobs/7600033003) | New York |  | 2026-08-15 | 1d |
 | ⭐ | Fivetran | [Senior Product Manager, Enterprise & Deployments](https://www.fivetran.com/careers/job?gh_jid=7818304003) | USA - New York |  | 2026-08-14 | 2d |
 | ⭐ | Fivetran | [Senior Product Manager, Enterprise & Deployments](https://www.fivetran.com/careers/job?gh_jid=7865148003) | Denver, Colorado, United States, AMER |  | 2026-08-14 | 2d |
@@ -94,7 +93,6 @@ _Updated 2026-08-16 00:27. 226 roles · 30 applied · 255 sunset (>30d) hidden._
 | — | Harvey | [Senior Product Operations Manager, Integrations](https://jobs.ashbyhq.com/harvey/514b90b4-5b4c-4e64-bc9a-2ab2ca6cf456) | New York |  | 2026-08-15 | 1d |
 | — | Nuro | [Talent Management Program Manager](https://nuro.ai/careersitem?gh_jid=8130943) | Mountain View, California (HQ) |  | 2026-08-15 | 1d |
 | — | Decagon | [Technical Program Manager](https://jobs.ashbyhq.com/decagon/d32da775-c5ea-420d-a07e-13412044c27b) | San Francisco |  | 2026-08-14 | 2d |
-| — | Harvey | [Senior Product Operations Manager](https://jobs.ashbyhq.com/harvey/dc967ec2-5fd8-4a92-9c81-513265cec47e) | New York |  | 2026-08-14 | 2d |
 | — | Hightouch | [Customer Success Engineer ](https://job-boards.greenhouse.io/hightouch/jobs/5770046004) | Remote (Europe) |  | 2026-08-14 | 2d |
 | — | Anthropic | [Executive Services Program Manager](https://job-boards.greenhouse.io/anthropic/jobs/5385626008) | Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC |  | 2026-08-13 | 3d |
 | — | Anthropic | [Manager, Customer Success - Beneficial Deployments](https://job-boards.greenhouse.io/anthropic/jobs/5383204008) | San Francisco, CA | New York City, NY |  | 2026-08-13 | 3d |
@@ -185,7 +183,6 @@ _Updated 2026-08-16 00:27. 226 roles · 30 applied · 255 sunset (>30d) hidden._
 | — | Anthropic | [Product Operations Manager, Embedded](https://job-boards.greenhouse.io/anthropic/jobs/5179891008) | San Francisco, CA | New York City, NY | Seattle, WA |  | 2026-07-21 | 26d |
 | — | Databricks | [Sr Staff Product Operations Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8524422002) | Bellevue, Washington; Seattle, Washington |  | 2026-07-21 | 26d |
 | — | Databricks | [Sr Staff Product Operations Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8524420002) | Mountain View, California; San Francisco, California |  | 2026-07-21 | 26d |
-| — | Harvey | [Senior Product Operations Manager](https://jobs.ashbyhq.com/harvey/be87aefc-9e03-4294-a86f-a4c5e9fddb44) | San Francisco |  | 2026-07-21 | 26d |
 | — | Harvey | [Senior Product Operations Manager, Evaluation](https://jobs.ashbyhq.com/harvey/70ac0c85-e987-4657-aae4-95337e344d4e) | San Francisco |  | 2026-07-21 | 26d |
 | — | Mercor | [Product Operations Manager](https://jobs.ashbyhq.com/mercor/1207581a-0df5-4814-a5e1-459ac34c95ac) | San Francisco |  | 2026-07-21 | 26d |
 | — | Suno | [Creator Program Manager](https://jobs.ashbyhq.com/suno/1b305da3-8cdd-403a-a02a-106eaba028d0) | NYC |  | 2026-07-21 | 26d |
@@ -205,6 +202,7 @@ _Updated 2026-08-16 00:27. 226 roles · 30 applied · 255 sunset (>30d) hidden._
 | ⭐⭐ | Snowflake | [Senior Product Manager - Enterprise AI](https://jobs.ashbyhq.com/snowflake/5ee9f5f0-2942-4c17-81bf-f2ffec3a64b9) | US-CA-Menlo Park | ✅ | 2026-07-30 | 17d |
 | ⭐⭐ | Anthropic | [Product Management, Human Data Platform](https://job-boards.greenhouse.io/anthropic/jobs/5195866008) | San Francisco, CA | New York City, NY | ✅ | 2026-07-05 | 42d |
 | ⭐⭐ | Cresta | [Forward Deployed Product Manager, AI Agent](https://job-boards.greenhouse.io/cresta/jobs/4738837008) | United States (Remote) | ✅ | 2026-07-05 | 42d |
+| ⭐ | Harvey | [Senior Product Operations Manager, Data](https://jobs.ashbyhq.com/harvey/94495873-2f90-4c42-a45d-b10b2b0756a7) | San Francisco | ✅ | 2026-08-15 | 1d |
 | ⭐ | Deepgram | [Senior Product Manager, Enterprise](https://jobs.ashbyhq.com/deepgram/3a12f539-7734-46fa-9e3b-28e041e56074) | USA | Remote | ✅ | 2026-08-04 | 12d |
 | ⭐ | Deepgram | [Senior Program Manager, Data Operations](https://jobs.ashbyhq.com/deepgram/681c5324-1234-4222-b783-a8a7a9440005) | USA | Remote | ✅ | 2026-08-04 | 12d |
 | ⭐ | Baseten | [Product Manager, Inference Platform](https://jobs.ashbyhq.com/baseten/3027e0bc-731f-4fef-b081-2031590766fd) | San Francisco | ✅ | 2026-07-31 | 16d |
@@ -217,11 +215,13 @@ _Updated 2026-08-16 00:27. 226 roles · 30 applied · 255 sunset (>30d) hidden._
 | ⭐ | Glean | [Product Manager, Enterprise Intelligence](https://job-boards.greenhouse.io/gleanwork/jobs/4701912005) | San Francisco, CA | ✅ | 2026-07-05 | 42d |
 | ⭐ | Hightouch | [Lead Product Manager, Agentic Personalization](https://job-boards.greenhouse.io/hightouch/jobs/5834919004) | SF, NY, Remote | ✅ | 2026-07-05 | 42d |
 | ⭐ | Sierra | [Product Manager, Agent Studio](https://jobs.ashbyhq.com/sierra/5aaa2eeb-92bc-4b0a-901e-8e091eff819e) | San Francisco, CA | ✅ | 2026-07-05 | 42d |
+| — | Harvey | [Senior Product Operations Manager](https://jobs.ashbyhq.com/harvey/dc967ec2-5fd8-4a92-9c81-513265cec47e) | New York | ✅ | 2026-08-14 | 2d |
 | — | Vapi | [Senior Product Manager](https://jobs.ashbyhq.com/vapi/0ec4a11b-09ec-43ed-aa79-e4718bebec1e) | San Francisco | ✅ | 2026-08-14 | 2d |
 | — | Regal | [Product Manager](https://jobs.lever.co/regal.ai/fd0e9d70-942a-4850-bf1a-fa5372c486d4) | New York, New York | ✅ | 2026-08-12 | 4d |
 | — | Omni | [Senior Product Manager](https://jobs.ashbyhq.com/omni/fab27855-8dc6-4947-8a75-ec8fb1835717) | San Francisco, CA | ✅ | 2026-08-08 | 8d |
 | — | Constructor | [Senior Product Manager: Recall](https://jobs.ashbyhq.com/constructor/7bc86d05-145d-4b7c-aa6e-b0b207d46117) | Remote - EMEA | ✅ | 2026-07-30 | 17d |
 | — | Snowflake | [Senior Product Manager - Openflow](https://jobs.ashbyhq.com/snowflake/61d48d79-aeb8-45fb-806a-5b6e9f625de7) | US-CA-Menlo Park | ✅ | 2026-07-30 | 17d |
+| — | Harvey | [Senior Product Operations Manager](https://jobs.ashbyhq.com/harvey/be87aefc-9e03-4294-a86f-a4c5e9fddb44) | San Francisco | ✅ | 2026-07-21 | 26d |
 | — | Suno | [Product Manager, Web Creation](https://jobs.ashbyhq.com/suno/bae3aa2a-ba82-4015-9f62-2fd0aa35aaee) | NYC | ✅ | 2026-07-21 | 26d |
 | — | Databricks | [Associate Product Manager, New Grad (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) | Bellevue, Washington; Mountain View, California; San Francisco, California | ✅ | 2026-07-16 | 31d |
 | — | Hex | [Product Manager](https://hex.tech/careers/5678156004/?gh_jid=5678156004) | SF  | ✅ | 2026-07-15 | 32d |
