@@ -524,8 +524,8 @@ def update_recommendations(all_matching):
     with open(REC_STATE_FILE, "w") as f:
         json.dump(new_state, f, indent=2)
 
-    # not-applied first, then by fit desc, then freshest
-    records.sort(key=lambda r: (r["applied"], -r["score"], r["age"], r["company"].lower()))
+    # not-applied first, then newest (first seen) first, then by fit desc
+    records.sort(key=lambda r: (r["applied"], r["age"], -r["score"], r["company"].lower()))
 
     _write_recs_md(records, n_applied, n_sunset)
     _write_recs_csv(records)
