@@ -54,6 +54,7 @@ APPLIED_FILE = os.path.join(HERE, "applied.yaml")
 SUNSET_DAYS = 30
 TIMEOUT = 20
 PROMOTE_PER_RUN = 2
+LOW_QUEUE_THRESHOLD = 4  # ~2 days of promotions left; nudge to refill before it hits 0
 
 # Companies known to be unwatchable via these APIs (for the watchlist report).
 NOT_WATCHABLE = [
@@ -270,6 +271,25 @@ def notify_promotions(promoted, secrets):
             _tg_send(token, chat_id, text)
         except Exception as e:  # noqa
             print("Telegram promo send failed: %s" % e)
+
+
+def notify_low_queue(remaining, secrets):
+    tg = (secrets or {}).get("telegram") or {}
+    token, chat_id = tg.get("bot_token"), tg.get("chat_id")
+    if remaining <= 0:
+        text = ("⚠️ <b>Discovery queue is empty.</b> No more startups to auto-promote — "
+                "ask Claude to find and add more candidates.")
+    else:
+        days_left = remaining // PROMOTE_PER_RUN
+        text = ("⚠️ <b>Discovery queue running low</b> (%d left, ~%d day%s of promotions remaining) — "
+                "ask Claude to refill it with new startup candidates." %
+                (remaining, days_left, "" if days_left == 1 else "s"))
+    print("Low queue: %d remaining." % remaining)
+    if token and chat_id:
+        try:
+            _tg_send(token, chat_id, text)
+        except Exception as e:  # noqa
+            print("Telegram low-queue send failed: %s" % e)
 
 
 # ---------------------------------------------------------------- discovery growth
@@ -680,6 +700,14 @@ def main():
             all_matching.extend((c["name"], j) for j in wanted)
             report.append((c["name"], wanted, True))
             new_state[c["name"]] = c.get("_all_ids") or []
+
+        # queue only shrinks here, so this is the only point it can cross the threshold
+        remaining = 0
+        if os.path.exists(QUEUE_FILE):
+            with open(QUEUE_FILE) as f:
+                remaining = len(((yaml.safe_load(f) or {}).get("queue")) or [])
+        if remaining <= LOW_QUEUE_THRESHOLD:
+            notify_low_queue(remaining, secrets)
 
     save_state(new_state)
     write_digest(report, errors)

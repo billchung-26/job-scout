@@ -1,14 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-# Added 2026-08-19 — mobility + energy startups, per request (queue had run dry).
 queue:
-- name: Kodiak Robotics
-  ats: greenhouse
-  slug: kodiak
-  related: autonomous trucking, like Nuro/Zoox/Aurora — 7 matches incl. actual "Senior Product Manager"
-- name: Base Power
-  ats: ashby
-  slug: base-power
-  related: home battery/energy — strong GTM-titled roles
 - name: Span
   ats: ashby
   slug: span

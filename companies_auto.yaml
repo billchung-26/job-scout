@@ -133,3 +133,9 @@ companies:
 - name: Level AI
   ats: lever
   slug: levelai
+- name: Kodiak Robotics
+  ats: greenhouse
+  slug: kodiak
+- name: Base Power
+  ats: ashby
+  slug: base-power
