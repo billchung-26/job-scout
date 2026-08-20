@@ -51,3 +51,7 @@ applied:
   - {company: Harvey,     role: "Senior Product Operations Manager, Data",     url: "https://jobs.ashbyhq.com/harvey/94495873-2f90-4c42-a45d-b10b2b0756a7"}
   - {company: Harvey,     role: "Senior Product Operations Manager (New York)", url: "https://jobs.ashbyhq.com/harvey/dc967ec2-5fd8-4a92-9c81-513265cec47e"}
   - {company: Harvey,     role: "Senior Product Operations Manager (San Francisco)", url: "https://jobs.ashbyhq.com/harvey/be87aefc-9e03-4294-a86f-a4c5e9fddb44"}
+  # --- Tier 10 (applied 2026-08-20) ---
+  - {company: Airbnb,      role: "Program Manager",                            url: "https://careers.airbnb.com/positions/7944540?gh_jid=7944540"}
+  - {company: Kodiak Robotics, role: "Sr Product Manager, Assisted Autonomy",  url: "https://job-boards.greenhouse.io/kodiak/jobs/4305442009"}
+  - {company: Kodiak Robotics, role: "Senior Product Manager",                 url: "https://job-boards.greenhouse.io/kodiak/jobs/4305450009"}
