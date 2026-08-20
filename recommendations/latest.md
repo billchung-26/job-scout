@@ -1,11 +1,11 @@
 # Job recommendations (live)
 
-_Updated 2026-08-20 01:27. 263 roles · 35 applied · 253 sunset (>30d) hidden._
+_Updated 2026-08-20 01:30. 272 roles · 37 applied · 253 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
 | ⭐⭐ | Anthropic | [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008) 🆕 | San Francisco, CA |  | 2026-08-20 | 0d |
-| ⭐ | Base Power | [Growth Product Lead](https://jobs.ashbyhq.com/base-power/a4a691a7-0982-4c58-96b9-b925cb4a1c31) 🆕 | Austin, TX |  | 2026-08-20 | 0d |
+| ⭐ | Anthropic | [AI Operations Engineer, Partnerships](https://job-boards.greenhouse.io/anthropic/jobs/5391151008) 🆕 | San Francisco, CA |  | 2026-08-20 | 0d |
 | ⭐ | Base Power | [Operations Engineer, GTM](https://jobs.ashbyhq.com/base-power/454d2748-2eea-4742-a8a2-329d0b7da6b7) 🆕 | Austin, TX |  | 2026-08-20 | 0d |
 | ⭐ | Base Power | [GTM Strategy and Operations](https://jobs.ashbyhq.com/base-power/17caec05-bf2f-48e6-bbc6-8108f0771e20) 🆕 | Austin, TX |  | 2026-08-20 | 0d |
 | ⭐ | OpenAI | [Program Manager, Human Data](https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213) 🆕 | San Francisco |  | 2026-08-20 | 0d |
@@ -13,8 +13,15 @@ _Updated 2026-08-20 01:27. 263 roles · 35 applied · 253 sunset (>30d) hidden._
 | ⭐ | Sigma Computing | [Enterprise Customer Success Manager - NY](https://job-boards.greenhouse.io/sigmacomputing/jobs/7815448003) 🆕 | New York |  | 2026-08-20 | 0d |
 | — | Anthropic | [Product Manager, Public Sector](https://job-boards.greenhouse.io/anthropic/jobs/5393452008) 🆕 | Remote-Friendly (Travel-Required) |  Washington, DC |  | 2026-08-20 | 0d |
 | — | Anthropic | [Technical Program Manager, Revenue Operations](https://job-boards.greenhouse.io/anthropic/jobs/5390964008) 🆕 | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY |  | 2026-08-20 | 0d |
+| — | Cohere | [Revenue Operations Analyst (Analytics)](https://jobs.ashbyhq.com/cohere/cd3eacfe-1169-4df0-8164-93a857d5ddf0) 🆕 | New York |  | 2026-08-20 | 0d |
+| — | Decagon | [Revenue Operations Associate](https://jobs.ashbyhq.com/decagon/a37149ba-06c8-4b3a-8965-4c4eff89bee7) 🆕 | San Francisco |  | 2026-08-20 | 0d |
+| — | Fivetran | [Senior Revenue Operations Manager, Global Commercial Expansion](https://www.fivetran.com/careers/job?gh_jid=7786001003) 🆕 | Denver, Colorado, United States, AMER |  | 2026-08-20 | 0d |
 | — | Kodiak Robotics | [Staff Product Manager](https://job-boards.greenhouse.io/kodiak/jobs/4308530009) 🆕 | Mountain View, CA |  | 2026-08-20 | 0d |
+| — | Modal | [Revenue Operations](https://jobs.ashbyhq.com/modal/a5d0e0e2-8d15-491d-9169-64be23f62034) 🆕 | San Francisco |  | 2026-08-20 | 0d |
+| — | OpenAI | [Revenue Operations Business Partner - Technical Success](https://jobs.ashbyhq.com/openai/d929aa17-a339-4b96-b0ee-b0fc0ed9218c) 🆕 | San Francisco |  | 2026-08-20 | 0d |
+| — | Perplexity | [Revenue Operations Analyst](https://jobs.ashbyhq.com/perplexity/03f8f956-1cb3-4945-81d1-73b7ff048d4e) 🆕 | San Francisco |  | 2026-08-20 | 0d |
 | — | Sigma Computing | [Commercial Customer Success Manager - SF](https://job-boards.greenhouse.io/sigmacomputing/jobs/7819122003) 🆕 | San Francisco, CA |  | 2026-08-20 | 0d |
+| — | Sigma Computing | [Revenue Operations Manager ](https://job-boards.greenhouse.io/sigmacomputing/jobs/7750787003) 🆕 | New York City, NY |  | 2026-08-20 | 0d |
 | ⭐ | Cohere | [Technical Program Manager, AI Delivery](https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e) | United States |  | 2026-08-19 | 1d |
 | ⭐ | Fivetran | [Senior Product Manager, Enterprise & Deployments](https://www.fivetran.com/careers/job?gh_jid=7865248003) | USA - Austin (dbt) |  | 2026-08-19 | 1d |
 | ⭐ | OpenAI | [Technical Program Manager, AI Safety & Safeguards](https://jobs.ashbyhq.com/openai/3a05c5d7-fdd9-4e0e-823a-2ae08b59958b) | San Francisco |  | 2026-08-19 | 1d |
@@ -232,6 +239,8 @@ _Updated 2026-08-20 01:27. 263 roles · 35 applied · 253 sunset (>30d) hidden._
 | — | Suno | [Creator Program Manager](https://jobs.ashbyhq.com/suno/1b305da3-8cdd-403a-a02a-106eaba028d0) | NYC |  | 2026-07-21 | 30d |
 | — | Suno | [Staff Product Manager](https://jobs.ashbyhq.com/suno/ea10a217-1e03-4620-b5bd-e43b67dadbb2) | NYC |  | 2026-07-21 | 30d |
 | — | World Labs | [Senior Product Engineer (Tech Lead)](https://job-boards.greenhouse.io/worldlabs/jobs/4089337009) | San Francisco |  | 2026-07-21 | 30d |
+| ⭐ | Base Power | [Growth Product Lead](https://jobs.ashbyhq.com/base-power/a4a691a7-0982-4c58-96b9-b925cb4a1c31) | Austin, TX | ✅ | 2026-08-20 | 0d |
+| ⭐ | Databricks | [AI Operations](https://databricks.com/company/careers/open-positions/job?gh_jid=8397501002) | United States | ✅ | 2026-08-20 | 0d |
 | — | Airbnb | [Program Manager](https://careers.airbnb.com/positions/7944540?gh_jid=7944540) | United States | ✅ | 2026-08-20 | 0d |
 | — | Kodiak Robotics | [Senior Product Manager](https://job-boards.greenhouse.io/kodiak/jobs/4305450009) | Mountain View, CA | ✅ | 2026-08-20 | 0d |
 | — | Kodiak Robotics | [Sr Product Manager, Assisted Autonomy](https://job-boards.greenhouse.io/kodiak/jobs/4305442009) | Mountain View, CA | ✅ | 2026-08-20 | 0d |

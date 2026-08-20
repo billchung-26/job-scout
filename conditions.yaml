@@ -19,6 +19,8 @@ include_title_keywords:
   - program manager      # added per request (also catches "Technical Program Manager")
   - product operations   # added per request
   - program operations   # added per request
+  - ai operations        # added per request (e.g. Databricks "AI Operations")
+  - revenue operations   # same flavor as ai operations, common at GTM-heavy AI cos
   - gtm
   - go-to-market
 
