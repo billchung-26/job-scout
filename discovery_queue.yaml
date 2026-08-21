@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Span
-  ats: ashby
-  slug: span
-  related: home electrification/energy — has real PM roles
-- name: Redwood Materials
-  ats: greenhouse
-  slug: redwoodmaterials
-  related: battery recycling/materials (Tesla co-founder JB Straubel)
 - name: Form Energy
   ats: ashby
   slug: formenergy

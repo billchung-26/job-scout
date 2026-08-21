@@ -139,3 +139,9 @@ companies:
 - name: Base Power
   ats: ashby
   slug: base-power
+- name: Span
+  ats: ashby
+  slug: span
+- name: Redwood Materials
+  ats: greenhouse
+  slug: redwoodmaterials
