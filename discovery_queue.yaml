@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Form Energy
-  ats: ashby
-  slug: formenergy
-  related: grid-scale iron-air battery storage
-- name: Motional
-  ats: greenhouse
-  slug: motional
-  related: robotaxi JV (Hyundai/Aptiv), like Nuro/Zoox/Aurora
 - name: Serve Robotics
   ats: ashby
   slug: serverobotics

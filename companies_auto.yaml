@@ -145,3 +145,9 @@ companies:
 - name: Redwood Materials
   ats: greenhouse
   slug: redwoodmaterials
+- name: Form Energy
+  ats: ashby
+  slug: formenergy
+- name: Motional
+  ats: greenhouse
+  slug: motional
