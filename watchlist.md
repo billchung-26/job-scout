@@ -1,8 +1,8 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-08-22 15:11. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-08-23 15:13. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (86 companies)
+## ✅ Watching (88 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
@@ -13,10 +13,10 @@ _Auto-generated 2026-08-22 15:11. Watched via the public Greenhouse / Lever / As
 | Airbyte | auto | ashby | 0 / 11 |
 | Ambience | auto | ashby | 1 / 18 |
 | Amperity | curated | greenhouse | 2 / 18 |
-| Anthropic | curated | greenhouse | 55 / 517 |
+| Anthropic | curated | greenhouse | 55 / 518 |
 | Applied Intuition | curated | ashby | 0 / 295 |
 | Augment | curated | greenhouse | 0 / 2 |
-| Base Power | auto | ashby | 3 / 177 |
+| Base Power | auto | ashby | 3 / 179 |
 | Baseten | auto | ashby | 5 / 76 |
 | Bland | curated | ashby | 1 / 17 |
 | Bloomreach | curated | greenhouse | 3 / 67 |
@@ -29,25 +29,25 @@ _Auto-generated 2026-08-22 15:11. Watched via the public Greenhouse / Lever / As
 | Credal | auto | ashby | 0 / 5 |
 | Cresta | curated | greenhouse | 5 / 95 |
 | Cursor (Anysphere) | auto | ashby | 6 / 113 |
-| Databricks | curated | greenhouse | 42 / 819 |
+| Databricks | curated | greenhouse | 42 / 821 |
 | Decagon | curated | ashby | 12 / 137 |
-| Deepgram | auto | ashby | 8 / 87 |
+| Deepgram | auto | ashby | 8 / 88 |
 | Distyl | auto | ashby | 0 / 25 |
 | Dust | auto | ashby | 0 / 23 |
-| ElevenLabs | auto | ashby | 1 / 255 |
+| ElevenLabs | auto | ashby | 1 / 254 |
 | Enterpret | auto | greenhouse | 1 / 18 |
 | Exa | auto | ashby | 0 / 50 |
 | Figure | curated | greenhouse | 0 / 15 |
 | Fivetran | auto | greenhouse | 28 / 242 |
-| Form Energy | auto (new today) | ashby | 0 / 183 |
+| Form Energy | auto | ashby | 0 / 183 |
 | Genspark | auto | ashby | 2 / 11 |
 | Glean | curated | greenhouse | 16 / 110 |
-| Gong | auto | greenhouse | 4 / 97 |
+| Gong | auto | greenhouse | 4 / 98 |
 | Harvey | curated | ashby | 47 / 360 |
 | Hebbia | curated | ashby | 2 / 22 |
 | Hex | auto | greenhouse | 3 / 29 |
 | Hightouch | curated | greenhouse | 7 / 73 |
-| Hippocratic AI | curated | ashby | 8 / 78 |
+| Hippocratic AI | curated | ashby | 3 / 63 |
 | Imbue | auto | greenhouse | 1 / 3 |
 | Kodiak Robotics | auto | greenhouse | 3 / 64 |
 | Level AI | auto | lever | 1 / 20 |
@@ -60,11 +60,11 @@ _Auto-generated 2026-08-22 15:11. Watched via the public Greenhouse / Lever / As
 | Mistral | curated | lever | 0 / 0 |
 | Modal | auto | ashby | 2 / 31 |
 | MotherDuck | auto | ashby | 0 / 7 |
-| Motional | auto (new today) | greenhouse | 3 / 82 |
+| Motional | auto | greenhouse | 3 / 82 |
 | Nuro | curated | greenhouse | 4 / 104 |
 | Observe.AI | auto | greenhouse | 0 / 18 |
 | Omni | auto | ashby | 2 / 24 |
-| OpenAI | curated | ashby | 61 / 754 |
+| OpenAI | curated | ashby | 61 / 750 |
 | OpenEvidence | auto | ashby | 0 / 7 |
 | Parloa | auto | greenhouse | 2 / 50 |
 | Perplexity | curated | ashby | 6 / 100 |
@@ -77,13 +77,15 @@ _Auto-generated 2026-08-22 15:11. Watched via the public Greenhouse / Lever / As
 | Replit | auto | ashby | 7 / 71 |
 | Rime | auto | ashby | 0 / 3 |
 | Sana | curated | ashby | 1 / 31 |
+| Serve Robotics | auto (new today) | ashby | 1 / 42 |
 | Sierra | curated | ashby | 15 / 193 |
 | Sigma Computing | auto | greenhouse | 8 / 65 |
 | Simon Data | auto | ashby | 0 / 2 |
 | Snowflake | curated | ashby | 29 / 392 |
 | Sourcegraph | curated | greenhouse | 1 / 8 |
 | Span | auto | ashby | 4 / 36 |
-| Suno | auto | ashby | 7 / 62 |
+| Suno | auto | ashby | 7 / 63 |
+| Terawatt Infrastructure | auto (new today) | lever | 1 / 5 |
 | Vapi | curated | ashby | 1 / 31 |
 | Vectara | auto | greenhouse | 0 / 3 |
 | Waabi | auto | lever | 2 / 70 |
@@ -93,10 +95,8 @@ _Auto-generated 2026-08-22 15:11. Watched via the public Greenhouse / Lever / As
 | xAI | curated | greenhouse | 2 / 259 |
 | Zoox | curated | lever | 31 / 239 |
 
-## ⏳ In discovery backlog — 4 left (~2 added/day)
+## ⏳ In discovery backlog — 2 left (~2 added/day)
 
-- Serve Robotics — sidewalk delivery robots, like Nuro
-- Terawatt Infrastructure — EV charging infra for fleets (very early stage, 5 openings)
 - Antora Energy — thermal battery storage for industrial heat (0 matches today, worth tracking)
 - Cavnue — smart infrastructure for autonomous vehicles (very early stage, 1 opening)
 

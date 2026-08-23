@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Serve Robotics
-  ats: ashby
-  slug: serverobotics
-  related: sidewalk delivery robots, like Nuro
-- name: Terawatt Infrastructure
-  ats: lever
-  slug: terawattinfrastructure
-  related: EV charging infra for fleets (very early stage, 5 openings)
 - name: Antora Energy
   ats: greenhouse
   slug: antora

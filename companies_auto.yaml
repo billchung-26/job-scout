@@ -151,3 +151,9 @@ companies:
 - name: Motional
   ats: greenhouse
   slug: motional
+- name: Serve Robotics
+  ats: ashby
+  slug: serverobotics
+- name: Terawatt Infrastructure
+  ats: lever
+  slug: terawattinfrastructure
