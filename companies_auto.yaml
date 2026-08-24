@@ -157,3 +157,9 @@ companies:
 - name: Terawatt Infrastructure
   ats: lever
   slug: terawattinfrastructure
+- name: Antora Energy
+  ats: greenhouse
+  slug: antora
+- name: Cavnue
+  ats: greenhouse
+  slug: cavnue

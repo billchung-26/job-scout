@@ -1,10 +1,2 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue:
-- name: Antora Energy
-  ats: greenhouse
-  slug: antora
-  related: thermal battery storage for industrial heat (0 matches today, worth tracking)
-- name: Cavnue
-  ats: greenhouse
-  slug: cavnue
-  related: smart infrastructure for autonomous vehicles (very early stage, 1 opening)
+queue: []
