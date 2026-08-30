@@ -1,20 +1,21 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-08-29 18:02. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-08-30 18:15. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (89 companies)
+## ✅ Watching (90 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
 | 1X | auto | ashby | 0 / 81 |
 | Abridge | auto | ashby | 6 / 42 |
 | Ada | curated | greenhouse | 0 / 8 |
+| Airbnb | curated | greenhouse | 14 / 170 |
 | Airbyte | auto | ashby | 0 / 11 |
 | Ambience | auto | ashby | 1 / 17 |
 | Amperity | curated | greenhouse | 2 / 19 |
 | Anthropic | curated | greenhouse | 61 / 571 |
 | Antora Energy | auto | greenhouse | 0 / 33 |
-| Applied Intuition | curated | ashby | 0 / 300 |
+| Applied Intuition | curated | ashby | 0 / 301 |
 | Augment | curated | greenhouse | 0 / 2 |
 | Base Power | auto | ashby | 3 / 180 |
 | Baseten | auto | ashby | 8 / 81 |
@@ -30,7 +31,7 @@ _Auto-generated 2026-08-29 18:02. Watched via the public Greenhouse / Lever / As
 | Credal | auto | ashby | 0 / 5 |
 | Cresta | curated | greenhouse | 5 / 95 |
 | Cursor (Anysphere) | auto | ashby | 6 / 121 |
-| Databricks | curated | greenhouse | 40 / 857 |
+| Databricks | curated | greenhouse | 40 / 856 |
 | Decagon | curated | ashby | 11 / 137 |
 | Deepgram | auto | ashby | 8 / 93 |
 | Distyl | auto | ashby | 0 / 29 |
@@ -43,7 +44,7 @@ _Auto-generated 2026-08-29 18:02. Watched via the public Greenhouse / Lever / As
 | Form Energy | auto | ashby | 0 / 184 |
 | Genspark | auto | ashby | 2 / 11 |
 | Glean | curated | greenhouse | 16 / 110 |
-| Gong | auto | greenhouse | 5 / 97 |
+| Gong | auto | greenhouse | 5 / 96 |
 | Harvey | curated | ashby | 44 / 350 |
 | Hebbia | curated | ashby | 2 / 23 |
 | Hex | auto | greenhouse | 3 / 28 |
@@ -54,18 +55,18 @@ _Auto-generated 2026-08-29 18:02. Watched via the public Greenhouse / Lever / As
 | Level AI | auto | lever | 1 / 20 |
 | Liquid AI | auto | ashby | 1 / 2 |
 | Lorikeet | auto | ashby | 0 / 10 |
-| Luma AI | curated | ashby | 0 / 49 |
+| Luma AI | curated | ashby | 0 / 48 |
 | Lyft | curated | greenhouse | 12 / 169 |
 | Magic | curated | ashby | 0 / 10 |
 | Mercor | auto | ashby | 13 / 92 |
 | Mistral | curated | lever | 0 / 0 |
 | Modal | auto | ashby | 2 / 31 |
 | MotherDuck | auto | ashby | 0 / 6 |
-| Motional | auto | greenhouse | 3 / 75 |
+| Motional | auto | greenhouse | 3 / 74 |
 | Nuro | curated | greenhouse | 3 / 101 |
 | Observe.AI | auto | greenhouse | 0 / 16 |
 | Omni | auto | ashby | 1 / 23 |
-| OpenAI | curated | ashby | 58 / 758 |
+| OpenAI | curated | ashby | 58 / 755 |
 | OpenEvidence | auto | ashby | 0 / 8 |
 | Parloa | auto | greenhouse | 2 / 49 |
 | Perplexity | curated | ashby | 6 / 97 |
