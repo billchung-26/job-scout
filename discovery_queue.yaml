@@ -1,2 +1,43 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue: []
+# Added 2026-08-31 — mix of mobility/energy, AI, and B2B SaaS, per request.
+queue:
+- name: Ramp
+  ats: ashby
+  slug: ramp
+  related: fintech spend management, hot/high-growth B2B SaaS — 14 matches incl. Technical Program Manager
+- name: Vanta
+  ats: ashby
+  slug: vanta
+  related: compliance/security SaaS, hot — 14 matches incl. Staff Product Manager, Data Platform
+- name: Attio
+  ats: ashby
+  slug: attio
+  related: modern CRM, hot B2B SaaS — 14 matches incl. Product Engineer, Customer Success
+- name: Linear
+  ats: ashby
+  slug: linear
+  related: project management SaaS, beloved by devs — 8 matches incl. Product Manager
+- name: Watershed
+  ats: ashby
+  slug: watershed
+  related: carbon accounting SaaS, well-funded — 5 matches incl. GTM Engineer, Customer Success
+- name: Character.AI
+  ats: ashby
+  slug: character
+  related: consumer AI chat, hot — 3 Technical Program Manager matches
+- name: Thinking Machines Lab
+  ats: ashby
+  slug: thinkingmachines
+  related: Mira Murati's foundation model lab, huge funding round — Product Manager, Deployment
+- name: Archer Aviation
+  ats: greenhouse
+  slug: archer
+  related: eVTOL air taxi, mobility (0 matches today, very small board — 1 opening)
+- name: Verkor
+  ats: lever
+  slug: verkor
+  related: EU battery gigafactory, energy (0 matches today, 49 openings — mostly EU/technical)
+- name: Group14 Technologies
+  ats: greenhouse
+  slug: group14
+  related: battery anode materials, energy (0 matches today, small board)
