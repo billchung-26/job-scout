@@ -37,9 +37,6 @@ companies:
 - name: Airbyte
   ats: ashby
   slug: airbyte
-- name: Vectara
-  ats: greenhouse
-  slug: vectara
 - name: Abridge
   ats: ashby
   slug: abridge
@@ -163,3 +160,33 @@ companies:
 - name: Cavnue
   ats: greenhouse
   slug: cavnue
+- name: Ramp
+  ats: ashby
+  slug: ramp
+- name: Vanta
+  ats: ashby
+  slug: vanta
+- name: Attio
+  ats: ashby
+  slug: attio
+- name: Linear
+  ats: ashby
+  slug: linear
+- name: Watershed
+  ats: ashby
+  slug: watershed
+- name: Character.AI
+  ats: ashby
+  slug: character
+- name: Thinking Machines Lab
+  ats: ashby
+  slug: thinkingmachines
+- name: Archer Aviation
+  ats: greenhouse
+  slug: archer
+- name: Verkor
+  ats: lever
+  slug: verkor
+- name: Group14 Technologies
+  ats: greenhouse
+  slug: group14

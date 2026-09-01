@@ -65,7 +65,7 @@ NOT_WATCHABLE = [
       "EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)",
       "Rippling (custom Next.js — unsurprising, they build HR/ATS software themselves)"]),
     ("Migrated off / no longer served by the public API",
-     ["RudderStack", "Snowplow", "Forethought", "dbt Labs", "Fireworks AI", "Aurora Innovation"]),
+     ["RudderStack", "Snowplow", "Forethought", "dbt Labs", "Fireworks AI", "Aurora Innovation", "Vectara"]),
     ("No public Greenhouse/Lever/Ashby board found",
      ["AI21", "Adept", "Skild AI", "Windsurf/Codeium"]),
 ]
