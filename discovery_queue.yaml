@@ -1,22 +1,15 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-# Added 2026-09-01 — random-seeded off Omni/OpenAI/Hebbia/Hippocratic AI/Reka/Parloa.
 queue:
-- name: Together AI
-  ats: greenhouse
-  slug: togetherai
-  related: AI compute/infra, like OpenAI's platform layer — 9 matches incl. Product Manager, AI Infrastructure
-- name: Reducto
-  ats: ashby
-  slug: reducto
-  related: document parsing AI, like Hebbia — 5 matches incl. Founding Product Manager
 - name: Commure
   ats: ashby
   slug: commure
-  related: healthcare AI infra, like Hippocratic AI/Abridge — 5 matches incl. Staff Product Manager
+  related: healthcare AI infra, like Hippocratic AI/Abridge — 5 matches incl. Staff
+    Product Manager
 - name: Suki AI
   ats: greenhouse
   slug: suki
-  related: healthcare voice AI, like Hippocratic AI — 4 matches incl. Product Manager III
+  related: healthcare voice AI, like Hippocratic AI — 4 matches incl. Product Manager
+    III
 - name: LangChain
   ats: ashby
   slug: langchain
@@ -24,7 +17,8 @@ queue:
 - name: Anyscale
   ats: ashby
   slug: anyscale
-  related: distributed ML compute, like OpenAI's platform layer — Senior/Staff PM, Ray Data
+  related: distributed ML compute, like OpenAI's platform layer — Senior/Staff PM,
+    Ray Data
 - name: Unstructured
   ats: ashby
   slug: unstructured
@@ -32,4 +26,5 @@ queue:
 - name: Sixfold
   ats: greenhouse
   slug: sixfold
-  related: document AI for insurance, like Hebbia (0 matches today, tiny board — 2 openings)
+  related: document AI for insurance, like Hebbia (0 matches today, tiny board — 2
+    openings)
