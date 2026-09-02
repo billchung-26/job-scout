@@ -1,25 +1,28 @@
 # Job recommendations (live)
 
-_Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
+_Updated 2026-09-01 23:54. 280 roles · 38 applied · 269 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
+| ⭐⭐ | Airbnb | [Staff Platform Manager - GTM & Ops Tooling](https://careers.airbnb.com/positions/8163100?gh_jid=8163100) 🆕 | United States  |  | 2026-09-01 | 0d |
 | ⭐ | Anthropic | [Administrative Business Partner, GTM](https://job-boards.greenhouse.io/anthropic/jobs/4977027008) 🆕 | San Francisco, CA |  | 2026-09-01 | 0d |
+| ⭐ | Anthropic | [Technical Program Manager, Enterprise Readiness](https://job-boards.greenhouse.io/anthropic/jobs/5413314008) 🆕 | San Francisco, CA | New York City, NY |  | 2026-09-01 | 0d |
+| ⭐ | OpenAI | [Technical Program Manager, Foundations Data and Operations](https://jobs.ashbyhq.com/openai/c0f0136e-f4e7-43ca-b3d5-4d7aee5eed7f) 🆕 | San Francisco |  | 2026-09-01 | 0d |
+| — | Lyft | [Director of Product, Customer Care](https://app.careerpuck.com/job-board/lyft/job/8735399002?gh_jid=8735399002) 🆕 | New York, NY; San Francisco, CA |  | 2026-09-01 | 0d |
 | — | Mercor | [Revenue Operations](https://jobs.ashbyhq.com/mercor/7906121d-67b7-481b-bde4-1cd0f4325916) 🆕 | San Francisco |  | 2026-09-01 | 0d |
-| — | OpenAI | [Program Manager, Product Lifecycle Assurance](https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1) 🆕 | San Francisco |  | 2026-09-01 | 0d |
 | — | OpenAI | [Technical Program Manager, Partnerships](https://jobs.ashbyhq.com/openai/e25e56a3-88f0-4994-9ae7-3d6d85c1501b) 🆕 | San Francisco |  | 2026-09-01 | 0d |
+| — | OpenAI | [GRC Program Manager, Product Lifecycle Assurance](https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1) 🆕 | San Francisco |  | 2026-09-01 | 0d |
 | ⭐⭐ | Vanta | [Sr. AI GTM Engineer](https://jobs.ashbyhq.com/vanta/91c73485-5d0c-4272-9643-401ebcfff9d1) | Remote U.S. |  | 2026-08-31 | 1d |
-| ⭐⭐ | Vanta | [Staff Product Manager, Data Platform](https://jobs.ashbyhq.com/vanta/f7225fae-2203-4332-8ea4-8569c7e371d1) | Remote U.S. |  | 2026-08-31 | 1d |
 | ⭐ | Attio | [GTM Partnerships Lead](https://jobs.ashbyhq.com/attio/38dcbd9f-75c6-4122-b1ce-b07d1630244d) | New York |  | 2026-08-31 | 1d |
 | ⭐ | Clay | [GTM Engineer Manager - Seller Efficiency](https://jobs.ashbyhq.com/claylabs/546b27c1-8808-4808-bd98-5c6cad88d88c) | New York |  | 2026-08-31 | 1d |
 | ⭐ | Ramp | [GTM Senior Business Systems Analyst](https://jobs.ashbyhq.com/ramp/87de7e0e-5214-49bc-bb81-54782e9c3ad5) | New York, NY (HQ) |  | 2026-08-31 | 1d |
 | ⭐ | Ramp | [Product Operations | AI Revenue Systems](https://jobs.ashbyhq.com/ramp/4e9886c1-134b-4cc7-9bcf-eb56bd0ca71f) | New York, NY (HQ) |  | 2026-08-31 | 1d |
 | ⭐ | Sierra | [Product Manager, Agent Development - Financial Services](https://jobs.ashbyhq.com/sierra/bc98b50a-d6ea-42b8-b1c6-f55099d1bb1c) | San Francisco, CA |  | 2026-08-31 | 1d |
-| ⭐ | Vanta | [GTM Strategy & Operations Analyst, Account Management](https://jobs.ashbyhq.com/vanta/0e82974a-0023-49a2-b1ec-a0fa89636dd5) | Remote U.S. |  | 2026-08-31 | 1d |
 | ⭐ | Vanta | [Senior GTM Strategy & Operations Manager](https://jobs.ashbyhq.com/vanta/b70e3e50-1294-4b6c-b17e-8441fb89bbfb) | Remote U.S. |  | 2026-08-31 | 1d |
 | ⭐ | Vanta | [Senior GTM Strategy & Operations Manager, Top of Funnel](https://jobs.ashbyhq.com/vanta/ffdee1c4-c463-4e6f-a98a-ef8240e34868) | Remote U.S. |  | 2026-08-31 | 1d |
 | ⭐ | Vanta | [Senior Product Manager, Agent Ecosystem](https://jobs.ashbyhq.com/vanta/f2661895-d4fb-4b7e-95c9-14b13964e6a9) | Remote U.S. |  | 2026-08-31 | 1d |
 | ⭐ | Vanta | [Staff Product Manager, AI Foundations](https://jobs.ashbyhq.com/vanta/f44a7511-dd74-4121-b409-964115fa3ee5) | Remote U.S. |  | 2026-08-31 | 1d |
+| ⭐ | Vanta | [GTM Strategy & Operations Analyst, Account Management](https://jobs.ashbyhq.com/vanta/0e82974a-0023-49a2-b1ec-a0fa89636dd5) | Remote U.S. |  | 2026-08-31 | 1d |
 | ⭐ | Watershed | [GTM enablement manager, revenue excellence](https://jobs.ashbyhq.com/watershed/b9eda34a-75ec-4899-a8d6-16d99893c6c1) | San Francisco |  | 2026-08-31 | 1d |
 | ⭐ | Watershed | [GTM engineer](https://jobs.ashbyhq.com/watershed/00f1ba3f-67ba-48cb-8e88-1eacc2ebb9f7) | San Francisco |  | 2026-08-31 | 1d |
 | — | Anthropic | [Product Manager, Claude Science](https://job-boards.greenhouse.io/anthropic/jobs/5394887008) | San Francisco, CA | New York City, NY | Seattle, WA |  | 2026-08-31 | 1d |
@@ -28,23 +31,20 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | — | Databricks | [Sr. Field Technical Program Manager, FDE](https://databricks.com/company/careers/open-positions/job?gh_jid=8586857002) | United States |  | 2026-08-31 | 1d |
 | — | Mercor | [Product Engineer, Talent Experience](https://jobs.ashbyhq.com/mercor/03662092-4f6b-4c82-8d6d-5e7e839c31d7) | San Francisco |  | 2026-08-31 | 1d |
 | — | OpenAI | [Research Program Manager ](https://jobs.ashbyhq.com/openai/c7c5ef17-af83-483c-a825-f461f9f63b17) | San Francisco |  | 2026-08-31 | 1d |
-| — | Ramp | [Director, Product Design](https://jobs.ashbyhq.com/ramp/78b98c66-af59-4fa8-a5ae-d8af8d737976) | New York, NY (HQ) |  | 2026-08-31 | 1d |
+| — | Ramp | [Technical Program Manager](https://jobs.ashbyhq.com/ramp/1db75064-e38c-4b21-8310-21471943d0be) | New York, NY (HQ) |  | 2026-08-31 | 1d |
+| — | Ramp | [Product Operations Specialist | Generalist](https://jobs.ashbyhq.com/ramp/081dbe29-8a06-4cb2-bda5-4b0bfb35c2e8) | New York, NY (HQ) |  | 2026-08-31 | 1d |
 | — | Ramp | [Manager, Scaled Customer Success](https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d) | San Francisco, CA |  | 2026-08-31 | 1d |
-| — | Ramp | [Product Manager | Tax](https://jobs.ashbyhq.com/ramp/881f9f7d-9ec5-4b69-b50d-a67000264ca8) | New York, NY (HQ) |  | 2026-08-31 | 1d |
+| — | Ramp | [Director, Product Design](https://jobs.ashbyhq.com/ramp/78b98c66-af59-4fa8-a5ae-d8af8d737976) | New York, NY (HQ) |  | 2026-08-31 | 1d |
 | — | Ramp | [Product Manager | Vendor Intelligence & Marketplace](https://jobs.ashbyhq.com/ramp/cf3516f6-4d6b-4872-831f-c8ef4a3078ee) | New York, NY (HQ) |  | 2026-08-31 | 1d |
 | — | Ramp | [Product Operations Specialist | Bill Pay](https://jobs.ashbyhq.com/ramp/9226150c-47df-42f4-8626-7a0aea6b9991) | New York, NY (HQ) |  | 2026-08-31 | 1d |
+| — | Ramp | [Product Manager | Tax](https://jobs.ashbyhq.com/ramp/881f9f7d-9ec5-4b69-b50d-a67000264ca8) | New York, NY (HQ) |  | 2026-08-31 | 1d |
 | — | Ramp | [Product Operations Specialist | Customer Setup](https://jobs.ashbyhq.com/ramp/4d3197eb-49dc-4827-a1e6-26cf0ff24b55) | New York, NY (HQ) |  | 2026-08-31 | 1d |
-| — | Ramp | [Product Operations Specialist | Generalist](https://jobs.ashbyhq.com/ramp/081dbe29-8a06-4cb2-bda5-4b0bfb35c2e8) | New York, NY (HQ) |  | 2026-08-31 | 1d |
-| — | Ramp | [Technical Program Manager](https://jobs.ashbyhq.com/ramp/1db75064-e38c-4b21-8310-21471943d0be) | New York, NY (HQ) |  | 2026-08-31 | 1d |
-| — | Thinking Machines Lab | [Product Manager - Deployment](https://jobs.ashbyhq.com/thinkingmachines/079f3334-43ae-4ee7-9671-1dbad75dd8df) | San Francisco |  | 2026-08-31 | 1d |
-| — | Vanta | [Customer Success Manager, Commercial East](https://jobs.ashbyhq.com/vanta/72c428b2-eaf0-4fc4-8509-8616d4be1a38) | Remote U.S. |  | 2026-08-31 | 1d |
 | — | Vanta | [Customer Success Manager, Strategic](https://jobs.ashbyhq.com/vanta/a8b0c3e0-326c-4f34-876f-4903430d75d9) | Remote U.S. |  | 2026-08-31 | 1d |
+| — | Vanta | [Sr. Manager, Commercial Customer Success (East Region)](https://jobs.ashbyhq.com/vanta/a0090ea4-5e19-439c-91e3-eb8a3f117eee) | Remote U.S. |  | 2026-08-31 | 1d |
+| — | Vanta | [Customer Success Manager, Commercial East](https://jobs.ashbyhq.com/vanta/72c428b2-eaf0-4fc4-8509-8616d4be1a38) | Remote U.S. |  | 2026-08-31 | 1d |
 | — | Vanta | [Director of Product Design](https://jobs.ashbyhq.com/vanta/6d6698d7-7272-4c2a-bc34-807dc269de43) | Remote U.S. |  | 2026-08-31 | 1d |
 | — | Vanta | [Director of Product, G&C](https://jobs.ashbyhq.com/vanta/20d2c9aa-19da-4370-9378-491312f6f98a) | Remote U.S. |  | 2026-08-31 | 1d |
-| — | Vanta | [Senior Product Manager, Design Systems](https://jobs.ashbyhq.com/vanta/f46e34d6-b3ce-4195-9aa3-7ed8eb8cdc6d) | Remote U.S. |  | 2026-08-31 | 1d |
-| — | Vanta | [Sr. Manager, Commercial Customer Success (East Region)](https://jobs.ashbyhq.com/vanta/a0090ea4-5e19-439c-91e3-eb8a3f117eee) | Remote U.S. |  | 2026-08-31 | 1d |
 | — | Watershed | [Senior product engineer](https://jobs.ashbyhq.com/watershed/a0085e3d-f7b1-4aae-93b7-3a8792c4aba9) | New York City |  | 2026-08-31 | 1d |
-| ⭐ | Airbnb | [Product Manager, Pricing](https://careers.airbnb.com/positions/8096359?gh_jid=8096359) | United States |  | 2026-08-30 | 2d |
 | — | Airbnb | [Lead Localization Operations Program Manager](https://careers.airbnb.com/positions/8120458?gh_jid=8120458) | United States  |  | 2026-08-30 | 2d |
 | — | Airbnb | [Product Manager, Identity](https://careers.airbnb.com/positions/8055637?gh_jid=8055637) | United States |  | 2026-08-30 | 2d |
 | — | Airbnb | [Product Manager, Incubations](https://careers.airbnb.com/positions/8044715?gh_jid=8044715) | San Francisco, CA, New York, NY |  | 2026-08-30 | 2d |
@@ -73,10 +73,9 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | — | Fivetran | [Senior Product Manager - Adapters ](https://www.fivetran.com/careers/job?gh_jid=7818286003) | Oakland, California, United States |  | 2026-08-28 | 4d |
 | — | Hightouch | [Customer Success Engineer](https://job-boards.greenhouse.io/hightouch/jobs/6167563004) | New York City, New York |  | 2026-08-28 | 4d |
 | — | Hippocratic AI | [Customer Success Executive, Health Systems](https://jobs.ashbyhq.com/Hippocratic%20AI/5bc080fb-0584-474c-97ab-7707eb0fc731) | United States |  | 2026-08-28 | 4d |
-| — | Kodiak Robotics | [Product Operations Specialist](https://job-boards.greenhouse.io/kodiak/jobs/4385434009) | Mountain View, CA |  | 2026-08-28 | 4d |
 | — | Lyft | [Manager, Revenue Systems & Product Operations](https://app.careerpuck.com/job-board/lyft/job/8626589002?gh_jid=8626589002) | San Francisco, CA |  | 2026-08-28 | 4d |
-| — | OpenAI | [Product Manager, Multimodal Safety](https://jobs.ashbyhq.com/openai/70d5259a-f18c-4595-bf52-ec03eeeeac4c) | San Francisco |  | 2026-08-28 | 4d |
 | — | OpenAI | [Program Manager - IT Operations](https://jobs.ashbyhq.com/openai/c37587c4-39f3-40e0-b73c-c8bb55a7cd05) | San Francisco |  | 2026-08-28 | 4d |
+| — | OpenAI | [Product Manager, Multimodal Safety](https://jobs.ashbyhq.com/openai/70d5259a-f18c-4595-bf52-ec03eeeeac4c) | San Francisco |  | 2026-08-28 | 4d |
 | — | Snowflake | [Sr. Certification Development Program Manager](https://jobs.ashbyhq.com/snowflake/450d9669-ec61-4170-81e9-c537f7e7aef9) | US-CA-Menlo Park |  | 2026-08-28 | 4d |
 | ⭐⭐ | Anthropic | [AI Engineer, GTM Claudification ](https://job-boards.greenhouse.io/anthropic/jobs/5390966008) | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |  | 2026-08-26 | 6d |
 | ⭐ | Anthropic | [AWS GTM Partnership Lead, Global System Integrators](https://job-boards.greenhouse.io/anthropic/jobs/5391184008) | San Francisco, CA | New York City, NY | Seattle, WA |  | 2026-08-26 | 6d |
@@ -97,7 +96,6 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | — | Hippocratic AI | [Vice President, Customer Success (Provider)](https://jobs.ashbyhq.com/Hippocratic%20AI/2f70a216-4f8b-42cd-80d3-43383e1a0be8) | United States |  | 2026-08-24 | 8d |
 | — | Terawatt Infrastructure | [Operations & Facilities Program Manager](https://jobs.lever.co/terawattinfrastructure/c41b1edb-a24d-4861-a2be-970260502cbe) | San Francisco, California |  | 2026-08-23 | 9d |
 | ⭐ | Sigma Computing | [Enterprise Customer Success Manager — East (Bilingual: English/Spanish)](https://job-boards.greenhouse.io/sigmacomputing/jobs/7815449003) | New York City, NY |  | 2026-08-22 | 10d |
-| — | Anthropic | [Product Manager, Business Technology](https://job-boards.greenhouse.io/anthropic/jobs/5397737008) | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY |  | 2026-08-22 | 10d |
 | — | Deepgram | [Customer Success Engineer (Scaled)](https://jobs.ashbyhq.com/deepgram/b856d0c2-df8e-492a-9044-62b0fd3c30b6) | USA | Remote |  | 2026-08-22 | 10d |
 | — | Motional | [Senior Technical Program Manager ](https://motional.com/open-positions/?gh_jid=7764077003#/7764077003) | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. |  | 2026-08-22 | 10d |
 | — | Motional | [Senior Technical Program Manager, Autonomy](https://motional.com/open-positions/?gh_jid=7824519003#/7824519003) | Las Vegas, Nevada, United States |  | 2026-08-22 | 10d |
@@ -108,21 +106,21 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | ⭐ | Mercor | [Product Manager, Applied AI](https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3) | San Francisco |  | 2026-08-21 | 11d |
 | — | Anthropic | [Product Manager, Cybersecurity ](https://job-boards.greenhouse.io/anthropic/jobs/5393526008) | San Francisco, CA | New York City, NY |  | 2026-08-21 | 11d |
 | — | Databricks | [Senior Customer Enablement Program Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8535311002) | United States |  | 2026-08-21 | 11d |
-| — | Fivetran | [Product Manager - Integrations ](https://www.fivetran.com/careers/job?gh_jid=7786318003) | Denver, Colorado, United States, AMER |  | 2026-08-21 | 11d |
 | — | Fivetran | [Product Manager - Integrations ](https://www.fivetran.com/careers/job?gh_jid=7559181003) | Oakland, California, United States |  | 2026-08-21 | 11d |
+| — | Fivetran | [Product Manager - Integrations ](https://www.fivetran.com/careers/job?gh_jid=7786318003) | Denver, Colorado, United States, AMER |  | 2026-08-21 | 11d |
 | — | OpenAI | [Technical Program Manager, Actuators](https://jobs.ashbyhq.com/openai/0728d036-6057-4194-942f-34254610c18f) | San Francisco |  | 2026-08-21 | 11d |
 | — | OpenAI | [Technical Program Manager, Sensors](https://jobs.ashbyhq.com/openai/c8c607f4-d29f-46ea-b3ee-5a052ac17278) | San Francisco |  | 2026-08-21 | 11d |
 | — | Redwood Materials | [Senior Technical Program Manager, Chemical Engineering](https://boards.greenhouse.io/redwoodmaterials/jobs/6142335004?gh_jid=6142335004) | San Francisco, California, United States |  | 2026-08-21 | 11d |
 | — | Redwood Materials | [Software Technical Program Manager, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/5734248004?gh_jid=5734248004) | San Francisco, California, United States |  | 2026-08-21 | 11d |
 | — | Snowflake | [Talent Management Program Manager](https://jobs.ashbyhq.com/snowflake/ae3a901e-a759-4c47-8132-e78b4d88095d) | US-CA-Menlo Park |  | 2026-08-21 | 11d |
-| — | Span | [Senior Product Manager - Installer](https://jobs.ashbyhq.com/span/14185a75-004c-41fb-b832-7fef12e07185) | San Francisco |  | 2026-08-21 | 11d |
-| — | Span | [Senior Program Manager, Manufacturing Operations](https://jobs.ashbyhq.com/span/1a4624a8-a6f4-4940-a936-40c31678957a) | San Francisco |  | 2026-08-21 | 11d |
 | — | Span | [Senior Software Product Manager - Homeowner](https://jobs.ashbyhq.com/span/f0910d04-d0b8-40d5-882e-0e09e1bfb445) | San Francisco |  | 2026-08-21 | 11d |
 | — | Span | [Sr. Firmware Technical Program Manager ](https://jobs.ashbyhq.com/span/66dbf34b-7842-41e9-ba9b-73f2b76363b4) | San Francisco |  | 2026-08-21 | 11d |
+| — | Span | [Senior Product Manager - Installer](https://jobs.ashbyhq.com/span/14185a75-004c-41fb-b832-7fef12e07185) | San Francisco |  | 2026-08-21 | 11d |
+| — | Span | [Senior Program Manager, Manufacturing Operations](https://jobs.ashbyhq.com/span/1a4624a8-a6f4-4940-a936-40c31678957a) | San Francisco |  | 2026-08-21 | 11d |
 | ⭐⭐ | Anthropic | [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008) | San Francisco, CA |  | 2026-08-20 | 12d |
 | ⭐ | Anthropic | [AI Operations Engineer, Partnerships](https://job-boards.greenhouse.io/anthropic/jobs/5391151008) | San Francisco, CA |  | 2026-08-20 | 12d |
-| ⭐ | Base Power | [GTM Strategy and Operations](https://jobs.ashbyhq.com/base-power/17caec05-bf2f-48e6-bbc6-8108f0771e20) | Austin, TX |  | 2026-08-20 | 12d |
 | ⭐ | Base Power | [Operations Engineer, GTM](https://jobs.ashbyhq.com/base-power/454d2748-2eea-4742-a8a2-329d0b7da6b7) | Austin, TX |  | 2026-08-20 | 12d |
+| ⭐ | Base Power | [GTM Strategy and Operations](https://jobs.ashbyhq.com/base-power/17caec05-bf2f-48e6-bbc6-8108f0771e20) | Austin, TX |  | 2026-08-20 | 12d |
 | ⭐ | OpenAI | [Program Manager, Human Data](https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213) | San Francisco |  | 2026-08-20 | 12d |
 | ⭐ | Sigma Computing | [Enterprise Customer Success Manager - Central](https://job-boards.greenhouse.io/sigmacomputing/jobs/7906143003) | Remote |  | 2026-08-20 | 12d |
 | ⭐ | Sigma Computing | [Enterprise Customer Success Manager - NY](https://job-boards.greenhouse.io/sigmacomputing/jobs/7815448003) | New York City, NY |  | 2026-08-20 | 12d |
@@ -150,8 +148,8 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | ⭐⭐ | Snowflake | [GTM Staff Data Scientist](https://jobs.ashbyhq.com/snowflake/c80ed4e9-d840-47bc-ad8c-64ed1ff97826) | US-CA-Menlo Park |  | 2026-08-18 | 14d |
 | ⭐ | Harvey | [GTM Enablement Manager, FLM Coaching](https://jobs.ashbyhq.com/harvey/f3323080-b727-461e-9a21-9b2ea8db2d45) | New York |  | 2026-08-18 | 14d |
 | ⭐ | Harvey | [GTM Enablement Manager, FLM Coaching](https://jobs.ashbyhq.com/harvey/5dfffd0a-4a80-4248-ba41-b02335e8100c) | San Francisco |  | 2026-08-18 | 14d |
-| ⭐ | OpenAI | [Technical Program Manager, AI Accelerator Software](https://jobs.ashbyhq.com/openai/94456c6c-2826-47f9-b5a9-0471fb8b7b96) | San Francisco |  | 2026-08-18 | 14d |
 | ⭐ | OpenAI | [Technical Program Manager, Cloud AI Partnerships](https://jobs.ashbyhq.com/openai/db993e24-ce4f-4f55-9187-403726bcb957) | San Francisco |  | 2026-08-18 | 14d |
+| ⭐ | OpenAI | [Technical Program Manager, AI Accelerator Software](https://jobs.ashbyhq.com/openai/94456c6c-2826-47f9-b5a9-0471fb8b7b96) | San Francisco |  | 2026-08-18 | 14d |
 | ⭐ | Snowflake | [Sr. Director, GTM Process & Operations](https://jobs.ashbyhq.com/snowflake/2ecf1bd5-93aa-4021-8876-df6454d59e94) | US-CA-Menlo Park |  | 2026-08-18 | 14d |
 | — | Anthropic | [Customer Success Manager, Tech](https://job-boards.greenhouse.io/anthropic/jobs/5082455008) | New York City, NY; San Francisco, CA; Seattle, WA |  | 2026-08-18 | 14d |
 | — | Anthropic | [Customer Success Manager, Top Accounts](https://job-boards.greenhouse.io/anthropic/jobs/5392957008) | Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC |  | 2026-08-18 | 14d |
@@ -163,15 +161,15 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | — | Anthropic | [Customer Success Manager, Financial Services](https://job-boards.greenhouse.io/anthropic/jobs/5391062008) | San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC |  | 2026-08-17 | 15d |
 | — | Anthropic | [Customer Success Manager, GSI](https://job-boards.greenhouse.io/anthropic/jobs/4986159008) | San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC |  | 2026-08-17 | 15d |
 | — | Hippocratic AI | [Vice President, Customer Success (Payors)](https://jobs.ashbyhq.com/Hippocratic%20AI/d83d548f-4b0d-4989-9433-161aef869845) | Seattle, WA |  | 2026-08-16 | 16d |
-| — | Suno | [Product Manager, ML Research](https://jobs.ashbyhq.com/suno/6d3fe0a1-6d85-4e72-abe9-09f782cb13c2) | Boston |  | 2026-08-16 | 16d |
 | — | Suno | [Product Manager, Mobile Creation](https://jobs.ashbyhq.com/suno/b446cbad-7124-4c53-b417-ce49038609af) | Los Angeles |  | 2026-08-16 | 16d |
+| — | Suno | [Product Manager, ML Research](https://jobs.ashbyhq.com/suno/6d3fe0a1-6d85-4e72-abe9-09f782cb13c2) | Boston |  | 2026-08-16 | 16d |
 | — | Anthropic | [Executive Support Senior Program Manager, Tech Advisor](https://job-boards.greenhouse.io/anthropic/jobs/5391787008) | Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC |  | 2026-08-15 | 17d |
 | — | Harvey | [Senior Product Operations Manager, Integrations](https://jobs.ashbyhq.com/harvey/5e68f8ed-1e00-4bd4-acfd-54405f553a0e) | San Francisco |  | 2026-08-15 | 17d |
 | — | Harvey | [Senior Product Operations Manager, Integrations](https://jobs.ashbyhq.com/harvey/514b90b4-5b4c-4e64-bc9a-2ab2ca6cf456) | New York |  | 2026-08-15 | 17d |
-| — | Nuro | [Talent Management Program Manager](https://nuro.ai/careersitem?gh_jid=8130943) | Mountain View, California (HQ) |  | 2026-08-15 | 17d |
+| — | Nuro | [Sr. Talent Management Program Manager](https://nuro.ai/careersitem?gh_jid=8130943) | Mountain View, California (HQ) |  | 2026-08-15 | 17d |
+| ⭐ | Fivetran | [Senior Product Manager, Enterprise & Deployments](https://www.fivetran.com/careers/job?gh_jid=7818304003) | USA - New York |  | 2026-08-14 | 18d |
 | ⭐ | Fivetran | [Senior Product Manager, Enterprise & Deployments](https://www.fivetran.com/careers/job?gh_jid=7865148003) | Denver, Colorado, United States, AMER |  | 2026-08-14 | 18d |
 | ⭐ | Fivetran | [Senior Product Manager, Enterprise & Deployments](https://www.fivetran.com/careers/job?gh_jid=7865163003) | Oakland, California, United States |  | 2026-08-14 | 18d |
-| ⭐ | Fivetran | [Senior Product Manager, Enterprise & Deployments](https://www.fivetran.com/careers/job?gh_jid=7818304003) | USA - New York |  | 2026-08-14 | 18d |
 | ⭐ | Snowflake | [Staff Analyst, GTM Analytics](https://jobs.ashbyhq.com/snowflake/c6034a32-de0f-407f-b9cb-7e05b4d20c99) | US-CA-Menlo Park |  | 2026-08-14 | 18d |
 | ⭐ | Suno | [Growth Product Manager, Consumer Subscription ](https://jobs.ashbyhq.com/suno/dbc8011c-67d0-4ca5-9204-ec6a6b465462) | NYC |  | 2026-08-14 | 18d |
 | — | Decagon | [Technical Program Manager](https://jobs.ashbyhq.com/decagon/d32da775-c5ea-420d-a07e-13412044c27b) | New York City |  | 2026-08-14 | 18d |
@@ -181,34 +179,33 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | — | Anthropic | [Manager, Customer Success - Beneficial Deployments](https://job-boards.greenhouse.io/anthropic/jobs/5383204008) | San Francisco, CA | New York City, NY |  | 2026-08-13 | 19d |
 | — | OpenAI | [Technical Program Manager, Infrastructure Strategy & Delivery Operations](https://jobs.ashbyhq.com/openai/f0d51f11-0f35-4e10-b8bb-d24191ba26f3) | San Francisco |  | 2026-08-13 | 19d |
 | ⭐ | Anthropic | [Product Manager, New Markets and Monetization](https://job-boards.greenhouse.io/anthropic/jobs/5386182008) | San Francisco, CA |  | 2026-08-12 | 20d |
-| — | OpenAI | [Senior Program Manager, Consumer Device Safety Operations](https://jobs.ashbyhq.com/openai/b65f9125-2c3a-4507-bb20-6213952b5f2c) | San Francisco |  | 2026-08-12 | 20d |
 | — | OpenAI | [Technical Systems Program Manager, User Operations](https://jobs.ashbyhq.com/openai/e1b8fd3a-315c-4480-9105-98228093d429) | San Francisco |  | 2026-08-12 | 20d |
+| — | OpenAI | [Senior Program Manager, Consumer Device Safety Operations](https://jobs.ashbyhq.com/openai/b65f9125-2c3a-4507-bb20-6213952b5f2c) | San Francisco |  | 2026-08-12 | 20d |
 | — | Zoox | [Senior / Staff Technical Program Manager -  End-to-End Features](https://jobs.lever.co/zoox/57462ce4-0270-4ad6-83ba-1c2427e80503) | Foster City, CA |  | 2026-08-12 | 20d |
 | ⭐ | Clay | [Growth Strategist, Strategic (Customer Success) ](https://jobs.ashbyhq.com/claylabs/17e101f5-5d06-46d1-861c-a7edb71f650d) | New York |  | 2026-08-11 | 21d |
 | ⭐ | Decagon | [Senior Agent Product Manager, Healthcare](https://jobs.ashbyhq.com/decagon/95524337-b5e7-4156-9022-af5c192f174d) | New York City |  | 2026-08-11 | 21d |
 | ⭐ | Fivetran | [Senior Product Manager, Data & Integrations](https://www.fivetran.com/careers/job?gh_jid=7524543003) | Oakland, California, United States, AMER |  | 2026-08-11 | 21d |
 | ⭐ | Fivetran | [Senior Product Manager, Data & Integrations](https://www.fivetran.com/careers/job?gh_jid=7524547003) | Denver, Colorado, United States, AMER |  | 2026-08-11 | 21d |
-| — | Fivetran | [Senior Product Manager, Reverse ETL](https://www.fivetran.com/careers/job?gh_jid=6666499003) | Denver, Colorado, United States, AMER |  | 2026-08-11 | 21d |
 | — | Fivetran | [Senior Product Manager, Reverse ETL](https://www.fivetran.com/careers/job?gh_jid=6648720003) | Oakland, California, United States, AMER |  | 2026-08-11 | 21d |
+| — | Fivetran | [Senior Product Manager, Reverse ETL](https://www.fivetran.com/careers/job?gh_jid=6666499003) | Denver, Colorado, United States, AMER |  | 2026-08-11 | 21d |
 | — | Fivetran | [Staff Product Manager, Reverse ETL](https://www.fivetran.com/careers/job?gh_jid=7644168003) | Oakland, California, United States, AMER |  | 2026-08-11 | 21d |
-| — | Glean | [Senior Technical Program Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4695590005) | Mountain View, CA |  | 2026-08-11 | 21d |
 | — | Glean | [Senior Technical Program Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4628879005) | San Francisco, CA |  | 2026-08-11 | 21d |
-| — | Mercor | [Product Manager, Trust & Safety ](https://jobs.ashbyhq.com/mercor/836ed386-70a6-4cd1-809a-4b2fa662961c) | San Francisco |  | 2026-08-11 | 21d |
+| — | Glean | [Senior Technical Program Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4695590005) | Mountain View, CA |  | 2026-08-11 | 21d |
 | — | Mercor | [Program Manager, Quality](https://jobs.ashbyhq.com/mercor/0843acbc-3614-48a0-957d-1f8ed0497bf0) | San Francisco |  | 2026-08-11 | 21d |
-| — | Mercor | [Product Operations Manager, Talent Experience ](https://jobs.ashbyhq.com/mercor/7e9a0929-5d64-40d1-b350-e17eebcfe32a) | San Francisco |  | 2026-08-10 | 22d |
+| — | Mercor | [Product Manager, Trust & Safety ](https://jobs.ashbyhq.com/mercor/836ed386-70a6-4cd1-809a-4b2fa662961c) | San Francisco |  | 2026-08-11 | 21d |
 | — | OpenAI | [Commissioning Program Manager, Infrastructure Delivery](https://jobs.ashbyhq.com/openai/8626eb56-6e29-427d-9e12-d1a8078b8e4d) | San Francisco |  | 2026-08-10 | 22d |
 | — | Lyft | [Group Product Manager, Verticals](https://app.careerpuck.com/job-board/lyft/job/8513755002?gh_jid=8513755002) | San Francisco, CA |  | 2026-08-09 | 23d |
 | — | Lyft | [Legal Operations Program Manager, Integrations](https://app.careerpuck.com/job-board/lyft/job/8689225002?gh_jid=8689225002) | New York, NY |  | 2026-08-09 | 23d |
 | — | Lyft | [Legal Operations Program Manager, Integrations](https://app.careerpuck.com/job-board/lyft/job/8689217002?gh_jid=8689217002) | San Francisco, CA |  | 2026-08-09 | 23d |
 | — | Lyft | [Senior Technical Program Manager, Developer Productivity](https://app.careerpuck.com/job-board/lyft/job/8657258002?gh_jid=8657258002) | San Francisco, CA |  | 2026-08-09 | 23d |
 | — | Lyft | [Senior Technical Program Manager, Developer Productivity](https://app.careerpuck.com/job-board/lyft/job/8657510002?gh_jid=8657510002) | New York, NY |  | 2026-08-09 | 23d |
-| — | Lyft | [Staff Product Manager I, Ad Serving](https://app.careerpuck.com/job-board/lyft/job/8594167002?gh_jid=8594167002) | New York, NY |  | 2026-08-09 | 23d |
 | — | Lyft | [Staff Product Manager, Core Rider](https://app.careerpuck.com/job-board/lyft/job/8614717002?gh_jid=8614717002) | San Francisco, CA |  | 2026-08-09 | 23d |
+| — | Lyft | [Staff Product Manager I, Ad Serving](https://app.careerpuck.com/job-board/lyft/job/8594167002?gh_jid=8594167002) | New York, NY |  | 2026-08-09 | 23d |
 | ⭐ | Decagon | [Strategic Finance Manager, GTM](https://jobs.ashbyhq.com/decagon/ca3766a9-73d4-417b-8957-0ba41a2c2b67) | New York City |  | 2026-08-08 | 24d |
 | ⭐ | Mercor | [GTM Engineer](https://jobs.ashbyhq.com/mercor/746c6df1-cc93-46ed-8f68-b8b8515398f4) | San Francisco |  | 2026-08-08 | 24d |
 | — | Databricks | [Staff Product Manager, SAP](https://databricks.com/company/careers/open-positions/job?gh_jid=8679974002) | Mountain View, California; San Francisco, California |  | 2026-08-08 | 24d |
-| — | Harvey | [ Senior Program Manager, Web](https://jobs.ashbyhq.com/harvey/f51c534a-cd96-40ee-8f6a-b39d9c99c8be) | San Francisco |  | 2026-08-08 | 24d |
 | — | Harvey | [Senior Program Manager, Web](https://jobs.ashbyhq.com/harvey/154007c0-8f5d-4737-a0eb-0a3f418e1596) | New York |  | 2026-08-08 | 24d |
+| — | Harvey | [ Senior Program Manager, Web](https://jobs.ashbyhq.com/harvey/f51c534a-cd96-40ee-8f6a-b39d9c99c8be) | San Francisco |  | 2026-08-08 | 24d |
 | — | OpenAI | [Support Program Manager, Partnerships](https://jobs.ashbyhq.com/openai/66b7c776-aa50-4e86-aec1-5c8e07868522) | San Francisco |  | 2026-08-08 | 24d |
 | ⭐ | Decagon | [GTM Analytics Engineer](https://jobs.ashbyhq.com/decagon/52bba096-667f-4e35-aa47-f8cc2219c390) | San Francisco |  | 2026-08-07 | 25d |
 | ⭐ | Genspark | [Customer Success Manager — Enterprise  (US)](https://jobs.ashbyhq.com/genspark/a423677e-26be-4faf-80e6-93a084356874) | Remote_US |  | 2026-08-07 | 25d |
@@ -219,22 +216,22 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | — | Anthropic | [Technical Program Manager, Silicon](https://job-boards.greenhouse.io/anthropic/jobs/5380377008) | San Francisco, CA | New York City, NY |  | 2026-08-07 | 25d |
 | — | Genspark | [Customer Success Manager (South Korea)](https://jobs.ashbyhq.com/genspark/7a031a36-b4b3-4780-90fc-0506387a5195) | Remote/Hybrid_Seoul |  | 2026-08-07 | 25d |
 | — | Harvey | [Head of Product Communications](https://jobs.ashbyhq.com/harvey/bcc3d29e-31c1-45d7-8229-52bd143a4667) | San Francisco |  | 2026-08-07 | 25d |
-| — | OpenAI | [GRC Program Manager, Audit & Controls](https://jobs.ashbyhq.com/openai/aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3) | San Francisco |  | 2026-08-07 | 25d |
-| — | OpenAI | [Product Manager, Shopping](https://jobs.ashbyhq.com/openai/df8a1d73-58b9-4571-86f5-da9a12155fbb) | San Francisco |  | 2026-08-07 | 25d |
 | — | OpenAI | [Technical Program Manager, Custom Silicon Development](https://jobs.ashbyhq.com/openai/004ae8f4-245b-4aad-8903-9daabdb58bb9) | San Francisco |  | 2026-08-07 | 25d |
+| — | OpenAI | [Product Manager, Shopping](https://jobs.ashbyhq.com/openai/df8a1d73-58b9-4571-86f5-da9a12155fbb) | San Francisco |  | 2026-08-07 | 25d |
+| — | OpenAI | [GRC Program Manager, Audit & Controls](https://jobs.ashbyhq.com/openai/aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3) | San Francisco |  | 2026-08-07 | 25d |
 | — | Snowflake | [Events Program Manager](https://jobs.ashbyhq.com/snowflake/35320566-ce01-4204-b366-80b1b914c785) | US-CA-Dublin |  | 2026-08-07 | 25d |
 | — | Zoox | [Senior Technical Program Manager - Compute and Sensors](https://jobs.lever.co/zoox/e93ca4b5-b327-40f1-886b-a72a251c33e2) | Foster City, CA |  | 2026-08-07 | 25d |
 | ⭐ | Databricks | [AMER Energy Industry Go-To-Market (GTM) Leader](https://databricks.com/company/careers/open-positions/job?gh_jid=8675320002) | United States |  | 2026-08-05 | 27d |
-| ⭐ | Fivetran | [Senior Staff Systems Engineer, GTM](https://www.fivetran.com/careers/job?gh_jid=7826669003) | Denver, Colorado, United States, AMER |  | 2026-08-05 | 27d |
 | ⭐ | Fivetran | [Senior Staff Systems Engineer, GTM](https://www.fivetran.com/careers/job?gh_jid=7810381003) | Oakland, California, United States, AMER |  | 2026-08-05 | 27d |
+| ⭐ | Fivetran | [Senior Staff Systems Engineer, GTM](https://www.fivetran.com/careers/job?gh_jid=7826669003) | Denver, Colorado, United States, AMER |  | 2026-08-05 | 27d |
 | ⭐ | Snowflake | [Director/Sr Manager, Business Planning & GTM](https://jobs.ashbyhq.com/snowflake/42b1b01c-ff96-4d5c-bcbd-c96e8109f50f) | US-CA-Menlo Park |  | 2026-08-05 | 27d |
 | — | Anthropic | [Program Manager, Communications](https://job-boards.greenhouse.io/anthropic/jobs/5252781008) | San Francisco, CA | New York City, NY |  | 2026-08-05 | 27d |
 | — | PolyAI | [Head of Product Marketing (Toronto, Canada)](https://job-boards.eu.greenhouse.io/polyai/jobs/4945695101) | Canada, United States  |  | 2026-08-05 | 27d |
 | — | Sierra | [Security Technical Program Manager](https://jobs.ashbyhq.com/sierra/47fd7def-71fa-4585-a625-14e2f25f5058) | San Francisco, CA |  | 2026-08-05 | 27d |
 | — | Zoox | [Senior/Staff Technical Program Manager - Fleet Orchestration](https://jobs.lever.co/zoox/89adda42-9575-4028-bba8-a38e5f0feb94) | Foster City, CA |  | 2026-08-05 | 27d |
 | ⭐ | Deepgram | [Senior Technical Program Manager (Engineering) - AI Tooling & Systems](https://jobs.ashbyhq.com/deepgram/1c34f6ba-6998-447c-9485-d4cf56db42de) | USA | Remote |  | 2026-08-04 | 28d |
-| ⭐ | Deepgram | [Staff Product Manager (Product-Led Growth)](https://jobs.ashbyhq.com/deepgram/d0660127-6c26-4053-943c-c006990b8edc) | USA | Remote |  | 2026-08-04 | 28d |
 | ⭐ | Deepgram | [Staff Product Manager, Agentic Experiences (Former Engineer)](https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789) | USA | Remote |  | 2026-08-04 | 28d |
+| ⭐ | Deepgram | [Staff Product Manager (Product-Led Growth)](https://jobs.ashbyhq.com/deepgram/d0660127-6c26-4053-943c-c006990b8edc) | USA | Remote |  | 2026-08-04 | 28d |
 | ⭐ | Level AI | [Revenue Operations Architect — GTM Systems Builder](https://jobs.lever.co/levelai/547c0e23-c994-418b-b256-3e44333a75b6) | United States |  | 2026-08-04 | 28d |
 | — | Anthropic | [Product Manager, Claude Tag](https://job-boards.greenhouse.io/anthropic/jobs/5251866008) | San Francisco, CA | New York City, NY |  | 2026-08-04 | 28d |
 | — | Cartesia | [Scaled Customer Success Manager](https://jobs.ashbyhq.com/cartesia/6cc199f2-1bb6-4c95-b25c-7885cf2fbe8c) | *HQ - San Francisco, CA |  | 2026-08-04 | 28d |
@@ -249,8 +246,13 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | — | Sourcegraph | [Product Manager [IC4]](https://job-boards.greenhouse.io/sourcegraph91/jobs/6113147004) | Remote |  | 2026-08-04 | 28d |
 | ⭐ | Databricks | [Lead GTM Enablement & Scale Architect, Field Engineering - Customer Skills](https://databricks.com/company/careers/open-positions/job?gh_jid=8644006002) | United States |  | 2026-08-03 | 29d |
 | — | Enterpret | [Strategic Customer Success Manager](https://job-boards.greenhouse.io/enterpret/jobs/7822480003) | New York City |  | 2026-08-02 | 30d |
+| ⭐⭐ | Vanta | [Staff Product Manager, Data Platform](https://jobs.ashbyhq.com/vanta/f7225fae-2203-4332-8ea4-8569c7e371d1) | Remote U.S. | ✅ | 2026-08-31 | 1d |
+| — | Thinking Machines Lab | [Product Manager - Deployment](https://jobs.ashbyhq.com/thinkingmachines/079f3334-43ae-4ee7-9671-1dbad75dd8df) | San Francisco | ✅ | 2026-08-31 | 1d |
+| — | Vanta | [Senior Product Manager, Design Systems](https://jobs.ashbyhq.com/vanta/f46e34d6-b3ce-4195-9aa3-7ed8eb8cdc6d) | Remote U.S. | ✅ | 2026-08-31 | 1d |
+| ⭐ | Airbnb | [Product Manager, Pricing](https://careers.airbnb.com/positions/8096359?gh_jid=8096359) | United States | ✅ | 2026-08-30 | 2d |
 | — | Airbnb | [Program Manager, Community Support](https://careers.airbnb.com/positions/7944540?gh_jid=7944540) | United States | ✅ | 2026-08-30 | 2d |
 | ⭐⭐ | Cresta | [Forward Deployed Product Manager, AI Agent](https://job-boards.greenhouse.io/cresta/jobs/4738837008) | United States (Remote) | ✅ | 2026-08-28 | 4d |
+| — | Kodiak Robotics | [Product Operations Specialist](https://job-boards.greenhouse.io/kodiak/jobs/4385434009) | Mountain View, CA | ✅ | 2026-08-28 | 4d |
 | ⭐ | Base Power | [Growth Product Lead](https://jobs.ashbyhq.com/base-power/a4a691a7-0982-4c58-96b9-b925cb4a1c31) | Austin, TX | ✅ | 2026-08-20 | 12d |
 | — | Kodiak Robotics | [Senior Product Manager](https://job-boards.greenhouse.io/kodiak/jobs/4305450009) | Mountain View, CA | ✅ | 2026-08-20 | 12d |
 | — | Kodiak Robotics | [Sr Product Manager, Assisted Autonomy](https://job-boards.greenhouse.io/kodiak/jobs/4305442009) | Mountain View, CA | ✅ | 2026-08-20 | 12d |
@@ -261,8 +263,8 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | ⭐⭐⭐ | Decagon | [Product Manager, Enterprise Agent Platform](https://jobs.ashbyhq.com/decagon/e27fcbdf-891c-4b2f-9c47-d2bdc26eb2d4) | San Francisco | ✅ | 2026-08-08 | 24d |
 | ⭐ | Deepgram | [Senior Product Manager, Enterprise](https://jobs.ashbyhq.com/deepgram/3a12f539-7734-46fa-9e3b-28e041e56074) | USA | Remote | ✅ | 2026-08-04 | 28d |
 | ⭐ | Deepgram | [Senior Program Manager, Data Operations](https://jobs.ashbyhq.com/deepgram/681c5324-1234-4222-b783-a8a7a9440005) | USA | Remote | ✅ | 2026-08-04 | 28d |
-| ⭐ | Baseten | [Product Manager, Enterprise](https://jobs.ashbyhq.com/baseten/342a4c0e-7da3-490e-927f-dffb51f847b2) | San Francisco | ✅ | 2026-07-31 | 32d |
 | ⭐ | Baseten | [Product Manager, Inference Platform](https://jobs.ashbyhq.com/baseten/3027e0bc-731f-4fef-b081-2031590766fd) | San Francisco | ✅ | 2026-07-31 | 32d |
+| ⭐ | Baseten | [Product Manager, Enterprise](https://jobs.ashbyhq.com/baseten/342a4c0e-7da3-490e-927f-dffb51f847b2) | San Francisco | ✅ | 2026-07-31 | 32d |
 | ⭐⭐ | Snowflake | [Senior Product Manager - Enterprise AI](https://jobs.ashbyhq.com/snowflake/5ee9f5f0-2942-4c17-81bf-f2ffec3a64b9) | US-CA-Menlo Park | ✅ | 2026-07-30 | 33d |
 | — | Constructor | [Senior Product Manager: Recall](https://jobs.ashbyhq.com/constructor/7bc86d05-145d-4b7c-aa6e-b0b207d46117) | Remote - EMEA | ✅ | 2026-07-30 | 33d |
 | — | Snowflake | [Senior Product Manager - Openflow](https://jobs.ashbyhq.com/snowflake/61d48d79-aeb8-45fb-806a-5b6e9f625de7) | US-CA-Menlo Park | ✅ | 2026-07-30 | 33d |
@@ -272,8 +274,8 @@ _Updated 2026-09-01 18:04. 278 roles · 33 applied · 273 sunset (>30d) hidden._
 | — | Mercor | [Product Manager](https://jobs.ashbyhq.com/mercor/b0f22275-9ec5-4725-93f9-ea0104cc1272) | San Francisco | ✅ | 2026-07-15 | 48d |
 | ⭐⭐⭐ | Sierra | [Product Manager, Agent Data Platform](https://jobs.ashbyhq.com/sierra/422cb7bb-ab03-447b-808c-6d72f59bbd2f) | San Francisco, CA | ✅ | 2026-07-05 | 58d |
 | ⭐⭐ | Anthropic | [Product Management, Human Data Platform](https://job-boards.greenhouse.io/anthropic/jobs/5195866008) | San Francisco, CA | New York City, NY | ✅ | 2026-07-05 | 58d |
-| ⭐ | Databricks | [Sr. Product Manager, Compute Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002) | Seattle, Washington | ✅ | 2026-07-05 | 58d |
 | ⭐ | Databricks | [Sr. Product Manager, Compute Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002) | San Francisco, California | ✅ | 2026-07-05 | 58d |
+| ⭐ | Databricks | [Sr. Product Manager, Compute Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002) | Seattle, Washington | ✅ | 2026-07-05 | 58d |
 | ⭐ | Decagon | [Senior Agent Product Manager](https://jobs.ashbyhq.com/decagon/dcf9b561-f2fb-422b-88a9-33ce76e96608) | San Francisco | ✅ | 2026-07-05 | 58d |
 | ⭐ | Decagon | [Senior Agent Product Manager](https://jobs.ashbyhq.com/decagon/e31c0645-7325-43b9-9d58-0acc40904240) | New York City | ✅ | 2026-07-05 | 58d |
 | ⭐ | Glean | [Product Manager, Enterprise Intelligence](https://job-boards.greenhouse.io/gleanwork/jobs/4701912005) | San Francisco, CA | ✅ | 2026-07-05 | 58d |

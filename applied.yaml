@@ -57,3 +57,9 @@ applied:
   - {company: Kodiak Robotics, role: "Senior Product Manager",                 url: "https://job-boards.greenhouse.io/kodiak/jobs/4305450009"}
   - {company: Base Power,  role: "Growth Product Lead",                       url: "https://jobs.ashbyhq.com/base-power/a4a691a7-0982-4c58-96b9-b925cb4a1c31"}
   - {company: Databricks,  role: "AI Operations",                             url: "https://databricks.com/company/careers/open-positions/job?gh_jid=8397501002"}
+  # --- Tier 11 (applied 2026-09-01) ---
+  - {company: Kodiak Robotics, role: "Product Operations Specialist",         url: "https://job-boards.greenhouse.io/kodiak/jobs/4385434009"}
+  - {company: Vanta,       role: "Senior Product Manager, Design Systems",    url: "https://jobs.ashbyhq.com/vanta/f46e34d6-b3ce-4195-9aa3-7ed8eb8cdc6d"}
+  - {company: Vanta,       role: "Staff Product Manager, Data Platform",      url: "https://jobs.ashbyhq.com/vanta/f7225fae-2203-4332-8ea4-8569c7e371d1"}
+  - {company: Airbnb,      role: "Product Manager, Pricing",                  url: "https://careers.airbnb.com/positions/8096359?gh_jid=8096359"}
+  - {company: Thinking Machines Lab, role: "Product Manager - Deployment",    url: "https://jobs.ashbyhq.com/thinkingmachines/079f3334-43ae-4ee7-9671-1dbad75dd8df"}
