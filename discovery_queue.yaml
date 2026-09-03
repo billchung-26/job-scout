@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Commure
-  ats: ashby
-  slug: commure
-  related: healthcare AI infra, like Hippocratic AI/Abridge — 5 matches incl. Staff
-    Product Manager
-- name: Suki AI
-  ats: greenhouse
-  slug: suki
-  related: healthcare voice AI, like Hippocratic AI — 4 matches incl. Product Manager
-    III
 - name: LangChain
   ats: ashby
   slug: langchain

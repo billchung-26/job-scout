@@ -196,3 +196,9 @@ companies:
 - name: Reducto
   ats: ashby
   slug: reducto
+- name: Commure
+  ats: ashby
+  slug: commure
+- name: Suki AI
+  ats: greenhouse
+  slug: suki
