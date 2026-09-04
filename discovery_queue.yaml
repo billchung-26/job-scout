@@ -1,14 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: LangChain
-  ats: ashby
-  slug: langchain
-  related: AI dev tooling, broad AI ecosystem — 3 GTM Engineer/Systems matches
-- name: Anyscale
-  ats: ashby
-  slug: anyscale
-  related: distributed ML compute, like OpenAI's platform layer — Senior/Staff PM,
-    Ray Data
 - name: Unstructured
   ats: ashby
   slug: unstructured

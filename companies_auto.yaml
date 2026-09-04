@@ -202,3 +202,9 @@ companies:
 - name: Suki AI
   ats: greenhouse
   slug: suki
+- name: LangChain
+  ats: ashby
+  slug: langchain
+- name: Anyscale
+  ats: ashby
+  slug: anyscale
