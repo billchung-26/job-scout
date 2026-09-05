@@ -1,11 +1,2 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue:
-- name: Unstructured
-  ats: ashby
-  slug: unstructured
-  related: document processing for AI, like Hebbia (0 matches today, 5 openings)
-- name: Sixfold
-  ats: greenhouse
-  slug: sixfold
-  related: document AI for insurance, like Hebbia (0 matches today, tiny board — 2
-    openings)
+queue: []

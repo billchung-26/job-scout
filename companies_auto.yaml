@@ -208,3 +208,9 @@ companies:
 - name: Anyscale
   ats: ashby
   slug: anyscale
+- name: Unstructured
+  ats: ashby
+  slug: unstructured
+- name: Sixfold
+  ats: greenhouse
+  slug: sixfold
