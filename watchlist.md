@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-09-05 17:01. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-09-06 17:25. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (107 companies)
 
@@ -9,11 +9,11 @@ _Auto-generated 2026-09-05 17:01. Watched via the public Greenhouse / Lever / As
 | 1X | auto | ashby | 0 / 87 |
 | Abridge | auto | ashby | 6 / 40 |
 | Ada | curated | greenhouse | 0 / 7 |
-| Airbnb | curated | greenhouse | 14 / 171 |
+| Airbnb | curated | greenhouse | 13 / 168 |
 | Airbyte | auto | ashby | 0 / 13 |
 | Ambience | auto | ashby | 1 / 17 |
 | Amperity | curated | greenhouse | 2 / 20 |
-| Anthropic | curated | greenhouse | 63 / 594 |
+| Anthropic | curated | greenhouse | 63 / 592 |
 | Antora Energy | auto | greenhouse | 0 / 36 |
 | Anyscale | auto | ashby | 1 / 19 |
 | Applied Intuition | curated | ashby | 0 / 281 |
@@ -46,16 +46,16 @@ _Auto-generated 2026-09-05 17:01. Watched via the public Greenhouse / Lever / As
 | Exa | auto | ashby | 0 / 55 |
 | Figure | curated | greenhouse | 0 / 11 |
 | Fivetran | auto | greenhouse | 29 / 211 |
-| Form Energy | auto | ashby | 0 / 188 |
+| Form Energy | auto | ashby | 0 / 187 |
 | Genspark | auto | ashby | 2 / 10 |
 | Glean | curated | greenhouse | 18 / 117 |
 | Gong | auto | greenhouse | 4 / 94 |
 | Group14 Technologies | auto | greenhouse | 1 / 5 |
-| Harvey | curated | ashby | 45 / 348 |
+| Harvey | curated | ashby | 43 / 346 |
 | Hebbia | curated | ashby | 2 / 23 |
 | Hex | auto | greenhouse | 3 / 30 |
 | Hightouch | curated | greenhouse | 8 / 82 |
-| Hippocratic AI | curated | ashby | 3 / 40 |
+| Hippocratic AI | curated | ashby | 3 / 38 |
 | Imbue | auto | greenhouse | 1 / 3 |
 | Kodiak Robotics | auto | greenhouse | 4 / 72 |
 | LangChain | auto | ashby | 4 / 105 |
@@ -74,7 +74,7 @@ _Auto-generated 2026-09-05 17:01. Watched via the public Greenhouse / Lever / As
 | Nuro | curated | greenhouse | 3 / 107 |
 | Observe.AI | auto | greenhouse | 0 / 17 |
 | Omni | auto | ashby | 1 / 22 |
-| OpenAI | curated | ashby | 62 / 779 |
+| OpenAI | curated | ashby | 62 / 780 |
 | OpenEvidence | auto | ashby | 0 / 8 |
 | Parloa | auto | greenhouse | 2 / 52 |
 | Perplexity | curated | ashby | 11 / 112 |
@@ -90,19 +90,19 @@ _Auto-generated 2026-09-05 17:01. Watched via the public Greenhouse / Lever / As
 | Rime | auto | ashby | 0 / 3 |
 | Sana | curated | ashby | 1 / 17 |
 | Serve Robotics | auto | ashby | 0 / 34 |
-| Sierra | curated | ashby | 18 / 207 |
+| Sierra | curated | ashby | 18 / 210 |
 | Sigma Computing | auto | greenhouse | 6 / 67 |
 | Simon Data | auto | ashby | 0 / 2 |
-| Sixfold | auto (new today) | greenhouse | 0 / 2 |
+| Sixfold | auto | greenhouse | 0 / 2 |
 | Snowflake | curated | ashby | 25 / 376 |
 | Sourcegraph | curated | greenhouse | 2 / 9 |
 | Span | auto | ashby | 4 / 34 |
 | Suki AI | auto | greenhouse | 1 / 11 |
-| Suno | auto | ashby | 4 / 64 |
+| Suno | auto | ashby | 4 / 65 |
 | Terawatt Infrastructure | auto | lever | 1 / 5 |
 | Thinking Machines Lab | auto | ashby | 2 / 37 |
-| Together AI | auto | greenhouse | 8 / 58 |
-| Unstructured | auto (new today) | ashby | 0 / 5 |
+| Together AI | auto | greenhouse | 8 / 59 |
+| Unstructured | auto | ashby | 0 / 5 |
 | Vanta | auto | ashby | 14 / 111 |
 | Vapi | curated | ashby | 2 / 35 |
 | Verkor | auto | lever | 0 / 49 |
