@@ -1,60 +1,60 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-09-07 18:56. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-09-08 18:12. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (107 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
-| 1X | auto | ashby | 0 / 87 |
+| 1X | auto | ashby | 0 / 86 |
 | Abridge | auto | ashby | 6 / 40 |
-| Ada | curated | greenhouse | 0 / 7 |
-| Airbnb | curated | greenhouse | 13 / 167 |
+| Ada | curated | greenhouse | 0 / 9 |
+| Airbnb | curated | greenhouse | 13 / 172 |
 | Airbyte | auto | ashby | 0 / 13 |
 | Ambience | auto | ashby | 1 / 17 |
 | Amperity | curated | greenhouse | 2 / 20 |
-| Anthropic | curated | greenhouse | 63 / 589 |
-| Antora Energy | auto | greenhouse | 0 / 36 |
+| Anthropic | curated | greenhouse | 63 / 587 |
+| Antora Energy | auto | greenhouse | 0 / 37 |
 | Anyscale | auto | ashby | 1 / 19 |
 | Applied Intuition | curated | ashby | 0 / 281 |
 | Archer Aviation | auto | greenhouse | 0 / 1 |
 | Attio | auto | ashby | 3 / 48 |
 | Augment | curated | greenhouse | 0 / 1 |
-| Base Power | auto | ashby | 3 / 174 |
+| Base Power | auto | ashby | 3 / 175 |
 | Baseten | auto | ashby | 8 / 88 |
 | Bland | curated | ashby | 1 / 19 |
-| Bloomreach | curated | greenhouse | 2 / 73 |
+| Bloomreach | curated | greenhouse | 2 / 76 |
 | Blueshift | auto | greenhouse | 0 / 1 |
 | Cartesia | auto | ashby | 2 / 33 |
 | Cavnue | auto | greenhouse | 0 / 0 |
 | Character.AI | auto | ashby | 0 / 13 |
 | Clay | curated | ashby | 10 / 57 |
 | Cognition | auto | ashby | 2 / 91 |
-| Cohere | curated | ashby | 1 / 143 |
+| Cohere | curated | ashby | 2 / 144 |
 | Commure | auto | ashby | 4 / 76 |
 | Constructor | curated | ashby | 8 / 48 |
 | Credal | auto | ashby | 0 / 5 |
-| Cresta | curated | greenhouse | 6 / 94 |
+| Cresta | curated | greenhouse | 6 / 95 |
 | Cursor (Anysphere) | auto | ashby | 6 / 124 |
-| Databricks | curated | greenhouse | 39 / 872 |
-| Decagon | curated | ashby | 11 / 139 |
-| Deepgram | auto | ashby | 9 / 89 |
+| Databricks | curated | greenhouse | 39 / 869 |
+| Decagon | curated | ashby | 11 / 138 |
+| Deepgram | auto | ashby | 9 / 90 |
 | Distyl | auto | ashby | 0 / 28 |
-| Dust | auto | ashby | 0 / 25 |
-| ElevenLabs | auto | ashby | 1 / 252 |
+| Dust | auto | ashby | 0 / 24 |
+| ElevenLabs | auto | ashby | 1 / 249 |
 | Enterpret | auto | greenhouse | 1 / 16 |
 | Exa | auto | ashby | 0 / 55 |
 | Figure | curated | greenhouse | 0 / 11 |
 | Fivetran | auto | greenhouse | 29 / 212 |
-| Form Energy | auto | ashby | 0 / 187 |
+| Form Energy | auto | ashby | 0 / 186 |
 | Genspark | auto | ashby | 2 / 10 |
-| Glean | curated | greenhouse | 18 / 116 |
-| Gong | auto | greenhouse | 4 / 93 |
+| Glean | curated | greenhouse | 18 / 114 |
+| Gong | auto | greenhouse | 4 / 95 |
 | Group14 Technologies | auto | greenhouse | 1 / 5 |
-| Harvey | curated | ashby | 43 / 344 |
+| Harvey | curated | ashby | 41 / 339 |
 | Hebbia | curated | ashby | 2 / 23 |
 | Hex | auto | greenhouse | 3 / 31 |
-| Hightouch | curated | greenhouse | 8 / 82 |
+| Hightouch | curated | greenhouse | 9 / 83 |
 | Hippocratic AI | curated | ashby | 3 / 38 |
 | Imbue | auto | greenhouse | 1 / 3 |
 | Kodiak Robotics | auto | greenhouse | 4 / 72 |
@@ -63,56 +63,56 @@ _Auto-generated 2026-09-07 18:56. Watched via the public Greenhouse / Lever / As
 | Linear | auto | ashby | 0 / 29 |
 | Liquid AI | auto | ashby | 1 / 2 |
 | Lorikeet | auto | ashby | 0 / 10 |
-| Luma AI | curated | ashby | 0 / 46 |
-| Lyft | curated | greenhouse | 11 / 169 |
+| Luma AI | curated | ashby | 0 / 45 |
+| Lyft | curated | greenhouse | 12 / 167 |
 | Magic | curated | ashby | 0 / 9 |
-| Mercor | auto | ashby | 15 / 96 |
+| Mercor | auto | ashby | 15 / 98 |
 | Mistral | curated | lever | 0 / 0 |
 | Modal | auto | ashby | 2 / 30 |
 | MotherDuck | auto | ashby | 0 / 6 |
-| Motional | auto | greenhouse | 4 / 68 |
+| Motional | auto | greenhouse | 4 / 72 |
 | Nuro | curated | greenhouse | 3 / 107 |
 | Observe.AI | auto | greenhouse | 0 / 17 |
 | Omni | auto | ashby | 1 / 22 |
-| OpenAI | curated | ashby | 62 / 781 |
+| OpenAI | curated | ashby | 61 / 778 |
 | OpenEvidence | auto | ashby | 0 / 8 |
-| Parloa | auto | greenhouse | 2 / 53 |
+| Parloa | auto | greenhouse | 2 / 51 |
 | Perplexity | curated | ashby | 11 / 112 |
-| PolyAI | auto | greenhouse | 0 / 8 |
+| PolyAI | auto | greenhouse | 0 / 9 |
 | Poolside | auto | ashby | 0 / 15 |
 | Pryon | auto | lever | 0 / 3 |
-| Ramp | auto | ashby | 12 / 142 |
-| Reducto | auto | ashby | 5 / 39 |
-| Redwood Materials | auto | greenhouse | 2 / 139 |
+| Ramp | auto | ashby | 11 / 141 |
+| Reducto | auto | ashby | 5 / 40 |
+| Redwood Materials | auto | greenhouse | 2 / 138 |
 | Regal | curated | lever | 2 / 10 |
 | Reka | auto | ashby | 0 / 9 |
-| Replit | auto | ashby | 8 / 71 |
+| Replit | auto | ashby | 7 / 71 |
 | Rime | auto | ashby | 0 / 3 |
-| Sana | curated | ashby | 1 / 17 |
+| Sana | curated | ashby | 1 / 15 |
 | Serve Robotics | auto | ashby | 0 / 34 |
 | Sierra | curated | ashby | 18 / 212 |
-| Sigma Computing | auto | greenhouse | 6 / 67 |
+| Sigma Computing | auto | greenhouse | 6 / 65 |
 | Simon Data | auto | ashby | 0 / 2 |
 | Sixfold | auto | greenhouse | 0 / 2 |
-| Snowflake | curated | ashby | 25 / 371 |
-| Sourcegraph | curated | greenhouse | 2 / 9 |
-| Span | auto | ashby | 4 / 33 |
+| Snowflake | curated | ashby | 26 / 370 |
+| Sourcegraph | curated | greenhouse | 2 / 8 |
+| Span | auto | ashby | 4 / 31 |
 | Suki AI | auto | greenhouse | 1 / 11 |
 | Suno | auto | ashby | 4 / 65 |
-| Terawatt Infrastructure | auto | lever | 1 / 5 |
+| Terawatt Infrastructure | auto | lever | 1 / 2 |
 | Thinking Machines Lab | auto | ashby | 2 / 37 |
-| Together AI | auto | greenhouse | 8 / 59 |
+| Together AI | auto | greenhouse | 8 / 61 |
 | Unstructured | auto | ashby | 0 / 5 |
 | Vanta | auto | ashby | 14 / 111 |
 | Vapi | curated | ashby | 2 / 35 |
 | Verkor | auto | lever | 0 / 48 |
 | Waabi | auto | lever | 2 / 81 |
 | Watershed | auto | ashby | 3 / 33 |
-| Wayve | auto | greenhouse | 0 / 166 |
+| Wayve | auto | greenhouse | 0 / 167 |
 | World Labs | auto | greenhouse | 1 / 9 |
 | Writer | curated | ashby | 0 / 51 |
-| xAI | curated | greenhouse | 2 / 257 |
-| Zoox | curated | lever | 28 / 241 |
+| xAI | curated | greenhouse | 2 / 256 |
+| Zoox | curated | lever | 28 / 242 |
 
 ## ⏳ In discovery backlog — 0 left (~2 added/day)
 
