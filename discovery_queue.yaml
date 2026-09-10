@@ -1,2 +1,27 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue: []
+queue:
+- name: Federato
+  ats: greenhouse
+  slug: federato
+  related: insurance underwriting AI, like Sixfold — 1 match (Sr Customer Success
+    Manager)
+- name: Kalepa
+  ats: greenhouse
+  slug: kalepa
+  related: insurance underwriting AI, like Sixfold (0 matches today, 25 openings)
+- name: Elicit
+  ats: ashby
+  slug: elicit
+  related: AI research assistant / search, like Genspark (0 matches today, 10 openings)
+- name: Dovetail
+  ats: ashby
+  slug: dovetail
+  related: customer research / feedback analysis, like Enterpret (0 matches today)
+- name: Deepnote
+  ats: ashby
+  slug: deepnote
+  related: data science notebook, like Hex (0 matches today, tiny board)
+- name: Julius AI
+  ats: ashby
+  slug: julius
+  related: AI data analysis, like Hex (0 matches today, tiny board)

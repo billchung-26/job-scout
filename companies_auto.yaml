@@ -214,3 +214,9 @@ companies:
 - name: Sixfold
   ats: greenhouse
   slug: sixfold
+- name: Gorgias
+  ats: ashby
+  slug: gorgias
+- name: Sweep
+  ats: ashby
+  slug: sweep

@@ -542,7 +542,10 @@ def update_recommendations(all_matching):
         })
 
     with open(REC_STATE_FILE, "w") as f:
-        json.dump(new_state, f, indent=2)
+        json.dump(new_state, f, indent=2)      # still one entry per posting (collapse is display-only)
+
+    records = _collapse_multilocation(records)
+    n_applied = sum(1 for r in records if r["applied"])
 
     # not-applied first, then newest (first seen) first, then by fit desc
     records.sort(key=lambda r: (r["applied"], r["age"], -r["score"], r["company"].lower()))
@@ -553,6 +556,56 @@ def update_recommendations(all_matching):
     print("Updated recommendations: latest.md / .csv / .xlsx  (%d roles, %d applied, %d sunset hidden)"
           % (len(records), n_applied, n_sunset))
     return records
+
+
+def _collapse_multilocation(records):
+    """Merge rows that are the same role (same company + title) posted at multiple
+    locations into a single row, so the digest isn't cluttered with e.g. Databricks
+    'Compute Platform PM' listed once per city.
+
+    Tradeoffs, on purpose:
+    - If ANY location variant is applied, the whole collapsed row is marked applied
+      and links to that variant — so it drops out of the active list even if another
+      location is still open and unapplied.
+    - first_seen = earliest seen across variants, so a role that only GAINS a new
+      location does not re-flag as 🆕.
+    - Two genuinely different reqs that share an identical bare title at the same
+      company (rare — e.g. two separate "Product Manager" openings) collapse into one
+      row and one URL is dropped. Accepted as part of the collapse.
+    - rec_state.json is untouched (one entry per posting), so this stays reversible.
+    """
+    groups, order = {}, []
+    for r in records:
+        k = (r["company"], r["role"].strip().lower())
+        if k not in groups:
+            groups[k] = []
+            order.append(k)
+        groups[k].append(r)
+
+    out = []
+    for k in order:
+        g = groups[k]
+        if len(g) == 1:
+            out.append(g[0])
+            continue
+        applied_members = [r for r in g if r["applied"]]
+        pick = applied_members[0] if applied_members else max(g, key=lambda r: r["score"])
+        locs = []
+        for r in g:
+            if r["location"] and r["location"] not in locs:
+                locs.append(r["location"])
+        merged = dict(pick)
+        merged["location"] = " / ".join(locs) + ("  (%d postings)" % len(g))
+        merged["applied"] = bool(applied_members)
+        merged["score"] = max(r["score"] for r in g)
+        merged["first_seen"] = min(r["first_seen"] for r in g)
+        try:
+            merged["age"] = (datetime.now().date()
+                             - datetime.strptime(merged["first_seen"], "%Y-%m-%d").date()).days
+        except Exception:  # noqa
+            merged["age"] = min(r["age"] for r in g)
+        out.append(merged)
+    return out
 
 
 def _write_recs_md(records, n_applied, n_sunset):
