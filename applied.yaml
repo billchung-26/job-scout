@@ -63,3 +63,5 @@ applied:
   - {company: Vanta,       role: "Staff Product Manager, Data Platform",      url: "https://jobs.ashbyhq.com/vanta/f7225fae-2203-4332-8ea4-8569c7e371d1"}
   - {company: Airbnb,      role: "Product Manager, Pricing",                  url: "https://careers.airbnb.com/positions/8096359?gh_jid=8096359"}
   - {company: Thinking Machines Lab, role: "Product Manager - Deployment",    url: "https://jobs.ashbyhq.com/thinkingmachines/079f3334-43ae-4ee7-9671-1dbad75dd8df"}
+  # --- Tier 12 (applied 2026-09-09) ---
+  - {company: Ramp,        role: "Product Manager | Vendor Intelligence & Marketplace", url: "https://jobs.ashbyhq.com/ramp/cf3516f6-4d6b-4872-831f-c8ef4a3078ee"}
