@@ -1,14 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Federato
-  ats: greenhouse
-  slug: federato
-  related: insurance underwriting AI, like Sixfold — 1 match (Sr Customer Success
-    Manager)
-- name: Kalepa
-  ats: greenhouse
-  slug: kalepa
-  related: insurance underwriting AI, like Sixfold (0 matches today, 25 openings)
 - name: Elicit
   ats: ashby
   slug: elicit
