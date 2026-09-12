@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Elicit
-  ats: ashby
-  slug: elicit
-  related: AI research assistant / search, like Genspark (0 matches today, 10 openings)
-- name: Dovetail
-  ats: ashby
-  slug: dovetail
-  related: customer research / feedback analysis, like Enterpret (0 matches today)
 - name: Deepnote
   ats: ashby
   slug: deepnote

@@ -226,3 +226,9 @@ companies:
 - name: Kalepa
   ats: greenhouse
   slug: kalepa
+- name: Elicit
+  ats: ashby
+  slug: elicit
+- name: Dovetail
+  ats: ashby
+  slug: dovetail
