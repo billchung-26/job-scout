@@ -1,8 +1,8 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-09-12 17:32. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-09-13 17:47. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (112 companies)
+## ✅ Watching (114 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
@@ -13,7 +13,7 @@ _Auto-generated 2026-09-12 17:32. Watched via the public Greenhouse / Lever / As
 | Airbyte | auto | ashby | 0 / 13 |
 | Ambience | auto | ashby | 1 / 14 |
 | Amperity | curated | greenhouse | 1 / 18 |
-| Anthropic | curated | greenhouse | 62 / 595 |
+| Anthropic | curated | greenhouse | 62 / 596 |
 | Antora Energy | auto | greenhouse | 0 / 32 |
 | Anyscale | auto | ashby | 1 / 20 |
 | Applied Intuition | curated | ashby | 0 / 291 |
@@ -29,24 +29,25 @@ _Auto-generated 2026-09-12 17:32. Watched via the public Greenhouse / Lever / As
 | Cavnue | auto | greenhouse | 0 / 0 |
 | Character.AI | auto | ashby | 0 / 13 |
 | Clay | curated | ashby | 10 / 57 |
-| Cognition | auto | ashby | 2 / 93 |
+| Cognition | auto | ashby | 2 / 94 |
 | Cohere | curated | ashby | 1 / 145 |
 | Commure | auto | ashby | 4 / 83 |
 | Constructor | curated | ashby | 9 / 48 |
 | Credal | auto | ashby | 0 / 5 |
 | Cresta | curated | greenhouse | 6 / 94 |
 | Cursor (Anysphere) | auto | ashby | 7 / 127 |
-| Databricks | curated | greenhouse | 41 / 892 |
+| Databricks | curated | greenhouse | 41 / 891 |
 | Decagon | curated | ashby | 11 / 140 |
 | Deepgram | auto | ashby | 9 / 92 |
+| Deepnote | auto (new today) | ashby | 0 / 3 |
 | Distyl | auto | ashby | 0 / 24 |
-| Dovetail | auto (new today) | ashby | 0 / 9 |
+| Dovetail | auto | ashby | 0 / 9 |
 | Dust | auto | ashby | 1 / 26 |
 | ElevenLabs | auto | ashby | 1 / 246 |
-| Elicit | auto (new today) | ashby | 0 / 10 |
+| Elicit | auto | ashby | 0 / 10 |
 | Enterpret | auto | greenhouse | 1 / 15 |
 | Exa | auto | ashby | 0 / 55 |
-| Federato | auto | greenhouse | 1 / 8 |
+| Federato | auto | greenhouse | 1 / 7 |
 | Figure | curated | greenhouse | 0 / 10 |
 | Fivetran | auto | greenhouse | 25 / 197 |
 | Form Energy | auto | ashby | 0 / 198 |
@@ -61,9 +62,10 @@ _Auto-generated 2026-09-12 17:32. Watched via the public Greenhouse / Lever / As
 | Hightouch | curated | greenhouse | 9 / 86 |
 | Hippocratic AI | curated | ashby | 3 / 33 |
 | Imbue | auto | greenhouse | 1 / 3 |
+| Julius AI | auto (new today) | ashby | 0 / 4 |
 | Kalepa | auto | greenhouse | 0 / 25 |
 | Kodiak Robotics | auto | greenhouse | 4 / 65 |
-| LangChain | auto | ashby | 5 / 109 |
+| LangChain | auto | ashby | 5 / 108 |
 | Level AI | auto | lever | 1 / 19 |
 | Linear | auto | ashby | 0 / 30 |
 | Liquid AI | auto | ashby | 1 / 2 |
@@ -79,7 +81,7 @@ _Auto-generated 2026-09-12 17:32. Watched via the public Greenhouse / Lever / As
 | Nuro | curated | greenhouse | 4 / 106 |
 | Observe.AI | auto | greenhouse | 0 / 17 |
 | Omni | auto | ashby | 1 / 21 |
-| OpenAI | curated | ashby | 63 / 796 |
+| OpenAI | curated | ashby | 63 / 794 |
 | OpenEvidence | auto | ashby | 0 / 8 |
 | Parloa | auto | greenhouse | 3 / 52 |
 | Perplexity | curated | ashby | 12 / 115 |
@@ -88,10 +90,10 @@ _Auto-generated 2026-09-12 17:32. Watched via the public Greenhouse / Lever / As
 | Pryon | auto | lever | 0 / 3 |
 | Ramp | auto | ashby | 10 / 145 |
 | Reducto | auto | ashby | 5 / 41 |
-| Redwood Materials | auto | greenhouse | 2 / 138 |
+| Redwood Materials | auto | greenhouse | 2 / 140 |
 | Regal | curated | lever | 2 / 10 |
 | Reka | auto | ashby | 0 / 9 |
-| Replit | auto | ashby | 7 / 77 |
+| Replit | auto | ashby | 7 / 76 |
 | Rime | auto | ashby | 0 / 4 |
 | Sana | curated | ashby | 1 / 12 |
 | Serve Robotics | auto | ashby | 0 / 34 |
@@ -116,13 +118,11 @@ _Auto-generated 2026-09-12 17:32. Watched via the public Greenhouse / Lever / As
 | Watershed | auto | ashby | 4 / 33 |
 | Wayve | auto | greenhouse | 0 / 170 |
 | Writer | curated | ashby | 1 / 49 |
-| xAI | curated | greenhouse | 2 / 255 |
+| xAI | curated | greenhouse | 2 / 254 |
 | Zoox | curated | lever | 29 / 245 |
 
-## ⏳ In discovery backlog — 2 left (~2 added/day)
+## ⏳ In discovery backlog — 0 left (~2 added/day)
 
-- Deepnote — data science notebook, like Hex (0 matches today, tiny board)
-- Julius AI — AI data analysis, like Hex (0 matches today, tiny board)
 
 ## ❌ Not watchable by this tool
 

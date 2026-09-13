@@ -232,3 +232,9 @@ companies:
 - name: Dovetail
   ats: ashby
   slug: dovetail
+- name: Deepnote
+  ats: ashby
+  slug: deepnote
+- name: Julius AI
+  ats: ashby
+  slug: julius

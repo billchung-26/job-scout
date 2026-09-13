@@ -1,10 +1,2 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue:
-- name: Deepnote
-  ats: ashby
-  slug: deepnote
-  related: data science notebook, like Hex (0 matches today, tiny board)
-- name: Julius AI
-  ats: ashby
-  slug: julius
-  related: AI data analysis, like Hex (0 matches today, tiny board)
+queue: []
