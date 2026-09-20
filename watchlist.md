@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-09-19 17:36. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-09-20 17:48. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (114 companies)
 
@@ -13,7 +13,7 @@ _Auto-generated 2026-09-19 17:36. Watched via the public Greenhouse / Lever / As
 | Airbyte | auto | ashby | 0 / 13 |
 | Ambience | auto | ashby | 1 / 15 |
 | Amperity | curated | greenhouse | 1 / 10 |
-| Anthropic | curated | greenhouse | 69 / 610 |
+| Anthropic | curated | greenhouse | 68 / 611 |
 | Antora Energy | auto | greenhouse | 0 / 35 |
 | Anyscale | auto | ashby | 1 / 21 |
 | Applied Intuition | curated | ashby | 0 / 292 |
@@ -36,7 +36,7 @@ _Auto-generated 2026-09-19 17:36. Watched via the public Greenhouse / Lever / As
 | Credal | auto | ashby | 0 / 5 |
 | Cresta | curated | greenhouse | 6 / 96 |
 | Cursor (Anysphere) | auto | ashby | 5 / 122 |
-| Databricks | curated | greenhouse | 41 / 878 |
+| Databricks | curated | greenhouse | 41 / 875 |
 | Decagon | curated | ashby | 12 / 146 |
 | Deepgram | auto | ashby | 9 / 92 |
 | Deepnote | auto | ashby | 0 / 3 |
@@ -50,7 +50,7 @@ _Auto-generated 2026-09-19 17:36. Watched via the public Greenhouse / Lever / As
 | Federato | auto | greenhouse | 1 / 9 |
 | Figure | curated | greenhouse | 0 / 12 |
 | Fivetran | auto | greenhouse | 28 / 197 |
-| Form Energy | auto | ashby | 0 / 200 |
+| Form Energy | auto | ashby | 0 / 201 |
 | Genspark | auto | ashby | 1 / 7 |
 | Glean | curated | greenhouse | 19 / 123 |
 | Gong | auto | greenhouse | 3 / 91 |
@@ -71,7 +71,7 @@ _Auto-generated 2026-09-19 17:36. Watched via the public Greenhouse / Lever / As
 | Liquid AI | auto | ashby | 1 / 2 |
 | Lorikeet | auto | ashby | 0 / 7 |
 | Luma AI | curated | ashby | 0 / 41 |
-| Lyft | curated | greenhouse | 12 / 178 |
+| Lyft | curated | greenhouse | 12 / 176 |
 | Magic | curated | ashby | 0 / 8 |
 | Mercor | auto | ashby | 15 / 109 |
 | Mistral | curated | lever | 0 / 0 |
@@ -83,7 +83,7 @@ _Auto-generated 2026-09-19 17:36. Watched via the public Greenhouse / Lever / As
 | Omni | auto | ashby | 2 / 23 |
 | OpenAI | curated | ashby | 66 / 818 |
 | OpenEvidence | auto | ashby | 0 / 11 |
-| Parloa | auto | greenhouse | 3 / 50 |
+| Parloa | auto | greenhouse | 3 / 49 |
 | Perplexity | curated | ashby | 12 / 118 |
 | PolyAI | auto | greenhouse | 0 / 2 |
 | Poolside | auto | ashby | 0 / 8 |
@@ -115,10 +115,10 @@ _Auto-generated 2026-09-19 17:36. Watched via the public Greenhouse / Lever / As
 | Vapi | curated | ashby | 2 / 30 |
 | Verkor | auto | lever | 0 / 49 |
 | Waabi | auto | lever | 2 / 85 |
-| Watershed | auto | ashby | 4 / 32 |
+| Watershed | auto | ashby | 5 / 33 |
 | Wayve | auto | greenhouse | 0 / 192 |
 | Writer | curated | ashby | 1 / 51 |
-| xAI | curated | greenhouse | 2 / 264 |
+| xAI | curated | greenhouse | 2 / 266 |
 | Zoox | curated | lever | 31 / 237 |
 
 ## ⏳ In discovery backlog — 0 left (~2 added/day)
