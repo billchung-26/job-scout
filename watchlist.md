@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-09-26 18:10. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-09-27 18:46. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (114 companies)
 
@@ -13,7 +13,7 @@ _Auto-generated 2026-09-26 18:10. Watched via the public Greenhouse / Lever / As
 | Airbyte | auto | ashby | 0 / 12 |
 | Ambience | auto | ashby | 1 / 17 |
 | Amperity | curated | greenhouse | 1 / 12 |
-| Anthropic | curated | greenhouse | 68 / 618 |
+| Anthropic | curated | greenhouse | 68 / 619 |
 | Antora Energy | auto | greenhouse | 0 / 40 |
 | Anyscale | auto | ashby | 1 / 22 |
 | Applied Intuition | curated | ashby | 0 / 306 |
@@ -29,14 +29,14 @@ _Auto-generated 2026-09-26 18:10. Watched via the public Greenhouse / Lever / As
 | Cavnue | auto | greenhouse | 0 / 0 |
 | Character.AI | auto | ashby | 0 / 13 |
 | Clay | curated | ashby | 10 / 58 |
-| Cognition | auto | ashby | 3 / 103 |
+| Cognition | auto | ashby | 3 / 102 |
 | Cohere | curated | ashby | 2 / 147 |
-| Commure | auto | ashby | 4 / 83 |
+| Commure | auto | ashby | 4 / 82 |
 | Constructor | curated | ashby | 12 / 43 |
-| Credal | auto | ashby | 0 / 5 |
+| Credal | auto | ashby | 0 / 4 |
 | Cresta | curated | greenhouse | 7 / 96 |
 | Cursor (Anysphere) | auto | ashby | 5 / 126 |
-| Databricks | curated | greenhouse | 41 / 887 |
+| Databricks | curated | greenhouse | 41 / 888 |
 | Decagon | curated | ashby | 12 / 146 |
 | Deepgram | auto | ashby | 9 / 91 |
 | Deepnote | auto | ashby | 0 / 3 |
@@ -50,10 +50,10 @@ _Auto-generated 2026-09-26 18:10. Watched via the public Greenhouse / Lever / As
 | Federato | auto | greenhouse | 0 / 8 |
 | Figure | curated | greenhouse | 0 / 17 |
 | Fivetran | auto | greenhouse | 23 / 192 |
-| Form Energy | auto | ashby | 0 / 198 |
+| Form Energy | auto | ashby | 0 / 199 |
 | Genspark | auto | ashby | 1 / 7 |
 | Glean | curated | greenhouse | 21 / 130 |
-| Gong | auto | greenhouse | 2 / 97 |
+| Gong | auto | greenhouse | 2 / 98 |
 | Gorgias | auto | ashby | 1 / 14 |
 | Group14 Technologies | auto | greenhouse | 2 / 6 |
 | Harvey | curated | ashby | 35 / 304 |
