@@ -1,6 +1,7 @@
 Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 1,Base Power,"Technical Product Manager, GTM","Austin, TX",No,2026-09-30,0,https://jobs.ashbyhq.com/base-power/1bca5a4f-47a9-49d9-a06d-09f78a2d7469
 0,Baseten,Recruiting Operations Program Manager,San Francisco,No,2026-09-30,0,https://jobs.ashbyhq.com/baseten/f736f253-7b2d-4a4f-82d6-3f4ebf14c7c6
+0,ElevenLabs,Head of Revenue Operations,United States,No,2026-09-30,0,https://jobs.ashbyhq.com/elevenlabs/70abac80-024e-4233-a7dc-667697f66976
 0,Harvey,Head of Product Security,New York / San Francisco  (2 postings),No,2026-09-30,0,https://jobs.ashbyhq.com/harvey/0b11604a-3743-4202-85d2-260dee788611
 0,Harvey,IT Program Manager,New York / San Francisco / Remote  (3 postings),No,2026-09-30,0,https://jobs.ashbyhq.com/harvey/b7fbe6a3-397b-4510-ac91-44253ab0ccf5
 0,Lyft,"Senior Group Product Manager, Verticals","San Francisco, CA",No,2026-09-30,0,https://app.careerpuck.com/job-board/lyft/job/8857353002?gh_jid=8857353002
@@ -9,7 +10,6 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 0,Parloa,Staff Product Engineer,Berlin Office; London Office; Munich Office; Remotely in Germany; Remotely in the UK,No,2026-09-30,0,https://job-boards.eu.greenhouse.io/parloa/jobs/4989652101
 1,Anthropic,"Business Systems Analyst, GTM Systems","San Francisco, CA | New York City, NY",No,2026-09-29,1,https://job-boards.greenhouse.io/anthropic/jobs/5436196008
 0,Abridge,Member of Product Operations & Strategy Staff,SF Office,No,2026-09-29,1,https://jobs.ashbyhq.com/abridge/bdbe64c1-cb3e-4ba6-a0fe-0bf76372a673
-0,Suno,"Product Manager, Video",NYC,No,2026-09-29,1,https://jobs.ashbyhq.com/suno/1735f9af-fbce-4f6c-9fbe-ac42eca09009
 1,OpenAI,"Technical Program Manager, Global Programs — Applied AI Engineering",San Francisco,No,2026-09-28,2,https://jobs.ashbyhq.com/openai/cd3c9c99-9527-4ba2-bea7-9f8f4892bc62
 0,Anthropic," Head of Customer Success, APAC ","Sydney, Australia",No,2026-09-28,2,https://job-boards.greenhouse.io/anthropic/jobs/5424443008
 0,Anthropic,"Product Engineer, Computer Use ","San Francisco, CA | New York City, NY | Seattle, WA",No,2026-09-28,2,https://job-boards.greenhouse.io/anthropic/jobs/5238637008
@@ -37,7 +37,6 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 0,Harvey,"Program Manager, Product Systems and Insights",New York / San Francisco  (2 postings),No,2026-09-24,6,https://jobs.ashbyhq.com/harvey/aa5babaa-bd03-45d2-beea-c159a8bec305
 0,Hippocratic AI,Customer Success Executive ,United States,No,2026-09-24,6,https://jobs.ashbyhq.com/Hippocratic%20AI/8ed3431d-10d2-4b7f-a677-fa29a526e2ca
 0,Kalepa,"Senior Manager, Revenue Operations","New York, NY (Hybrid) / United States (Remote)  (2 postings)",No,2026-09-24,6,https://job-boards.greenhouse.io/kalepa/jobs/6207812004
-2,Anthropic,"GTM Enablement Trainer, Claude Products","San Francisco, CA | New York City, NY",No,2026-09-23,7,https://job-boards.greenhouse.io/anthropic/jobs/5428790008
 2,OpenAI,"Pricing Strategist, GTM",San Francisco,No,2026-09-23,7,https://jobs.ashbyhq.com/openai/5ce0931f-aba7-4c7d-9fca-1e278bf75473
 1,Cognition,GTM Systems Engineer,San Francisco,No,2026-09-23,7,https://jobs.ashbyhq.com/cognition/dabc56df-b50a-4056-9e01-14ca3e0b12a4
 0,Anthropic,"Program Manager, Safeguards Workforce Operations","San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",No,2026-09-23,7,https://job-boards.greenhouse.io/anthropic/jobs/5431285008
@@ -82,7 +81,7 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 0,Cohere,Revenue Enablement Program Manager,United States,No,2026-09-16,14,https://jobs.ashbyhq.com/cohere/f6100cdd-94fc-4f4b-bac5-7efa5069cdd5
 0,Modal,Inference Engineering and Product Lead ,San Francisco,No,2026-09-16,14,https://jobs.ashbyhq.com/modal/ead55e1a-873d-4837-8450-95fe8f4c8931
 0,Zoox,"Technical Program Manager, Manufacturing","Hayward, CA",No,2026-09-16,14,https://jobs.lever.co/zoox/300e20c4-8c4b-4325-90aa-473e7d4abe52
-1,Fivetran,GTM Finance Sr. Analyst,"Oakland, California, United States, AMER / Denver, Colorado, United States, AMER  (2 postings)",No,2026-09-15,15,https://www.fivetran.com/careers/job?gh_jid=7992802003
+1,Fivetran,GTM Finance Sr. Analyst,"Denver, Colorado, United States, AMER / Oakland, California, United States, AMER  (2 postings)",No,2026-09-15,15,https://www.fivetran.com/careers/job?gh_jid=7994914003
 0,Anthropic,"Manager, Customer Success - Commercial ","Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",No,2026-09-15,15,https://job-boards.greenhouse.io/anthropic/jobs/5422436008
 0,Anthropic,"Manager, Customer Success – Strategic Consumer Tech","Boston, MA; San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA; Washington, DC",No,2026-09-15,15,https://job-boards.greenhouse.io/anthropic/jobs/5421539008
 0,Anthropic,Product Engineer - Manufacturing Operations,"Remote-Friendly, United States",No,2026-09-15,15,https://job-boards.greenhouse.io/anthropic/jobs/5399162008
@@ -116,7 +115,6 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 2,Anthropic,GTM Strategy & Operations - AMER Enterprise Tech,"San Francisco, CA | New York City, NY",No,2026-09-09,21,https://job-boards.greenhouse.io/anthropic/jobs/5390956008
 2,Nuro,Senior Technical Program Manager - AI Platform Performance & Reliability,"Mountain View, California (HQ)",No,2026-09-09,21,https://nuro.ai/careersitem?gh_jid=8180475
 1,Dust,Talent Acquisition Partner (GTM) ,New York,No,2026-09-09,21,https://jobs.ashbyhq.com/dust/9adcb2e4-ab6e-451e-b9e2-24d02b969609
-1,Zoox,"Technical Program Manager, Robot Platforms","Foster City, CA",No,2026-09-09,21,https://jobs.lever.co/zoox/15efc87a-f31b-40e0-967f-5927dae73b5d
 0,Anthropic,"Customer Success Manager, Beneficial Deployments - Life Sciences","San Francisco, CA | New York City, NY",No,2026-09-09,21,https://job-boards.greenhouse.io/anthropic/jobs/5416026008
 0,Harvey,"Senior/Staff Product Manager, Spaces",San Francisco,No,2026-09-09,21,https://jobs.ashbyhq.com/harvey/4a7a598a-2dff-4c13-96e4-be39ec32bbd1
 0,Hightouch,Customer Success Engineer,Remote (PST or MT timezone) ,No,2026-09-09,21,https://job-boards.greenhouse.io/hightouch/jobs/6186892004
@@ -134,7 +132,6 @@ Fit,Company,Role,Location,Applied,First Seen,Age (days),URL
 0,Constructor,Customer Success Enablement Manager,Remote - AMER,No,2026-09-05,25,https://jobs.ashbyhq.com/constructor/03a09a38-a18a-4bd3-9180-43a8eb75a497
 0,Constructor,Senior Customer Success Manager - Nordics,Remote - Sweden,No,2026-09-05,25,https://jobs.ashbyhq.com/constructor/25b6d438-7bbc-4f65-9914-3ecb9b3b6c6e
 0,Constructor,Sr. Customer Success Manager (French Speaking),Remote - France,No,2026-09-05,25,https://jobs.ashbyhq.com/constructor/69ab5260-237f-4426-991f-be8949170f68
-0,Motional,Senior Strategic Program Manager,"Boston, Massachusetts, United States",No,2026-09-05,25,https://motional.com/open-positions/?gh_jid=7986857003#/7986857003
 0,OpenAI,"Technical Program Manager, Infrastructure Systems & Tooling",San Francisco,No,2026-09-05,25,https://jobs.ashbyhq.com/openai/4a4a2604-b4b3-4944-a2a2-4ec4c5261d7d
 2,LangChain,Senior Product Engineer - Growth & Monetization,"New York, NY",No,2026-09-04,26,https://jobs.ashbyhq.com/langchain/f07bfbad-6daf-4b11-b5bb-2c3bbc47c53c
 1,Anyscale,Senior / Staff Product Manager - Ray Data,San Francisco,No,2026-09-04,26,https://jobs.ashbyhq.com/anyscale/71f0d335-6b29-437e-a7ae-ec1f3fc0b143

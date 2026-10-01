@@ -79,9 +79,6 @@ companies:
 - name: Suno
   ats: ashby
   slug: suno
-- name: World Labs
-  ats: greenhouse
-  slug: worldlabs
 - name: Wayve
   ats: greenhouse
   slug: wayve

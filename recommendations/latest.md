@@ -1,11 +1,12 @@
 # Job recommendations (live)
 
-_Updated 2026-09-30 19:44. 230 roles · 32 applied · 328 sunset (>30d) hidden._
+_Updated 2026-09-30 22:34. 227 roles · 32 applied · 326 sunset (>30d) hidden._
 
 | Fit | Company | Role | Location | Applied | First seen | Age |
 |---|---|---|---|---|---|---|
 | ⭐ | Base Power | [Technical Product Manager, GTM](https://jobs.ashbyhq.com/base-power/1bca5a4f-47a9-49d9-a06d-09f78a2d7469) 🆕 | Austin, TX |  | 2026-09-30 | 0d |
 | — | Baseten | [Recruiting Operations Program Manager](https://jobs.ashbyhq.com/baseten/f736f253-7b2d-4a4f-82d6-3f4ebf14c7c6) 🆕 | San Francisco |  | 2026-09-30 | 0d |
+| — | ElevenLabs | [Head of Revenue Operations](https://jobs.ashbyhq.com/elevenlabs/70abac80-024e-4233-a7dc-667697f66976) 🆕 | United States |  | 2026-09-30 | 0d |
 | — | Harvey | [Head of Product Security](https://jobs.ashbyhq.com/harvey/0b11604a-3743-4202-85d2-260dee788611) 🆕 | New York / San Francisco  (2 postings) |  | 2026-09-30 | 0d |
 | — | Harvey | [IT Program Manager](https://jobs.ashbyhq.com/harvey/b7fbe6a3-397b-4510-ac91-44253ab0ccf5) 🆕 | New York / San Francisco / Remote  (3 postings) |  | 2026-09-30 | 0d |
 | — | Lyft | [Senior Group Product Manager, Verticals](https://app.careerpuck.com/job-board/lyft/job/8857353002?gh_jid=8857353002) 🆕 | San Francisco, CA |  | 2026-09-30 | 0d |
@@ -14,7 +15,6 @@ _Updated 2026-09-30 19:44. 230 roles · 32 applied · 328 sunset (>30d) hidden._
 | — | Parloa | [Staff Product Engineer](https://job-boards.eu.greenhouse.io/parloa/jobs/4989652101) 🆕 | Berlin Office; London Office; Munich Office; Remotely in Germany; Remotely in the UK |  | 2026-09-30 | 0d |
 | ⭐ | Anthropic | [Business Systems Analyst, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5436196008) | San Francisco, CA | New York City, NY |  | 2026-09-29 | 1d |
 | — | Abridge | [Member of Product Operations & Strategy Staff](https://jobs.ashbyhq.com/abridge/bdbe64c1-cb3e-4ba6-a0fe-0bf76372a673) | SF Office |  | 2026-09-29 | 1d |
-| — | Suno | [Product Manager, Video](https://jobs.ashbyhq.com/suno/1735f9af-fbce-4f6c-9fbe-ac42eca09009) | NYC |  | 2026-09-29 | 1d |
 | ⭐ | OpenAI | [Technical Program Manager, Global Programs — Applied AI Engineering](https://jobs.ashbyhq.com/openai/cd3c9c99-9527-4ba2-bea7-9f8f4892bc62) | San Francisco |  | 2026-09-28 | 2d |
 | — | Anthropic | [ Head of Customer Success, APAC ](https://job-boards.greenhouse.io/anthropic/jobs/5424443008) | Sydney, Australia |  | 2026-09-28 | 2d |
 | — | Anthropic | [Product Engineer, Computer Use ](https://job-boards.greenhouse.io/anthropic/jobs/5238637008) | San Francisco, CA | New York City, NY | Seattle, WA |  | 2026-09-28 | 2d |
@@ -42,7 +42,6 @@ _Updated 2026-09-30 19:44. 230 roles · 32 applied · 328 sunset (>30d) hidden._
 | — | Harvey | [Program Manager, Product Systems and Insights](https://jobs.ashbyhq.com/harvey/aa5babaa-bd03-45d2-beea-c159a8bec305) | New York / San Francisco  (2 postings) |  | 2026-09-24 | 6d |
 | — | Hippocratic AI | [Customer Success Executive ](https://jobs.ashbyhq.com/Hippocratic%20AI/8ed3431d-10d2-4b7f-a677-fa29a526e2ca) | United States |  | 2026-09-24 | 6d |
 | — | Kalepa | [Senior Manager, Revenue Operations](https://job-boards.greenhouse.io/kalepa/jobs/6207812004) | New York, NY (Hybrid) / United States (Remote)  (2 postings) |  | 2026-09-24 | 6d |
-| ⭐⭐ | Anthropic | [GTM Enablement Trainer, Claude Products](https://job-boards.greenhouse.io/anthropic/jobs/5428790008) | San Francisco, CA | New York City, NY |  | 2026-09-23 | 7d |
 | ⭐⭐ | OpenAI | [Pricing Strategist, GTM](https://jobs.ashbyhq.com/openai/5ce0931f-aba7-4c7d-9fca-1e278bf75473) | San Francisco |  | 2026-09-23 | 7d |
 | ⭐ | Cognition | [GTM Systems Engineer](https://jobs.ashbyhq.com/cognition/dabc56df-b50a-4056-9e01-14ca3e0b12a4) | San Francisco |  | 2026-09-23 | 7d |
 | — | Anthropic | [Program Manager, Safeguards Workforce Operations](https://job-boards.greenhouse.io/anthropic/jobs/5431285008) | San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC |  | 2026-09-23 | 7d |
@@ -87,7 +86,7 @@ _Updated 2026-09-30 19:44. 230 roles · 32 applied · 328 sunset (>30d) hidden._
 | — | Cohere | [Revenue Enablement Program Manager](https://jobs.ashbyhq.com/cohere/f6100cdd-94fc-4f4b-bac5-7efa5069cdd5) | United States |  | 2026-09-16 | 14d |
 | — | Modal | [Inference Engineering and Product Lead ](https://jobs.ashbyhq.com/modal/ead55e1a-873d-4837-8450-95fe8f4c8931) | San Francisco |  | 2026-09-16 | 14d |
 | — | Zoox | [Technical Program Manager, Manufacturing](https://jobs.lever.co/zoox/300e20c4-8c4b-4325-90aa-473e7d4abe52) | Hayward, CA |  | 2026-09-16 | 14d |
-| ⭐ | Fivetran | [GTM Finance Sr. Analyst](https://www.fivetran.com/careers/job?gh_jid=7992802003) | Oakland, California, United States, AMER / Denver, Colorado, United States, AMER  (2 postings) |  | 2026-09-15 | 15d |
+| ⭐ | Fivetran | [GTM Finance Sr. Analyst](https://www.fivetran.com/careers/job?gh_jid=7994914003) | Denver, Colorado, United States, AMER / Oakland, California, United States, AMER  (2 postings) |  | 2026-09-15 | 15d |
 | — | Anthropic | [Manager, Customer Success - Commercial ](https://job-boards.greenhouse.io/anthropic/jobs/5422436008) | Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC |  | 2026-09-15 | 15d |
 | — | Anthropic | [Manager, Customer Success – Strategic Consumer Tech](https://job-boards.greenhouse.io/anthropic/jobs/5421539008) | Boston, MA; San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA; Washington, DC |  | 2026-09-15 | 15d |
 | — | Anthropic | [Product Engineer - Manufacturing Operations](https://job-boards.greenhouse.io/anthropic/jobs/5399162008) | Remote-Friendly, United States |  | 2026-09-15 | 15d |
@@ -121,7 +120,6 @@ _Updated 2026-09-30 19:44. 230 roles · 32 applied · 328 sunset (>30d) hidden._
 | ⭐⭐ | Anthropic | [GTM Strategy & Operations - AMER Enterprise Tech](https://job-boards.greenhouse.io/anthropic/jobs/5390956008) | San Francisco, CA | New York City, NY |  | 2026-09-09 | 21d |
 | ⭐⭐ | Nuro | [Senior Technical Program Manager - AI Platform Performance & Reliability](https://nuro.ai/careersitem?gh_jid=8180475) | Mountain View, California (HQ) |  | 2026-09-09 | 21d |
 | ⭐ | Dust | [Talent Acquisition Partner (GTM) ](https://jobs.ashbyhq.com/dust/9adcb2e4-ab6e-451e-b9e2-24d02b969609) | New York |  | 2026-09-09 | 21d |
-| ⭐ | Zoox | [Technical Program Manager, Robot Platforms](https://jobs.lever.co/zoox/15efc87a-f31b-40e0-967f-5927dae73b5d) | Foster City, CA |  | 2026-09-09 | 21d |
 | — | Anthropic | [Customer Success Manager, Beneficial Deployments - Life Sciences](https://job-boards.greenhouse.io/anthropic/jobs/5416026008) | San Francisco, CA | New York City, NY |  | 2026-09-09 | 21d |
 | — | Harvey | [Senior/Staff Product Manager, Spaces](https://jobs.ashbyhq.com/harvey/4a7a598a-2dff-4c13-96e4-be39ec32bbd1) | San Francisco |  | 2026-09-09 | 21d |
 | — | Hightouch | [Customer Success Engineer](https://job-boards.greenhouse.io/hightouch/jobs/6186892004) | Remote (PST or MT timezone)  |  | 2026-09-09 | 21d |
@@ -139,7 +137,6 @@ _Updated 2026-09-30 19:44. 230 roles · 32 applied · 328 sunset (>30d) hidden._
 | — | Constructor | [Customer Success Enablement Manager](https://jobs.ashbyhq.com/constructor/03a09a38-a18a-4bd3-9180-43a8eb75a497) | Remote - AMER |  | 2026-09-05 | 25d |
 | — | Constructor | [Senior Customer Success Manager - Nordics](https://jobs.ashbyhq.com/constructor/25b6d438-7bbc-4f65-9914-3ecb9b3b6c6e) | Remote - Sweden |  | 2026-09-05 | 25d |
 | — | Constructor | [Sr. Customer Success Manager (French Speaking)](https://jobs.ashbyhq.com/constructor/69ab5260-237f-4426-991f-be8949170f68) | Remote - France |  | 2026-09-05 | 25d |
-| — | Motional | [Senior Strategic Program Manager](https://motional.com/open-positions/?gh_jid=7986857003#/7986857003) | Boston, Massachusetts, United States |  | 2026-09-05 | 25d |
 | — | OpenAI | [Technical Program Manager, Infrastructure Systems & Tooling](https://jobs.ashbyhq.com/openai/4a4a2604-b4b3-4944-a2a2-4ec4c5261d7d) | San Francisco |  | 2026-09-05 | 25d |
 | ⭐⭐ | LangChain | [Senior Product Engineer - Growth & Monetization](https://jobs.ashbyhq.com/langchain/f07bfbad-6daf-4b11-b5bb-2c3bbc47c53c) | New York, NY |  | 2026-09-04 | 26d |
 | ⭐ | Anyscale | [Senior / Staff Product Manager - Ray Data](https://jobs.ashbyhq.com/anyscale/71f0d335-6b29-437e-a7ae-ec1f3fc0b143) | San Francisco |  | 2026-09-04 | 26d |
