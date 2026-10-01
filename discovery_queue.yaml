@@ -1,18 +1,10 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-# Added 2026-09-30 — random-seeded off OpenEvidence/Perplexity/Sigma Computing/Ada/Vapi/Serve Robotics.
 queue:
-- name: Intercom
-  ats: greenhouse
-  slug: intercom
-  related: customer messaging + Fin AI agent, like Ada — 23 matches incl. Principal Program Manager
-- name: Nabla
-  ats: ashby
-  slug: nabla
-  related: clinical documentation AI, like OpenEvidence/Hippocratic AI — 3 Senior PM matches
 - name: Qventus
   ats: greenhouse
   slug: qventus
-  related: healthcare operations AI, like OpenEvidence — 3 matches incl. Lead/Principal PM
+  related: healthcare operations AI, like OpenEvidence — 3 matches incl. Lead/Principal
+    PM
 - name: Corti
   ats: ashby
   slug: corti

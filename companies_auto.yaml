@@ -235,3 +235,9 @@ companies:
 - name: Julius AI
   ats: ashby
   slug: julius
+- name: Intercom
+  ats: greenhouse
+  slug: intercom
+- name: Nabla
+  ats: ashby
+  slug: nabla
