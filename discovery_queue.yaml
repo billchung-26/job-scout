@@ -1,14 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Qventus
-  ats: greenhouse
-  slug: qventus
-  related: healthcare operations AI, like OpenEvidence — 3 matches incl. Lead/Principal
-    PM
-- name: Corti
-  ats: ashby
-  slug: corti
-  related: clinical AI, like OpenEvidence — 1 GTM Engineer match
 - name: Tennr
   ats: ashby
   slug: tennr
