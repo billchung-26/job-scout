@@ -1,13 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Tennr
-  ats: ashby
-  slug: tennr
-  related: healthcare referral AI, like OpenEvidence — 2 Product Engineer matches
-- name: Clarify
-  ats: ashby
-  slug: clarify
-  related: AI-native CRM, broad GTM-adjacent (tiny board, 2 openings)
 - name: Delphi
   ats: ashby
   slug: delphi
