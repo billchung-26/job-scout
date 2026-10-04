@@ -73,3 +73,71 @@ priority_keywords:
   - pricing
   - enterprise
   - ai
+
+
+# ============================================================
+#  FIT SCORING v2  (implemented in fit.py — edit weights here, not in code)
+#  points = role_family + seniority + themes + penalty ; stars = thresholds reached.
+#  Replaces `priority_keywords` above (kept only as a fallback if this block is deleted).
+#  Basis: résumé dated 2026-10-04 — owns pricing/metering/AI-credit monetization for a
+#  CDP platform, runs large cross-team migrations, earlier 91APP CDP + Shopee chatbot.
+#  Terms are matched on WORD BOUNDARIES; a trailing * means "any ending" (monetiz* ->
+#  monetize/monetization). Everything is case-insensitive.
+# ============================================================
+fit:
+  # 1) What KIND of job is it? Title only; the single best match counts.
+  role_family:
+    - {label: "PM",                 points: 6, titles: ["product manager", "product management", "product lead", "product owner", "head of product", "director of product", "director, product", "group product manager"]}
+    - {label: "pricing/monetization", points: 4, titles: ["pricing", "monetiz*", "billing", "packaging"]}
+    - {label: "product-adjacent",   points: 3, titles: ["product operations", "product engineer*", "product engineering", "technical product", "product strategy"]}
+    - {label: "program/ops",        points: 2, titles: ["program manager", "program operations", "ai operations", "revenue operations", "business operations", "strategy & operations"]}
+    - {label: "GTM/CS",             points: 2, titles: ["customer success", "gtm", "go-to-market", "growth"]}
+
+  # 2) Titles that mean "not my job family". Worst match counts. Rule: job family GATES, themes only
+  #    refine — so these are large enough that a signature word ("monetization") in an ENGINEER or
+  #    FINANCE title can't float it up. `unless` = real PM/program titles are exempt (e.g. "Technical
+  #    Program Manager, Engineering" is fine; "Senior Fullstack Engineer, Monetization" is not).
+  #    Evidence: a scan of 3,334 hidden postings (2026-10-04) showed "Accounts Receivable & Billing",
+  #    "ML Engineer, Monetization" and "Packaging Engineer" all scoring 3+ stars without this.
+  role_penalty:
+    - {label: "engineer, not PM",   points: -6, titles: ["engineer*"], unless: ["product manager", "product management", "product lead", "product owner", "program manager", "product engineer*", "gtm engineer", "go-to-market engineer"]}
+    - {label: "research/science",   points: -6, titles: ["scientist*", "researcher*", "data science", "machine learning"], unless: ["product manager", "product management", "product lead", "program manager"]}
+    - {label: "people/recruiting",  points: -6, titles: ["recruit*", "sourcer", "talent", "people", "hr", "human resources", "workplace", "facilities", "payroll", "compensation", "equity"], unless: ["product manager", "product management", "product lead"]}
+    - {label: "legal/finance",      points: -5, titles: ["legal", "counsel", "finance", "financial", "accountant", "accounting", "tax", "audit", "treasury"], unless: ["product manager", "product management", "product lead"]}
+    - {label: "billing/finance ops", points: -5, titles: ["accounts receivable", "accounts payable", "collections", "order management", "order operations", "order to cash", "order to revenue", "denials", "claims", "hospital billing", "revenue accounting", "procurement"], unless: ["product manager", "product management", "product lead"]}
+    - {label: "hardware/mfg",       points: -5, titles: ["hardware", "mechanical", "manufacturing", "construction", "chemical", "electrical", "firmware", "powertrain", "thermal", "packaging engineer"], unless: ["product manager", "product management", "product lead"]}
+    - {label: "presales/technical sales", points: -4, titles: ["solutions architect", "solutions engineer", "sales engineer", "solutions consultant", "customer engineer", "deployment consultant", "business development", "account manager"], unless: ["product manager", "product management", "product lead"]}
+    - {label: "marketing",          points: -3, titles: ["marketing", "demand generation", "communications"], unless: ["product manager", "product management", "product lead"]}
+
+  # 3) Level. Judgement call, not data: Bill is a Senior-level PM (91APP Senior PM, Adobe PM
+  #    owning a $15M+ pricing line). Staff is a reasonable stretch; Director+ and Associate are not.
+  #    Best bonus + worst malus apply (they don't stack).
+  seniority:
+    - {label: "senior/lead",  points: 2,  titles: ["senior", "sr", "lead"]}
+    - {label: "staff",        points: 1,  titles: ["staff"]}
+    - {label: "too junior",   points: -4, titles: ["associate", "intern*", "new grad", "junior", "entry level", "early career", "apm"]}
+    - {label: "too senior",   points: -2, titles: ["director", "vp", "vice president", "head of", "chief", "svp", "evp", "general manager"]}
+
+  # 4) Themes from the résumé. `title` = points if the word is in the title; `jd` = points if it
+  #    appears in the job DESCRIPTION (counted once; +depth_bonus if mentioned >= depth_min_hits times,
+  #    which separates "this role IS pricing" from "works with the pricing team").
+  themes:
+    # `depth` = extra points when the JD mentions the theme >= depth_min_hits times. Only the
+    # signature themes get it; generic ones (platform, enterprise, AI) are in every JD.
+    - {label: "pricing & monetization", title: 5,   jd: 3,   depth: 1,   terms: ["pricing", "monetiz*", "meter", "metering", "metered", "billing", "usage-based", "consumption-based", "credits", "entitlement*", "rate card", "revenue model", "overage*", "packaging"]}
+    - {label: "AI agents",              title: 2,   jd: 1.5, depth: 0.5, terms: ["agent", "agents", "agentic", "llm*", "generative ai", "genai", "copilot", "ai assistant", "conversational", "chatbot", "foundation model*"]}
+    - {label: "data platform/CDP",      title: 2,   jd: 1.5, depth: 0.5, terms: ["cdp", "customer data", "segmentation", "data platform", "real-time", "streaming", "identity resolution", "personalization", "data pipeline*", "audience*"]}
+    - {label: "enterprise/B2B",         title: 1.5, jd: 0.5, terms: ["enterprise", "b2b", "saas"]}
+    - {label: "platform/infra",         title: 1.5, jd: 0.5, terms: ["platform", "infrastructure", "api", "apis", "developer*", "self-serve", "control plane"]}
+    - {label: "GTM/growth",             title: 1.5, jd: 0.5, terms: ["gtm", "go-to-market", "growth", "plg", "product-led"]}
+    - {label: "migration at scale",     title: 1,   jd: 0.5, terms: ["migration*", "deprecat*"]}
+    - {label: "AI/ML",                  title: 1,   jd: 0,   terms: ["ai", "machine learning", "ml"]}
+    - {label: "retail/e-commerce",      title: 0.5, jd: 1,   terms: ["e-commerce", "ecommerce", "retail", "marketplace", "logistics"]}
+  theme_cap: 8           # max points from THEMES FOUND IN THE TITLE
+  jd_cap: 5              # max points from themes found only in the job description
+  depth_min_hits: 3
+
+  # Points needed for 1,2,3,4,5 stars. Calibrated 2026-10-04 on the 583 roles passing the filter
+  # (cutoffs sit near the 25th/50th/75th/90th/97th percentile, so 5 stars ~ top 2%, 4+ ~ top 9%).
+  # Re-calibrate if the watchlist or weights change a lot: the stars are RELATIVE, not absolute.
+  star_thresholds: [5, 7.5, 10.5, 12.5, 14]

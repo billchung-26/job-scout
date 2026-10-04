@@ -36,6 +36,8 @@ from datetime import datetime
 
 import yaml
 
+import fit  # fit scoring v2 (kept out of this file: scout.py is already >700 lines)
+
 try:
     import certifi
     SSL_CTX = ssl.create_default_context(cafile=certifi.where())
@@ -80,12 +82,15 @@ def _get(url):
 
 
 def fetch_greenhouse(slug):
-    data = _get("https://boards-api.greenhouse.io/v1/boards/%s/jobs" % urllib.parse.quote(slug))
+    # ?content=true adds the job description to the list response (largest board ~10 MB);
+    # fit.py scores on it. Without it Greenhouse jobs could only be scored by title.
+    data = _get("https://boards-api.greenhouse.io/v1/boards/%s/jobs?content=true" % urllib.parse.quote(slug))
     return [{
         "id": str(j.get("id")),
         "title": j.get("title", ""),
         "location": (j.get("location") or {}).get("name", ""),
         "url": j.get("absolute_url", ""),
+        "desc": fit.html_to_text(j.get("content", "")),
     } for j in data.get("jobs", [])]
 
 
@@ -94,11 +99,16 @@ def fetch_lever(slug):
     out = []
     for j in data:
         cats = j.get("categories") or {}
+        # requirements/responsibilities live in `lists`, not in descriptionPlain
+        lists = " ".join("%s %s" % (l.get("text", ""), fit.html_to_text(l.get("content", "")))
+                         for l in (j.get("lists") or []))
         out.append({
             "id": str(j.get("id")),
             "title": j.get("text", ""),
             "location": cats.get("location", ""),
             "url": j.get("hostedUrl", ""),
+            "desc": " ".join([j.get("descriptionPlain") or "", lists,
+                              j.get("additionalPlain") or ""])[:fit.MAX_DESC_CHARS],
         })
     return out
 
@@ -110,6 +120,7 @@ def fetch_ashby(slug):
         "title": j.get("title", ""),
         "location": j.get("locationName") or j.get("location", "") or "",
         "url": j.get("jobUrl") or j.get("applyUrl", "") or "",
+        "desc": (j.get("descriptionPlain") or "")[:fit.MAX_DESC_CHARS],
     } for j in data.get("jobs", [])]
 
 
@@ -143,6 +154,14 @@ def matches(job, cond):
 
 
 def fit_score(job, cond):
+    """Stars (0-5) for a job. Uses fit.py (v2) when conditions.yaml has a `fit:` block.
+    Side effect, on purpose: also sets job["why"] and job["points"] so the digest can show the
+    reason without a second scoring pass. Falls back to the legacy title-keyword count if the
+    `fit:` block is removed."""
+    if cond.get("fit"):
+        stars, why, points = fit.score_job(job, cond["fit"])
+        job["why"], job["points"] = why, points
+        return stars
     title = job["title"].lower()
     pri = [k.lower() for k in cond.get("priority_keywords") or []]
     return sum(1 for k in pri if k in title)
@@ -536,7 +555,8 @@ def update_recommendations(all_matching):
             n_sunset += 1
             continue
         records.append({
-            "score": j.get("score", 0), "company": name, "role": j.get("title", ""),
+            "score": j.get("score", 0), "why": j.get("why", ""), "company": name,
+            "role": j.get("title", ""),
             "location": j.get("location", "") or "n/a", "url": j.get("url", ""),
             "first_seen": first_seen, "age": age, "applied": is_applied,
         })
@@ -612,14 +632,15 @@ def _write_recs_md(records, n_applied, n_sunset):
     lines = ["# Job recommendations (live)", "",
              "_Updated %s. %d roles · %d applied · %d sunset (>%dd) hidden._" %
              (datetime.now().strftime("%Y-%m-%d %H:%M"), len(records), n_applied, n_sunset, SUNSET_DAYS),
-             "", "| Fit | Company | Role | Location | Applied | First seen | Age |",
-             "|---|---|---|---|---|---|---|"]
+             "", "| Fit | Company | Role | Why | Location | Applied | First seen | Age |",
+             "|---|---|---|---|---|---|---|---|"]
     for r in records:
         newtag = " 🆕" if r["age"] == 0 and not r["applied"] else ""
         stars = "⭐" * r["score"]
-        lines.append("| %s | %s | [%s](%s)%s | %s | %s | %s | %dd |" %
+        lines.append("| %s | %s | [%s](%s)%s | %s | %s | %s | %s | %dd |" %
                      (stars or "—", r["company"], r["role"], r["url"], newtag,
-                      r["location"], "✅" if r["applied"] else "", r["first_seen"], r["age"]))
+                      r.get("why", ""), r["location"], "✅" if r["applied"] else "",
+                      r["first_seen"], r["age"]))
     with open(os.path.join(RECS_DIR, "latest.md"), "w") as f:
         f.write("\n".join(lines))
 
@@ -627,9 +648,9 @@ def _write_recs_md(records, n_applied, n_sunset):
 def _write_recs_csv(records):
     with open(os.path.join(RECS_DIR, "latest.csv"), "w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["Fit", "Company", "Role", "Location", "Applied", "First Seen", "Age (days)", "URL"])
+        w.writerow(["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL"])
         for r in records:
-            w.writerow([r["score"], r["company"], r["role"], r["location"],
+            w.writerow([r["score"], r["company"], r["role"], r.get("why", ""), r["location"],
                         "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"]])
 
 
@@ -644,10 +665,10 @@ def _write_recs_xlsx(records):
     wb.properties.created = wb.properties.modified = datetime(2024, 1, 1)  # deterministic file
     ws = wb.active
     ws.title = "Recommendations"
-    headers = ["Fit", "Company", "Role", "Location", "Applied", "First Seen", "Age (days)", "URL"]
+    headers = ["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL"]
     ws.append(headers)
     for r in records:
-        ws.append([r["score"], r["company"], r["role"], r["location"],
+        ws.append([r["score"], r["company"], r["role"], r.get("why", ""), r["location"],
                    "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"]])
         row = ws.max_row
         if r["url"]:                                   # make Role a clickable link
@@ -662,7 +683,7 @@ def _write_recs_xlsx(records):
         cell.fill = PatternFill("solid", fgColor="D9D9D9")
     ws.freeze_panes = "A2"
     ws.auto_filter.ref = ws.dimensions
-    for i, w in enumerate([6, 16, 52, 30, 9, 12, 10, 55], start=1):
+    for i, w in enumerate([6, 16, 52, 38, 30, 9, 12, 10, 55], start=1):
         ws.column_dimensions[get_column_letter(i)].width = w
     wb.save(os.path.join(RECS_DIR, "latest.xlsx"))
 

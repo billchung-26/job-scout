@@ -20,8 +20,8 @@ companies:
   ats: greenhouse
   slug: observeai
 - name: Hex
-  ats: greenhouse
-  slug: hextechnologies
+  ats: ashby
+  slug: hex
 - name: Distyl
   ats: ashby
   slug: distyl
@@ -80,7 +80,7 @@ companies:
   ats: ashby
   slug: suno
 - name: Wayve
-  ats: greenhouse
+  ats: ashby
   slug: wayve
 - name: Waabi
   ats: lever

@@ -27,7 +27,8 @@ authorize.
 | `get_chat_id.py` | Helper to find your Telegram chat id |
 | `companies.yaml` | Your curated watchlist (companies + ATS + slug) |
 | `discovery_queue.yaml` | Vetted backlog of related startups to auto-add |
-| `conditions.yaml` | Editable filters + ranking keywords |
+| `conditions.yaml` | Editable filters + fit-scoring weights (`fit:` block) |
+| `fit.py` | Fit scoring v2: role family + seniority + résumé themes in title *and* job description. Weights live in `conditions.yaml` |
 | `secrets.example.yaml` | Template — copy to `secrets.yaml` and fill in (git-ignored) |
 
 ## Setup

@@ -24,7 +24,7 @@ companies:
 
   # ---- Expansion: DATA / CDP (your core — Adobe RTCDP, 91APP CDP, segmentation) ----
   - name: Hightouch          # composable CDP / data activation      <- closest match to your RTCDP work
-    ats: greenhouse
+    ats: ashby
     slug: hightouch
 
   # ---- Expansion: ENTERPRISE / AGENT AI (conversational + GTM strengths) ----

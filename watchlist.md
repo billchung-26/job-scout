@@ -1,8 +1,8 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-10-04 18:28. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-10-04 13:54. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (118 companies)
+## ✅ Watching (121 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
@@ -42,11 +42,11 @@ _Auto-generated 2026-10-04 18:28. Watched via the public Greenhouse / Lever / As
 | Decagon | curated | ashby | 11 / 148 |
 | Deepgram | auto | ashby | 10 / 95 |
 | Deepnote | auto | ashby | 0 / 3 |
-| Delphi | auto (new today) | ashby | 0 / 5 |
+| Delphi | auto | ashby | 0 / 5 |
 | Distyl | auto | ashby | 0 / 23 |
 | Dovetail | auto | ashby | 0 / 9 |
 | Dust | auto | ashby | 2 / 23 |
-| ElevenLabs | auto | ashby | 1 / 171 |
+| ElevenLabs | auto | ashby | 1 / 169 |
 | Elicit | auto | ashby | 0 / 10 |
 | Enterpret | auto | greenhouse | 1 / 14 |
 | Exa | auto | ashby | 2 / 57 |
@@ -61,6 +61,8 @@ _Auto-generated 2026-10-04 18:28. Watched via the public Greenhouse / Lever / As
 | Group14 Technologies | auto | greenhouse | 2 / 6 |
 | Harvey | curated | ashby | 35 / 326 |
 | Hebbia | curated | ashby | 0 / 20 |
+| Hex | auto | ashby | 3 / 36 |
+| Hightouch | curated | ashby | 0 / 1 |
 | Hippocratic AI | curated | ashby | 4 / 45 |
 | Imbue | auto | greenhouse | 1 / 1 |
 | Intercom | auto | greenhouse | 3 / 108 |
@@ -77,7 +79,7 @@ _Auto-generated 2026-10-04 18:28. Watched via the public Greenhouse / Lever / As
 | Magic | curated | ashby | 0 / 7 |
 | Mercor | auto | ashby | 14 / 114 |
 | Mistral | curated | lever | 0 / 0 |
-| Modal | auto | ashby | 2 / 38 |
+| Modal | auto | ashby | 2 / 37 |
 | MotherDuck | auto | ashby | 0 / 3 |
 | Motional | auto | greenhouse | 4 / 74 |
 | Nabla | auto | ashby | 1 / 18 |
@@ -121,6 +123,7 @@ _Auto-generated 2026-10-04 18:28. Watched via the public Greenhouse / Lever / As
 | Verkor | auto | lever | 0 / 41 |
 | Waabi | auto | lever | 2 / 92 |
 | Watershed | auto | ashby | 5 / 37 |
+| Wayve | auto | ashby | 1 / 63 |
 | Writer | curated | ashby | 1 / 49 |
 | xAI | curated | greenhouse | 2 / 301 |
 | Zoox | curated | lever | 28 / 234 |
