@@ -68,3 +68,9 @@ applied:
   # --- Tier 13 (applied 2026-09-10) ---
   - {company: Lyft,        role: "Senior Product Manager, AI Agent Development", url: "https://app.careerpuck.com/job-board/lyft/job/8783214002?gh_jid=8783214002"}
   - {company: Anthropic,   role: "Product Manager, Business Technology",       url: "https://job-boards.greenhouse.io/anthropic/jobs/5397737008"}
+  # --- Tier 14 (applied 2026-10-04) ---
+  - {company: Perplexity,  role: "Product Manager, Platform",                  url: "https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097"}
+  - {company: Intercom,    role: "Senior Forward Deployed Product Manager",    url: "https://job-boards.greenhouse.io/intercom/jobs/7111007"}
+  - {company: Zoox,        role: "Senior Technical Product Manager - Vehicle Experience", url: "https://jobs.lever.co/zoox/82349ccb-1e23-4124-866b-bb235a702513"}
+  - {company: Nabla,       role: "Technical Product Manager - EHR",            url: "https://jobs.ashbyhq.com/nabla/64ba6d61-b09d-48cd-bde7-5a2db4b53cb3"}
+  - {company: LangChain,   role: "Product Manager, LangSmith",                 url: "https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d"}
