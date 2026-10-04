@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-10-04 13:54. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-10-04 20:55. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (121 companies)
 
