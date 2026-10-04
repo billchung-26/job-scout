@@ -253,3 +253,6 @@ companies:
 - name: Clarify
   ats: ashby
   slug: clarify
+- name: Delphi
+  ats: ashby
+  slug: delphi

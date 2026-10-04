@@ -1,6 +1,2 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue:
-- name: Delphi
-  ats: ashby
-  slug: delphi
-  related: AI analytics/BI, like Sigma Computing/Omni (0 matches today, 5 openings)
+queue: []
