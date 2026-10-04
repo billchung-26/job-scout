@@ -74,3 +74,15 @@ applied:
   - {company: Zoox,        role: "Senior Technical Product Manager - Vehicle Experience", url: "https://jobs.lever.co/zoox/82349ccb-1e23-4124-866b-bb235a702513"}
   - {company: Nabla,       role: "Technical Product Manager - EHR",            url: "https://jobs.ashbyhq.com/nabla/64ba6d61-b09d-48cd-bde7-5a2db4b53cb3"}
   - {company: LangChain,   role: "Product Manager, LangSmith",                 url: "https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d"}
+  # --- Tier 15 (applied 2026-10-04, after resume update) ---
+  - {company: Qventus,     role: "Lead Product Manager, Application Platform", url: "https://www.qventus.com/company/working-qventus/job?gh_jid=4259848009"}
+  - {company: Clay,        role: "Growth Strategist, Enterprise (Customer Success) (SF)", url: "https://jobs.ashbyhq.com/claylabs/c605042d-1bd4-4e0d-aa82-d92a2abecb59"}
+  - {company: Clay,        role: "Product Operations, Security & Compliance",  url: "https://jobs.ashbyhq.com/claylabs/8af7279e-6088-4c8f-a25e-f2edf9325ab6"}
+  - {company: Lyft,        role: "Senior Product Manager, Verticals",          url: "https://app.careerpuck.com/job-board/lyft/job/8860904002?gh_jid=8860904002"}
+  - {company: Exa,         role: "Forward Deployed Product Manager",           url: "https://jobs.ashbyhq.com/exa/521540d5-697e-4020-aa83-cd2f60e144a2"}
+  - {company: Exa,         role: "Product Manager",                            url: "https://jobs.ashbyhq.com/exa/cc781bb2-baa6-44c3-8708-d33fd065e64e"}
+  - {company: Cresta,      role: "Forward Deployed Product Manager - AI Agent (EMEA)", url: "https://job-boards.greenhouse.io/cresta/jobs/5068157008"}
+  - {company: Glean,       role: "Product Manager, Core Experience (Mountain View)", url: "https://job-boards.greenhouse.io/gleanwork/jobs/4702368005"}
+  - {company: Glean,       role: "Product Manager, Core Experience (San Francisco)", url: "https://job-boards.greenhouse.io/gleanwork/jobs/4702147005"}
+  - {company: Databricks,  role: "Lead Field Technical Program Manager, FDE - Retail, Consumer Goods, Travel, Transportation & Hospitality", url: "https://databricks.com/company/careers/open-positions/job?gh_jid=8538884002"}
+  - {company: Waabi,       role: "Staff Commercial Product Manager, Trucking", url: "https://jobs.lever.co/waabi/0e086966-2763-41a2-82f5-563be404b608"}
