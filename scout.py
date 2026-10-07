@@ -637,9 +637,12 @@ def _write_recs_md(records, n_applied, n_sunset):
     for r in records:
         newtag = " 🆕" if r["age"] == 0 and not r["applied"] else ""
         stars = "⭐" * r["score"]
+        # a literal "|" inside a cell (e.g. Ramp's "Product Manager | Procurement", or a location
+        # like "SF | NYC") would be read as a column break and shear the whole row
+        e = lambda x: str(x).replace("|", "\\|")
         lines.append("| %s | %s | [%s](%s)%s | %s | %s | %s | %s | %dd |" %
-                     (stars or "—", r["company"], r["role"], r["url"], newtag,
-                      r.get("why", ""), r["location"], "✅" if r["applied"] else "",
+                     (stars or "—", e(r["company"]), e(r["role"]), r["url"], newtag,
+                      e(r.get("why", "")), e(r["location"]), "✅" if r["applied"] else "",
                       r["first_seen"], r["age"]))
     with open(os.path.join(RECS_DIR, "latest.md"), "w") as f:
         f.write("\n".join(lines))
