@@ -86,3 +86,9 @@ applied:
   - {company: Glean,       role: "Product Manager, Core Experience (San Francisco)", url: "https://job-boards.greenhouse.io/gleanwork/jobs/4702147005"}
   - {company: Databricks,  role: "Lead Field Technical Program Manager, FDE - Retail, Consumer Goods, Travel, Transportation & Hospitality", url: "https://databricks.com/company/careers/open-positions/job?gh_jid=8538884002"}
   - {company: Waabi,       role: "Staff Commercial Product Manager, Trucking", url: "https://jobs.lever.co/waabi/0e086966-2763-41a2-82f5-563be404b608"}
+  # --- Tier 16 (applied 2026-10-06) ---
+  - {company: Abridge,     role: "Member of Product Operations & Strategy Staff", url: "https://jobs.ashbyhq.com/abridge/bdbe64c1-cb3e-4ba6-a0fe-0bf76372a673"}
+  - {company: Writer,      role: "Lead product manager (SF)",                    url: "https://jobs.ashbyhq.com/writer/ceb3bacb-039f-4428-b2a5-3c865b44972f"}
+  - {company: Snowflake,   role: "Senior Technical Program Manager - Capacity Planning", url: "https://jobs.ashbyhq.com/snowflake/dd0f5476-67c6-4a6a-9c8c-da00cf684973"}
+  - {company: Hex,         role: "Product Manager (NYC)",                        url: "https://jobs.ashbyhq.com/hex/d7b1c0d6-b339-4bd7-a766-2e78b396e747"}
+  - {company: Ramp,        role: "Product Manager | Procurement",               url: "https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a"}
