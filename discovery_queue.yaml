@@ -1,89 +1,97 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-# Added 2026-10-06 — 21 verified boards (identity checked against JD text), ordered best-fit first.
-# Two angles: (a) peers of random watchlist seeds Augment/Elicit/Ambience/Verkor/Suno/Amperity, and
-# (b) usage-based-pricing / billing / AI-infra companies, matching the 2026-10-04 resume (pricing + metering).
 queue:
-- name: Klaviyo
-  ats: greenhouse
-  slug: klaviyo
-  related: 'Amperity — 5 role(s) score 3+ stars under fit v2; best: Senior Product Manager, Personalization Growth (16.5 pts)'
-- name: Stripe
-  ats: greenhouse
-  slug: stripe
-  related: 'usage billing — 9 role(s) score 3+ stars under fit v2; best: Product Manager, Connect Growth & Monetization (14.5 pts)'
 - name: Confluent
   ats: ashby
   slug: confluent
-  related: 'usage pricing — 6 role(s) score 3+ stars under fit v2; best: Staff Product Manager, Real Time Data Analytic (15.5 pts)'
+  related: 'usage pricing — 6 role(s) score 3+ stars under fit v2; best: Staff Product
+    Manager, Real Time Data Analytic (15.5 pts)'
 - name: Orb
   ats: ashby
   slug: orb
-  related: 'usage billing — 2 role(s) score 3+ stars under fit v2; best: Lead Product Manager, Entitlements & Spend Pla (17.0 pts)'
+  related: 'usage billing — 2 role(s) score 3+ stars under fit v2; best: Lead Product
+    Manager, Entitlements & Spend Pla (17.0 pts)'
 - name: Temporal
   ats: ashby
   slug: temporal
-  related: 'usage pricing — 4 role(s) score 3+ stars under fit v2; best: Senior Product Manager, Hybrid Platform & Depl (13.5 pts)'
+  related: 'usage pricing — 4 role(s) score 3+ stars under fit v2; best: Senior Product
+    Manager, Hybrid Platform & Depl (13.5 pts)'
 - name: Crusoe
   ats: ashby
   slug: crusoe
-  related: 'Verkor/AI infra — 5 role(s) score 3+ stars under fit v2; best: Staff Product Manager, AI Infrastructure (Stor (12.0 pts)'
+  related: 'Verkor/AI infra — 5 role(s) score 3+ stars under fit v2; best: Staff Product
+    Manager, AI Infrastructure (Stor (12.0 pts)'
 - name: Lambda
   ats: ashby
   slug: lambda
-  related: 'AI infra — 3 role(s) score 3+ stars under fit v2; best: Staff Product Manager - Billing (13.0 pts)'
+  related: 'AI infra — 3 role(s) score 3+ stars under fit v2; best: Staff Product
+    Manager - Billing (13.0 pts)'
 - name: CoreWeave
   ats: greenhouse
   slug: coreweave
-  related: 'AI infra — 3 role(s) score 3+ stars under fit v2; best: Senior Product Manager, W&B Models (13.0 pts)'
+  related: 'AI infra — 3 role(s) score 3+ stars under fit v2; best: Senior Product
+    Manager, W&B Models (13.0 pts)'
 - name: Customer.io
   ats: greenhouse
   slug: customerio
-  related: 'Amperity — 2 role(s) score 3+ stars under fit v2; best: Product Manager, Agent (13.0 pts)'
+  related: 'Amperity — 2 role(s) score 3+ stars under fit v2; best: Product Manager,
+    Agent (13.0 pts)'
 - name: Render
   ats: ashby
   slug: render
-  related: 'usage pricing — 2 role(s) score 3+ stars under fit v2; best: Staff Product Manager - Agent & Systems Observ (13.0 pts)'
+  related: 'usage pricing — 2 role(s) score 3+ stars under fit v2; best: Staff Product
+    Manager - Agent & Systems Observ (13.0 pts)'
 - name: Vercel
   ats: greenhouse
   slug: vercel
-  related: 'Augment/usage-pricing — 4 role(s) score 3+ stars under fit v2; best: Product Manager, Compute (11.0 pts)'
+  related: 'Augment/usage-pricing — 4 role(s) score 3+ stars under fit v2; best: Product
+    Manager, Compute (11.0 pts)'
 - name: Braze
   ats: greenhouse
   slug: braze
-  related: 'Amperity — 3 role(s) score 3+ stars under fit v2; best: Lead Product Manager, Banners & Content Cards (11.5 pts)'
+  related: 'Amperity — 3 role(s) score 3+ stars under fit v2; best: Lead Product Manager,
+    Banners & Content Cards (11.5 pts)'
 - name: ClickHouse
   ats: ashby
   slug: clickhouse
-  related: 'usage pricing — 4 role(s) score 3+ stars under fit v2; best: Principal Product Manager - ClickHouse Cloud (11.0 pts)'
+  related: 'usage pricing — 4 role(s) score 3+ stars under fit v2; best: Principal
+    Product Manager - ClickHouse Cloud (11.0 pts)'
 - name: OpenRouter
   ats: ashby
   slug: openrouter
-  related: 'AI infra — 2 role(s) score 3+ stars under fit v2; best: Product Manager, Agent Platform (12.0 pts)'
+  related: 'AI infra — 2 role(s) score 3+ stars under fit v2; best: Product Manager,
+    Agent Platform (12.0 pts)'
 - name: Arize
   ats: greenhouse
   slug: arizeai
-  related: 'AI infra — 3 role(s) score 3+ stars under fit v2; best: Senior AI Product Manager, Observability (11.5 pts)'
+  related: 'AI infra — 3 role(s) score 3+ stars under fit v2; best: Senior AI Product
+    Manager, Observability (11.5 pts)'
 - name: CodeRabbit
   ats: ashby
   slug: coderabbit
-  related: 'Augment — 2 role(s) score 3+ stars under fit v2; best: Growth Product Manager (11.5 pts)'
+  related: 'Augment — 2 role(s) score 3+ stars under fit v2; best: Growth Product
+    Manager (11.5 pts)'
 - name: Synthesia
   ats: ashby
   slug: synthesia
-  related: 'Suno — 1 role(s) score 3+ stars under fit v2; best: Product Manager, Interactive Avatars (Staff/Pr (12.0 pts)'
+  related: 'Suno — 1 role(s) score 3+ stars under fit v2; best: Product Manager, Interactive
+    Avatars (Staff/Pr (12.0 pts)'
 - name: LaunchDarkly
   ats: greenhouse
   slug: launchdarkly
-  related: 'usage pricing — 1 role(s) score 3+ stars under fit v2; best: Staff Product Manager - Data Products (12.0 pts)'
+  related: 'usage pricing — 1 role(s) score 3+ stars under fit v2; best: Staff Product
+    Manager - Data Products (12.0 pts)'
 - name: PostHog
   ats: ashby
   slug: posthog
-  related: 'usage pricing — 1 role(s) score 3+ stars under fit v2; best: Product Manager (ex-founder or ex-product engi (11.0 pts)'
+  related: 'usage pricing — 1 role(s) score 3+ stars under fit v2; best: Product Manager
+    (ex-founder or ex-product engi (11.0 pts)'
 - name: Amplitude
   ats: ashby
   slug: amplitude
-  related: 'Amperity — 1 role(s) score 3+ stars under fit v2; best: Principal Product Manager, AI Agents & MCP (10.5 pts)'
+  related: 'Amperity — 1 role(s) score 3+ stars under fit v2; best: Principal Product
+    Manager, AI Agents & MCP (10.5 pts)'
 - name: Supabase
   ats: ashby
   slug: supabase
-  related: 'usage pricing — 1 role(s) score 3+ stars under fit v2; best: Product Lead, Infrastructure (10.5 pts)'
+  related: 'usage pricing — 1 role(s) score 3+ stars under fit v2; best: Product Lead,
+    Infrastructure (10.5 pts)'

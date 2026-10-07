@@ -256,3 +256,9 @@ companies:
 - name: Delphi
   ats: ashby
   slug: delphi
+- name: Klaviyo
+  ats: greenhouse
+  slug: klaviyo
+- name: Stripe
+  ats: greenhouse
+  slug: stripe
