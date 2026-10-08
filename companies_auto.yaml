@@ -262,3 +262,9 @@ companies:
 - name: Stripe
   ats: greenhouse
   slug: stripe
+- name: Confluent
+  ats: ashby
+  slug: confluent
+- name: Orb
+  ats: ashby
+  slug: orb

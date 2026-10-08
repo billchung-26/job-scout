@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Confluent
-  ats: ashby
-  slug: confluent
-  related: 'usage pricing — 6 role(s) score 3+ stars under fit v2; best: Staff Product
-    Manager, Real Time Data Analytic (15.5 pts)'
-- name: Orb
-  ats: ashby
-  slug: orb
-  related: 'usage billing — 2 role(s) score 3+ stars under fit v2; best: Lead Product
-    Manager, Entitlements & Spend Pla (17.0 pts)'
 - name: Temporal
   ats: ashby
   slug: temporal
