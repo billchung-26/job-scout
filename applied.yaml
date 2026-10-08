@@ -92,3 +92,10 @@ applied:
   - {company: Snowflake,   role: "Senior Technical Program Manager - Capacity Planning", url: "https://jobs.ashbyhq.com/snowflake/dd0f5476-67c6-4a6a-9c8c-da00cf684973"}
   - {company: Hex,         role: "Product Manager (NYC)",                        url: "https://jobs.ashbyhq.com/hex/d7b1c0d6-b339-4bd7-a766-2e78b396e747"}
   - {company: Ramp,        role: "Product Manager | Procurement",               url: "https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a"}
+  # --- Tier 17 (applied 2026-10-07) ---
+  - {company: Anthropic,   role: "Product Manager, Billing",                      url: "https://job-boards.greenhouse.io/anthropic/jobs/5434361008"}
+  - {company: Databricks,  role: "Sr. Product Manager, Lakebase (Seattle)",       url: "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002"}
+  - {company: Databricks,  role: "Sr. Product Manager, Lakebase (San Francisco)", url: "https://databricks.com/company/careers/open-positions/job?gh_jid=8811265002"}
+  - {company: Stripe,      role: "Product Manager, Connect Growth & Monetization", url: "https://stripe.com/jobs/search?gh_jid=8195440"}
+  - {company: Klaviyo,     role: "Senior Product Manager, Personalization Growth", url: "https://www.klaviyo.com/careers/jobs/7806008003?gh_jid=7806008003"}
+  - {company: ElevenLabs,  role: "Enterprise Product Manager - ElevenCreative",  url: "https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db"}
