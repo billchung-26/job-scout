@@ -156,6 +156,11 @@ companies:
     ats: greenhouse
     slug: airbnb
 
+  # ---- Added 2026-10-08 ----
+  - name: AMD                # semis / AI accelerators. NOT Workday as an earlier note claimed: iCIMS Jibe (see jibe.py)
+    ats: jibe
+    slug: "careers.amd.com?country=United States"   # US-only server-side: halves a 42 MB/30 s pull; remove "?country=..." for non-US roles
+
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
 #  see NOT_WATCHABLE in scout.py / the "Not watchable" section of watchlist.md

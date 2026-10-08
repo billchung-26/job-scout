@@ -5,7 +5,7 @@ boards every morning, filters roles to your profile, ranks them by fit, and push
 new matches to Telegram — then gradually grows its own watchlist with related startups.
 
 No LinkedIn or Indeed dependency. It reads the **public job-board APIs** that most AI
-companies use (Greenhouse, Lever, Ashby), so there's nothing to scrape and nothing to
+companies use (Greenhouse, Lever, Ashby) and iCIMS Jibe career sites (AMD), so there's nothing to scrape and nothing to
 authorize.
 
 ## Features
@@ -28,6 +28,7 @@ authorize.
 | `companies.yaml` | Your curated watchlist (companies + ATS + slug) |
 | `discovery_queue.yaml` | Vetted backlog of related startups to auto-add |
 | `conditions.yaml` | Editable filters + fit-scoring weights (`fit:` block) |
+| `jibe.py` | Fetcher for iCIMS Jibe career sites (`ats: jibe`, slug = hostname + optional API params) |
 | `fit.py` | Fit scoring v2: role family + seniority + résumé themes in title *and* job description. Weights live in `conditions.yaml` |
 | `secrets.example.yaml` | Template — copy to `secrets.yaml` and fill in (git-ignored) |
 

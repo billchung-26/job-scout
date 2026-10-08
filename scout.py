@@ -37,6 +37,7 @@ from datetime import datetime
 import yaml
 
 import fit  # fit scoring v2 (kept out of this file: scout.py is already >700 lines)
+import jibe  # iCIMS Jibe career-site fetcher (AMD); same reason
 
 try:
     import certifi
@@ -61,7 +62,7 @@ LOW_QUEUE_THRESHOLD = 4  # ~2 days of promotions left; nudge to refill before it
 # Companies known to be unwatchable via these APIs (for the watchlist report).
 NOT_WATCHABLE = [
     ("Own career site (not on these APIs)",
-     ["Google", "Waymo (Alphabet)", "Nvidia (Workday)", "AMD (Workday)", "Uber (custom)",
+     ["Google", "Waymo (Alphabet)", "Nvidia (Workday)", "Uber (custom)",
       "Census (Breezy HR)", "Chef Robotics (Gem)", "Cognigy (custom widget)",
       "Contextual AI (custom Next.js)", "Crescendo (custom Webflow)",
       "EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)",
@@ -124,7 +125,7 @@ def fetch_ashby(slug):
     } for j in data.get("jobs", [])]
 
 
-FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby}
+FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "jibe": jibe.fetch}
 
 
 def careers_url(ats, slug):
@@ -132,6 +133,7 @@ def careers_url(ats, slug):
         "greenhouse": "https://job-boards.greenhouse.io/%s" % slug,
         "ashby": "https://jobs.ashbyhq.com/%s" % slug,
         "lever": "https://jobs.lever.co/%s" % slug,
+        "jibe": "https://%s/careers-home" % slug.split("?")[0],  # slug may carry API params after "?"
     }.get(ats, "")
 
 
