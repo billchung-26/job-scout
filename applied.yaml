@@ -99,3 +99,5 @@ applied:
   - {company: Stripe,      role: "Product Manager, Connect Growth & Monetization", url: "https://stripe.com/jobs/search?gh_jid=8195440"}
   - {company: Klaviyo,     role: "Senior Product Manager, Personalization Growth", url: "https://www.klaviyo.com/careers/jobs/7806008003?gh_jid=7806008003"}
   - {company: ElevenLabs,  role: "Enterprise Product Manager - ElevenCreative",  url: "https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db"}
+  # --- Tier 18 (applied 2026-10-08) ---
+  - {company: Confluent,   role: "Senior Product Manager, Kafka Connect",       url: "https://jobs.ashbyhq.com/confluent/21082b9f-440a-4ba6-a469-c70d339d1aa9"}
