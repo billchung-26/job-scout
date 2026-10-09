@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-10-09 05:11. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-10-09 05:18. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (128 companies)
 
@@ -39,7 +39,7 @@ _Auto-generated 2026-10-09 05:11. Watched via the public Greenhouse / Lever / As
 | Corti | auto | ashby | 0 / 4 |
 | Credal | auto | ashby | 0 / 5 |
 | Cresta | curated | greenhouse | 7 / 87 |
-| Crusoe | auto (new today) | ashby | 29 / 353 |
+| Crusoe | auto | ashby | 29 / 353 |
 | Cursor (Anysphere) | auto | ashby | 5 / 135 |
 | Databricks | curated | greenhouse | 41 / 893 |
 | Decagon | curated | ashby | 10 / 145 |
@@ -112,14 +112,14 @@ _Auto-generated 2026-10-09 05:11. Watched via the public Greenhouse / Lever / As
 | Sigma Computing | auto | greenhouse | 11 / 73 |
 | Simon Data | auto | ashby | 0 / 2 |
 | Sixfold | auto | greenhouse | 0 / 3 |
-| Snowflake | curated | ashby | 20 / 359 |
+| Snowflake | curated | ashby | 20 / 360 |
 | Sourcegraph | curated | greenhouse | 2 / 11 |
 | Span | auto | ashby | 2 / 36 |
 | Stripe | auto | greenhouse | 60 / 728 |
 | Suki AI | auto | greenhouse | 0 / 12 |
 | Suno | auto | ashby | 3 / 70 |
 | Sweep | auto | ashby | 1 / 7 |
-| Temporal | auto (new today) | ashby | 7 / 64 |
+| Temporal | auto | ashby | 7 / 64 |
 | Tennr | auto | ashby | 1 / 26 |
 | Terawatt Infrastructure | auto | lever | 0 / 6 |
 | Thinking Machines Lab | auto | ashby | 3 / 54 |
