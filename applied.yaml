@@ -101,3 +101,6 @@ applied:
   - {company: ElevenLabs,  role: "Enterprise Product Manager - ElevenCreative",  url: "https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db"}
   # --- Tier 18 (applied 2026-10-08) ---
   - {company: Confluent,   role: "Senior Product Manager, Kafka Connect",       url: "https://jobs.ashbyhq.com/confluent/21082b9f-440a-4ba6-a469-c70d339d1aa9"}
+  # --- Tier 19 (applied 2026-10-08) ---
+  - {company: Antora Energy, role: "Technical Program Manager",                  url: "https://job-boards.greenhouse.io/antora/jobs/6195130004"}
+  - {company: Vanta,       role: "Senior Product Manager, Document Management", url: "https://jobs.ashbyhq.com/vanta/55e4b938-655c-40b3-a98b-3bc32d5c5a72"}
