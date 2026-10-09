@@ -19,7 +19,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install pyyaml certifi
+        run: pip install pyyaml certifi google-auth requests
 
       - name: Write secrets.yaml
         run: |
@@ -36,3 +36,10 @@ jobs:
 
       - name: Run scout.py
         run: python3 scout.py
+
+      # Last on purpose: scout.py has already committed/pushed state by now, so a Drive failure
+      # turns this run red (you get GitHub's failure e-mail) without losing the day's data.
+      - name: Upload recommendations to Google Drive (Career folder)
+        env:
+          GDRIVE_SA_JSON: ${{ secrets.GDRIVE_SA_JSON }}
+        run: python3 gdrive_sync.py

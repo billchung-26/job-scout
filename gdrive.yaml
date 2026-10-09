@@ -1,0 +1,8 @@
+# Files gdrive_sync.py overwrites in Google Drive after every daily run.
+# The target Sheet lives in Drive > Career. Its ID is the long part of the sheet's URL.
+# To add another file: create it in Drive first (the service account can only update, not create),
+# share it with the service account as Editor, then add an entry here.
+files:
+  - local: recommendations/latest.csv
+    drive_file_id: 12OmNODj-xz72ZOLDlP7mZVH2HyE5aTVh1azQuve4IMM   # "job-scout latest (auto-updated daily)"
+    mime: text/csv   # CSV onto a Google Sheet = Drive converts and replaces the whole sheet

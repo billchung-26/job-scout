@@ -30,6 +30,7 @@ authorize.
 | `conditions.yaml` | Editable filters + fit-scoring weights (`fit:` block) |
 | `jibe.py` | Fetcher for iCIMS Jibe career sites (`ats: jibe`, slug = hostname + optional API params) |
 | `fit.py` | Fit scoring v2: role family + seniority + résumé themes in title *and* job description. Weights live in `conditions.yaml` |
+| `gdrive_sync.py` + `gdrive.yaml` | Daily step in `daily.yml`: overwrites a fixed Google Sheet in Drive > Career with `latest.csv`. Needs secret `GDRIVE_SA_JSON` |
 | `secrets.example.yaml` | Template — copy to `secrets.yaml` and fill in (git-ignored) |
 
 ## Setup
