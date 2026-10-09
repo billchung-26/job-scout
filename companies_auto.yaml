@@ -268,3 +268,9 @@ companies:
 - name: Orb
   ats: ashby
   slug: orb
+- name: Temporal
+  ats: ashby
+  slug: temporal
+- name: Crusoe
+  ats: ashby
+  slug: crusoe

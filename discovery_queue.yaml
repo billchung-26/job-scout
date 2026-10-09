@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Temporal
-  ats: ashby
-  slug: temporal
-  related: 'usage pricing — 4 role(s) score 3+ stars under fit v2; best: Senior Product
-    Manager, Hybrid Platform & Depl (13.5 pts)'
-- name: Crusoe
-  ats: ashby
-  slug: crusoe
-  related: 'Verkor/AI infra — 5 role(s) score 3+ stars under fit v2; best: Staff Product
-    Manager, AI Infrastructure (Stor (12.0 pts)'
 - name: Lambda
   ats: ashby
   slug: lambda
