@@ -104,3 +104,10 @@ applied:
   # --- Tier 19 (applied 2026-10-08) ---
   - {company: Antora Energy, role: "Technical Program Manager",                  url: "https://job-boards.greenhouse.io/antora/jobs/6195130004"}
   - {company: Vanta,       role: "Senior Product Manager, Document Management", url: "https://jobs.ashbyhq.com/vanta/55e4b938-655c-40b3-a98b-3bc32d5c5a72"}
+  # --- Tier 20 (applied 2026-10-10) ---
+  - {company: Crusoe,      role: "Senior Product Manager, Orchestration",                    url: "https://jobs.ashbyhq.com/crusoe/708d1e0c-247f-43a8-9dc7-42cffbb95904"}
+  - {company: Temporal,    role: "Senior Product Manager, Hybrid Platform & Deployment Models", url: "https://jobs.ashbyhq.com/temporal/01e59346-2cf2-4123-8df1-c8a486eced72"}
+  - {company: Airbnb,      role: "Senior Platform Product Manager, Payment Platform Accounts", url: "https://careers.airbnb.com/positions/8082863?gh_jid=8082863"}
+  - {company: Vanta,       role: "Senior Product Manager, Integrations",                    url: "https://jobs.ashbyhq.com/vanta/22ba8036-10cb-405d-82fb-9cb07324934c"}
+  - {company: Harvey,      role: "Sr. Technical Program Manager, GTM Technology (New York)", url: "https://jobs.ashbyhq.com/harvey/b7fbe6a3-397b-4510-ac91-44253ab0ccf5"}
+  - {company: Harvey,      role: "Sr. Technical Program Manager, GTM Technology (SF / Remote)", url: "https://jobs.ashbyhq.com/harvey/bdf70da6-ea24-4e47-8580-962869911179"}
