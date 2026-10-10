@@ -274,3 +274,9 @@ companies:
 - name: Crusoe
   ats: ashby
   slug: crusoe
+- name: Lambda
+  ats: ashby
+  slug: lambda
+- name: CoreWeave
+  ats: greenhouse
+  slug: coreweave

@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Lambda
-  ats: ashby
-  slug: lambda
-  related: 'AI infra — 3 role(s) score 3+ stars under fit v2; best: Staff Product
-    Manager - Billing (13.0 pts)'
-- name: CoreWeave
-  ats: greenhouse
-  slug: coreweave
-  related: 'AI infra — 3 role(s) score 3+ stars under fit v2; best: Senior Product
-    Manager, W&B Models (13.0 pts)'
 - name: Customer.io
   ats: greenhouse
   slug: customerio
