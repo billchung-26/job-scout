@@ -1,18 +1,18 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-10-10 19:04. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-10-11 19:17. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (130 companies)
+## ✅ Watching (132 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
-| 1X | auto | ashby | 0 / 98 |
+| 1X | auto | ashby | 0 / 99 |
 | Abridge | auto | ashby | 1 / 46 |
 | Ada | curated | greenhouse | 0 / 7 |
-| Airbnb | curated | greenhouse | 11 / 160 |
+| Airbnb | curated | greenhouse | 11 / 161 |
 | Airbyte | auto | ashby | 0 / 12 |
 | Ambience | auto | ashby | 1 / 18 |
-| AMD | curated | jibe | 48 / 660 |
+| AMD | curated | jibe | 48 / 664 |
 | Amperity | curated | greenhouse | 1 / 12 |
 | Anthropic | curated | greenhouse | 70 / 645 |
 | Antora Energy | auto | greenhouse | 1 / 42 |
@@ -22,7 +22,7 @@ _Auto-generated 2026-10-10 19:04. Watched via the public Greenhouse / Lever / As
 | Attio | auto | ashby | 3 / 36 |
 | Augment | curated | greenhouse | 0 / 0 |
 | Base Power | auto | ashby | 3 / 188 |
-| Baseten | auto | ashby | 9 / 110 |
+| Baseten | auto | ashby | 9 / 109 |
 | Bland | curated | ashby | 1 / 16 |
 | Bloomreach | curated | greenhouse | 1 / 72 |
 | Blueshift | auto | greenhouse | 0 / 1 |
@@ -36,21 +36,22 @@ _Auto-generated 2026-10-10 19:04. Watched via the public Greenhouse / Lever / As
 | Commure | auto | ashby | 3 / 82 |
 | Confluent | auto | ashby | 6 / 17 |
 | Constructor | curated | ashby | 12 / 43 |
-| CoreWeave | auto (new today) | greenhouse | 22 / 312 |
+| CoreWeave | auto | greenhouse | 22 / 311 |
 | Corti | auto | ashby | 0 / 5 |
 | Credal | auto | ashby | 0 / 5 |
 | Cresta | curated | greenhouse | 7 / 85 |
 | Crusoe | auto | ashby | 29 / 355 |
 | Cursor (Anysphere) | auto | ashby | 5 / 137 |
+| Customer.io | auto (new today) | greenhouse | 5 / 30 |
 | Databricks | curated | greenhouse | 41 / 892 |
 | Decagon | curated | ashby | 10 / 145 |
-| Deepgram | auto | ashby | 12 / 91 |
+| Deepgram | auto | ashby | 12 / 94 |
 | Deepnote | auto | ashby | 0 / 3 |
 | Delphi | auto | ashby | 0 / 5 |
 | Distyl | auto | ashby | 0 / 24 |
 | Dovetail | auto | ashby | 0 / 9 |
-| Dust | auto | ashby | 2 / 23 |
-| ElevenLabs | auto | ashby | 2 / 124 |
+| Dust | auto | ashby | 2 / 22 |
+| ElevenLabs | auto | ashby | 2 / 125 |
 | Elicit | auto | ashby | 0 / 10 |
 | Enterpret | auto | greenhouse | 1 / 15 |
 | Exa | auto | ashby | 2 / 58 |
@@ -60,7 +61,7 @@ _Auto-generated 2026-10-10 19:04. Watched via the public Greenhouse / Lever / As
 | Form Energy | auto | ashby | 0 / 205 |
 | Genspark | auto | ashby | 1 / 8 |
 | Glean | curated | greenhouse | 22 / 131 |
-| Gong | auto | greenhouse | 3 / 98 |
+| Gong | auto | greenhouse | 3 / 97 |
 | Gorgias | auto | ashby | 0 / 17 |
 | Group14 Technologies | auto | greenhouse | 2 / 7 |
 | Harvey | curated | ashby | 37 / 350 |
@@ -74,8 +75,8 @@ _Auto-generated 2026-10-10 19:04. Watched via the public Greenhouse / Lever / As
 | Kalepa | auto | greenhouse | 2 / 28 |
 | Klaviyo | auto | greenhouse | 14 / 145 |
 | Kodiak Robotics | auto | greenhouse | 3 / 69 |
-| Lambda | auto (new today) | ashby | 8 / 91 |
-| LangChain | auto | ashby | 4 / 103 |
+| Lambda | auto | ashby | 8 / 91 |
+| LangChain | auto | ashby | 4 / 102 |
 | Level AI | auto | lever | 1 / 19 |
 | Linear | auto | ashby | 0 / 31 |
 | Liquid AI | auto | ashby | 1 / 2 |
@@ -106,6 +107,7 @@ _Auto-generated 2026-10-10 19:04. Watched via the public Greenhouse / Lever / As
 | Redwood Materials | auto | greenhouse | 1 / 138 |
 | Regal | curated | lever | 2 / 11 |
 | Reka | auto | ashby | 0 / 9 |
+| Render | auto (new today) | ashby | 6 / 38 |
 | Replit | auto | ashby | 3 / 69 |
 | Rime | auto | ashby | 0 / 4 |
 | Sana | curated | ashby | 0 / 1 |
@@ -114,7 +116,7 @@ _Auto-generated 2026-10-10 19:04. Watched via the public Greenhouse / Lever / As
 | Sigma Computing | auto | greenhouse | 11 / 73 |
 | Simon Data | auto | ashby | 0 / 2 |
 | Sixfold | auto | greenhouse | 0 / 3 |
-| Snowflake | curated | ashby | 20 / 358 |
+| Snowflake | curated | ashby | 21 / 358 |
 | Sourcegraph | curated | greenhouse | 2 / 11 |
 | Span | auto | ashby | 2 / 34 |
 | Stripe | auto | greenhouse | 59 / 728 |
@@ -137,10 +139,8 @@ _Auto-generated 2026-10-10 19:04. Watched via the public Greenhouse / Lever / As
 | xAI | curated | greenhouse | 2 / 305 |
 | Zoox | curated | lever | 26 / 239 |
 
-## ⏳ In discovery backlog — 13 left (~2 added/day)
+## ⏳ In discovery backlog — 11 left (~2 added/day)
 
-- Customer.io — Amperity — 2 role(s) score 3+ stars under fit v2; best: Product Manager, Agent (13.0 pts)
-- Render — usage pricing — 2 role(s) score 3+ stars under fit v2; best: Staff Product Manager - Agent & Systems Observ (13.0 pts)
 - Vercel — Augment/usage-pricing — 4 role(s) score 3+ stars under fit v2; best: Product Manager, Compute (11.0 pts)
 - Braze — Amperity — 3 role(s) score 3+ stars under fit v2; best: Lead Product Manager, Banners & Content Cards (11.5 pts)
 - ClickHouse — usage pricing — 4 role(s) score 3+ stars under fit v2; best: Principal Product Manager - ClickHouse Cloud (11.0 pts)

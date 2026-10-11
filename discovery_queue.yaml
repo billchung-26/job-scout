@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Customer.io
-  ats: greenhouse
-  slug: customerio
-  related: 'Amperity — 2 role(s) score 3+ stars under fit v2; best: Product Manager,
-    Agent (13.0 pts)'
-- name: Render
-  ats: ashby
-  slug: render
-  related: 'usage pricing — 2 role(s) score 3+ stars under fit v2; best: Staff Product
-    Manager - Agent & Systems Observ (13.0 pts)'
 - name: Vercel
   ats: greenhouse
   slug: vercel

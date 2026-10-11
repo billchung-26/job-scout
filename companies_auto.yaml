@@ -280,3 +280,9 @@ companies:
 - name: CoreWeave
   ats: greenhouse
   slug: coreweave
+- name: Customer.io
+  ats: greenhouse
+  slug: customerio
+- name: Render
+  ats: ashby
+  slug: render
