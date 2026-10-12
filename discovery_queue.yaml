@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Vercel
-  ats: greenhouse
-  slug: vercel
-  related: 'Augment/usage-pricing — 4 role(s) score 3+ stars under fit v2; best: Product
-    Manager, Compute (11.0 pts)'
-- name: Braze
-  ats: greenhouse
-  slug: braze
-  related: 'Amperity — 3 role(s) score 3+ stars under fit v2; best: Lead Product Manager,
-    Banners & Content Cards (11.5 pts)'
 - name: ClickHouse
   ats: ashby
   slug: clickhouse

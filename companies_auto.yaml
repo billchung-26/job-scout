@@ -286,3 +286,9 @@ companies:
 - name: Render
   ats: ashby
   slug: render
+- name: Vercel
+  ats: greenhouse
+  slug: vercel
+- name: Braze
+  ats: greenhouse
+  slug: braze
