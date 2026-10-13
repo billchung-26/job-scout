@@ -113,3 +113,9 @@ applied:
   - {company: Harvey,      role: "Sr. Technical Program Manager, GTM Technology (SF / Remote)", url: "https://jobs.ashbyhq.com/harvey/bdf70da6-ea24-4e47-8580-962869911179"}
   # --- Tier 21 (applied 2026-10-11) ---
   - {company: Customer.io, role: "Product Manager, Self-Serve", url: "https://job-boards.greenhouse.io/customerio/jobs/8126049"}
+  # --- Tier 22 (applied 2026-10-12) ---
+  - {company: CoreWeave,   role: "Staff Product Manager, AI Inference",                      url: "https://coreweave.com/careers/job?4720733006&board=coreweave&gh_jid=4720733006"}
+  - {company: Vercel,      role: "Product Manager, Dashboard",                               url: "https://job-boards.greenhouse.io/vercel/jobs/6205772004"}
+  - {company: Vercel,      role: "Product Manager, Observability",                           url: "https://job-boards.greenhouse.io/vercel/jobs/6147956004"}
+  - {company: Customer.io, role: "Product Manager, Agent",                                   url: "https://job-boards.greenhouse.io/customerio/jobs/8259617"}
+  - {company: Crusoe,      role: "Staff Product Manager, AI Infrastructure (Fleet Management)", url: "https://jobs.ashbyhq.com/crusoe/0a5a9851-7502-474a-b87c-fc4c6d3f8eb3"}
