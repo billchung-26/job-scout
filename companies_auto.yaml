@@ -292,3 +292,9 @@ companies:
 - name: Braze
   ats: greenhouse
   slug: braze
+- name: ClickHouse
+  ats: ashby
+  slug: clickhouse
+- name: OpenRouter
+  ats: ashby
+  slug: openrouter

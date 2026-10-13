@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: ClickHouse
-  ats: ashby
-  slug: clickhouse
-  related: 'usage pricing — 4 role(s) score 3+ stars under fit v2; best: Principal
-    Product Manager - ClickHouse Cloud (11.0 pts)'
-- name: OpenRouter
-  ats: ashby
-  slug: openrouter
-  related: 'AI infra — 2 role(s) score 3+ stars under fit v2; best: Product Manager,
-    Agent Platform (12.0 pts)'
 - name: Arize
   ats: greenhouse
   slug: arizeai
