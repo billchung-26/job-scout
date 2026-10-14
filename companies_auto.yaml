@@ -298,3 +298,9 @@ companies:
 - name: OpenRouter
   ats: ashby
   slug: openrouter
+- name: Arize
+  ats: greenhouse
+  slug: arizeai
+- name: CodeRabbit
+  ats: ashby
+  slug: coderabbit

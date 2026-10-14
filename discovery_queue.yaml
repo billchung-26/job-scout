@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Arize
-  ats: greenhouse
-  slug: arizeai
-  related: 'AI infra — 3 role(s) score 3+ stars under fit v2; best: Senior AI Product
-    Manager, Observability (11.5 pts)'
-- name: CodeRabbit
-  ats: ashby
-  slug: coderabbit
-  related: 'Augment — 2 role(s) score 3+ stars under fit v2; best: Growth Product
-    Manager (11.5 pts)'
 - name: Synthesia
   ats: ashby
   slug: synthesia
