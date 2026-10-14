@@ -119,3 +119,9 @@ applied:
   - {company: Vercel,      role: "Product Manager, Observability",                           url: "https://job-boards.greenhouse.io/vercel/jobs/6147956004"}
   - {company: Customer.io, role: "Product Manager, Agent",                                   url: "https://job-boards.greenhouse.io/customerio/jobs/8259617"}
   - {company: Crusoe,      role: "Staff Product Manager, AI Infrastructure (Fleet Management)", url: "https://jobs.ashbyhq.com/crusoe/0a5a9851-7502-474a-b87c-fc4c6d3f8eb3"}
+  # --- Tier 23 (applied 2026-10-13) ---
+  - {company: ClickHouse,  role: "Senior Product Manager, Cloud",                  url: "https://jobs.ashbyhq.com/clickhouse/9a84365b-a447-42f0-8aa0-2deb2170d9f8"}
+  - {company: Nuro,        role: "Senior Senior Technical Program Manager, Driverless Readiness & AI Platform Reliability", url: "https://nuro.ai/careersitem?gh_jid=8279156"}
+  - {company: Regal,       role: "Senior Product Manager (New York)",              url: "https://jobs.lever.co/regal.ai/3ec7003c-8176-4413-86e3-63aff7bcec79"}
+  - {company: Klaviyo,     role: "Sr. Product Manager, Growth (PLG)",              url: "https://www.klaviyo.com/careers/jobs/8011546003?gh_jid=8011546003"}
+  - {company: OpenRouter,  role: "Product Manager, OpenRouter Connect",            url: "https://jobs.ashbyhq.com/openrouter/f22843fc-21f4-4410-a072-4909b1ec68b0"}
