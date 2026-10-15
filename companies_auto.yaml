@@ -304,3 +304,9 @@ companies:
 - name: CodeRabbit
   ats: ashby
   slug: coderabbit
+- name: Synthesia
+  ats: ashby
+  slug: synthesia
+- name: LaunchDarkly
+  ats: greenhouse
+  slug: launchdarkly

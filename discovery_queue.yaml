@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Synthesia
-  ats: ashby
-  slug: synthesia
-  related: 'Suno — 1 role(s) score 3+ stars under fit v2; best: Product Manager, Interactive
-    Avatars (Staff/Pr (12.0 pts)'
-- name: LaunchDarkly
-  ats: greenhouse
-  slug: launchdarkly
-  related: 'usage pricing — 1 role(s) score 3+ stars under fit v2; best: Staff Product
-    Manager - Data Products (12.0 pts)'
 - name: PostHog
   ats: ashby
   slug: posthog
