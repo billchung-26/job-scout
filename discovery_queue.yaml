@@ -1,15 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: PostHog
-  ats: ashby
-  slug: posthog
-  related: 'usage pricing — 1 role(s) score 3+ stars under fit v2; best: Product Manager
-    (ex-founder or ex-product engi (11.0 pts)'
-- name: Amplitude
-  ats: ashby
-  slug: amplitude
-  related: 'Amperity — 1 role(s) score 3+ stars under fit v2; best: Principal Product
-    Manager, AI Agents & MCP (10.5 pts)'
 - name: Supabase
   ats: ashby
   slug: supabase

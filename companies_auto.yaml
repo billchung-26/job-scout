@@ -310,3 +310,9 @@ companies:
 - name: LaunchDarkly
   ats: greenhouse
   slug: launchdarkly
+- name: PostHog
+  ats: ashby
+  slug: posthog
+- name: Amplitude
+  ats: ashby
+  slug: amplitude
