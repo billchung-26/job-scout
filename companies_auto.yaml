@@ -316,3 +316,6 @@ companies:
 - name: Amplitude
   ats: ashby
   slug: amplitude
+- name: Supabase
+  ats: ashby
+  slug: supabase

@@ -1,7 +1,2 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue:
-- name: Supabase
-  ats: ashby
-  slug: supabase
-  related: 'usage pricing — 1 role(s) score 3+ stars under fit v2; best: Product Lead,
-    Infrastructure (10.5 pts)'
+queue: []
