@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-10-17 17:38. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-10-18 17:41. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (143 companies)
 
@@ -9,13 +9,13 @@ _Auto-generated 2026-10-17 17:38. Watched via the public Greenhouse / Lever / As
 | 1X | auto | ashby | 0 / 99 |
 | Abridge | auto | ashby | 1 / 43 |
 | Ada | curated | greenhouse | 0 / 8 |
-| Airbnb | curated | greenhouse | 11 / 173 |
+| Airbnb | curated | greenhouse | 11 / 174 |
 | Airbyte | auto | ashby | 0 / 13 |
 | Ambience | auto | ashby | 1 / 19 |
 | AMD | curated | jibe | 50 / 662 |
 | Amperity | curated | greenhouse | 1 / 13 |
 | Amplitude | auto | ashby | 5 / 39 |
-| Anthropic | curated | greenhouse | 74 / 655 |
+| Anthropic | curated | greenhouse | 74 / 656 |
 | Antora Energy | auto | greenhouse | 1 / 39 |
 | Anyscale | auto | ashby | 1 / 20 |
 | Applied Intuition | curated | ashby | 0 / 329 |
@@ -65,7 +65,7 @@ _Auto-generated 2026-10-17 17:38. Watched via the public Greenhouse / Lever / As
 | Fivetran | auto | greenhouse | 20 / 180 |
 | Form Energy | auto | ashby | 0 / 206 |
 | Genspark | auto | ashby | 1 / 9 |
-| Glean | curated | greenhouse | 19 / 136 |
+| Glean | curated | greenhouse | 17 / 134 |
 | Gong | auto | greenhouse | 3 / 97 |
 | Gorgias | auto | ashby | 0 / 16 |
 | Group14 Technologies | auto | greenhouse | 2 / 7 |
@@ -82,7 +82,7 @@ _Auto-generated 2026-10-17 17:38. Watched via the public Greenhouse / Lever / As
 | Kodiak Robotics | auto | greenhouse | 3 / 67 |
 | Lambda | auto | ashby | 11 / 92 |
 | LangChain | auto | ashby | 6 / 102 |
-| LaunchDarkly | auto | greenhouse | 5 / 51 |
+| LaunchDarkly | auto | greenhouse | 5 / 52 |
 | Level AI | auto | lever | 1 / 19 |
 | Linear | auto | ashby | 0 / 29 |
 | Liquid AI | auto | ashby | 1 / 2 |
@@ -99,11 +99,11 @@ _Auto-generated 2026-10-17 17:38. Watched via the public Greenhouse / Lever / As
 | Nuro | curated | greenhouse | 8 / 108 |
 | Observe.AI | auto | greenhouse | 0 / 9 |
 | Omni | auto | ashby | 2 / 36 |
-| OpenAI | curated | ashby | 64 / 814 |
+| OpenAI | curated | ashby | 63 / 813 |
 | OpenEvidence | auto | ashby | 0 / 9 |
 | OpenRouter | auto | ashby | 5 / 27 |
 | Orb | auto | ashby | 2 / 23 |
-| Parloa | auto | greenhouse | 3 / 54 |
+| Parloa | auto | greenhouse | 3 / 53 |
 | Perplexity | curated | ashby | 14 / 133 |
 | PolyAI | auto | greenhouse | 0 / 2 |
 | Poolside | auto | ashby | 0 / 2 |
@@ -127,10 +127,10 @@ _Auto-generated 2026-10-17 17:38. Watched via the public Greenhouse / Lever / As
 | Snowflake | curated | ashby | 25 / 359 |
 | Sourcegraph | curated | greenhouse | 2 / 9 |
 | Span | auto | ashby | 2 / 33 |
-| Stripe | auto | greenhouse | 58 / 732 |
+| Stripe | auto | greenhouse | 58 / 731 |
 | Suki AI | auto | greenhouse | 0 / 11 |
 | Suno | auto | ashby | 1 / 69 |
-| Supabase | auto (new today) | ashby | 6 / 54 |
+| Supabase | auto | ashby | 6 / 54 |
 | Sweep | auto | ashby | 1 / 7 |
 | Synthesia | auto | ashby | 2 / 47 |
 | Temporal | auto | ashby | 9 / 71 |
