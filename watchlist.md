@@ -1,8 +1,8 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-10-24 17:44. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-10-25 17:59. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (143 companies)
+## ✅ Watching (145 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
@@ -15,7 +15,7 @@ _Auto-generated 2026-10-24 17:44. Watched via the public Greenhouse / Lever / As
 | AMD | curated | jibe | 49 / 651 |
 | Amperity | curated | greenhouse | 0 / 13 |
 | Amplitude | auto | ashby | 5 / 39 |
-| Anthropic | curated | greenhouse | 70 / 681 |
+| Anthropic | curated | greenhouse | 70 / 682 |
 | Antora Energy | auto | greenhouse | 1 / 39 |
 | Anyscale | auto | ashby | 1 / 21 |
 | Applied Intuition | curated | ashby | 0 / 328 |
@@ -99,10 +99,11 @@ _Auto-generated 2026-10-24 17:44. Watched via the public Greenhouse / Lever / As
 | Nuro | curated | greenhouse | 8 / 98 |
 | Observe.AI | auto | greenhouse | 0 / 9 |
 | Omni | auto | ashby | 2 / 36 |
-| OpenAI | curated | ashby | 57 / 796 |
+| OpenAI | curated | ashby | 57 / 793 |
 | OpenEvidence | auto | ashby | 0 / 8 |
 | OpenRouter | auto | ashby | 4 / 29 |
 | Orb | auto | ashby | 1 / 22 |
+| Paddle | auto (new today) | ashby | 0 / 17 |
 | Parloa | auto | greenhouse | 3 / 51 |
 | Perplexity | curated | ashby | 12 / 132 |
 | PolyAI | auto | greenhouse | 0 / 3 |
@@ -127,6 +128,7 @@ _Auto-generated 2026-10-24 17:44. Watched via the public Greenhouse / Lever / As
 | Snowflake | curated | ashby | 27 / 355 |
 | Sourcegraph | curated | greenhouse | 1 / 8 |
 | Span | auto | ashby | 2 / 30 |
+| Stigg | auto (new today) | ashby | 0 / 5 |
 | Stripe | auto | greenhouse | 57 / 719 |
 | Suki AI | auto | greenhouse | 0 / 8 |
 | Suno | auto | ashby | 2 / 71 |
@@ -150,8 +152,20 @@ _Auto-generated 2026-10-24 17:44. Watched via the public Greenhouse / Lever / As
 | xAI | curated | greenhouse | 2 / 298 |
 | Zoox | curated | lever | 27 / 236 |
 
-## ⏳ In discovery backlog — 0 left (~2 added/day)
+## ⏳ In discovery backlog — 12 left (~2 added/day)
 
+- n8n — 
+- Cursor — 
+- Braintrust — 
+- Honeycomb — 
+- Gamma — 
+- Notion — 
+- Figma — 
+- Mixpanel — 
+- Datadog — 
+- Zapier — 
+- Descript — 
+- Harness — 
 
 ## ❌ Not watchable by this tool
 

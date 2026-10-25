@@ -319,3 +319,9 @@ companies:
 - name: Supabase
   ats: ashby
   slug: supabase
+- name: Stigg
+  ats: ashby
+  slug: stigg
+- name: Paddle
+  ats: ashby
+  slug: paddle
