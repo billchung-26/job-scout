@@ -124,9 +124,9 @@ fit:
   themes:
     # `depth` = extra points when the JD mentions the theme >= depth_min_hits times. Only the
     # signature themes get it; generic ones (platform, enterprise, AI) are in every JD.
-    - {label: "pricing & monetization", title: 5,   jd: 3,   depth: 1,   terms: ["pricing", "monetiz*", "meter", "metering", "metered", "billing", "usage-based", "consumption-based", "credits", "entitlement*", "rate card", "revenue model", "overage*", "packaging"]}
-    - {label: "AI agents",              title: 2,   jd: 1.5, depth: 0.5, terms: ["agent", "agents", "agentic", "llm*", "generative ai", "genai", "copilot", "ai assistant", "conversational", "chatbot", "foundation model*"]}
-    - {label: "data platform/CDP",      title: 2,   jd: 1.5, depth: 0.5, terms: ["cdp", "customer data", "segmentation", "data platform", "real-time", "streaming", "identity resolution", "personalization", "data pipeline*", "audience*"]}
+    - {label: "pricing & monetization", title: 5,   jd: 3,   depth: 1,   terms: ["pricing", "monetiz*", "meter", "metering", "metered", "billing", "usage-based", "consumption-based", "credits", "entitlement*", "rate card", "revenue model", "overage*", "packaging", "pay-as-you-go", "per-seat", "seat-based", "outcome-based", "free tier", "free trial", "paid plan*", "spend limit*", "cost control*", "usage visibility", "credit pool*"]}
+    - {label: "AI agents",              title: 3,   jd: 2,   depth: 1,   terms: ["agent", "agents", "agentic", "agent platform", "mcp", "llm*", "generative ai", "genai", "copilot", "ai assistant", "conversational", "chatbot", "foundation model*"]}
+    - {label: "data platform/CDP",      title: 1.5, jd: 1,   depth: 0.5, terms: ["cdp", "customer data", "segmentation", "data platform", "real-time", "streaming", "identity resolution", "personalization", "data pipeline*", "audience*"]}
     - {label: "enterprise/B2B",         title: 1.5, jd: 0.5, terms: ["enterprise", "b2b", "saas"]}
     - {label: "platform/infra",         title: 1.5, jd: 0.5, terms: ["platform", "infrastructure", "api", "apis", "developer*", "self-serve", "control plane"]}
     - {label: "GTM/growth",             title: 1.5, jd: 0.5, terms: ["gtm", "go-to-market", "growth", "plg", "product-led"]}

@@ -1,2 +1,45 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue: []
+# Refilled 2026-10-24 with the Coworker-Agent lens: AI/agent platforms and billing/usage-pricing companies.
+queue:
+  - name: Stigg   # usage-based pricing/entitlements infra: direct overlap with Coworker credits work
+    ats: ashby
+    slug: stigg
+  - name: Paddle   # merchant-of-record billing for SaaS/AI: pricing & packaging PM roles
+    ats: ashby
+    slug: paddle
+  - name: n8n   # agent/workflow automation platform; has Senior PM (Enterprise)
+    ats: ashby
+    slug: n8n
+  - name: Cursor   # AI coding agent; usage-based pricing changes, hypergrowth
+    ats: ashby
+    slug: cursor
+  - name: Braintrust   # AI evals/observability for agent builders
+    ats: ashby
+    slug: braintrust
+  - name: Honeycomb   # observability; Staff PM openings, usage-based pricing
+    ats: greenhouse
+    slug: honeycomb
+  - name: Gamma   # AI presentation tool; credits + PLG monetization; Sr PM B2B
+    ats: ashby
+    slug: gamma
+  - name: Notion   # AI agents + credit-based AI pricing at scale
+    ats: ashby
+    slug: notion
+  - name: Figma   # AI credits rollout; Adobe-adjacent design software, large PM org
+    ats: greenhouse
+    slug: figma
+  - name: Mixpanel   # product analytics/CDP-adjacent, usage-based plans; PM Data roles
+    ats: greenhouse
+    slug: mixpanel
+  - name: Datadog   # usage-based observability pricing; large PM org (433 roles: heavy filter load)
+    ats: greenhouse
+    slug: datadog
+  - name: Zapier   # task/usage-based pricing, AI agents product
+    ats: ashby
+    slug: zapier
+  - name: Descript   # AI media editing; credits model; Lead PM roles
+    ats: greenhouse
+    slug: descript
+  - name: Harness   # DevOps platform with AI agents; module-based pricing
+    ats: greenhouse
+    slug: harnessinc

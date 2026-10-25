@@ -125,3 +125,12 @@ applied:
   - {company: Regal,       role: "Senior Product Manager (New York)",              url: "https://jobs.lever.co/regal.ai/3ec7003c-8176-4413-86e3-63aff7bcec79"}
   - {company: Klaviyo,     role: "Sr. Product Manager, Growth (PLG)",              url: "https://www.klaviyo.com/careers/jobs/8011546003?gh_jid=8011546003"}
   - {company: OpenRouter,  role: "Product Manager, OpenRouter Connect",            url: "https://jobs.ashbyhq.com/openrouter/f22843fc-21f4-4410-a072-4909b1ec68b0"}
+  # --- Tier 24 (applied 2026-10-24) ---
+  - {company: Ambience,     role: "Product Manager, Ambulatory Autonomous Coding",   url: "https://jobs.ashbyhq.com/ambiencehealthcare/a8bff5e6-cade-4348-8463-6c608f770ff2"}
+  - {company: Lyft,         role: "Product Manager, Driver Experience - Driver Quality", url: "https://app.careerpuck.com/job-board/lyft/job/8811733002?gh_jid=8811733002"}
+  - {company: Exa,          role: "Product Manager, Evals",                         url: "https://jobs.ashbyhq.com/exa/8349de40-bd81-4eec-aaca-a59d3ed2a148"}
+  - {company: Vercel,       role: "Product Manager, Storage",                       url: "https://job-boards.greenhouse.io/vercel/jobs/6228301004"}
+  - {company: Zoox,         role: "Senior Commercial Product Manager",              url: "https://jobs.lever.co/zoox/29ab6640-f7dc-4c10-a4e9-0a12d1e3bcd8"}
+  - {company: Supabase,     role: "Product Manager - Strategic Partner Integrations (Bay Area based)", url: "https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93"}
+  - {company: LaunchDarkly, role: "Staff Product Manager - Data Products",         url: "https://job-boards.greenhouse.io/launchdarkly/jobs/7866054003"}
+  - {company: Arize,        role: "Senior AI Product Manager, Observability",       url: "https://job-boards.greenhouse.io/arizeai/jobs/5818115004"}
