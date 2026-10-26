@@ -325,3 +325,9 @@ companies:
 - name: Paddle
   ats: ashby
   slug: paddle
+- name: n8n
+  ats: ashby
+  slug: n8n
+- name: Braintrust
+  ats: ashby
+  slug: braintrust
