@@ -331,3 +331,9 @@ companies:
 - name: Braintrust
   ats: ashby
   slug: braintrust
+- name: Honeycomb
+  ats: greenhouse
+  slug: honeycomb
+- name: Gamma
+  ats: ashby
+  slug: gamma
