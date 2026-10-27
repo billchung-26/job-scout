@@ -161,6 +161,11 @@ companies:
     ats: jibe
     slug: "careers.amd.com?country=United States"   # US-only server-side: halves a 42 MB/30 s pull; remove "?country=..." for non-US roles
 
+  # ---- Added 2026-10-26 ----
+  - name: Cloudflare         # network/security/edge platform; 461 jobs, 25 pass filter. Location comes from `offices` (see _greenhouse_location)
+    ats: greenhouse
+    slug: cloudflare
+
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
 #  see NOT_WATCHABLE in scout.py / the "Not watchable" section of watchlist.md

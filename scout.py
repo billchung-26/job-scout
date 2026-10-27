@@ -89,10 +89,31 @@ def fetch_greenhouse(slug):
     return [{
         "id": str(j.get("id")),
         "title": j.get("title", ""),
-        "location": (j.get("location") or {}).get("name", ""),
+        "location": _greenhouse_location(j),
         "url": j.get("absolute_url", ""),
         "desc": fit.html_to_text(j.get("content", "")),
     } for j in data.get("jobs", [])]
+
+
+# Cloudflare (verified 2026-10-26: 349 of 461 jobs say just "Hybrid") fills Greenhouse's location with a
+# work-mode word and keeps the real city in `offices`. Without this its roles all fail the location filter.
+# Only boards that do this are touched; everyone else keeps their location string exactly as before.
+_WORK_MODES = {"hybrid", "in-office", "in office", "distributed", "onsite", "on-site", "office"}
+
+
+def _greenhouse_location(j):
+    base = (j.get("location") or {}).get("name", "")
+    parts = [p.strip().lower() for p in base.split(";") if p.strip()]
+    if not parts or not all(p in _WORK_MODES for p in parts):
+        return base
+    cities = [o.get("location") or o.get("name", "") for o in (j.get("offices") or [])]
+    if not cities:  # fall back to the custom field some boards use instead of offices
+        for m in j.get("metadata") or []:
+            if m.get("name") == "Job Posting Location" and m.get("value"):
+                v = m["value"]
+                cities = v if isinstance(v, list) else [v]
+    cities = [c for c in dict.fromkeys(cities) if c]
+    return "%s (%s)" % ("; ".join(cities), base) if cities else base
 
 
 def fetch_lever(slug):
