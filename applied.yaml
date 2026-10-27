@@ -134,3 +134,10 @@ applied:
   - {company: Supabase,     role: "Product Manager - Strategic Partner Integrations (Bay Area based)", url: "https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93"}
   - {company: LaunchDarkly, role: "Staff Product Manager - Data Products",         url: "https://job-boards.greenhouse.io/launchdarkly/jobs/7866054003"}
   - {company: Arize,        role: "Senior AI Product Manager, Observability",       url: "https://job-boards.greenhouse.io/arizeai/jobs/5818115004"}
+  # --- Tier 25 (applied 2026-10-27) ---
+  - {company: Lyft,         role: "Senior Product Manager, Rider ML/AI",            url: "https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002"}
+  - {company: Lorikeet,     role: "Senior Forward Deployed Product Manager",        url: "https://jobs.ashbyhq.com/lorikeet/fdd30368-c3a4-4431-91a8-5ebe30f1ec99"}
+  - {company: Antora Energy, role: "Product Manager",                               url: "https://job-boards.greenhouse.io/antora/jobs/6230224004"}
+  - {company: ClickHouse,   role: "Senior Product Manager, Billing & Marketplaces", url: "https://jobs.ashbyhq.com/clickhouse/e966d4cd-3373-43fe-879d-876e854b8a86"}
+  - {company: Cloudflare,   role: "Senior Product Manager, Enterprise",             url: "https://boards.greenhouse.io/cloudflare/jobs/8158527?gh_jid=8158527"}
+  - {company: Cloudflare,   role: "Senior Product Manager - Threat Intel",          url: "https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552"}
