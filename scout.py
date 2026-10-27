@@ -38,6 +38,7 @@ import yaml
 
 import fit  # fit scoring v2 (kept out of this file: scout.py is already >700 lines)
 import jibe  # iCIMS Jibe career-site fetcher (AMD); same reason
+import apple  # jobs.apple.com (undocumented JSON API); same reason
 
 try:
     import certifi
@@ -146,7 +147,7 @@ def fetch_ashby(slug):
     } for j in data.get("jobs", [])]
 
 
-FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "jibe": jibe.fetch}
+FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "jibe": jibe.fetch, "apple": apple.fetch}
 
 
 def careers_url(ats, slug):
@@ -154,6 +155,7 @@ def careers_url(ats, slug):
         "greenhouse": "https://job-boards.greenhouse.io/%s" % slug,
         "ashby": "https://jobs.ashbyhq.com/%s" % slug,
         "lever": "https://jobs.lever.co/%s" % slug,
+        "apple": "https://jobs.apple.com/en-us/search",
         "jibe": "https://%s/careers-home" % slug.split("?")[0],  # slug may carry API params after "?"
     }.get(ats, "")
 

@@ -166,6 +166,11 @@ companies:
     ats: greenhouse
     slug: cloudflare
 
+  # ---- Added 2026-10-27 ----
+  - name: Apple              # your Maps/BA background; undocumented jobs.apple.com API (see apple.py), full US pull ~2 min
+    ats: apple
+    slug: "postLocation-USA"
+
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
 #  see NOT_WATCHABLE in scout.py / the "Not watchable" section of watchlist.md
