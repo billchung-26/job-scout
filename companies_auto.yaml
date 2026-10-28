@@ -337,3 +337,9 @@ companies:
 - name: Gamma
   ats: ashby
   slug: gamma
+- name: Notion
+  ats: ashby
+  slug: notion
+- name: Figma
+  ats: greenhouse
+  slug: figma
