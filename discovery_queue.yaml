@@ -1,11 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Mixpanel
-  ats: greenhouse
-  slug: mixpanel
-- name: Datadog
-  ats: greenhouse
-  slug: datadog
 - name: Zapier
   ats: ashby
   slug: zapier

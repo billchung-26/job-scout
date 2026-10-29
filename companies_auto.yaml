@@ -343,3 +343,9 @@ companies:
 - name: Figma
   ats: greenhouse
   slug: figma
+- name: Mixpanel
+  ats: greenhouse
+  slug: mixpanel
+- name: Datadog
+  ats: greenhouse
+  slug: datadog
