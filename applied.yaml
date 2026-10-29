@@ -141,3 +141,9 @@ applied:
   - {company: ClickHouse,   role: "Senior Product Manager, Billing & Marketplaces", url: "https://jobs.ashbyhq.com/clickhouse/e966d4cd-3373-43fe-879d-876e854b8a86"}
   - {company: Cloudflare,   role: "Senior Product Manager, Enterprise",             url: "https://boards.greenhouse.io/cloudflare/jobs/8158527?gh_jid=8158527"}
   - {company: Cloudflare,   role: "Senior Product Manager - Threat Intel",          url: "https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552"}
+  # --- Tier 26 (applied 2026-10-28) ---
+  - {company: xAI,    role: "Senior Product Manager, Commerce Platform",   url: "https://job-boards.greenhouse.io/xai/jobs/5277343007"}
+  - {company: Notion, role: "Product Manager, Connections",                url: "https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126"}
+  - {company: Notion, role: "AI Product Manager, Growth Marketing",        url: "https://jobs.ashbyhq.com/notion/11e56782-ee28-4025-ba0e-76222b0bfcea"}
+  - {company: Figma,  role: "Product Manager, Figma Pattern Library",     url: "https://boards.greenhouse.io/figma/jobs/6228774004?gh_jid=6228774004"}
+  - {company: Lyft,   role: "Staff Product Manager I, Base Pricing",      url: "https://app.careerpuck.com/job-board/lyft/job/8922068002?gh_jid=8922068002"}
