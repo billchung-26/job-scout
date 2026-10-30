@@ -349,3 +349,9 @@ companies:
 - name: Datadog
   ats: greenhouse
   slug: datadog
+- name: Zapier
+  ats: ashby
+  slug: zapier
+- name: Descript
+  ats: greenhouse
+  slug: descript
