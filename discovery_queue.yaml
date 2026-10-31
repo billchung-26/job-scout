@@ -1,5 +1,2 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue:
-- name: Harness
-  ats: greenhouse
-  slug: harnessinc
+queue: []

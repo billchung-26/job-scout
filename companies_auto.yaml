@@ -355,3 +355,6 @@ companies:
 - name: Descript
   ats: greenhouse
   slug: descript
+- name: Harness
+  ats: greenhouse
+  slug: harnessinc
