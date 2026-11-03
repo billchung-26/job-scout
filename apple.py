@@ -42,6 +42,7 @@ BASE = "https://jobs.apple.com"
 PAGE_DELAY = 0.25      # seconds between calls: ~2 min for a full US pull; be a polite client
 MAX_PAGES = 600        # 12,000 jobs; Apple US listing is ~4,450 today
 MAX_DETAILS = 400
+RETRIES = 3            # attempts per call; backoff 3s, 6s
 TIMEOUT = 40
 _HEADERS = {
     # Apple's WAF answers 406/403 to non-browser User-Agents on some paths (seen for jobs.apple.com
@@ -91,7 +92,18 @@ def fetch(slug):
         if body is not None:
             data, headers["Content-Type"] = json.dumps(body).encode(), "application/json"
         req = urllib.request.Request(url, data=data, headers=headers, method="POST" if body is not None else "GET")
-        return json.load(op.open(req, timeout=TIMEOUT))["res"]
+        # ~370 calls per run: a single read timeout (seen on GitHub Actions 2026-11-03) used to drop the whole
+        # company for the day, so retry transient failures. HTTP 4xx (except 429) is a real answer, not retried.
+        for attempt in range(1, RETRIES + 1):
+            try:
+                return json.load(op.open(req, timeout=TIMEOUT))["res"]
+            except urllib.error.HTTPError as e:
+                if e.code < 500 and e.code != 429 or attempt == RETRIES:
+                    raise
+            except (urllib.error.URLError, OSError):   # timeouts, resets (socket.timeout is an OSError)
+                if attempt == RETRIES:
+                    raise
+            time.sleep(3 * attempt)
 
     # --- 1. whole listing; the same position appears once per location, merge them ---
     by_pos, page, total = {}, 1, None
