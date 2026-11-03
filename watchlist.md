@@ -1,15 +1,15 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-11-03 06:31. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-11-03 06:49. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (160 companies)
+## ✅ Watching (159 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
 | 1X | auto | ashby | 0 / 99 |
 | Abridge | auto | ashby | 2 / 37 |
 | Ada | curated | greenhouse | 0 / 7 |
-| Airbnb | curated | greenhouse | 12 / 213 |
+| Airbnb | curated | greenhouse | 12 / 212 |
 | Airbyte | auto | ashby | 0 / 9 |
 | Ambience | auto | ashby | 2 / 20 |
 | AMD | curated | jibe | 50 / 664 |
@@ -18,7 +18,6 @@ _Auto-generated 2026-11-03 06:31. Watched via the public Greenhouse / Lever / As
 | Anthropic | curated | greenhouse | 65 / 677 |
 | Antora Energy | auto | greenhouse | 2 / 40 |
 | Anyscale | auto | ashby | 1 / 22 |
-| Apple | curated | apple | 257 / 3351 |
 | Applied Intuition | curated | ashby | 0 / 319 |
 | Archer Aviation | auto | greenhouse | 0 / 1 |
 | Arize | auto | greenhouse | 3 / 27 |
@@ -132,7 +131,7 @@ _Auto-generated 2026-11-03 06:31. Watched via the public Greenhouse / Lever / As
 | Replit | auto | ashby | 0 / 34 |
 | Rime | auto | ashby | 0 / 3 |
 | Sana | curated | ashby | 0 / 1 |
-| Scale AI | auto (new today) | greenhouse | 9 / 166 |
+| Scale AI | auto | greenhouse | 9 / 166 |
 | Serve Robotics | auto | ashby | 0 / 27 |
 | Sierra | curated | ashby | 12 / 218 |
 | Sigma Computing | auto | greenhouse | 14 / 77 |
@@ -160,7 +159,7 @@ _Auto-generated 2026-11-03 06:31. Watched via the public Greenhouse / Lever / As
 | Verkor | auto | lever | 0 / 41 |
 | Waabi | auto | lever | 5 / 94 |
 | Watershed | auto | ashby | 6 / 40 |
-| Waymo | auto (new today) | greenhouse | 24 / 370 |
+| Waymo | auto | greenhouse | 24 / 370 |
 | Wayve | auto | ashby | 5 / 173 |
 | Writer | curated | ashby | 1 / 46 |
 | xAI | curated | greenhouse | 3 / 310 |
