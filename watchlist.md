@@ -1,8 +1,8 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-11-03 06:49. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-11-03 07:03. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (159 companies)
+## ✅ Watching (160 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
@@ -18,6 +18,7 @@ _Auto-generated 2026-11-03 06:49. Watched via the public Greenhouse / Lever / As
 | Anthropic | curated | greenhouse | 65 / 677 |
 | Antora Energy | auto | greenhouse | 2 / 40 |
 | Anyscale | auto | ashby | 1 / 22 |
+| Apple | curated | apple | 257 / 3351 |
 | Applied Intuition | curated | ashby | 0 / 319 |
 | Archer Aviation | auto | greenhouse | 0 / 1 |
 | Arize | auto | greenhouse | 3 / 27 |
@@ -51,7 +52,7 @@ _Auto-generated 2026-11-03 06:49. Watched via the public Greenhouse / Lever / As
 | Cursor (Anysphere) | auto | ashby | 4 / 123 |
 | Customer.io | auto | greenhouse | 4 / 24 |
 | Databricks | curated | greenhouse | 40 / 910 |
-| Datadog | auto | greenhouse | 36 / 405 |
+| Datadog | auto | greenhouse | 36 / 404 |
 | Decagon | curated | ashby | 12 / 132 |
 | Deepgram | auto | ashby | 9 / 82 |
 | Deepnote | auto | ashby | 0 / 3 |
