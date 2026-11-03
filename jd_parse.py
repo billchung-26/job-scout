@@ -12,7 +12,9 @@ Known limits (be honest about these when relying on the output):
     except through the requirements/preferred split.
   * "have" only means the word appears in the résumé, not that it is said convincingly.
 """
+import functools
 import html
+import math
 import os
 import re
 from collections import Counter
@@ -28,8 +30,8 @@ SECTION_RULES = [
     ("preferred",        r"preferred|nice[- ]to[- ]have|bonus|a plus|great to have|ideal(ly)?|extra credit|even better|stand out"),
     ("compensation",     r"compensation|salary|pay range|base pay|pay transparency|total rewards|benefits|perks|what we offer|equity"),
     ("legal",            r"equal (employment )?opportunity|eeo|accommodation|privacy|e-?verify|background check|fair chance|applicant notice"),
-    ("requirements",     r"requirement|qualification|what we.re looking for|who you are|about you|you have|you bring|you.ll bring|must[- ]have|minimum|basic|what you.ll need|what you need|skills|experience|you are|ideal candidate"),
-    ("responsibilities", r"responsibilit|what you.ll do|what you will do|you will|you.ll|day[- ]to[- ]day|in this role|the role|your impact|what you.ll own|key duties|the job|about the (role|job|position|team)|the opportunity|your mission|what you.ll be doing"),
+    ("requirements",     r"requirement|qualification|good fit|you might be|what we.re looking for|who you are|about you|you have|you bring|you.ll bring|must[- ]have|minimum|basic|what you.ll need|what you need|skills|experience|you are|ideal candidate"),
+    ("responsibilities", r"respons\w*|what you.ll do|what you will do|you will|you.ll|day[- ]to[- ]day|in this role|the role|your impact|what you.ll own|key duties|the job|about the (role|job|position|team)|the opportunity|your mission|what you.ll be doing"),
     ("about",            r"about (us|the company)|who we are|our (mission|story|team|company)|company overview|overview|why [a-z0-9. ]+\??$"),
 ]
 
@@ -73,7 +75,7 @@ def _looks_like_heading(line):
         return True
     if line.startswith("- ") or len(line) > 70 or line.endswith("."):
         return False
-    return line.endswith(":") or (len(line.split()) <= 6 and classify(line) is not None)
+    return line.endswith(":") or ((len(line.split()) <= 6 or len(line) <= 45) and classify(line) is not None)
 
 
 def split_sections(structured):
@@ -82,6 +84,8 @@ def split_sections(structured):
     for line in structured.split("\n"):
         if _looks_like_heading(line):
             head = line.lstrip(HEAD).strip(" :")
+            if not head:          # empty <h*> tag (seen on Ashby): keep the current section
+                continue
             kind = classify(head)
             if kind:
                 found = True
@@ -101,7 +105,7 @@ def extract_facts(text, requirement_lines):
     edu = sorted({m.group(0).lower() for m in re.finditer(r"bachelor'?s?|master'?s?|\bmba\b|ph\.?d|\bdegree\b", text, re.I)})
     cons = []
     for label, rx in [("work authorization/sponsorship", r"work authorization|authori[sz]ed to work|sponsorship|visa\b"),
-                      ("security clearance / citizenship", r"security clearance|u\.?s\.? citizen|citizenship|itar|export control"),
+                      ("security clearance / citizenship", r"security clearance|clearance required|must be a u\.?s\.? citizen|u\.?s\.? citizenship (?:is )?required|citizenship required|\bitar\b|export control"),
                       ("on-site/hybrid expectation", r"\bon-?site\b|in[- ]office|hybrid|\d\s*days? (?:a|per) week"),
                       ("relocation", r"relocat"),
                       ("travel", r"travel (?:up to |required|\d)|\d+%\s*travel")]:
@@ -121,6 +125,7 @@ def _load_groups(path=None):
     return cfg.get("groups") or [], {t.lower() for t in cfg.get("ignore_terms") or []}
 
 
+@functools.lru_cache(maxsize=None)   # ~550 postings x ~110 forms per daily run: compile each once
 def _form_rx(form):
     f = form.strip().lower()
     wild = f.endswith("*")
@@ -135,6 +140,11 @@ def _surface_forms(text, forms):
         for m in _form_rx(form).finditer(text):
             c[m.group(0).lower()] += 1
     return c
+
+
+def _same_stem(a, b):
+    n = min(len(a), len(b), 6)
+    return a == b or (n >= 5 and a[:n] == b[:n])
 
 
 def keyword_report(sections, full_text, resume_text=None, groups_path=None):
@@ -153,7 +163,8 @@ def keyword_report(sections, full_text, resume_text=None, groups_path=None):
                "posting_wording": [f for f, _ in total.most_common(3)]}
         if resume_text is not None:
             have = _surface_forms(resume_text, g["forms"])
-            same = [f for f in row["posting_wording"] if f in have]
+            # inflections ("launches"/"launch", "collaborating"/"collaborated") are not a wording gap: ATS stems them
+            same = [f for f in row["posting_wording"] if any(_same_stem(f, h) for h in have)]
             row["resume_status"] = "have" if same else ("have, different wording" if have else "missing")
             row["resume_wording"] = [f for f, _ in have.most_common(3)]
         rows.append(row)
@@ -163,3 +174,30 @@ def keyword_report(sections, full_text, resume_text=None, groups_path=None):
     other = Counter(t for t in re.findall(r"\b[A-Z][A-Za-z0-9]*[A-Z0-9][A-Za-z0-9+#.]*\b", full_text)
                     if t.lower() not in ignore and t.lower() not in covered and len(t) > 1)
     return rows, [t for t, n in other.most_common(15) if n >= 2]
+
+
+def distinctive_keywords(texts, top=8, groups_path=None):
+    """One list of keyword strings per posting, for the recommendation sheet (no résumé needed).
+
+    Ranking is count * log(N / documents-containing-it) across THIS batch, so concepts that every
+    posting mentions ("platform", "communication") sink and what makes a posting different
+    ("metering", "agentic", "usage-based") rises. Shown as the posting's own wording, which is what an
+    ATS matches. The input is the flattened description, so the requirements/preferred split is not
+    available here; use `jd.py get` for that.
+    """
+    groups, _ = _load_groups(groups_path)
+    per_doc = []
+    for t in texts:
+        row = {}
+        for g in groups:
+            c = _surface_forms(t or "", g["forms"])
+            if c:
+                row[g["label"]] = (sum(c.values()), c.most_common(1)[0][0])
+        per_doc.append(row)
+    n = max(len(texts), 1)
+    df = Counter(label for row in per_doc for label in row)
+    out = []
+    for row in per_doc:
+        ranked = sorted(row.items(), key=lambda kv: -(kv[1][0] * math.log(1 + n / df[kv[0]])))
+        out.append([wording for _, (_, wording) in ranked[:top]])
+    return out

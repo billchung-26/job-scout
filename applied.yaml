@@ -148,3 +148,6 @@ applied:
   - {company: Figma,  role: "Product Manager, Figma Pattern Library",     url: "https://boards.greenhouse.io/figma/jobs/6228774004?gh_jid=6228774004"}
   - {company: Lyft,   role: "Staff Product Manager I, Base Pricing",      url: "https://app.careerpuck.com/job-board/lyft/job/8922068002?gh_jid=8922068002"}
   - {company: Harvey, role: "Senior Product Manager, Embedded Experiences", url: "https://jobs.ashbyhq.com/harvey/bc94becd-102e-49a1-abdc-5ce42076a68d"}
+  # --- Tier 27 (applied 2026-11-03) ---
+  - {company: Datadog,    role: "Senior Platform Product Manager - AI SDLC Trusted Throughput", url: "https://careers.datadoghq.com/detail/7947683/?gh_jid=7947683"}
+  - {company: OpenRouter, role: "Product Manager, Provider Marketplace",                       url: "https://jobs.ashbyhq.com/openrouter/3c898169-0219-4214-9c4c-c5cff7b85a30"}

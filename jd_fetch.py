@@ -50,7 +50,7 @@ def _greenhouse(slug, url):
     for r in j.get("pay_input_ranges") or []:
         comp.append("%s – %s%s" % (_money(r.get("min_cents", 0), r.get("currency_type", "USD")),
                                    _money(r.get("max_cents", 0), r.get("currency_type", "USD")),
-                                   (" (%s)" % r["title"]) if r.get("title") else ""))
+                                   (" (%s)" % r["title"]) if r.get("title") and len(r["title"]) <= 40 else ""))  # long titles are boilerplate sentences
     return {"title": j.get("title", ""), "location": scout._greenhouse_location(j), "url": url,
             "html": j.get("content", ""), "comp": comp, "posted": (j.get("first_published") or j.get("updated_at") or "")[:10] or None}
 
@@ -136,8 +136,8 @@ def _apple(slug, url):
     try:
         d = json.load(op.open(req, timeout=apple.TIMEOUT))["res"]
     except urllib.error.HTTPError as e:
-        if e.code in (404, 410):
-            raise LookupError("Apple no longer lists position %s (probably closed)" % m.group(1))
+        if e.code in (404, 410, 436):   # 436 is what Apple answers for a position that is no longer served (observed 2026-11-02)
+            raise LookupError("Apple no longer lists position %s (probably closed; HTTP %d)" % (m.group(1), e.code))
         raise
     def block(h, k):
         t = d.get(k) or ""

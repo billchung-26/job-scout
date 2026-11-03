@@ -14,7 +14,7 @@ def main():
     companies = scout.load_companies()
     cond = scout.load_conditions()
 
-    all_matching, errors = [], []
+    all_matching, errors, failed = [], [], set()
     for c in companies:
         fetch = scout.FETCHERS.get(c.get("ats"))
         if not fetch:
@@ -23,13 +23,14 @@ def main():
             jobs = fetch(c["slug"])
         except Exception as e:  # noqa
             errors.append("%s: %s" % (c.get("name"), e))
+            failed.add(c.get("name"))   # keep its first-seen dates (see update_recommendations)
             continue
         for j in jobs:
             if scout.matches(j, cond):
                 j["score"] = scout.fit_score(j, cond)
                 all_matching.append((c["name"], j))
 
-    records = scout.update_recommendations(all_matching)
+    records = scout.update_recommendations(all_matching, failed)
     for r in records[:15]:
         print("%d\t%s\t%s\t%s\t%s" %
               (r["score"], "APPLIED" if r["applied"] else "-", r["company"], r["role"], r["location"]))

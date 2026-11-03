@@ -38,6 +38,7 @@ import yaml
 
 import fit  # fit scoring v2 (kept out of this file: scout.py is already >700 lines)
 import jibe  # iCIMS Jibe career-site fetcher (AMD); same reason
+import jd_parse  # keyword column for the recommendation sheet
 import apple  # jobs.apple.com (undocumented JSON API); same reason
 
 try:
@@ -549,7 +550,7 @@ def _job_key(name, j):
     return (j.get("url") or "").strip() or ("%s|%s" % (name, j.get("title", "")))
 
 
-def update_recommendations(all_matching):
+def update_recommendations(all_matching, failed_companies=()):
     """Refresh recommendations (latest.md / .csv / .xlsx): track first-seen per role,
     flag roles you've applied to (applied.yaml) in an 'Applied' column, and sunset any
     NON-applied role recommended for more than SUNSET_DAYS."""
@@ -584,7 +585,28 @@ def update_recommendations(all_matching):
             "role": j.get("title", ""),
             "location": j.get("location", "") or "n/a", "url": j.get("url", ""),
             "first_seen": first_seen, "age": age, "applied": is_applied,
+            "_desc": j.get("desc", ""),
         })
+    # ATS keywords per role, ranked by how distinctive they are within today's list (see jd_parse)
+    for r, kws in zip(records, jd_parse.distinctive_keywords([r["_desc"] for r in records])):
+        r["keywords"] = "; ".join(kws)
+        del r["_desc"]
+
+    # Carry first-seen forward for companies whose fetch FAILED today. Their roles are absent from
+    # all_matching, and without this they would be dropped from the state, so on recovery every role
+    # looks first-seen today (observed: Apple, 2026-11-03) and the 30-day sunset clock restarts.
+    # "__companies__" (name -> its keys) is what lets us find a failed company's keys; the reserved
+    # key never collides with a URL. Cost: rec_state.json holds each key twice.
+    by_company = {}
+    for name, j in all_matching:
+        by_company.setdefault(name, []).append(_job_key(name, j))
+    prior_by_company = prior.get("__companies__", {})
+    for name in failed_companies:
+        keep = [k for k in prior_by_company.get(name, []) if k in prior]
+        for k in keep:
+            new_state[k] = prior[k]
+        by_company[name] = keep
+    new_state["__companies__"] = by_company
 
     with open(REC_STATE_FILE, "w") as f:
         json.dump(new_state, f, indent=2)      # still one entry per posting (collapse is display-only)
@@ -657,18 +679,18 @@ def _write_recs_md(records, n_applied, n_sunset):
     lines = ["# Job recommendations (live)", "",
              "_Updated %s. %d roles · %d applied · %d sunset (>%dd) hidden._" %
              (datetime.now().strftime("%Y-%m-%d %H:%M"), len(records), n_applied, n_sunset, SUNSET_DAYS),
-             "", "| Fit | Company | Role | Why | Location | Applied | First seen | Age |",
-             "|---|---|---|---|---|---|---|---|"]
+             "", "| Fit | Company | Role | Why | Location | Applied | First seen | Age | Keywords |",
+             "|---|---|---|---|---|---|---|---|---|"]
     for r in records:
         newtag = " 🆕" if r["age"] == 0 and not r["applied"] else ""
         stars = "⭐" * r["score"]
         # a literal "|" inside a cell (e.g. Ramp's "Product Manager | Procurement", or a location
         # like "SF | NYC") would be read as a column break and shear the whole row
         e = lambda x: str(x).replace("|", "\\|")
-        lines.append("| %s | %s | [%s](%s)%s | %s | %s | %s | %s | %dd |" %
+        lines.append("| %s | %s | [%s](%s)%s | %s | %s | %s | %s | %dd | %s |" %
                      (stars or "—", e(r["company"]), e(r["role"]), r["url"], newtag,
                       e(r.get("why", "")), e(r["location"]), "✅" if r["applied"] else "",
-                      r["first_seen"], r["age"]))
+                      r["first_seen"], r["age"], e(r.get("keywords", ""))))
     with open(os.path.join(RECS_DIR, "latest.md"), "w") as f:
         f.write("\n".join(lines))
 
@@ -676,10 +698,10 @@ def _write_recs_md(records, n_applied, n_sunset):
 def _write_recs_csv(records):
     with open(os.path.join(RECS_DIR, "latest.csv"), "w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL"])
+        w.writerow(["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL", "Keywords"])
         for r in records:
             w.writerow([r["score"], r["company"], r["role"], r.get("why", ""), r["location"],
-                        "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"]])
+                        "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"], r.get("keywords", "")])
 
 
 def _write_recs_xlsx(records):
@@ -693,11 +715,11 @@ def _write_recs_xlsx(records):
     wb.properties.created = wb.properties.modified = datetime(2024, 1, 1)  # deterministic file
     ws = wb.active
     ws.title = "Recommendations"
-    headers = ["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL"]
+    headers = ["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL", "Keywords"]
     ws.append(headers)
     for r in records:
         ws.append([r["score"], r["company"], r["role"], r.get("why", ""), r["location"],
-                   "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"]])
+                   "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"], r.get("keywords", "")])
         row = ws.max_row
         if r["url"]:                                   # make Role a clickable link
             c = ws.cell(row=row, column=3)
@@ -754,6 +776,7 @@ def main():
     state = load_state()
     new_state = {}
     report, errors, stats, all_matching = [], [], [], []
+    failed = set()   # companies whose fetch failed this run
 
     for c in companies:
         name, ats, slug = c.get("name"), c.get("ats"), c.get("slug")
@@ -765,9 +788,15 @@ def main():
             jobs = fetch(slug)
         except urllib.error.HTTPError as e:
             errors.append("%s: HTTP %s (check the slug '%s')" % (name, e.code, slug))
+            failed.add(name)
+            if name in state:
+                new_state[name] = state[name]   # a one-day outage must not make every role "new" tomorrow
             continue
         except Exception as e:  # noqa
             errors.append("%s: %s" % (name, e))
+            failed.add(name)
+            if name in state:
+                new_state[name] = state[name]
             continue
 
         seen = set(state.get(name, []))
@@ -818,7 +847,7 @@ def main():
     notify_telegram(report, secrets)
 
     write_watchlist(stats)
-    update_recommendations(all_matching)
+    update_recommendations(all_matching, failed)
     git_autopush()
 
 
