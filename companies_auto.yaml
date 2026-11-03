@@ -358,3 +358,9 @@ companies:
 - name: Harness
   ats: greenhouse
   slug: harnessinc
+- name: Waymo
+  ats: greenhouse
+  slug: waymo
+- name: Scale AI
+  ats: greenhouse
+  slug: scaleai
