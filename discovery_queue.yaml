@@ -1,2 +1,57 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
-queue: []
+# Refilled 2026-11-02 (queue had run to 0). Same Coworker-Agent lens plus mobility/energy; every board identity-checked.
+queue:
+  - name: Waymo   # autonomous driving (was mislabelled 'no public board'; Greenhouse has 370 jobs); 33 fit-titles
+    ats: greenhouse
+    slug: waymo
+  - name: Scale AI   # AI data/eval infra; AI Product Manager roles
+    ats: greenhouse
+    slug: scaleai
+  - name: Brex   # fintech B2B SaaS with usage/spend products; 31 fit-titles
+    ats: greenhouse
+    slug: brex
+  - name: Plaid   # fintech API platform; PM Connectivity Platform
+    ats: ashby
+    slug: plaid
+  - name: Lovable   # AI app builder, hypergrowth, credit-based pricing; PM Build Experience
+    ats: ashby
+    slug: lovable
+  - name: Cerebras   # AI inference hardware+cloud; Senior PM AI Models
+    ats: ashby
+    slug: cerebras
+  - name: Gainsight   # customer success platform; AI Product Manager
+    ats: ashby
+    slug: gainsight
+  - name: Drata   # compliance SaaS (peer of Vanta, which you applied to)
+    ats: ashby
+    slug: drata
+  - name: Chime   # consumer fintech; PM App Experience and Platform
+    ats: greenhouse
+    slug: chime
+  - name: MongoDB   # data platform, usage-based Atlas pricing; 41 fit-titles
+    ats: greenhouse
+    slug: mongodb
+  - name: Okta   # enterprise identity SaaS; 29 fit-titles
+    ats: greenhouse
+    slug: okta
+  - name: Samsara   # fleet/IoT platform (your Ninja Van fleet background); 31 fit-titles
+    ats: greenhouse
+    slug: samsara
+  - name: Verkada   # physical-security cloud platform; 20 fit-titles
+    ats: greenhouse
+    slug: verkada
+  - name: Fervo   # geothermal energy; Senior Technical PM
+    ats: greenhouse
+    slug: fervoenergy
+  - name: Lucid   # EV maker (mobility)
+    ats: greenhouse
+    slug: lucidmotors
+  - name: Fal   # generative-media inference platform, usage-based pricing; TPM roles
+    ats: ashby
+    slug: fal-ai
+  - name: Character.AI   # consumer AI agents/chat; TPM AI Infrastructure
+    ats: ashby
+    slug: character
+  - name: Gusto   # SMB payroll SaaS; AI Operations Program Manager
+    ats: greenhouse
+    slug: gusto

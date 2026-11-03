@@ -63,15 +63,15 @@ LOW_QUEUE_THRESHOLD = 4  # ~2 days of promotions left; nudge to refill before it
 # Companies known to be unwatchable via these APIs (for the watchlist report).
 NOT_WATCHABLE = [
     ("Own career site (not on these APIs)",
-     ["Google", "Waymo (Alphabet)", "Nvidia (Workday)", "Uber (custom)",
-      "Census (Breezy HR)", "Chef Robotics (Gem)", "Cognigy (custom widget)",
+     ["Google", "Nvidia (Workday)", "Uber (custom)",
+      "Census (Workable: apply.workable.com/census; no public list API checked)", "Chef Robotics (Gem)", "Cognigy (careers page references Workable; unverified)",
       "Contextual AI (custom Next.js)", "Crescendo (custom Webflow)",
       "EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)",
       "Rippling (custom Next.js — unsurprising, they build HR/ATS software themselves)"]),
     ("Migrated off / no longer served by the public API",
      ["RudderStack", "Snowplow", "Forethought", "dbt Labs", "Fireworks AI", "Aurora Innovation", "Vectara", "World Labs"]),
     ("No public Greenhouse/Lever/Ashby board found",
-     ["AI21", "Adept", "Skild AI", "Windsurf/Codeium"]),
+     ["AI21", "Adept", "Skild AI"]),  # Windsurf now = Cognition (watched); Waymo is on Greenhouse (queued)
 ]
 
 
@@ -812,6 +812,8 @@ def main():
             notify_low_queue(remaining, secrets)
 
     save_state(new_state)
+    for e in errors:  # the digest file is not kept on Actions, so without this a failed company leaves no trace in the run log
+        print("FETCH ERROR: %s" % e)
     write_digest(report, errors)
     notify_telegram(report, secrets)
 

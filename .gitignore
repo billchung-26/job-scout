@@ -19,3 +19,7 @@ recommendations/*
 !recommendations/latest.xlsx
 
 # (tracked on purpose: companies_auto.yaml, watchlist.md, watchlist.xlsx)
+
+# --- job description workflow: local only (résumé has phone/email; jobs/ is pruned after 60 days by jd.py) ---
+resume/
+jobs/

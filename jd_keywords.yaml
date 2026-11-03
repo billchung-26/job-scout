@@ -1,0 +1,72 @@
+# ATS keyword groups used by jd.py to (a) find what a job posting stresses and (b) check whether
+# your résumé already says it. Plain config on purpose: edit freely, no code change.
+#
+# Each group = one concept. `forms` are the spellings/synonyms; a trailing * is a wildcard
+# ("monetiz*" -> monetize, monetization). Matching is whole-word and case-insensitive.
+# ATS software mostly matches literal strings, so jd.py reports WHICH form the posting uses and
+# whether your résumé uses that same form ("GTM" vs "go-to-market"), not just the concept.
+#
+# Only add a term here if it is a skill/concept a recruiter would search for. Generic words
+# ("team", "work") only add noise.
+
+groups:
+  # --- product craft ---
+  - {label: "product roadmap",       forms: ["roadmap*", "product roadmap"]}
+  - {label: "product strategy",      forms: ["product strategy", "product vision", "strategy"]}
+  - {label: "requirements/PRD",      forms: ["prd", "prds", "product requirements", "user stories", "specs", "specifications"]}
+  - {label: "prioritization",        forms: ["prioritiz*", "prioritis*", "backlog"]}
+  - {label: "0-to-1 / launch",       forms: ["0 to 1", "0-to-1", "zero to one", "zero-to-one", "launch*", "from scratch"]}
+  - {label: "user research",         forms: ["user research", "customer discovery", "customer interviews", "user interviews", "voice of the customer"]}
+  - {label: "cross-functional",      forms: ["cross-functional", "cross functional", "xfn"]}
+  - {label: "stakeholders",          forms: ["stakeholder*", "executive communication", "exec-level", "c-level"]}
+  - {label: "OKRs/KPIs/metrics",     forms: ["okr", "okrs", "kpi", "kpis", "metrics", "success metrics"]}
+  - {label: "agile/scrum",           forms: ["agile", "scrum", "sprint*"]}
+  - {label: "program management",    forms: ["program management", "project management", "program manager", "delivery", "milestones", "risk management"]}
+  # --- data & experimentation ---
+  - {label: "SQL",                   forms: ["sql"]}
+  - {label: "Python",                forms: ["python"]}
+  - {label: "analytics",             forms: ["analytics", "analytical", "data analysis", "data-driven", "data driven", "insights"]}
+  - {label: "experimentation",       forms: ["a/b test*", "a/b testing", "ab test*", "experiment*", "hypothesis"]}
+  - {label: "dashboards/BI",         forms: ["dashboard*", "tableau", "looker", "power bi", "bi tools"]}
+  - {label: "funnel/growth metrics", forms: ["funnel*", "conversion", "retention", "churn", "activation", "cohort*", "engagement"]}
+  # --- pricing & monetization (your headline) ---
+  - {label: "pricing",               forms: ["pricing", "price", "rate card", "rate cards"]}
+  - {label: "packaging",             forms: ["packaging", "tiering", "tiers", "plans"]}
+  - {label: "monetization",          forms: ["monetiz*", "monetis*", "revenue model", "revenue growth"]}
+  - {label: "billing/metering",      forms: ["billing", "metering", "metered", "meter", "invoicing", "entitlement*", "overage*"]}
+  - {label: "usage-based/credits",   forms: ["usage-based", "usage based", "consumption-based", "consumption", "credits", "pay-as-you-go", "per-seat", "seat-based"]}
+  - {label: "subscription/SaaS",     forms: ["subscription*", "saas", "recurring revenue", "arr", "mrr"]}
+  - {label: "P&L/financial",         forms: ["p&l", "unit economics", "margin*", "forecast*", "business case", "revenue"]}
+  # --- AI ---
+  - {label: "AI/ML",                 forms: ["ai", "artificial intelligence", "machine learning", "ml", "deep learning"]}
+  - {label: "LLM/GenAI",             forms: ["llm", "llms", "generative ai", "genai", "gen ai", "foundation model*", "language model*"]}
+  - {label: "AI agents",             forms: ["agent", "agents", "agentic", "copilot*", "assistant*", "mcp"]}
+  - {label: "evals/prompting",       forms: ["evals", "evaluation*", "prompt*", "rag", "fine-tuning", "fine tuning", "guardrails", "hallucination*"]}
+  # --- platform / technical ---
+  - {label: "API/developer",         forms: ["api", "apis", "sdk", "sdks", "developer*", "developer experience", "integrations"]}
+  - {label: "platform",              forms: ["platform", "platforms", "infrastructure", "cloud", "distributed systems", "microservices"]}
+  - {label: "data platform/CDP",     forms: ["cdp", "customer data", "data platform", "data pipeline*", "real-time", "streaming", "identity resolution", "segmentation", "personalization", "data warehouse"]}
+  - {label: "security/compliance",   forms: ["security", "compliance", "privacy", "gdpr", "soc 2", "soc2", "governance", "trust"]}
+  - {label: "scalability/reliability", forms: ["scalab*", "reliability", "observability", "latency", "throughput", "migration*"]}
+  # --- business / GTM ---
+  - {label: "B2B/enterprise",        forms: ["b2b", "enterprise", "enterprise customers", "mid-market", "smb"]}
+  - {label: "go-to-market",          forms: ["go-to-market", "go to market", "gtm", "product marketing", "pmm", "positioning", "messaging"]}
+  - {label: "PLG/self-serve",        forms: ["plg", "product-led", "product led", "self-serve", "self serve", "free trial", "freemium", "onboarding"]}
+  - {label: "sales/customer-facing", forms: ["sales", "sales enablement", "customer success", "customer-facing", "account executive*", "field"]}
+  - {label: "partnerships",          forms: ["partner*", "ecosystem", "marketplace*", "channel"]}
+  - {label: "competitive/market",    forms: ["competitive", "market analysis", "market sizing", "market research", "competitor*"]}
+  - {label: "customer-centric",      forms: ["customer-centric", "customer obsession", "customer focused", "customer-focused", "customer empathy"]}
+  # --- how you work ---
+  - {label: "leadership/influence",  forms: ["leadership", "influence", "influencing", "mentor*", "ownership", "own the", "end-to-end", "autonomy"]}
+  - {label: "ambiguity",             forms: ["ambigu*", "fast-paced", "fast paced", "startup", "scrappy"]}
+  - {label: "communication",         forms: ["communicat*", "storytelling", "presentation*", "written communication", "collaborat*"]}
+  # --- tools ---
+  - {label: "Jira/Confluence",       forms: ["jira", "confluence", "asana"]}
+  - {label: "Figma/design",          forms: ["figma", "prototyp*", "wireframe*", "ux", "design systems"]}
+  - {label: "product analytics tools", forms: ["amplitude", "mixpanel", "heap", "pendo", "google analytics", "statsig"]}
+  - {label: "CRM/sales tools",       forms: ["salesforce", "hubspot", "gong", "outreach"]}
+  - {label: "data tools",            forms: ["snowflake", "databricks", "bigquery", "dbt", "airflow", "spark", "kafka"]}
+
+# Capitalised tokens / acronyms found in a posting but not covered above are listed as "other terms".
+# These are never reported (company boilerplate, legal, generic).
+ignore_terms: ["eeo", "eeoc", "usa", "us", "u.s", "ok", "ca", "ny", "nyc", "sf", "hr", "ceo", "cto", "cfo", "vp", "pdf", "faq", "i", "we", "you", "our", "the", "a", "and"]
