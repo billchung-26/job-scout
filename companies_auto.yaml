@@ -364,3 +364,9 @@ companies:
 - name: Scale AI
   ats: greenhouse
   slug: scaleai
+- name: Brex
+  ats: greenhouse
+  slug: brex
+- name: Plaid
+  ats: ashby
+  slug: plaid
