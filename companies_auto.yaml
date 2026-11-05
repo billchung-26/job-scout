@@ -370,3 +370,9 @@ companies:
 - name: Plaid
   ats: ashby
   slug: plaid
+- name: Lovable
+  ats: ashby
+  slug: lovable
+- name: Cerebras
+  ats: ashby
+  slug: cerebras
