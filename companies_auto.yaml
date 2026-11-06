@@ -376,3 +376,9 @@ companies:
 - name: Cerebras
   ats: ashby
   slug: cerebras
+- name: Gainsight
+  ats: ashby
+  slug: gainsight
+- name: Drata
+  ats: ashby
+  slug: drata

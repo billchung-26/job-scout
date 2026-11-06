@@ -1,11 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Gainsight
-  ats: ashby
-  slug: gainsight
-- name: Drata
-  ats: ashby
-  slug: drata
 - name: Chime
   ats: greenhouse
   slug: chime
