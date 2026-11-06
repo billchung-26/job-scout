@@ -159,3 +159,10 @@ applied:
   - {company: Waymo,   role: "Product Manager, Network Flows Optimization",  url: "https://careers.withwaymo.com/jobs?gh_jid=8245284"}
   # --- Tier 29 (applied 2026-11-05) ---
   - {company: Cloudflare, role: "Senior Product Manager, Signals & Data Products", url: "https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425"}
+  # --- applied 2026-11-06 (mark_applied.py) ---
+  - {company: Vanta, role: "Senior Product Manager, Organizational Units", url: "https://jobs.ashbyhq.com/vanta/82dd0fed-120e-4983-a1ae-676ae355cea8"}
+  - {company: Vanta, role: "Senior Product Manager, GRC Platform", url: "https://jobs.ashbyhq.com/vanta/7816b5fe-e916-43b8-9200-d0d45298ba9f"}
+  - {company: Datadog, role: "Staff Product Manager, Metering and Attribution", url: "https://careers.datadoghq.com/detail/8337954/?gh_jid=8337954"}
+  - {company: Datadog, role: "Senior Product Manager - Bits Agent Builder", url: "https://careers.datadoghq.com/detail/8092004/?gh_jid=8092004"}
+  - {company: Harness, role: "Senior/Staff Product Manager, Continuous Delivery", url: "https://www.harness.io/company/jobs/apply?gh_jid=5233068007&gh_jid=5233068007"}
+  - {company: Ambience, role: "Senior Product Manager", url: "https://jobs.ashbyhq.com/ambiencehealthcare/ba2f7e00-3d1f-4c77-b60e-b2b45312c417"}
