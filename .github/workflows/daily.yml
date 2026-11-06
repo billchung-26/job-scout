@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# Serialises with mark-applied.yml (both commit to main).
+concurrency:
+  group: job-scout-main
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest

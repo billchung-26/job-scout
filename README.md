@@ -31,6 +31,7 @@ authorize.
 | `jibe.py` | Fetcher for iCIMS Jibe career sites (`ats: jibe`, slug = hostname + optional API params) |
 | `apple.py` | Fetcher for jobs.apple.com (undocumented JSON API; full US pull ~8 min, then full descriptions only for title matches) |
 | `jd.py` (+ `jd_fetch.py`, `jd_parse.py`, `jd_keywords.yaml`) | On-demand job brief: full description, requirements, ATS keywords and résumé gap check for roles you pick. Local output in `jobs/` (git-ignored). `python3 jd.py -h` |
+| `mark_applied.py` | Append roles to `applied.yaml` from a `Company: title words` spec (also run by the `mark-applied.yml` workflow) |
 | `fit.py` | Fit scoring v2: role family + seniority + résumé themes in title *and* job description. Weights live in `conditions.yaml` |
 | `gdrive_sync.py` + `gdrive.yaml` | Daily step in `daily.yml`: overwrites a fixed Google Sheet in Drive > Career with `latest.csv`. Needs secret `GDRIVE_SA_JSON` |
 | `secrets.example.yaml` | Template — copy to `secrets.yaml` and fill in (git-ignored) |
@@ -61,3 +62,12 @@ arrive without you doing anything.
 - Some companies (Google, Waymo, and others on Workday/custom systems) don't
   expose a public board and can't be watched this way — `watchlist.md` lists them.
 - `secrets.yaml`, runtime state, and generated reports are git-ignored.
+
+### Marking roles as applied from another device or session
+
+`applied.yaml` in GitHub is the source of truth; the daily run regenerates the list and the Drive sheet from it.
+- **GitHub app/website, no Claude needed:** Actions -> "Mark roles as applied" -> Run workflow -> type
+  `Cloudflare: Signals & Data Products; Hebbia: Product Manager`. It commits `applied.yaml` and starts the daily run.
+- **Any machine with a checkout:** `python3 mark_applied.py "Company: words of the title" --push`
+  (needs `git pull` first so `recommendations/latest.csv` is current).
+A spec must match exactly one role in `latest.csv`, otherwise nothing is written and the candidates are listed.

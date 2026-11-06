@@ -1,0 +1,55 @@
+name: Mark roles as applied
+
+# Run from the GitHub app/website (Actions -> "Mark roles as applied" -> Run workflow) on any device.
+# Input: roles separated by ";", each as  Company: words of the title
+#   e.g.  Cloudflare: Signals & Data Products; Hebbia: Product Manager
+on:
+  workflow_dispatch:
+    inputs:
+      roles:
+        description: 'Roles, separated by ";"  (Company: words of the title)'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  actions: write   # to start the daily run afterwards (workflow_dispatch is allowed with GITHUB_TOKEN)
+
+# Same group as daily.yml: both commit to main, so they must not run at the same time.
+concurrency:
+  group: job-scout-main
+  cancel-in-progress: false
+
+jobs:
+  mark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - run: pip install pyyaml
+
+      - name: Mark as applied
+        env:
+          # Passed through the environment, never spliced into the shell command: the input is free text
+          # typed by a person, and ${{ }} inside `run:` would let it inject shell.
+          ROLES: ${{ inputs.roles }}
+        run: python3 mark_applied.py --env ROLES
+
+      - name: Commit and push applied.yaml
+        run: |
+          git config user.name "job-scout-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet applied.yaml; then echo "Nothing new to commit."; exit 0; fi
+          git add applied.yaml
+          git commit -m "Mark roles as applied (via workflow): ${GITHUB_RUN_ID}"
+          git pull --rebase -q
+          git push
+
+      - name: Start the daily run so the list and the Drive sheet update now
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run daily.yml --ref "${GITHUB_REF_NAME}"
