@@ -166,3 +166,11 @@ applied:
   - {company: Datadog, role: "Senior Product Manager - Bits Agent Builder", url: "https://careers.datadoghq.com/detail/8092004/?gh_jid=8092004"}
   - {company: Harness, role: "Senior/Staff Product Manager, Continuous Delivery", url: "https://www.harness.io/company/jobs/apply?gh_jid=5233068007&gh_jid=5233068007"}
   - {company: Ambience, role: "Senior Product Manager", url: "https://jobs.ashbyhq.com/ambiencehealthcare/ba2f7e00-3d1f-4c77-b60e-b2b45312c417"}
+  # --- applied 2026-11-07 (mark_applied.py) ---
+  - {company: Gainsight, role: "AI Product Manager", url: "https://jobs.ashbyhq.com/gainsight/c575ed9d-9fa8-4ccd-b948-3f12925bfe38"}
+  - {company: Customer.io, role: "Senior Product Manager, Workflows", url: "https://job-boards.greenhouse.io/customerio/jobs/8357735"}
+  - {company: Lambda, role: "Staff Product Manager - Observability", url: "https://jobs.ashbyhq.com/Lambda/cb7fe04b-0c99-4dbc-afa6-4a05a9c8cac1"}
+  - {company: Commure, role: "Senior/Staff Product Manager, Ambient", url: "https://jobs.ashbyhq.com/Commure/16bcd9c8-87ea-456b-b371-e61b79ec916f"}
+  - {company: Sierra, role: "GTM Operations, Pricing", url: "https://jobs.ashbyhq.com/Sierra/39e15cc4-a16e-4ddb-b609-a345e2dd67c8"}
+  - {company: Thinking Machines Lab, role: "Product Manager", url: "https://jobs.ashbyhq.com/ThinkingMachines/079f3334-43ae-4ee7-9671-1dbad75dd8df"}
+  - {company: Drata, role: "Senior Product Manager 2, Assurance", url: "https://jobs.ashbyhq.com/drata/cf5e1a06-8720-4e5c-93c6-5494c39c862c"}

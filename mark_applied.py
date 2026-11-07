@@ -18,6 +18,7 @@ Row identity: latest.csv shows ONE url per collapsed multi-location role; markin
 import csv
 import datetime
 import os
+import re
 import subprocess
 import sys
 
@@ -41,7 +42,15 @@ def _resolve(spec, rows):
     cl, ws = company.lower(), words.lower().split()
     exact = [r for r in rows if r["Company"].lower() == cl]
     pool = exact or [r for r in rows if cl in r["Company"].lower()]
-    hit = [r for r in pool if all(w in " ".join(r["Role"].split()).lower() for w in ws)]
+    norm = lambda t: " ".join(t.lower().split())
+    # 1) a row whose whole title equals what was typed wins ("Product Manager" must not also match "Research Product Manager")
+    exact = [r for r in pool if norm(r["Role"]) == norm(words)]
+    if len(exact) == 1:
+        return exact[0]
+    # 2) otherwise every typed word must appear as a WHOLE word ("ai" must not match inside "Staircase")
+    def has(title, w):
+        return re.search(r"(?<!\w)" + re.escape(w) + r"(?!\w)", title) is not None
+    hit = [r for r in pool if all(has(norm(r["Role"]), w) for w in ws)]
     if len(hit) == 1:
         return hit[0]
     if not pool:
