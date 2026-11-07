@@ -82,7 +82,7 @@ def main():
     lines, done = [], []
     for r, spec in picked:
         label = "%s: %s" % (r["Company"], r["Role"].strip())
-        if r["URL"] in text:        # applied.yaml is URL-keyed; a substring test is exact enough for full URLs
+        if r["URL"].lower() in text.lower():        # applied.yaml is URL-keyed; a substring test is exact enough for full URLs
             print("already applied: %s" % label)
             continue
         role = r["Role"].strip().replace('"', "'")

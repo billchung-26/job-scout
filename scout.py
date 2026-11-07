@@ -532,7 +532,10 @@ def _write_companies_xlsx(stats):
 # ---------------------------------------------------------------- recommendations
 
 def load_applied():
-    """Return a set of applied job URLs (hidden from recommendations)."""
+    """Return a set of applied job URLs, LOWER-CASED (hidden from recommendations).
+    Lower-cased because Ashby changed `jobs.ashbyhq.com/lorikeet/...` to `/Lorikeet/...` (2026-11): the
+    posting id is the same, but an exact string match silently un-applied 6 roles. Ids are lower-case
+    UUIDs / digits, so ignoring case cannot merge two different postings."""
     if not os.path.exists(APPLIED_FILE):
         return set()
     with open(APPLIED_FILE) as f:
@@ -540,9 +543,9 @@ def load_applied():
     keys = set()
     for item in (d.get("applied") or []):
         if isinstance(item, dict) and item.get("url"):
-            keys.add(item["url"].strip())
+            keys.add(item["url"].strip().lower())
         elif isinstance(item, str):
-            keys.add(item.strip())
+            keys.add(item.strip().lower())
     return keys
 
 
@@ -574,7 +577,7 @@ def update_recommendations(all_matching, failed_companies=()):
             age = (today - datetime.strptime(first_seen, "%Y-%m-%d").date()).days
         except Exception:  # noqa
             age = 0
-        is_applied = key in applied or (j.get("url", "").strip() in applied)
+        is_applied = key.lower() in applied or (j.get("url", "").strip().lower() in applied)
         if is_applied:
             n_applied += 1
         elif age > SUNSET_DAYS:                    # sunset only un-applied stale roles

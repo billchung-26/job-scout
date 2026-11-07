@@ -174,3 +174,7 @@ applied:
   - {company: Sierra, role: "GTM Operations, Pricing", url: "https://jobs.ashbyhq.com/Sierra/39e15cc4-a16e-4ddb-b609-a345e2dd67c8"}
   - {company: Thinking Machines Lab, role: "Product Manager", url: "https://jobs.ashbyhq.com/ThinkingMachines/079f3334-43ae-4ee7-9671-1dbad75dd8df"}
   - {company: Drata, role: "Senior Product Manager 2, Assurance", url: "https://jobs.ashbyhq.com/drata/cf5e1a06-8720-4e5c-93c6-5494c39c862c"}
+  # --- applied 2026-11-07 (mark_applied.py) ---
+  - {company: Serve Robotics, role: "Senior Product Manager, Operations & Commercialization", url: "https://jobs.ashbyhq.com/serverobotics/d7cccd44-efa1-442b-8297-66e9a952ff87"}
+  - {company: Perplexity, role: "Product Manager, SMB Growth", url: "https://jobs.ashbyhq.com/Perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13"}
+  - {company: Sierra, role: "Product Manager, Agent Development - Public Sector", url: "https://jobs.ashbyhq.com/Sierra/cb841dfe-5d21-44ae-8496-fca6b5587ae6"}
