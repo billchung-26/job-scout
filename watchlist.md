@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-11-07 20:15. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-11-07 21:09. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (165 companies)
 
@@ -54,7 +54,7 @@ _Auto-generated 2026-11-07 20:15. Watched via the public Greenhouse / Lever / As
 | Crusoe | auto | ashby | 19 / 323 |
 | Cursor (Anysphere) | auto | ashby | 4 / 121 |
 | Customer.io | auto | greenhouse | 3 / 23 |
-| Databricks | curated | greenhouse | 41 / 923 |
+| Databricks | curated | greenhouse | 41 / 922 |
 | Datadog | auto | greenhouse | 34 / 400 |
 | Decagon | curated | ashby | 12 / 131 |
 | Deepgram | auto | ashby | 9 / 68 |
@@ -185,7 +185,7 @@ _Auto-generated 2026-11-07 20:15. Watched via the public Greenhouse / Lever / As
 
 ## ❌ Not watchable by this tool
 
-**Own career site (not on these APIs):** Google, Nvidia (Workday), Uber (custom), Census (Workable: apply.workable.com/census; no public list API checked), Chef Robotics (Gem), Cognigy (careers page references Workable; unverified), Contextual AI (custom Next.js), Crescendo (custom Webflow), EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw), Rippling (custom Next.js — unsurprising, they build HR/ATS software themselves)
+**Own career site (not on these APIs):** Google, Nvidia (Workday), Census (Workable: apply.workable.com/census; no public list API checked), Chef Robotics (Gem), Cognigy (careers page references Workable; unverified), Contextual AI (custom Next.js), Crescendo (custom Webflow), EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw), Rippling (custom Next.js — unsurprising, they build HR/ATS software themselves)
 
 **Migrated off / no longer served by the public API:** RudderStack, Snowplow, Forethought, dbt Labs, Fireworks AI, Aurora Innovation, Vectara, World Labs
 
