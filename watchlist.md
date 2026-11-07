@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-11-07 19:20. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-11-07 20:15. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (165 companies)
 
@@ -19,7 +19,7 @@ _Auto-generated 2026-11-07 19:20. Watched via the public Greenhouse / Lever / As
 | Antora Energy | auto | greenhouse | 2 / 41 |
 | Anyscale | auto | ashby | 1 / 24 |
 | Apple | curated | apple | 257 / 3460 |
-| Applied Intuition | curated | ashby | 0 / 323 |
+| Applied Intuition | curated | ashby | 0 / 322 |
 | Archer Aviation | auto | greenhouse | 0 / 1 |
 | Arize | auto | greenhouse | 3 / 27 |
 | Attio | auto | ashby | 0 / 24 |
@@ -36,7 +36,7 @@ _Auto-generated 2026-11-07 19:20. Watched via the public Greenhouse / Lever / As
 | Cavnue | auto | greenhouse | 0 / 0 |
 | Cerebras | auto | ashby | 0 / 121 |
 | Character.AI | auto | ashby | 0 / 13 |
-| Chime | auto (new today) | greenhouse | 6 / 72 |
+| Chime | auto | greenhouse | 6 / 72 |
 | Clarify | auto | ashby | 2 / 5 |
 | Clay | curated | ashby | 9 / 64 |
 | ClickHouse | auto | ashby | 13 / 201 |
@@ -54,7 +54,7 @@ _Auto-generated 2026-11-07 19:20. Watched via the public Greenhouse / Lever / As
 | Crusoe | auto | ashby | 19 / 323 |
 | Cursor (Anysphere) | auto | ashby | 4 / 121 |
 | Customer.io | auto | greenhouse | 3 / 23 |
-| Databricks | curated | greenhouse | 41 / 924 |
+| Databricks | curated | greenhouse | 41 / 923 |
 | Datadog | auto | greenhouse | 34 / 400 |
 | Decagon | curated | ashby | 12 / 131 |
 | Deepgram | auto | ashby | 9 / 68 |
@@ -95,7 +95,7 @@ _Auto-generated 2026-11-07 19:20. Watched via the public Greenhouse / Lever / As
 | Klaviyo | auto | greenhouse | 16 / 152 |
 | Kodiak Robotics | auto | greenhouse | 3 / 56 |
 | Lambda | auto | ashby | 10 / 97 |
-| LangChain | auto | ashby | 3 / 99 |
+| LangChain | auto | ashby | 3 / 100 |
 | LaunchDarkly | auto | greenhouse | 2 / 44 |
 | Level AI | auto | lever | 1 / 19 |
 | Linear | auto | ashby | 0 / 32 |
@@ -108,7 +108,7 @@ _Auto-generated 2026-11-07 19:20. Watched via the public Greenhouse / Lever / As
 | Mercor | auto | ashby | 7 / 90 |
 | Mixpanel | auto | greenhouse | 10 / 44 |
 | Modal | auto | ashby | 4 / 44 |
-| MongoDB | auto (new today) | greenhouse | 18 / 375 |
+| MongoDB | auto | greenhouse | 18 / 375 |
 | MotherDuck | auto | ashby | 1 / 7 |
 | Motional | auto | greenhouse | 4 / 78 |
 | n8n | auto | ashby | 0 / 48 |
@@ -143,7 +143,7 @@ _Auto-generated 2026-11-07 19:20. Watched via the public Greenhouse / Lever / As
 | Sigma Computing | auto | greenhouse | 15 / 79 |
 | Simon Data | auto | ashby | 0 / 2 |
 | Sixfold | auto | greenhouse | 0 / 3 |
-| Snowflake | curated | ashby | 25 / 371 |
+| Snowflake | curated | ashby | 26 / 372 |
 | Sourcegraph | curated | greenhouse | 1 / 7 |
 | Span | auto | ashby | 2 / 27 |
 | Stigg | auto | ashby | 0 / 5 |
