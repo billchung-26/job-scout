@@ -171,6 +171,11 @@ companies:
     ats: apple
     slug: "postLocation-USA"
 
+  # ---- Added 2026-11-07 ----
+  - name: Uber               # mobility; undocumented jobs.uber.com JSON API (see uber.py), 9 calls for ~830 jobs
+    ats: uber
+    slug: "jobs.uber.com"
+
 # ============================================================
 #  NOT watchable by this tool (they don't use Greenhouse/Lever/Ashby):
 #  see NOT_WATCHABLE in scout.py / the "Not watchable" section of watchlist.md

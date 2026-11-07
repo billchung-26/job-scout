@@ -40,6 +40,7 @@ import fit  # fit scoring v2 (kept out of this file: scout.py is already >700 li
 import jibe  # iCIMS Jibe career-site fetcher (AMD); same reason
 import jd_parse  # keyword column for the recommendation sheet
 import apple  # jobs.apple.com (undocumented JSON API); same reason
+import uber  # jobs.uber.com (undocumented JSON API); same reason
 
 try:
     import certifi
@@ -64,7 +65,7 @@ LOW_QUEUE_THRESHOLD = 4  # ~2 days of promotions left; nudge to refill before it
 # Companies known to be unwatchable via these APIs (for the watchlist report).
 NOT_WATCHABLE = [
     ("Own career site (not on these APIs)",
-     ["Google", "Nvidia (Workday)", "Uber (custom)",
+     ["Google", "Nvidia (Workday)",
       "Census (Workable: apply.workable.com/census; no public list API checked)", "Chef Robotics (Gem)", "Cognigy (careers page references Workable; unverified)",
       "Contextual AI (custom Next.js)", "Crescendo (custom Webflow)",
       "EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)",
@@ -148,7 +149,7 @@ def fetch_ashby(slug):
     } for j in data.get("jobs", [])]
 
 
-FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "jibe": jibe.fetch, "apple": apple.fetch}
+FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "jibe": jibe.fetch, "apple": apple.fetch, "uber": uber.fetch}
 
 
 def careers_url(ats, slug):
@@ -157,6 +158,7 @@ def careers_url(ats, slug):
         "ashby": "https://jobs.ashbyhq.com/%s" % slug,
         "lever": "https://jobs.lever.co/%s" % slug,
         "apple": "https://jobs.apple.com/en-us/search",
+        "uber": "https://jobs.uber.com/en/jobs/",
         "jibe": "https://%s/careers-home" % slug.split("?")[0],  # slug may carry API params after "?"
     }.get(ats, "")
 

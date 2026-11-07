@@ -32,6 +32,7 @@ authorize.
 | `apple.py` | Fetcher for jobs.apple.com (undocumented JSON API; full US pull ~8 min, then full descriptions only for title matches) |
 | `jd.py` (+ `jd_fetch.py`, `jd_parse.py`, `jd_keywords.yaml`) | On-demand job brief: full description, requirements, ATS keywords and résumé gap check for roles you pick. Local output in `jobs/` (git-ignored). `python3 jd.py -h` |
 | `mark_applied.py` | Append roles to `applied.yaml` from a `Company: title words` spec (also run by the `mark-applied.yml` workflow) |
+| `uber.py` | Fetcher for jobs.uber.com (undocumented JSON API, ~830 jobs in 9 calls) |
 | `fit.py` | Fit scoring v2: role family + seniority + résumé themes in title *and* job description. Weights live in `conditions.yaml` |
 | `gdrive_sync.py` + `gdrive.yaml` | Daily step in `daily.yml`: overwrites a fixed Google Sheet in Drive > Career with `latest.csv`. Needs secret `GDRIVE_SA_JSON` |
 | `secrets.example.yaml` | Template — copy to `secrets.yaml` and fill in (git-ignored) |

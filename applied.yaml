@@ -178,3 +178,9 @@ applied:
   - {company: Serve Robotics, role: "Senior Product Manager, Operations & Commercialization", url: "https://jobs.ashbyhq.com/serverobotics/d7cccd44-efa1-442b-8297-66e9a952ff87"}
   - {company: Perplexity, role: "Product Manager, SMB Growth", url: "https://jobs.ashbyhq.com/Perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13"}
   - {company: Sierra, role: "Product Manager, Agent Development - Public Sector", url: "https://jobs.ashbyhq.com/Sierra/cb841dfe-5d21-44ae-8496-fca6b5587ae6"}
+  # --- applied 2026-11-07 (mark_applied.py) ---
+  - {company: MongoDB, role: "Senior Product Manager, Order to Cash", url: "https://www.mongodb.com/careers/job/?gh_jid=8082623"}
+  - {company: Harvey, role: "Senior Product Manager, Admin", url: "https://jobs.ashbyhq.com/harvey/7a3b9337-ac67-4255-8db5-08bb3d57541e"}
+  - {company: Lyft, role: "Senior Technical Program Manager, Central", url: "https://app.careerpuck.com/job-board/lyft/job/8921735002?gh_jid=8921735002"}
+  - {company: Hebbia, role: "Forward Deployed Product Manager", url: "https://jobs.ashbyhq.com/hebbia-ai/1485877b-157a-4a61-98b7-8701fca03380"}
+  - {company: Snowflake, role: "Senior Product Manager – Agent Marketplace", url: "https://jobs.ashbyhq.com/snowflake/3c565761-4ce8-40f4-a346-1997b117afbc"}
