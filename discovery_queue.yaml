@@ -1,11 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Chime
-  ats: greenhouse
-  slug: chime
-- name: MongoDB
-  ats: greenhouse
-  slug: mongodb
 - name: Okta
   ats: greenhouse
   slug: okta
