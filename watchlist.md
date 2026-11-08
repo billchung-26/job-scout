@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-11-08 19:28. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-11-08 20:26. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (167 companies)
 
@@ -24,7 +24,7 @@ _Auto-generated 2026-11-08 19:28. Watched via the public Greenhouse / Lever / As
 | Arize | auto | greenhouse | 3 / 27 |
 | Attio | auto | ashby | 0 / 24 |
 | Augment | curated | greenhouse | 0 / 0 |
-| Base Power | auto | ashby | 3 / 199 |
+| Base Power | auto | ashby | 3 / 201 |
 | Baseten | auto | ashby | 9 / 102 |
 | Bland | curated | ashby | 2 / 16 |
 | Bloomreach | curated | greenhouse | 1 / 69 |
