@@ -388,3 +388,9 @@ companies:
 - name: MongoDB
   ats: greenhouse
   slug: mongodb
+- name: Okta
+  ats: greenhouse
+  slug: okta
+- name: Samsara
+  ats: greenhouse
+  slug: samsara

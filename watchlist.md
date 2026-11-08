@@ -1,8 +1,8 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-11-07 21:09. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-11-08 03:13. Watched via the public Greenhouse / Lever / Ashby APIs._
 
-## ✅ Watching (165 companies)
+## ✅ Watching (167 companies)
 
 | Company | Source | Platform | Matches / Total |
 |---|---|---|---|
@@ -18,7 +18,7 @@ _Auto-generated 2026-11-07 21:09. Watched via the public Greenhouse / Lever / As
 | Anthropic | curated | greenhouse | 62 / 675 |
 | Antora Energy | auto | greenhouse | 2 / 41 |
 | Anyscale | auto | ashby | 1 / 24 |
-| Apple | curated | apple | 257 / 3460 |
+| Apple | curated | apple | 256 / 3459 |
 | Applied Intuition | curated | ashby | 0 / 322 |
 | Archer Aviation | auto | greenhouse | 0 / 1 |
 | Arize | auto | greenhouse | 3 / 27 |
@@ -55,7 +55,7 @@ _Auto-generated 2026-11-07 21:09. Watched via the public Greenhouse / Lever / As
 | Cursor (Anysphere) | auto | ashby | 4 / 121 |
 | Customer.io | auto | greenhouse | 3 / 23 |
 | Databricks | curated | greenhouse | 41 / 922 |
-| Datadog | auto | greenhouse | 34 / 400 |
+| Datadog | auto | greenhouse | 34 / 401 |
 | Decagon | curated | ashby | 12 / 131 |
 | Deepgram | auto | ashby | 9 / 68 |
 | Deepnote | auto | ashby | 0 / 3 |
@@ -108,7 +108,7 @@ _Auto-generated 2026-11-07 21:09. Watched via the public Greenhouse / Lever / As
 | Mercor | auto | ashby | 7 / 90 |
 | Mixpanel | auto | greenhouse | 10 / 44 |
 | Modal | auto | ashby | 4 / 44 |
-| MongoDB | auto | greenhouse | 18 / 375 |
+| MongoDB | auto | greenhouse | 18 / 374 |
 | MotherDuck | auto | ashby | 1 / 7 |
 | Motional | auto | greenhouse | 4 / 78 |
 | n8n | auto | ashby | 0 / 48 |
@@ -116,8 +116,9 @@ _Auto-generated 2026-11-07 21:09. Watched via the public Greenhouse / Lever / As
 | Notion | auto | ashby | 13 / 154 |
 | Nuro | curated | greenhouse | 9 / 94 |
 | Observe.AI | auto | greenhouse | 1 / 12 |
+| Okta | auto (new today) | greenhouse | 19 / 375 |
 | Omni | auto | ashby | 2 / 34 |
-| OpenAI | curated | ashby | 64 / 819 |
+| OpenAI | curated | ashby | 64 / 818 |
 | OpenEvidence | auto | ashby | 0 / 8 |
 | OpenRouter | auto | ashby | 4 / 29 |
 | Orb | auto | ashby | 0 / 0 |
@@ -129,7 +130,7 @@ _Auto-generated 2026-11-07 21:09. Watched via the public Greenhouse / Lever / As
 | PostHog | auto | ashby | 4 / 10 |
 | Pryon | auto | lever | 0 / 3 |
 | Qventus | auto | greenhouse | 3 / 18 |
-| Ramp | auto | ashby | 9 / 171 |
+| Ramp | auto | ashby | 9 / 169 |
 | Reducto | auto | ashby | 5 / 36 |
 | Redwood Materials | auto | greenhouse | 2 / 126 |
 | Regal | curated | lever | 2 / 11 |
@@ -137,6 +138,7 @@ _Auto-generated 2026-11-07 21:09. Watched via the public Greenhouse / Lever / As
 | Render | auto | ashby | 5 / 35 |
 | Replit | auto | ashby | 0 / 28 |
 | Rime | auto | ashby | 0 / 3 |
+| Samsara | auto (new today) | greenhouse | 37 / 316 |
 | Scale AI | auto | greenhouse | 10 / 168 |
 | Serve Robotics | auto | ashby | 1 / 27 |
 | Sierra | curated | ashby | 12 / 217 |
@@ -165,17 +167,15 @@ _Auto-generated 2026-11-07 21:09. Watched via the public Greenhouse / Lever / As
 | Verkor | auto | lever | 0 / 39 |
 | Waabi | auto | lever | 5 / 88 |
 | Watershed | auto | ashby | 5 / 39 |
-| Waymo | auto | greenhouse | 24 / 370 |
+| Waymo | auto | greenhouse | 25 / 371 |
 | Wayve | auto | ashby | 5 / 173 |
 | Writer | curated | ashby | 1 / 48 |
 | xAI | curated | greenhouse | 3 / 303 |
 | Zapier | auto | ashby | 0 / 10 |
 | Zoox | curated | lever | 27 / 241 |
 
-## ⏳ In discovery backlog — 8 left (~2 added/day)
+## ⏳ In discovery backlog — 6 left (~2 added/day)
 
-- Okta — 
-- Samsara — 
 - Verkada — 
 - Fervo — 
 - Lucid — 
