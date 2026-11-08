@@ -184,3 +184,6 @@ applied:
   - {company: Lyft, role: "Senior Technical Program Manager, Central", url: "https://app.careerpuck.com/job-board/lyft/job/8921735002?gh_jid=8921735002"}
   - {company: Hebbia, role: "Forward Deployed Product Manager", url: "https://jobs.ashbyhq.com/hebbia-ai/1485877b-157a-4a61-98b7-8701fca03380"}
   - {company: Snowflake, role: "Senior Product Manager – Agent Marketplace", url: "https://jobs.ashbyhq.com/snowflake/3c565761-4ce8-40f4-a346-1997b117afbc"}
+  # --- applied 2026-11-08 (mark_applied.py) ---
+  - {company: Apple, role: "Product Lead, Platform & Monetization, Apple Maps", url: "https://jobs.apple.com/en-us/details/200689514/product-lead-platform-monetization-apple-maps"}
+  - {company: Apple, role: "Pricing Product Manager", url: "https://jobs.apple.com/en-us/details/200679672/pricing-product-manager"}
