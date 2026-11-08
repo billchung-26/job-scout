@@ -37,7 +37,23 @@ def _split(spec):
     sys.exit("'%s': write it as  Company: words of the title  (e.g. 'Cloudflare: Signals & Data Products')." % spec)
 
 
+def _resolve_url(url, rows):
+    """A pasted link -> the list row with the same job id (uuid / gh_jid / numeric id), or a stand-in row.
+    Matching by id, not by string, because the list may hold a different spelling of the same posting
+    (brex.com/careers/ID?gh_jid=ID vs job-boards.greenhouse.io/brex/jobs/ID; Ashby slug case)."""
+    ids = re.findall(r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}|\d{6,}", url.lower())
+    hit = [r for r in rows if any(i in r["URL"].lower() for i in ids)] if ids else []
+    if len(hit) == 1:
+        return hit[0]
+    host = re.sub(r"^https?://(www\.)?", "", url).split("/")[0]
+    if hit:
+        sys.exit("'%s' matches %d rows in latest.csv; mark them by 'Company: title' instead." % (url, len(hit)))
+    return {"Company": host, "Role": "(not in the current list)", "URL": url}
+
+
 def _resolve(spec, rows):
+    if spec.lower().startswith("http"):
+        return _resolve_url(spec, rows)
     company, words = _split(spec)
     cl, ws = company.lower(), words.lower().split()
     exact = [r for r in rows if r["Company"].lower() == cl]

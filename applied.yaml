@@ -187,3 +187,12 @@ applied:
   # --- applied 2026-11-08 (mark_applied.py) ---
   - {company: Apple, role: "Product Lead, Platform & Monetization, Apple Maps", url: "https://jobs.apple.com/en-us/details/200689514/product-lead-platform-monetization-apple-maps"}
   - {company: Apple, role: "Pricing Product Manager", url: "https://jobs.apple.com/en-us/details/200679672/pricing-product-manager"}
+  # --- applied 2026-11-08 (mark_applied.py) ---
+  - {company: Writer, role: "Lead product manager", url: "https://jobs.ashbyhq.com/WRITER/ad6bd836-3049-4238-886d-2a5485244ae4"}
+  - {company: PostHog, role: "Product Manager, Observability (ex-founder or ex-product engineer)", url: "https://jobs.ashbyhq.com/PostHog/3c592b84-8b34-4ae4-ae23-cadce8f2212d"}
+  - {company: Plaid, role: "Product Manager - Agent Trust", url: "https://jobs.ashbyhq.com/plaid/39168403-8a4d-47eb-b601-67f7f84a7439"}
+  - {company: Databricks, role: "Sr. Technical Program Manager, FDE", url: "https://databricks.com/company/careers/open-positions/job?gh_jid=8927394002"}
+  - {company: Zoox, role: "Senior/Staff Technical Program Manager - Process and Tools", url: "https://jobs.lever.co/zoox/a5483274-c09e-4338-b2e4-cf0b373655d1"}
+  - {company: Brex, role: "(title not captured: Brex was not on the watchlist when marked)", url: "https://www.brex.com/careers/8780827002?gh_jid=8780827002"}
+  - {company: Brex, role: "(title not captured: Brex was not on the watchlist when marked)", url: "https://www.brex.com/careers/8659251002?gh_jid=8659251002"}
+  - {company: Datadog, role: "Senior Product Manager, Chat, Video, and Collaboration Integrations", url: "https://careers.datadoghq.com/detail/8335047/?gh_jid=8335047"}
