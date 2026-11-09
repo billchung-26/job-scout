@@ -394,3 +394,9 @@ companies:
 - name: Samsara
   ats: greenhouse
   slug: samsara
+- name: Verkada
+  ats: greenhouse
+  slug: verkada
+- name: Fervo
+  ats: greenhouse
+  slug: fervoenergy

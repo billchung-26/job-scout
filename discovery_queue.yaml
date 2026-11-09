@@ -1,11 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Verkada
-  ats: greenhouse
-  slug: verkada
-- name: Fervo
-  ats: greenhouse
-  slug: fervoenergy
 - name: Lucid
   ats: greenhouse
   slug: lucidmotors
