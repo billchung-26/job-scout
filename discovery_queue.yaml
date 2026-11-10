@@ -1,11 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Lucid
-  ats: greenhouse
-  slug: lucidmotors
-- name: Fal
-  ats: ashby
-  slug: fal-ai
 - name: Character.AI
   ats: ashby
   slug: character

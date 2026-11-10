@@ -400,3 +400,9 @@ companies:
 - name: Fervo
   ats: greenhouse
   slug: fervoenergy
+- name: Lucid
+  ats: greenhouse
+  slug: lucidmotors
+- name: Fal
+  ats: ashby
+  slug: fal-ai
