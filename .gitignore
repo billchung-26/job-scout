@@ -23,3 +23,4 @@ recommendations/*
 # --- job description workflow: local only (résumé has phone/email; jobs/ is pruned after 60 days by jd.py) ---
 resume/
 jobs/
+sourcing_cache.json
