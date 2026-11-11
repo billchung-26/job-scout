@@ -406,3 +406,9 @@ companies:
 - name: Fal
   ats: ashby
   slug: fal-ai
+- name: Gusto
+  ats: greenhouse
+  slug: gusto
+- name: Legora
+  ats: ashby
+  slug: legora
