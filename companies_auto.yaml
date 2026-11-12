@@ -412,3 +412,9 @@ companies:
 - name: Legora
   ats: ashby
   slug: legora
+- name: Ashby
+  ats: ashby
+  slug: ashby
+- name: Alpaca
+  ats: greenhouse
+  slug: alpaca
