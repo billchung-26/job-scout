@@ -418,3 +418,9 @@ companies:
 - name: Alpaca
   ats: greenhouse
   slug: alpaca
+- name: Juicebox
+  ats: ashby
+  slug: juicebox
+- name: Faire
+  ats: greenhouse
+  slug: faire
