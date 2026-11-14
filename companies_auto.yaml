@@ -424,3 +424,9 @@ companies:
 - name: Faire
   ats: greenhouse
   slug: faire
+- name: Checkr
+  ats: greenhouse
+  slug: checkr
+- name: Encord
+  ats: ashby
+  slug: encord

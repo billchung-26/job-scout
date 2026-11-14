@@ -1,11 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Checkr
-  ats: greenhouse
-  slug: checkr
-- name: Encord
-  ats: ashby
-  slug: encord
 - name: Webflow
   ats: ashby
   slug: webflow
