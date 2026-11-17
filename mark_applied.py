@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Mark roles from the recommendation list as applied, from any checkout of this repo.
 
-    python3 mark_applied.py "Cloudflare: Signals & Data Products" "Hebbia: Product Manager" [--push]
+    python3 mark_applied.py "Cloudflare: Signals & Data Products" "Hebbia: Product Manager" [--push] [--refresh]
     python3 mark_applied.py --env ROLES          # same, reading ";"-separated specs from $ROLES (used by the GitHub workflow)
 
 A spec is  "<company>: <words of the title>"  (a "|" instead of ":" also works). It must match exactly ONE
@@ -10,17 +10,21 @@ or an ambiguous title a loud, harmless failure instead of marking the wrong role
 
 What it does: appends one line per role to applied.yaml (the URL is the key; the daily run and
 `recommend.py` read it). It does NOT regenerate the list: the next daily run does that, or
-`python3 recommend.py` locally (~10 min). --push commits applied.yaml and pushes it.
+`python3 recommend.py` locally (~10 min). --push commits applied.yaml and pushes it; --refresh (after --push)
+also starts the daily GitHub workflow so the list and the Drive sheet update now (~13 min).
 
 Row identity: latest.csv shows ONE url per collapsed multi-location role; marking that url marks the whole row
 (see scout._collapse_multilocation).
 """
 import csv
 import datetime
+import json
 import os
 import re
+import ssl
 import subprocess
 import sys
+import urllib.request
 
 import yaml
 
@@ -78,10 +82,31 @@ def _resolve(spec, rows):
         spec, len(hit), company, "\n    ".join(r["Role"].strip() for r in hit[:8])))
 
 
+def _dispatch_daily():
+    """Start daily.yml on main. The token is the one already in this checkout's git remote URL
+    (https://<token>@github.com/...), the same credential `git push` uses; nothing is stored or printed."""
+    url = subprocess.run(["git", "-C", HERE, "remote", "get-url", "origin"], capture_output=True, text=True).stdout.strip()
+    m = re.match(r"https://([^@:]+)@github\.com/([^/]+/[^/.]+)", url)
+    if not m:
+        sys.exit("--refresh needs an https remote with a token (https://<token>@github.com/owner/repo). "
+                 "Start it by hand: GitHub -> Actions -> Daily Job Scout Run -> Run workflow.")
+    try:
+        import certifi
+        ctx = ssl.create_default_context(cafile=certifi.where())
+    except ImportError:
+        ctx = ssl.create_default_context()
+    req = urllib.request.Request("https://api.github.com/repos/%s/actions/workflows/daily.yml/dispatches" % m.group(2),
+                                 data=json.dumps({"ref": "main"}).encode(), method="POST",
+                                 headers={"Authorization": "Bearer " + m.group(1), "Accept": "application/vnd.github+json"})
+    status = urllib.request.urlopen(req, timeout=60, context=ctx).status
+    print("daily run requested (HTTP %d). The list and Drive sheet update in ~13 minutes." % status)
+
+
 def main():
     args = sys.argv[1:]
     push = "--push" in args
-    args = [a for a in args if a != "--push"]
+    refresh = "--refresh" in args
+    args = [a for a in args if a not in ("--push", "--refresh")]
     if args[:1] == ["--env"]:
         specs = [s.strip() for s in os.environ.get(args[1], "").split(";") if s.strip()]
     else:
@@ -122,6 +147,8 @@ def main():
         git("pull", "--rebase", "--autostash", "-q")
         git("push", "-q")
         print("pushed. The list and the Drive sheet update on the next daily run.")
+    if refresh:
+        _dispatch_daily()
 
 
 if __name__ == "__main__":
