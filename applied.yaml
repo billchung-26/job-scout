@@ -196,3 +196,8 @@ applied:
   - {company: Brex, role: "(title not captured: Brex was not on the watchlist when marked)", url: "https://www.brex.com/careers/8780827002?gh_jid=8780827002"}
   - {company: Brex, role: "(title not captured: Brex was not on the watchlist when marked)", url: "https://www.brex.com/careers/8659251002?gh_jid=8659251002"}
   - {company: Datadog, role: "Senior Product Manager, Chat, Video, and Collaboration Integrations", url: "https://careers.datadoghq.com/detail/8335047/?gh_jid=8335047"}
+  # --- applied 2026-11-17 (mark_applied.py) ---
+  - {company: Arize, role: "Senior AI Product Manager, Evals & Annotations", url: "https://job-boards.greenhouse.io/arizeai/jobs/6254817004"}
+  - {company: Baseten, role: "Product Manager, Pricing and Monetization", url: "https://jobs.ashbyhq.com/baseten/bed53da9-5d16-482a-94ed-12992dfe0cfe"}
+  - {company: Snowflake, role: "Enterprise Product Manager – Order-to-Cash & Agentic AI", url: "https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6"}
+  - {company: Gusto, role: "Principal Product Manager, Pricing & Packaging", url: "https://job-boards.greenhouse.io/gusto/jobs/8346795"}
