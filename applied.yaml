@@ -201,3 +201,5 @@ applied:
   - {company: Baseten, role: "Product Manager, Pricing and Monetization", url: "https://jobs.ashbyhq.com/baseten/bed53da9-5d16-482a-94ed-12992dfe0cfe"}
   - {company: Snowflake, role: "Enterprise Product Manager – Order-to-Cash & Agentic AI", url: "https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6"}
   - {company: Gusto, role: "Principal Product Manager, Pricing & Packaging", url: "https://job-boards.greenhouse.io/gusto/jobs/8346795"}
+  # --- applied 2026-11-17 (mark_applied.py) ---
+  - {company: Apple, role: "Senior Product Manager, Retail Technology Carrier Programs", url: "https://jobs.apple.com/en-us/details/200694814/senior-product-manager-retail-technology-carrier-programs"}
