@@ -442,3 +442,9 @@ companies:
 - name: Kalshi
   ats: ashby
   slug: kalshi
+- name: Outset
+  ats: ashby
+  slug: outset
+- name: PermitFlow
+  ats: ashby
+  slug: permitflow
