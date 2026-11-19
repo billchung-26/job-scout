@@ -448,3 +448,9 @@ companies:
 - name: PermitFlow
   ats: ashby
   slug: permitflow
+- name: Human Interest
+  ats: greenhouse
+  slug: humaninterest
+- name: Mercury
+  ats: greenhouse
+  slug: mercury

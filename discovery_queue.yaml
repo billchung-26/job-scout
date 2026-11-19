@@ -1,11 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: Human Interest
-  ats: greenhouse
-  slug: humaninterest
-- name: Mercury
-  ats: greenhouse
-  slug: mercury
 - name: EliseAI
   ats: ashby
   slug: eliseai
