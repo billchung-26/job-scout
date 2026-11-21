@@ -1,11 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: hyperexponential
-  ats: ashby
-  slug: hyperexponential
-- name: Radiant
-  ats: ashby
-  slug: radiant
 - name: Benchling
   ats: ashby
   slug: benchling

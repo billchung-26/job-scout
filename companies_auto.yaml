@@ -460,3 +460,9 @@ companies:
 - name: Skydio
   ats: ashby
   slug: skydio
+- name: hyperexponential
+  ats: ashby
+  slug: hyperexponential
+- name: Radiant
+  ats: ashby
+  slug: radiant
