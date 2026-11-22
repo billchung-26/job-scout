@@ -466,3 +466,9 @@ companies:
 - name: Radiant
   ats: ashby
   slug: radiant
+- name: Benchling
+  ats: ashby
+  slug: benchling
+- name: Kong
+  ats: ashby
+  slug: kong
