@@ -1,0 +1,446 @@
+# Tailored resume per job (written by resume_record.py; read by scout.py for the Resume column)
+resumes:
+- company: Alpaca
+  role: Product Manager - Trading API
+  url: https://job-boards.greenhouse.io/alpaca/jobs/6212184004
+  pdf: https://drive.google.com/file/d/1ip70Hneb_UcQWggHY_zFrn2CnkEmE00a/view
+  docx: ''
+  date: '2026-11-23'
+- company: Ambience
+  role: Senior Product Manager
+  url: https://jobs.ashbyhq.com/ambiencehealthcare/ba2f7e00-3d1f-4c77-b60e-b2b45312c417
+  pdf: https://drive.google.com/file/d/10XAdIa5njd8tVoA2by3LmJXZDTdof8dt/view
+  docx: ''
+  date: '2026-11-23'
+- company: Apple
+  role: Product Lead, Platform & Monetization, Apple Maps
+  url: https://jobs.apple.com/en-us/details/200689514/product-lead-platform-monetization-apple-maps
+  pdf: https://drive.google.com/file/d/19Gm1ECjaQ9d091gp3nvtI5GWk8LQ1U7I/view
+  docx: ''
+  date: '2026-11-23'
+- company: Apple
+  role: Senior Product Manager, Retail Technology Carrier Programs
+  url: https://jobs.apple.com/en-us/details/200694814/senior-product-manager-retail-technology-carrier-programs
+  pdf: https://drive.google.com/file/d/131BwhNZTVrbTp6WhvqEXmZMq6zxsXUSG/view
+  docx: ''
+  date: '2026-11-23'
+- company: Apple
+  role: Senior Product Manager, Customer Support Shopping Applications, Apple Store Online
+  url: https://jobs.apple.com/en-us/details/200695979/senior-product-manager-customer-support-shopping-applications-apple-store-online
+  pdf: https://drive.google.com/file/d/1xHKC6fVgEBbcA4_IPfN7kAci4wCZ4q10/view
+  docx: ''
+  date: '2026-11-23'
+- company: Apple
+  role: Engineering Program Manager, Siri AI Performance & Reliability
+  url: https://jobs.apple.com/en-us/details/200694916/engineering-program-manager-siri-ai-performance-reliability
+  pdf: https://drive.google.com/file/d/1QSYbbFlIwYrZCBfApUjLZgk47Eg8HMe0/view
+  docx: ''
+  date: '2026-11-23'
+- company: Arize
+  role: Senior AI Product Manager, Evals & Annotations
+  url: https://job-boards.greenhouse.io/arizeai/jobs/6254817004
+  pdf: https://drive.google.com/file/d/1sZ3EJ4V61NbFjdgEpGEASTbqi-JQunH6/view
+  docx: ''
+  date: '2026-11-23'
+- company: Baseten
+  role: Product Manager, Pricing and Monetization
+  url: https://jobs.ashbyhq.com/baseten/bed53da9-5d16-482a-94ed-12992dfe0cfe
+  pdf: https://drive.google.com/file/d/1BH-SxR4qGhkvIin-PiWzckHnDUI6hGTj/view
+  docx: ''
+  date: '2026-11-23'
+- company: Brex
+  role: Senior Product Manager, Travel
+  url: https://www.brex.com/careers/8659251002?gh_jid=8659251002
+  pdf: https://drive.google.com/file/d/1hHt6f90_hjWWrwBEic0WjC50KADpwEV2/view
+  docx: ''
+  date: '2026-11-23'
+- company: Checkr
+  role: Senior Product Manager, Verifications
+  url: https://job-boards.greenhouse.io/checkr/jobs/8397792
+  pdf: https://drive.google.com/file/d/1nFtybSPBRV22LlhviRKOz9UshKzl7dx0/view
+  docx: ''
+  date: '2026-11-23'
+- company: Cloudflare
+  role: Senior Product Manager, Signals & Data Products
+  url: https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425
+  pdf: https://drive.google.com/file/d/1oIJVuX2FDF0P2V3-I1aYDdrUNd0jd2x9/view
+  docx: ''
+  date: '2026-11-23'
+- company: Cloudflare
+  role: Senior Product Manager, Agentic Search
+  url: https://boards.greenhouse.io/cloudflare/jobs/8336559?gh_jid=8336559
+  pdf: https://drive.google.com/file/d/188pwYJYjmUPt5YzXf0ZKxI6ZL40FFQtt/view
+  docx: ''
+  date: '2026-11-23'
+- company: Cloudflare
+  role: Senior Product Manager, Observability
+  url: https://boards.greenhouse.io/cloudflare/jobs/8370842?gh_jid=8370842
+  pdf: https://drive.google.com/file/d/1ydL_mVoWwqZAxBpf8e9QZC4jKGWc0q92/view
+  docx: ''
+  date: '2026-11-23'
+- company: Cloudflare
+  role: Senior Product Manager, New Database Product
+  url: https://boards.greenhouse.io/cloudflare/jobs/8365223?gh_jid=8365223
+  pdf: https://drive.google.com/file/d/17Cr_jweqN2Fq2yxXrqrciV8OzPef_yDo/view
+  docx: ''
+  date: '2026-11-23'
+- company: Commure
+  role: Senior/Staff Product Manager, Ambient
+  url: https://jobs.ashbyhq.com/Commure/16bcd9c8-87ea-456b-b371-e61b79ec916f
+  pdf: https://drive.google.com/file/d/1PbV7VNCcX-zWZITx8C87mwpcV_lKx-4F/view
+  docx: ''
+  date: '2026-11-23'
+- company: Customer.io
+  role: Senior Product Manager, Workflows
+  url: https://job-boards.greenhouse.io/customerio/jobs/8357735
+  pdf: https://drive.google.com/file/d/1L53cyMEg6XmnRM1SzwmRBOU5tPWO6lI6/view
+  docx: ''
+  date: '2026-11-23'
+- company: Databricks
+  role: Sr. Technical Program Manager, FDE
+  url: https://databricks.com/company/careers/open-positions/job?gh_jid=8927394002
+  pdf: https://drive.google.com/file/d/1UxkrrBD-9bwRjp_2LchOfB03_d8QQgHE/view
+  docx: ''
+  date: '2026-11-23'
+- company: Datadog
+  role: Staff Product Manager, Metering and Attribution
+  url: https://careers.datadoghq.com/detail/8337954/?gh_jid=8337954
+  pdf: https://drive.google.com/file/d/1thHOGfy-KKR2tVD5zKfauFQ58k9FPdMv/view
+  docx: ''
+  date: '2026-11-23'
+- company: Datadog
+  role: Senior Product Manager, Chat, Video, and Collaboration Integrations
+  url: https://careers.datadoghq.com/detail/8335047/?gh_jid=8335047
+  pdf: https://drive.google.com/file/d/1Hgwc4Nz87-bILXS6ZlGKAjyZWxfYzWS8/view
+  docx: ''
+  date: '2026-11-23'
+- company: Drata
+  role: Senior Product Manager 2, Assurance
+  url: https://jobs.ashbyhq.com/drata/cf5e1a06-8720-4e5c-93c6-5494c39c862c
+  pdf: https://drive.google.com/file/d/1KGyJc4EqnFMLlOdVjVIyYHKCjUS_wvBS/view
+  docx: ''
+  date: '2026-11-23'
+- company: Exa
+  role: Product Manager, Agentic Search
+  url: https://jobs.ashbyhq.com/exa/fd65f37b-2111-4512-bb4b-3a211d487321
+  pdf: https://drive.google.com/file/d/1wSxjgodCNegl5IMMCDn5WK_Nw9x4zjz3/view
+  docx: ''
+  date: '2026-11-23'
+- company: Figure
+  role: Senior Product Manager, Integrations and New Verticals
+  url: https://job-boards.greenhouse.io/figure/jobs/8931756002
+  pdf: https://drive.google.com/file/d/1wZs6VdvY36oT1V8A4CKxwzWPKo4wY5ge/view
+  docx: ''
+  date: '2026-11-23'
+- company: Gainsight
+  role: AI Product Manager
+  url: https://jobs.ashbyhq.com/gainsight/c575ed9d-9fa8-4ccd-b948-3f12925bfe38
+  pdf: https://drive.google.com/file/d/1XOn-uEfs9Lk5Mftw7i3qWm4takMC-z5c/view
+  docx: ''
+  date: '2026-11-23'
+- company: Gusto
+  role: Principal Product Manager, Pricing & Packaging
+  url: https://job-boards.greenhouse.io/gusto/jobs/8346795
+  pdf: https://drive.google.com/file/d/1gcpaMu0PvIKpt8j4b9IKS1-8FwWc56Q6/view
+  docx: ''
+  date: '2026-11-23'
+- company: Harness
+  role: Senior/Staff Product Manager, Continuous Delivery
+  url: https://www.harness.io/company/jobs/apply?gh_jid=5233068007&gh_jid=5233068007
+  pdf: https://drive.google.com/file/d/1ZErfBUpp4u5cD8lp9OJi72cTw_bcNGrv/view
+  docx: ''
+  date: '2026-11-23'
+- company: Hebbia
+  role: Forward Deployed Product Manager
+  url: https://jobs.ashbyhq.com/hebbia-ai/1485877b-157a-4a61-98b7-8701fca03380
+  pdf: https://drive.google.com/file/d/16YMoX6YlB0A3USI3KIMWXdtrXMwlJ-Lj/view
+  docx: ''
+  date: '2026-11-23'
+- company: Kalshi
+  role: Product Manager - Core Product
+  url: https://jobs.ashbyhq.com/kalshi/43b7efec-0c90-4962-addc-611fb67484a7
+  pdf: https://drive.google.com/file/d/1OOqHNe5k6-RUFR0p9orZQwRM3tBZ44Vv/view
+  docx: ''
+  date: '2026-11-23'
+- company: Kalshi
+  role: Product Manager, Growth
+  url: https://jobs.ashbyhq.com/kalshi/75e8eee4-584e-468f-990d-42c679575b22
+  pdf: https://drive.google.com/file/d/1UqYeMkcoE6g_K0Di1Ewnijehkiz9cIyS/view
+  docx: ''
+  date: '2026-11-23'
+- company: Kong
+  role: Product Manager, Billing (Senior Staff)
+  url: https://jobs.ashbyhq.com/kong/597a9e92-3ddf-43e4-9121-07fd9d6a6312
+  pdf: https://drive.google.com/file/d/1j13MLcNEH2bLmzJNSjbl5mkk6EHZyw_v/view
+  docx: ''
+  date: '2026-11-23'
+- company: Kong
+  role: Staff Product Manager, AI Management
+  url: https://jobs.ashbyhq.com/kong/72375328-ae8e-4090-9fd3-3580878751e2
+  pdf: https://drive.google.com/file/d/1ach7C8SaUUBxCbaPOIpxqGicLt-vaMcQ/view
+  docx: ''
+  date: '2026-11-23'
+- company: Lambda
+  role: Staff Product Manager - Observability
+  url: https://jobs.ashbyhq.com/Lambda/cb7fe04b-0c99-4dbc-afa6-4a05a9c8cac1
+  pdf: https://drive.google.com/file/d/1ofK6NdxmlVLFzpHH_BpazkdrvmcmldKn/view
+  docx: ''
+  date: '2026-11-23'
+- company: LangChain
+  role: Product Manager, Monetization
+  url: https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5
+  pdf: https://drive.google.com/file/d/1SBpNXPviRkyrR-y8ASr1VavXzHOj2gxE/view
+  docx: ''
+  date: '2026-11-23'
+- company: Mercor
+  role: Product Manager, Applied AI
+  url: https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3
+  pdf: https://drive.google.com/file/d/1Fjo4tsghpTXS3ThvCv_JVQaMRa8GVq2T/view
+  docx: ''
+  date: '2026-11-23'
+- company: Mercury
+  role: Senior Product Manager - Consumer Credit Card
+  url: https://job-boards.greenhouse.io/mercury/jobs/6218705004
+  pdf: https://drive.google.com/file/d/1jwKTXoTAbDmBmhosdpTStnZTOCm1hj7_/view
+  docx: ''
+  date: '2026-11-23'
+- company: Mercury
+  role: Senior Product Manager - Fraud
+  url: https://job-boards.greenhouse.io/mercury/jobs/6236462004
+  pdf: https://drive.google.com/file/d/1VyYhF24oHrP-PqjunK7cpfNNnNp5eM5A/view
+  docx: ''
+  date: '2026-11-23'
+- company: Mercury
+  role: Senior Product Manager - Users
+  url: https://job-boards.greenhouse.io/mercury/jobs/6148371004
+  pdf: https://drive.google.com/file/d/1U70ghgtYe7q4_k0fhd43fj5dOjBfBmyf/view
+  docx: ''
+  date: '2026-11-23'
+- company: MongoDB
+  role: Senior Product Manager, Order to Cash
+  url: https://www.mongodb.com/careers/job/?gh_jid=8082623
+  pdf: https://drive.google.com/file/d/1mKlML_ZI7jV4aHJUHO9in6UkH6AXNAk9/view
+  docx: ''
+  date: '2026-11-23'
+- company: Motional
+  role: Principal Product Manager
+  url: https://motional.com/open-positions/?gh_jid=8197883003#/8197883003
+  pdf: https://drive.google.com/file/d/1WrhbGPquMO9RM0quu_f6wkv2vT2ntG1k/view
+  docx: ''
+  date: '2026-11-23'
+- company: Notion
+  role: GTM Pricing & Packaging Lead, Commercial Operations
+  url: https://jobs.ashbyhq.com/notion/da9a9a45-10e3-4c6a-916f-f89ee4cf29a4
+  pdf: https://drive.google.com/file/d/1FSyza-slOI5-RA3_fMbFXWLt0rRAESR2/view
+  docx: ''
+  date: '2026-11-23'
+- company: Okta
+  role: Senior Product Manager, Okta for AI Agents
+  url: https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918
+  pdf: https://drive.google.com/file/d/19XYYNpY2bSKEimfK2DMlP4_gHoTjOKAK/view
+  docx: ''
+  date: '2026-11-23'
+- company: OpenAI
+  role: Product Manager, ChatGPT Business Growth
+  url: https://jobs.ashbyhq.com/openai/89959eee-bd3a-4564-9c47-e4771c6c1e0f
+  pdf: https://drive.google.com/file/d/1cH7sZ28MeH7fhse1q26JUtlraGrL1Yb8/view
+  docx: ''
+  date: '2026-11-23'
+- company: Outset
+  role: Product Manager
+  url: https://jobs.ashbyhq.com/outset/6abd437d-161a-4455-b6f7-b0e304e3f2ef
+  pdf: https://drive.google.com/file/d/1K4E-dELVrWzn-9tGKng9htwenFseT-TJ/view
+  docx: ''
+  date: '2026-11-23'
+- company: PermitFlow
+  role: Product Manager, AI (Staff/Principal)
+  url: https://jobs.ashbyhq.com/permitflow/6acf9264-aed4-45b3-854c-ed19283c16d0
+  pdf: https://drive.google.com/file/d/1NPX_ZOTJYWLYjKMXSElNmoou46gA-CBS/view
+  docx: ''
+  date: '2026-11-23'
+- company: Perplexity
+  role: Product Manager, Platform
+  url: https://jobs.ashbyhq.com/Perplexity/a8c79425-eb48-40e0-8557-93460fa67097
+  pdf: https://drive.google.com/file/d/100KBuKNLoBFAoO8gzQfB-VsqaSVwl7og/view
+  docx: ''
+  date: '2026-11-23'
+- company: Perplexity
+  role: Product Manager, SMB Growth
+  url: https://jobs.ashbyhq.com/Perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13
+  pdf: https://drive.google.com/file/d/1AAzCiie91SwJTX8V8tHFbv_rdLjsr8zG/view
+  docx: ''
+  date: '2026-11-23'
+- company: Plaid
+  role: Product Manager - Agent Trust
+  url: https://jobs.ashbyhq.com/plaid/39168403-8a4d-47eb-b601-67f7f84a7439
+  pdf: https://drive.google.com/file/d/1mA29xDyIoIjinKRlKq13x9sbjeU9D_3k/view
+  docx: ''
+  date: '2026-11-23'
+- company: PostHog
+  role: Product Manager, Observability (ex-founder or ex-product engineer)
+  url: https://jobs.ashbyhq.com/PostHog/3c592b84-8b34-4ae4-ae23-cadce8f2212d
+  pdf: https://drive.google.com/file/d/1ja3whW9C8lMjrAjBSGJfBsROos4a1D0-/view
+  docx: ''
+  date: '2026-11-23'
+- company: Radiant
+  role: Senior/Principal Product Manager - Infrastructure
+  url: https://jobs.ashbyhq.com/radiant/b58edf56-9a76-4d32-815d-9da36d7bfe83
+  pdf: https://drive.google.com/file/d/12WoF5lA976FIi76PCgdFUvyorBgymSre/view
+  docx: ''
+  date: '2026-11-23'
+- company: Radiant
+  role: Senior/Principal Product Manager - Observability
+  url: https://jobs.ashbyhq.com/radiant/0a5c0093-194f-4ad4-81aa-292aeb3b8ac2
+  pdf: https://drive.google.com/file/d/16Ri2w6CM9KuGqNJ9pxgMuEtzecwJIU8J/view
+  docx: ''
+  date: '2026-11-23'
+- company: Serve Robotics
+  role: Senior Product Manager, Operations & Commercialization
+  url: https://jobs.ashbyhq.com/serverobotics/d7cccd44-efa1-442b-8297-66e9a952ff87
+  pdf: https://drive.google.com/file/d/1Pd-7mtbtKT9r7SO6WRoOjBBvPpeSW4du/view
+  docx: ''
+  date: '2026-11-23'
+- company: Sierra
+  role: GTM Operations, Pricing
+  url: https://jobs.ashbyhq.com/Sierra/39e15cc4-a16e-4ddb-b609-a345e2dd67c8
+  pdf: https://drive.google.com/file/d/1M4-VoeeXePH6L71qEMLO-_6_zhI7Bbcm/view
+  docx: ''
+  date: '2026-11-23'
+- company: Sierra
+  role: Product Manager, Agent Development
+  url: https://jobs.ashbyhq.com/Sierra/effd7cd2-8a28-4bae-a3b8-40720ba09717
+  pdf: https://drive.google.com/file/d/1zNyieYpWILeFsSjhLgkdA077kArQp8I7/view
+  docx: ''
+  date: '2026-11-23'
+- company: Sierra
+  role: Product Manager, Agent Development - Public Sector
+  url: https://jobs.ashbyhq.com/Sierra/cb841dfe-5d21-44ae-8496-fca6b5587ae6
+  pdf: https://drive.google.com/file/d/1rHOVe5ZaZe0zOjK6hs3_iNhkT7y_Dujm/view
+  docx: ''
+  date: '2026-11-23'
+- company: Sixfold
+  role: Senior Product Manager
+  url: https://job-boards.greenhouse.io/sixfold/jobs/4990866008
+  pdf: https://drive.google.com/file/d/13mKL_EwbGh1--iYGUT9By8VeiO7pr3f0/view
+  docx: ''
+  date: '2026-11-23'
+- company: Skydio
+  role: Data Product Manager, Business Operations
+  url: https://jobs.ashbyhq.com/skydio/dd943daa-5758-4e17-9bce-b657ddf242e5
+  pdf: https://drive.google.com/file/d/1AhtX4mC330dA6p89de2ptIHHB7yqbaDM/view
+  docx: ''
+  date: '2026-11-23'
+- company: Snowflake
+  role: Senior Product Manager – Agent Marketplace
+  url: https://jobs.ashbyhq.com/snowflake/3c565761-4ce8-40f4-a346-1997b117afbc
+  pdf: https://drive.google.com/file/d/1MdYHFkpvY9THCsmkZW4k1h8c8QxI_B-a/view
+  docx: ''
+  date: '2026-11-23'
+- company: Snowflake
+  role: Enterprise Product Manager – Order-to-Cash & Agentic AI
+  url: https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6
+  pdf: https://drive.google.com/file/d/1KxHEeYJuDMpediAMqMQ7ilKWOLwNx4rJ/view
+  docx: ''
+  date: '2026-11-23'
+- company: Stripe
+  role: Product Operations Manager
+  url: https://stripe.com/jobs/search?gh_jid=8315943
+  pdf: https://drive.google.com/file/d/1ELVAHDp0fTLMmeqoIJwlOzEONmSJ_KDY/view
+  docx: ''
+  date: '2026-11-23'
+- company: Stripe
+  role: Product Manager, Identity
+  url: https://stripe.com/jobs/search?gh_jid=7984866
+  pdf: https://drive.google.com/file/d/1aIL3hTetEYu1WT9z9X_MtsRPkRuiK4sq/view
+  docx: ''
+  date: '2026-11-23'
+- company: Stripe
+  role: Product Manager, Finance Operations
+  url: https://stripe.com/jobs/search?gh_jid=8393939
+  pdf: https://drive.google.com/file/d/1pQ4gZJvl7HoysYXjifPupC0y90ebLw-h/view
+  docx: ''
+  date: '2026-11-23'
+- company: Thinking Machines Lab
+  role: Product Manager
+  url: https://jobs.ashbyhq.com/ThinkingMachines/079f3334-43ae-4ee7-9671-1dbad75dd8df
+  pdf: https://drive.google.com/file/d/1MkR9fymXqu8v3YdmeYaD6U3HstYYHG-C/view
+  docx: ''
+  date: '2026-11-23'
+- company: Uber
+  role: Sr Product Manager - Maps ML
+  url: https://jobs.uber.com/en/jobs/303059/
+  pdf: https://drive.google.com/file/d/1oddPwSyP5n5cDZ3LHigtvYfigI1KYQEu/view
+  docx: ''
+  date: '2026-11-23'
+- company: Uber
+  role: Product Manager II - Mobility Matching
+  url: https://jobs.uber.com/en/jobs/304089/
+  pdf: https://drive.google.com/file/d/17AKDThn2xZ9ud6Obd2aK0V7hoOcOqcjg/view
+  docx: ''
+  date: '2026-11-23'
+- company: Uber
+  role: Product Manager, Marketplace
+  url: https://jobs.uber.com/en/jobs/303911/
+  pdf: https://drive.google.com/file/d/1_rv485iWrSOZDKifSfJ5tWvnUGlVon30/view
+  docx: ''
+  date: '2026-11-23'
+- company: Vanta
+  role: Senior Product Manager, Organizational Units
+  url: https://jobs.ashbyhq.com/vanta/82dd0fed-120e-4983-a1ae-676ae355cea8
+  pdf: https://drive.google.com/file/d/1mMUjlWX8bzGJ2zBnl__s-vJ4PbsqPrvQ/view
+  docx: ''
+  date: '2026-11-23'
+- company: Vanta
+  role: Senior Product Manager, GRC Platform
+  url: https://jobs.ashbyhq.com/vanta/7816b5fe-e916-43b8-9200-d0d45298ba9f
+  pdf: https://drive.google.com/file/d/1aurg5d_AYgjVzsiMxv55hNls9ZHUoZ1u/view
+  docx: ''
+  date: '2026-11-23'
+- company: Verkada
+  role: Product Manager, Partner Commerce & Ecosystem
+  url: https://job-boards.greenhouse.io/verkada/jobs/5228832007
+  pdf: https://drive.google.com/file/d/1H1eJ07vy8a1tB7cktZUMfC2ete2poSE6/view
+  docx: ''
+  date: '2026-11-23'
+- company: Webflow
+  role: Staff Product Manager, Governance
+  url: https://jobs.ashbyhq.com/webflow/d4342ae1-fe23-4a3c-aa10-dc6bbff77859
+  pdf: https://drive.google.com/file/d/1OmPbYAqpuJTIrT-VByhNb2WTtXlJ6KrG/view
+  docx: ''
+  date: '2026-11-23'
+- company: Zoox
+  role: Senior/Staff Technical Program Manager - Process and Tools
+  url: https://jobs.lever.co/zoox/a5483274-c09e-4338-b2e4-cf0b373655d1
+  pdf: https://drive.google.com/file/d/1s8fB6MA5dKforx9Atyav-jzztzi76lQt/view
+  docx: ''
+  date: '2026-11-23'
+- company: Deepgram
+  role: Senior Product Manager, Enterprise
+  url: https://jobs.ashbyhq.com/Deepgram/19954a4c-7f3f-4231-8480-c7ec628e61a4
+  pdf: https://drive.google.com/file/d/1gI3dnndBIgj4hjKPbpKoLFsNdLmbsimD/view
+  docx: https://drive.google.com/file/d/11a9BpZF3jWWNvQOWwxoE720Zjp1yv76_/view
+  date: '2026-11-23'
+- company: Okta
+  role: Senior Product Manager, AI Products (Auth0)
+  url: https://www.okta.com/company/careers/opportunity/8351434?gh_jid=8351434
+  pdf: https://drive.google.com/file/d/1lFCJj-3VU0_Keb_u8S_MhjREWXGykZxb/view
+  docx: https://drive.google.com/file/d/1-wYLSh_sfXhBIFL9Z-hxRWo52PZSCjSu/view
+  date: '2026-11-23'
+- company: Alpaca
+  role: 'Senior Technical Product Manager: Infrastructure and Platforms'
+  url: https://job-boards.greenhouse.io/alpaca/jobs/6184949004
+  pdf: https://drive.google.com/file/d/1D9eju7KhknAm1QtRfFljZbJJ4zh7knpa/view
+  docx: https://drive.google.com/file/d/1JpnAuW5tUxiNgyqrpxKP3OSyksfNtY99/view
+  date: '2026-11-23'
+- company: Uber
+  role: Lead Product Manager, Merchant Growth
+  url: https://jobs.uber.com/en/jobs/158663/
+  pdf: https://drive.google.com/file/d/1jQkiLrYAnXLGBZyZ8yQZgSYHnuBW8anY/view
+  docx: https://drive.google.com/file/d/1G5orzqOmtWVEPYG-WBHVUaWCYC6OynGE/view
+  date: '2026-11-23'
+- company: Uber
+  role: Sr Product Manager - Agent Platform and Infrastructure
+  url: https://jobs.uber.com/en/jobs/303851/
+  pdf: https://drive.google.com/file/d/1WhMaNMKHTfOvnnAzXwQNj7ebpNZy5Pb2/view
+  docx: https://drive.google.com/file/d/1vIxS01-IfQSleg3DvkmBU4IkoTHr13NP/view
+  date: '2026-11-23'

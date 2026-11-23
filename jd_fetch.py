@@ -24,6 +24,7 @@ import urllib.request
 
 import apple
 import jibe
+import uber
 import scout
 
 _cache = {}
@@ -149,7 +150,22 @@ def _apple(slug, url):
             "comp": [], "posted": d.get("postingDateMeta")}
 
 
-_FETCHERS = {"greenhouse": _greenhouse, "ashby": _ashby, "lever": _lever, "jibe": _jibe, "apple": _apple}
+# ---------------------------------------------------------------- Uber
+
+def _uber(slug, url):
+    """Uber has no per-job endpoint we know of, so read the whole search list once (9 pages, ~7 s) and cache it.
+    Only works from a residential IP: Uber's WAF answers 403 to GitHub Actions (see uber.py)."""
+    ident = url.rstrip("/").split("/")[-1]
+    if "uber" not in _cache:
+        _cache["uber"] = uber.fetch()
+    for j in _cache["uber"]:
+        if j["id"] == ident:
+            return {"title": j["title"], "location": j["location"], "url": url,
+                    "html": "<h3>Description</h3>" + j["desc"], "comp": [], "posted": None}
+    raise LookupError("jobs.uber.com no longer lists %s (probably closed)" % ident)
+
+
+_FETCHERS = {"uber": _uber, "greenhouse": _greenhouse, "ashby": _ashby, "lever": _lever, "jibe": _jibe, "apple": _apple}
 
 
 def fetch_job(company_cfg, url):
