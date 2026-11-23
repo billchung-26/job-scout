@@ -203,3 +203,6 @@ applied:
   - {company: Gusto, role: "Principal Product Manager, Pricing & Packaging", url: "https://job-boards.greenhouse.io/gusto/jobs/8346795"}
   # --- applied 2026-11-17 (mark_applied.py) ---
   - {company: Apple, role: "Senior Product Manager, Retail Technology Carrier Programs", url: "https://jobs.apple.com/en-us/details/200694814/senior-product-manager-retail-technology-carrier-programs"}
+  # --- applied 2026-11-23 (mark_applied.py) ---
+  - {company: Radiant, role: "Senior/Principal Product Manager - Infrastructure", url: "https://jobs.ashbyhq.com/radiant/b58edf56-9a76-4d32-815d-9da36d7bfe83"}
+  - {company: Radiant, role: "Senior/Principal Product Manager - Observability", url: "https://jobs.ashbyhq.com/radiant/0a5c0093-194f-4ad4-81aa-292aeb3b8ac2"}
