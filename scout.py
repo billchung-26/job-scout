@@ -551,6 +551,20 @@ def load_applied():
     return keys
 
 
+RESUMES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "resumes.yaml")
+
+
+def load_resumes():
+    """url (lower-cased, same reason as load_applied) -> Drive link of the tailored resume PDF.
+    resumes.yaml is written by resume_record.py after the tailored resume is built and uploaded."""
+    if not os.path.exists(RESUMES_FILE):
+        return {}
+    with open(RESUMES_FILE) as f:
+        d = yaml.safe_load(f) or {}
+    return {(i.get("url") or "").strip().lower(): i.get("pdf", "")
+            for i in (d.get("resumes") or []) if isinstance(i, dict) and i.get("pdf")}
+
+
 def _job_key(name, j):
     return (j.get("url") or "").strip() or ("%s|%s" % (name, j.get("title", "")))
 
@@ -568,6 +582,7 @@ def update_recommendations(all_matching, failed_companies=()):
         with open(REC_STATE_FILE) as f:
             prior = json.load(f)
     applied = load_applied()
+    resumes = load_resumes()
 
     new_state, records = {}, []
     n_applied = n_sunset = 0
@@ -591,6 +606,7 @@ def update_recommendations(all_matching, failed_companies=()):
             "location": j.get("location", "") or "n/a", "url": j.get("url", ""),
             "first_seen": first_seen, "age": age, "applied": is_applied,
             "_desc": j.get("desc", ""),
+            "resume": resumes.get(key.lower()) or resumes.get(j.get("url", "").strip().lower(), ""),
         })
     # ATS keywords per role, ranked by how distinctive they are within today's list (see jd_parse)
     for r, kws in zip(records, jd_parse.distinctive_keywords([r["_desc"] for r in records])):
@@ -684,18 +700,19 @@ def _write_recs_md(records, n_applied, n_sunset):
     lines = ["# Job recommendations (live)", "",
              "_Updated %s. %d roles · %d applied · %d sunset (>%dd) hidden._" %
              (datetime.now().strftime("%Y-%m-%d %H:%M"), len(records), n_applied, n_sunset, SUNSET_DAYS),
-             "", "| Fit | Company | Role | Why | Location | Applied | First seen | Age | Keywords |",
-             "|---|---|---|---|---|---|---|---|---|"]
+             "", "| Fit | Company | Role | Why | Location | Applied | First seen | Age | Keywords | Resume |",
+             "|---|---|---|---|---|---|---|---|---|---|"]
     for r in records:
         newtag = " 🆕" if r["age"] == 0 and not r["applied"] else ""
         stars = "⭐" * r["score"]
         # a literal "|" inside a cell (e.g. Ramp's "Product Manager | Procurement", or a location
         # like "SF | NYC") would be read as a column break and shear the whole row
         e = lambda x: str(x).replace("|", "\\|")
-        lines.append("| %s | %s | [%s](%s)%s | %s | %s | %s | %s | %dd | %s |" %
+        lines.append("| %s | %s | [%s](%s)%s | %s | %s | %s | %s | %dd | %s | %s |" %
                      (stars or "—", e(r["company"]), e(r["role"]), r["url"], newtag,
                       e(r.get("why", "")), e(r["location"]), "✅" if r["applied"] else "",
-                      r["first_seen"], r["age"], e(r.get("keywords", ""))))
+                      r["first_seen"], r["age"], e(r.get("keywords", "")),
+                      "[PDF](%s)" % r["resume"] if r.get("resume") else ""))
     with open(os.path.join(RECS_DIR, "latest.md"), "w") as f:
         f.write("\n".join(lines))
 
@@ -703,10 +720,10 @@ def _write_recs_md(records, n_applied, n_sunset):
 def _write_recs_csv(records):
     with open(os.path.join(RECS_DIR, "latest.csv"), "w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL", "Keywords"])
+        w.writerow(["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL", "Keywords", "Resume"])
         for r in records:
             w.writerow([r["score"], r["company"], r["role"], r.get("why", ""), r["location"],
-                        "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"], r.get("keywords", "")])
+                        "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"], r.get("keywords", ""), r.get("resume", "")])
 
 
 def _write_recs_xlsx(records):
@@ -720,11 +737,11 @@ def _write_recs_xlsx(records):
     wb.properties.created = wb.properties.modified = datetime(2024, 1, 1)  # deterministic file
     ws = wb.active
     ws.title = "Recommendations"
-    headers = ["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL", "Keywords"]
+    headers = ["Fit", "Company", "Role", "Why", "Location", "Applied", "First Seen", "Age (days)", "URL", "Keywords", "Resume"]
     ws.append(headers)
     for r in records:
         ws.append([r["score"], r["company"], r["role"], r.get("why", ""), r["location"],
-                   "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"], r.get("keywords", "")])
+                   "Yes" if r["applied"] else "No", r["first_seen"], r["age"], r["url"], r.get("keywords", ""), r.get("resume", "")])
         row = ws.max_row
         if r["url"]:                                   # make Role a clickable link
             c = ws.cell(row=row, column=3)
