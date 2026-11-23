@@ -1,6 +1,6 @@
 # Job Scout — Watchlist
 
-_Auto-generated 2026-11-23 09:00. Watched via the public Greenhouse / Lever / Ashby APIs._
+_Auto-generated 2026-11-23 09:20. Watched via the public Greenhouse / Lever / Ashby APIs._
 
 ## ✅ Watching (196 companies)
 
@@ -58,7 +58,7 @@ _Auto-generated 2026-11-23 09:00. Watched via the public Greenhouse / Lever / As
 | Crusoe | auto | ashby | 15 / 316 |
 | Cursor (Anysphere) | auto | ashby | 3 / 89 |
 | Customer.io | auto | greenhouse | 3 / 22 |
-| Databricks | curated | greenhouse | 39 / 894 |
+| Databricks | curated | greenhouse | 39 / 893 |
 | Datadog | auto | greenhouse | 30 / 382 |
 | Decagon | curated | ashby | 12 / 109 |
 | Deepgram | auto | ashby | 9 / 52 |
@@ -94,7 +94,7 @@ _Auto-generated 2026-11-23 09:00. Watched via the public Greenhouse / Lever / As
 | Gusto | auto | greenhouse | 6 / 84 |
 | Harness | auto | greenhouse | 5 / 66 |
 | Harvey | curated | ashby | 45 / 390 |
-| Headway | auto (new today) | ashby | 8 / 94 |
+| Headway | auto | ashby | 8 / 94 |
 | Hebbia | curated | ashby | 2 / 23 |
 | Hex | auto | ashby | 2 / 42 |
 | Hightouch | curated | ashby | 0 / 1 |
@@ -103,7 +103,7 @@ _Auto-generated 2026-11-23 09:00. Watched via the public Greenhouse / Lever / As
 | Human Interest | auto | greenhouse | 3 / 60 |
 | hyperexponential | auto | ashby | 0 / 39 |
 | Imbue | auto | greenhouse | 2 / 2 |
-| Intercom | auto | greenhouse | 4 / 120 |
+| Intercom | auto | greenhouse | 4 / 119 |
 | Juicebox | auto | ashby | 12 / 42 |
 | Julius AI | auto | ashby | 0 / 6 |
 | Kalepa | auto | greenhouse | 2 / 14 |
@@ -128,7 +128,7 @@ _Auto-generated 2026-11-23 09:00. Watched via the public Greenhouse / Lever / As
 | Mercury | auto | greenhouse | 11 / 70 |
 | Mixpanel | auto | greenhouse | 8 / 40 |
 | Modal | auto | ashby | 5 / 52 |
-| MongoDB | auto | greenhouse | 19 / 419 |
+| MongoDB | auto | greenhouse | 19 / 418 |
 | MotherDuck | auto | ashby | 0 / 6 |
 | Motional | auto | greenhouse | 3 / 82 |
 | n8n | auto | ashby | 1 / 67 |
@@ -163,7 +163,7 @@ _Auto-generated 2026-11-23 09:00. Watched via the public Greenhouse / Lever / As
 | RevenueCat | auto | ashby | 0 / 10 |
 | Rime | auto | ashby | 0 / 3 |
 | Samsara | auto | greenhouse | 33 / 301 |
-| Saronic | auto (new today) | ashby | 7 / 295 |
+| Saronic | auto | ashby | 7 / 295 |
 | Scale AI | auto | greenhouse | 8 / 162 |
 | Serve Robotics | auto | ashby | 1 / 12 |
 | Sierra | curated | ashby | 10 / 194 |
@@ -175,7 +175,7 @@ _Auto-generated 2026-11-23 09:00. Watched via the public Greenhouse / Lever / As
 | Sourcegraph | curated | greenhouse | 0 / 8 |
 | Span | auto | ashby | 2 / 31 |
 | Stigg | auto | ashby | 0 / 4 |
-| Stripe | auto | greenhouse | 57 / 776 |
+| Stripe | auto | greenhouse | 57 / 777 |
 | Suki AI | auto | greenhouse | 1 / 10 |
 | Suno | auto | ashby | 3 / 62 |
 | Supabase | auto | ashby | 8 / 80 |
@@ -186,12 +186,12 @@ _Auto-generated 2026-11-23 09:00. Watched via the public Greenhouse / Lever / As
 | Terawatt Infrastructure | auto | lever | 0 / 13 |
 | Thinking Machines Lab | auto | ashby | 5 / 58 |
 | Together AI | auto | greenhouse | 6 / 76 |
-| Uber | curated | uber | 47 / 828 |
+| Uber | curated | uber | 47 / 834 |
 | Unstructured | auto | ashby | 0 / 4 |
 | Vanta | auto | ashby | 9 / 69 |
 | Vapi | curated | ashby | 1 / 5 |
 | Vercel | auto | greenhouse | 6 / 86 |
-| Verkada | auto | greenhouse | 16 / 353 |
+| Verkada | auto | greenhouse | 16 / 354 |
 | Verkor | auto | lever | 0 / 36 |
 | Waabi | auto | lever | 5 / 84 |
 | Watershed | auto | ashby | 4 / 39 |
