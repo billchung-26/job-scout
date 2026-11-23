@@ -16,6 +16,7 @@ ap = argparse.ArgumentParser()
 ap.add_argument("--url", required=True); ap.add_argument("--pdf", required=True)
 ap.add_argument("--docx", default=""); ap.add_argument("--company", default=""); ap.add_argument("--role", default="")
 ap.add_argument("--push", action="store_true")
+ap.add_argument("--refresh", action="store_true", help="after --push, start the daily run so the list/sheet show the link now")
 a = ap.parse_args()
 
 d = (yaml.safe_load(open(P)) if os.path.exists(P) else None) or {}
@@ -35,6 +36,11 @@ os.replace(tmp, P)
 print("recorded: %s %s" % (a.company, a.role))
 if a.push:
     g = lambda *x: subprocess.run(["git", "-C", HERE] + list(x), check=True)
-    g("add", "resumes.yaml"); g("commit", "-q", "-m", "Record resume: %s %s" % (a.company, a.role))
+    g("add", "resumes.yaml")
+    if subprocess.run(["git", "-C", HERE, "diff", "--cached", "--quiet"]).returncode:   # nothing staged = already recorded
+        g("commit", "-q", "-m", "Record resume: %s %s" % (a.company, a.role))
     g("pull", "--rebase", "--autostash", "-q"); g("push", "-q")
     print("pushed")
+if a.refresh:
+    import mark_applied
+    mark_applied._dispatch_daily()
