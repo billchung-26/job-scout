@@ -478,3 +478,9 @@ companies:
 - name: Saronic
   ats: ashby
   slug: saronic
+- name: Everlaw
+  ats: greenhouse
+  slug: everlaw
+- name: Jeeves
+  ats: lever
+  slug: tryjeeves
