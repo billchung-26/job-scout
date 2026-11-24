@@ -65,6 +65,14 @@ jobs:
   first_seen: '2026-11-20'
   last_seen: '2026-11-24'
   desc: Bachelor's degreeor equivalent practical experience 5 years of experience in product management, technical program management, or a related software engineering role. Experience defining product vision, writing Product Requirements Documents (PRDs), and shipping technical or infrastructure products from concept to launch (0 to 1 or 1 to N).
+- id: '80306257293910726'
+  url: https://www.google.com/about/careers/applications/jobs/results/80306257293910726-product-manager-ii,-data-commons-enterprise-platform
+  title: Product Manager II, Data Commons Enterprise Platform
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-20'
+  last_seen: '2026-11-21'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or a related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc). Experience integrating generative AI tools or Large Language Model (LLM) interfaces into workflows. Experience with knowledge graphs (spanner graph), extensible semantic schemas, or statistical/open-data standards (SDMX, JSON-LD).
 - id: '116074813654475462'
   url: https://www.google.com/about/careers/applications/jobs/results/116074813654475462-product-manager,-playground
   title: Product Manager, Playground
@@ -113,14 +121,6 @@ jobs:
   first_seen: '2026-11-18'
   last_seen: '2026-11-24'
   desc: Bachelor's degree or equivalent practical experience. 4 years of experience in product marketing or experience within consumer tech, hardware products and software feature development. Experience managing cross-functional or cross-team projects.
-- id: '138692987608539846'
-  url: https://www.google.com/about/careers/applications/jobs/results/138692987608539846-senior-global-category-manager,-data-center-equipment
-  title: Senior Global Category Manager, Data Center Equipment
-  org: Google
-  location: Atlanta, United States
-  first_seen: '2026-11-18'
-  last_seen: '2026-11-24'
-  desc: Bachelor's degree in a technical or engineering field or equivalent practical experience 7 years of experience negotiating agreements for manufacturing, infrastructure or for technology product. 7 years of experience with New Product Introduction with engineering teams.
 - id: '128997889211802310'
   url: https://www.google.com/about/careers/applications/jobs/results/128997889211802310-product-marketing-manager,-acquisitions,-global-ads-marketing
   title: Product Marketing Manager, Acquisitions, Global Ads Marketing
@@ -161,3 +161,347 @@ jobs:
   first_seen: '2026-11-17'
   last_seen: '2026-11-24'
   desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or a related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.). 2 years of experience as a product manager working on advertising technology (AdTech) or digital advertising measurement. Experience integrating generative AI tools or LLM interfaces into workflows.
+- id: '111731381947507398'
+  url: https://www.google.com/about/careers/applications/jobs/results/111731381947507398-product-gtm-manager,-appdev,-ctv-network-package
+  title: Product GTM Manager, AppDev, CTV Network Package
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-17'
+  last_seen: '2026-11-21'
+  desc: Bachelor's degree or equivalent practical experience. 7 years of experience in business development, partnerships, management consulting, or investment banking. Experience working with C-level executives and cross-functionally across all levels of management. Experience in the Consumer Electronics, Auto, OEMs, Telecom, E-Commerce/Retail, Apps, Ads, Gaming, or Technology industries. Experience managing agreements or partnerships. Experience with Connected TV/Video (CTV), streaming publishers or other online video options.
+- id: '102343751669555910'
+  url: https://www.google.com/about/careers/applications/jobs/results/102343751669555910-scaled-programs-marketing-manager,-google-cloud
+  title: Scaled Programs Marketing Manager, Google Cloud
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-17'
+  last_seen: '2026-11-21'
+  desc: Bachelor's degree or equivalent practical experience. 6 years of experience in marketing working across one or more marketing fields (i.e. growth, product marketing, brand marketing, social). Experience managing cross-functional or cross-team projects. Experience in B2B marketing. Experience in marketing analytics, return on investment/financial modeling, or statistical analysis. Experience in communications or events marketing.
+- id: '85314034542224070'
+  url: https://www.google.com/about/careers/applications/jobs/results/85314034542224070-product-manager-ii,-youtube-generative-ai-security
+  title: Product Manager II, YouTube Generative AI Security
+  org: YouTube
+  location: San Bruno, United States
+  first_seen: '2026-11-16'
+  last_seen: '2026-11-21'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management, including taking technical consumer products from conception to launch. 2 years of experience developing AI and Security technologies to define technical product features.
+- id: '78432431782142662'
+  url: https://www.google.com/about/careers/applications/jobs/results/78432431782142662-product-manager-ii,-generative-ai,-google-cloud
+  title: Product Manager II, Generative AI, Google Cloud
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-16'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or a related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, 0 to 1, etc). Experience with the domain area of Generative AI or Large Language Models.
+- id: '138692987608539846'
+  url: https://www.google.com/about/careers/applications/jobs/results/138692987608539846-senior-global-category-manager,-data-center-equipment
+  title: Senior Global Category Manager, Data Center Equipment
+  org: Google
+  location: Atlanta, United States
+  first_seen: '2026-11-16'
+  last_seen: '2026-11-24'
+  desc: Bachelor's degree in a technical or engineering field or equivalent practical experience 7 years of experience negotiating agreements for manufacturing, infrastructure or for technology product. 7 years of experience with New Product Introduction with engineering teams.
+- id: '104692686463607494'
+  url: https://www.google.com/about/careers/applications/jobs/results/104692686463607494-south-central-regional-marketing-manager
+  title: South Central Regional Marketing Manager
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-16'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 6 years of experience in marketing working across one or more marketing fields (i.e. growth, product marketing, brand marketing, social). Experience managing cross-functional or cross-team projects. Experience in event and marketing verticals, including working with external organizations and internal and external stakeholders.
+- id: '83423273974407878'
+  url: https://www.google.com/about/careers/applications/jobs/results/83423273974407878-regional-marketing-manager,-consumer-apps-marketing
+  title: Regional Marketing Manager, Consumer Apps Marketing
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-13'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 4 years of experience in marketing working across one or more marketing fields (i.e., growth, product marketing, brand marketing, or social). Experience with marketing collateral, events, or digital assets. Experience managing cross-functional or cross-team projects.
+- id: '77732306646639302'
+  url: https://www.google.com/about/careers/applications/jobs/results/77732306646639302-product-manager-ii,-ads
+  title: Product Manager II, Ads
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-13'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc).
+- id: '139077941232313030'
+  url: https://www.google.com/about/careers/applications/jobs/results/139077941232313030-product-manager-ii,-youtube-live-discovery
+  title: Product Manager II, YouTube Live Discovery
+  org: YouTube
+  location: Multiple Sites, United States
+  first_seen: '2026-11-13'
+  last_seen: '2026-11-21'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or a related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.). Experience integrating generative AI tools or LLM interfaces into workflows.
+- id: '134484035622576838'
+  url: https://www.google.com/about/careers/applications/jobs/results/134484035622576838-product-manager-i,-ads
+  title: Product Manager I, Ads
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-13'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 3 years of experience in product management or related technical role. 1 year of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc).
+- id: '123324550946398918'
+  url: https://www.google.com/about/careers/applications/jobs/results/123324550946398918-youtube-product-content-manager
+  title: YouTube Product Content Manager
+  org: YouTube
+  location: Multiple Sites, United States
+  first_seen: '2026-11-13'
+  last_seen: '2026-11-21'
+  desc: Bachelor's degreeor equivalent practical experience. 4 year of experience in public relations, media relations, or internal and executive communications with technology products or services.
+- id: '117675260202885830'
+  url: https://www.google.com/about/careers/applications/jobs/results/117675260202885830-product-manager,-youtube-discovery-and-ai-experiences
+  title: Product Manager, YouTube Discovery and AI Experiences
+  org: YouTube
+  location: San Bruno, United States
+  first_seen: '2026-11-13'
+  last_seen: '2026-11-14'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or a related technical role. 2 years of experience taking consumer-facing technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc). 2 years of experience in AI/ML driven product development.
+- id: '130498194302739142'
+  url: https://www.google.com/about/careers/applications/jobs/results/130498194302739142-global-product-activation-manager,-brands-as-creators,-youtube
+  title: Global Product Activation Manager, Brands as Creators, YouTube
+  org: YouTube
+  location: Multiple Sites, United States
+  first_seen: '2026-11-12'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degreeor equivalent practical experience 6 years of experience in a management consulting, sales operations, business strategy or corporate advisory role. 4 years of experience working with executive stakeholders.
+- id: '125354816346956486'
+  url: https://www.google.com/about/careers/applications/jobs/results/125354816346956486-product-vertical-lead,-youtube-social-and-escalation-operations
+  title: Product Vertical Lead, YouTube Social and Escalation Operations
+  org: YouTube
+  location: Multiple Sites, United States
+  first_seen: '2026-11-12'
+  last_seen: '2026-11-17'
+  desc: Bachelor’s degree or equivalent practical experience. 5 years of experience in trust and safety, community operations, social/user support escalations, or a related front-line operations role at a consumer or developer platform.
+- id: '124916729682764486'
+  url: https://www.google.com/about/careers/applications/jobs/results/124916729682764486-marketing-manager,-youtube-music-and-premium-gtm
+  title: Marketing Manager, YouTube Music and Premium GTM
+  org: YouTube
+  location: Multiple Sites, United States
+  first_seen: '2026-11-12'
+  last_seen: '2026-11-17'
+  desc: Bachelor’s degree or equivalent practical experience. 6 years of experience in marketing, with a focus on executing integrated Go-To-Market campaigns. Experience designing and managing consumer brand activations (e.g., festivals, conventions, pop-ups). Experience launching or building affiliate, creator, or referral programs globally. Experience leading cross-functional projects and working with senior leaders or external partners without direct authority. Experience building measurement frameworks including defining KPIs, developing learning agendas, and translating data into strategies.
+- id: '116472480381444806'
+  url: https://www.google.com/about/careers/applications/jobs/results/116472480381444806-product-manager,-youtube-youth-regulations
+  title: Product Manager, YouTube Youth Regulations
+  org: YouTube
+  location: Multiple Sites, United States
+  first_seen: '2026-11-12'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 3 years of experience in product management.
+- id: '105604838733030086'
+  url: https://www.google.com/about/careers/applications/jobs/results/105604838733030086-business-partnership-and-category-manager
+  title: Business Partnership and Category Manager
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-12'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree in Business Administration, Supply Chain Management, Finance, a related field, or equivalent practical experience. 7 years of experience in sourcing, category management, or procurement roles, with a focus on managing indirect spend categories. Experience with agreements (i.e., drafting, review, etc.) and management within the category, ensuring compliance with legal and company standards. Experience in creating category strategies, executing sourcing strategies, RFx processes, negotiations, and supplier evaluations within designated categories. Experience in partnering with contracting teams and cross-functional partners.
+- id: '101851655791616710'
+  url: https://www.google.com/about/careers/applications/jobs/results/101851655791616710-product-manager-ii,-search-consents
+  title: Product Manager II, Search Consents
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-12'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management, or a related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.). Experience integrating generative AI tools or LLM interfaces into workflows. Experience in privacy by design, user data protection, GDPR, data inventory or building products in regulated environments.
+- id: '87805987452265158'
+  url: https://www.google.com/about/careers/applications/jobs/results/87805987452265158-product-manager-ii,-commercial-intelligence
+  title: Product Manager II, Commercial Intelligence
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-11'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.). Experience in personal finance, consumer banking, investments, or fintech infrastructure. Experience developing and iterating on machine learning or LLM classifiers.
+- id: '140966550021513926'
+  url: https://www.google.com/about/careers/applications/jobs/results/140966550021513926-product-manager-ii,-ads-attribution
+  title: Product Manager II, Ads Attribution
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-11'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or a related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc). 2 years of experience as a Product Manager working on AdTech or digital advertising measurement. Experience integrating generative AI tools or LLM interfaces into workflows.
+- id: '135968187341513414'
+  url: https://www.google.com/about/careers/applications/jobs/results/135968187341513414-product-marketing-manager,-lead-quality-and-data-strength
+  title: Product Marketing Manager, Lead Quality and Data Strength
+  org: Google
+  location: New York, United States
+  first_seen: '2026-11-11'
+  last_seen: '2026-11-14'
+  desc: Bachelor's degree or equivalent practical experience. 6 years of experience in product marketing, partner marketing, or business-to-business (B2B) marketing in the technology or digital advertising industry. Experience developing and executing go-to-market strategies for technology products or features. Experience managing cross-functional projects with internal and external stakeholders.
+- id: '132919945972327110'
+  url: https://www.google.com/about/careers/applications/jobs/results/132919945972327110-product-manager,-ask-advisor-ai-agent
+  title: Product Manager, Ask Advisor AI Agent
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-11'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.). 1 year of experience working in Adtech products. Experience integrating generative AI tools or LLM interfaces into workflows. Experience shipping AI-powered, conversational, or machine learning products.
+- id: '132168876451340998'
+  url: https://www.google.com/about/careers/applications/jobs/results/132168876451340998-product-strategy-and-go-to-market-lead,-consumer-payments
+  title: Product Strategy and Go-to-market Lead, Consumer Payments
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-11'
+  last_seen: '2026-11-14'
+  desc: Bachelor's degree or equivalent practical experience. 8 years of experience in management consulting, product management and strategy, or analytics in a technology company. Experience working with and analyzing data, and managing multiple projects. Experience with payment, financial, business, data, advertising, or commerce systems.
+- id: '106875917124412102'
+  url: https://www.google.com/about/careers/applications/jobs/results/106875917124412102-product-marketing-manager,-google-fi-wireless
+  title: Product Marketing Manager, Google Fi Wireless
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-11'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 6 years of experience in a Marketing Manager or Product Marketing role. Experience in building and executing technology Go-To-Market (GTM) programs.
+- id: '105896046105633478'
+  url: https://www.google.com/about/careers/applications/jobs/results/105896046105633478-product-manager,-cloud-billing
+  title: Product Manager, Cloud Billing
+  org: Google
+  location: Sunnyvale, United States
+  first_seen: '2026-11-11'
+  last_seen: '2026-11-14'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc). Experience managing product roadmaps. Experience designing, building, or launching consumer-facing products. Experience with Go-To-Market (GTM) strategies.
+- id: '130095478036406982'
+  url: https://www.google.com/about/careers/applications/jobs/results/130095478036406982-product-manager-ii,-youtube-youth-responsible-monetization
+  title: Product Manager II, YouTube Youth Responsible Monetization
+  org: YouTube
+  location: Multiple Sites, United States
+  first_seen: '2026-11-09'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management. 1 year of experience taking consumer products from conception to launch.
+- id: '112775844979450566'
+  url: https://www.google.com/about/careers/applications/jobs/results/112775844979450566-product-manager
+  title: Product Manager
+  org: Google
+  location: San Bruno, United States
+  first_seen: '2026-11-09'
+  last_seen: '2026-11-10'
+  desc: 'Bachelor’s degree in Computer Science, Engineering, Business Administration, Management Information Systems (MIS) or a related field and 3 years of experience in the job offered or in a Product Management-related occupation. Alternatively, will accept a Master’s degree in Computer Science, Engineering, Business Administration, Management Information Systems (MIS) or a related field and 1 year of experience in the job offered or in a Product Management-related occupation. Position requires 1 year of experience in the following: Managing technical products from conception to launch OR Managing product development lifecycle from delivery to sunsetting; Analyzing product market challenges, competitor functionalities, and external trends; Collaborating cross-functionally with engineering, UX/UI, sales, and finance; Prioritizing user goals and needs during solution brainstorming; and Software development or engineering fundamentals.'
+- id: '75925895310648006'
+  url: https://www.google.com/about/careers/applications/jobs/results/75925895310648006-strategic-partner-development-senior-associate,-ecosystem-investments
+  title: Strategic Partner Development Senior Associate, Ecosystem Investments
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-06'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 4 years of experience in business development, partnerships, management consulting, or investment banking, or 2 years with advanced degree. Experience in the Consumer Electronics, Auto, OEMs, Telecom, E-Commerce/Retail, Apps, Ads, Gaming, or Technology industries. Experience managing agreements or partnerships.
+- id: '134863021389292230'
+  url: https://www.google.com/about/careers/applications/jobs/results/134863021389292230-youtube-product-strategy-and-operations-lead,-youtube-tv
+  title: YouTube Product Strategy and Operations Lead, YouTube TV
+  org: YouTube
+  location: Multiple Sites, United States
+  first_seen: '2026-11-06'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 4 years of experience with an analytically-intensive role (e.g., management consulting, investment banking, business intelligence, data science, or corporate strategy and operations).
+- id: '125852931621561030'
+  url: https://www.google.com/about/careers/applications/jobs/results/125852931621561030-product-manager-ii
+  title: Product Manager II
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-06'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or a related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.). Experience integrating generative AI tools or LLM interfaces into workflows.
+- id: '125634472405017286'
+  url: https://www.google.com/about/careers/applications/jobs/results/125634472405017286-product-manager-ii,-trust-and-safety-detection,-youtube
+  title: Product Manager II, Trust and Safety Detection, YouTube
+  org: YouTube
+  location: San Bruno, United States
+  first_seen: '2026-11-06'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.). Experience developing or launching products or technologies within artificial intelligence or Machine Learning (AI/ML). Experience in trust and safety, product policy, business strategy, or a related field. Experience developing product strategy for AI/ML-driven products or product features.
+- id: '76045097832981190'
+  url: https://www.google.com/about/careers/applications/jobs/results/76045097832981190-product-manager,-connect-deals-seller-experience,-deals-and-incentives
+  title: Product Manager, Connect Deals Seller Experience, Deals and Incentives
+  org: YouTube
+  location: New York, United States
+  first_seen: '2026-11-05'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or related technical role. Experience integrating generative AI tools or LLM interfaces into workflows.
+- id: '141535940278395590'
+  url: https://www.google.com/about/careers/applications/jobs/results/141535940278395590-product-manager,-advertiser-platform
+  title: Product Manager, Advertiser Platform
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-05'
+  last_seen: '2026-11-17'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or related technical role. Experience with the digital advertising ecosystem. Experience using data, A/B testing, and experimentation to drive product decisions. Experience integrating generative AI tools or LLM interfaces into workflows.
+- id: '128588353342710470'
+  url: https://www.google.com/about/careers/applications/jobs/results/128588353342710470-regional-advocacy-lead,-americas
+  title: Regional Advocacy Lead, Americas
+  org: Google
+  location: Washington, United States
+  first_seen: '2026-11-05'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 4 years of experience in policy analysis and campaigns, working on technology issues or the policy environments that surround them. 4 years of experience working within government, think tanks, public interest groups, technology industry groups, or corporate public policy organizations.
+- id: '119657776304530118'
+  url: https://www.google.com/about/careers/applications/jobs/results/119657776304530118-strategic-partner-development-lead,-performance-ads-measurement
+  title: Strategic Partner Development Lead, Performance Ads Measurement
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-05'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 7 years of experience in business development, or partner management, or 5 years of experience with an advanced degree. Experience in the Consumer Electronics, Auto, OEMs, Telecom, E-Commerce/Retail, Apps, Ads, Gaming, or Technology industries. Experience working with C-level executives and cross-functionally across multiple levels of management. Experience managing agreements or partnerships.
+- id: '74068279005455046'
+  url: https://www.google.com/about/careers/applications/jobs/results/74068279005455046-product-manager,-ai-foundations-data-engineering
+  title: Product Manager, AI Foundations Data Engineering
+  org: Google
+  location: San Jose, United States
+  first_seen: '2026-11-04'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.). Experience managing backend infrastructure and distributed data pipelines. Experience integrating generative AI tools or LLM interfaces into workflows.
+- id: '131351666581480134'
+  url: https://www.google.com/about/careers/applications/jobs/results/131351666581480134-product-manager,-youtube-youth,-supervised-experience-lifecycle
+  title: Product Manager, YouTube Youth, Supervised Experience Lifecycle
+  org: YouTube
+  location: San Bruno, United States
+  first_seen: '2026-11-04'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree in Computer Science, Engineering or technical field, or equivalent practical experience. 5 years of experience in product management, defining and executing on features and roadmaps for products, working with user research, and managing multi-stakeholder spaces. 2 years of experience taking consumer-facing technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc).
+- id: '124039175522394822'
+  url: https://www.google.com/about/careers/applications/jobs/results/124039175522394822-product-manager-ii,-youtube-shorts-creation-growth
+  title: Product Manager II, YouTube Shorts Creation Growth
+  org: YouTube
+  location: Multiple Sites, United States
+  first_seen: '2026-11-04'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or a related technical role. 3 years of experience working cross-functionally with engineering, UX design, and user research teams to define user-facing product requirements and launch features. Experience with generative AI products (e.g., model quality, cost, safety, or performance) or with consumer growth and recommendation systems.
+- id: '98395609425158854'
+  url: https://www.google.com/about/careers/applications/jobs/results/98395609425158854-product-strategy-and-go-to-market-lead,-consumer-payments
+  title: Product Strategy and Go-To-Market Lead, Consumer Payments
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-03'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 8 years of experience in product operations, product strategy, management consulting, investment banking, go-to-market (GTM) execution, or a strategy and operations role within a technology, fintech, or financial services firm. Experience with payment, financial, or commerce systems. Experience developing and delivering Go-To-Market (GTM) strategies. Experience managing cross-functional projects or program launches involving multiple stakeholders (e.g., Product Management, Partnerships/Business Development, Marketing, or Finance).
+- id: '94258318968529606'
+  url: https://www.google.com/about/careers/applications/jobs/results/94258318968529606-product-manager,-agentic-governance-capabilities
+  title: Product Manager, Agentic Governance Capabilities
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-03'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 5 years of experience in product management or related technical role. 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc).
+- id: '84501252783645382'
+  url: https://www.google.com/about/careers/applications/jobs/results/84501252783645382-global-product-solutions-lead,-creator-ad-solutions
+  title: Global Product Solutions Lead, Creator Ad Solutions
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-03'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 6 years of experience in product solutions, product management, or GTM strategy within the digital advertising or ad tech industry. 2 years of experience working with Product Management or Engineering teams, executive leadership, and cross-functional stakeholders. 2 years of experience developing business strategies or managing cross-functional initiatives.
+- id: '115127977376654022'
+  url: https://www.google.com/about/careers/applications/jobs/results/115127977376654022-global-product-solutions-lead,-verticals-auto
+  title: Global Product Solutions Lead, Verticals Auto
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-03'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 4 years of experience in product management, marketing, management consulting, or project management in technology. Experience working with Product Management or Engineering teams, executive leadership, and cross-functional stakeholders. Experience developing business strategies or managing cross-functional initiatives.
+- id: '111102390429459142'
+  url: https://www.google.com/about/careers/applications/jobs/results/111102390429459142-strategic-partner-development-senior-associate,-meridian-partnerships
+  title: Strategic Partner Development Senior Associate, Meridian Partnerships
+  org: Google
+  location: Multiple Sites, United States
+  first_seen: '2026-11-03'
+  last_seen: '2026-11-10'
+  desc: Bachelor's degree or equivalent practical experience. 4 years of experience in business development, partnerships, management consulting, or investment banking. Experience working with C-level executives and cross-functionally across all levels of management. Experience managing agreements or partnerships.
