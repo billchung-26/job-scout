@@ -41,6 +41,7 @@ import jibe  # iCIMS Jibe career-site fetcher (AMD); same reason
 import jd_parse  # keyword column for the recommendation sheet
 import apple  # jobs.apple.com (undocumented JSON API); same reason
 import uber  # jobs.uber.com (undocumented JSON API); same reason
+import google_email  # Google Careers via the daily alert e-mail (reads google_jobs.yaml); same reason
 
 try:
     import certifi
@@ -65,7 +66,7 @@ LOW_QUEUE_THRESHOLD = 4  # ~2 days of promotions left; nudge to refill before it
 # Companies known to be unwatchable via these APIs (for the watchlist report).
 NOT_WATCHABLE = [
     ("Own career site (not on these APIs)",
-     ["Google", "Nvidia (Workday)",
+     ["Nvidia (Workday)",
       "Census (Workable: apply.workable.com/census; no public list API checked)", "Chef Robotics (Gem)", "Cognigy (careers page references Workable; unverified)",
       "Contextual AI (custom Next.js)", "Crescendo (custom Webflow)",
       "EvenUp (on Ashby, but public API disabled — page live at jobs.ashbyhq.com/evenuplaw)",
@@ -149,7 +150,7 @@ def fetch_ashby(slug):
     } for j in data.get("jobs", [])]
 
 
-FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "jibe": jibe.fetch, "apple": apple.fetch, "uber": uber.fetch}
+FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "jibe": jibe.fetch, "apple": apple.fetch, "uber": uber.fetch, "google": google_email.fetch}
 
 
 def careers_url(ats, slug):
@@ -159,6 +160,7 @@ def careers_url(ats, slug):
         "lever": "https://jobs.lever.co/%s" % slug,
         "apple": "https://jobs.apple.com/en-us/search",
         "uber": "https://jobs.uber.com/en/jobs/",
+        "google": "https://www.google.com/about/careers/applications/jobs/results",
         "jibe": "https://%s/careers-home" % slug.split("?")[0],  # slug may carry API params after "?"
     }.get(ats, "")
 
@@ -588,7 +590,8 @@ def update_recommendations(all_matching, failed_companies=()):
     n_applied = n_sunset = 0
     for name, j in all_matching:
         key = _job_key(name, j)
-        first_seen = prior.get(key, today_s)      # carry forward, or first seen today
+        # carry forward; else the source's own date (Google's alert e-mail says "4 days ago"); else today
+        first_seen = prior.get(key) or j.get("first_seen") or today_s
         new_state[key] = first_seen               # only current-open roles are kept
         try:
             age = (today - datetime.strptime(first_seen, "%Y-%m-%d").date()).days

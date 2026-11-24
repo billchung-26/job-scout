@@ -32,6 +32,7 @@ authorize.
 | `apple.py` | Fetcher for jobs.apple.com (undocumented JSON API; full US pull ~8 min, then full descriptions only for title matches) |
 | `jd.py` (+ `jd_fetch.py`, `jd_parse.py`, `jd_keywords.yaml`) | On-demand job brief: full description, requirements, ATS keywords and résumé gap check for roles you pick. Local output in `jobs/` (git-ignored). `python3 jd.py -h` |
 | `mark_applied.py` | Append roles to `applied.yaml` from a `Company: title words` spec (also run by the `mark-applied.yml` workflow) |
+| `google_email.py` + `google_jobs.yaml` | Google Careers (no public API) via the daily "New job(s) match your search" alert e-mail. **Ingest is manual/agent-run, locally** (needs Gmail): `python3 google_email.py alert.html --date YYYY-MM-DD`, then commit + push `google_jobs.yaml`. The daily Action only reads that file (`ats: google`). Gaps: only the e-mail's ~20 newest jobs, requirement bullets instead of a full JD, no close detection (entries pruned 45 days after first seen). `python3 google_email.py -h` |
 | `uber.py` | Fetcher for jobs.uber.com (undocumented JSON API, ~830 jobs in 9 calls) |
 | `sourcing.py` | Refills `discovery_queue.yaml` from VC/accelerator lists: `python3 sourcing.py --source yc|a16z --add 20` (use `--dry-run` to preview). Finds each company's public job board, verifies identity, ranks by roles matching your filter |
 | `fit.py` | Fit scoring v2: role family + seniority + résumé themes in title *and* job description. Weights live in `conditions.yaml` |

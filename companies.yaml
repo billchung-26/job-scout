@@ -181,3 +181,6 @@ companies:
 #  see NOT_WATCHABLE in scout.py / the "Not watchable" section of watchlist.md
 #  for the current, maintained list (Google, Waymo, Nvidia, AMD, and others).
 # ============================================================
+  - name: Google             # no public API: fed by the daily "New job(s) match your search" alert e-mail, see google_email.py
+    ats: google
+    slug: "google_jobs.yaml"
