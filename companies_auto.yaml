@@ -490,3 +490,9 @@ companies:
 - name: Xendit
   ats: greenhouse
   slug: xendit
+- name: Lattice
+  ats: greenhouse
+  slug: lattice
+- name: Instawork
+  ats: greenhouse
+  slug: instawork
