@@ -496,3 +496,9 @@ companies:
 - name: Instawork
   ats: greenhouse
   slug: instawork
+- name: CaptivateIQ
+  ats: ashby
+  slug: captivateiq
+- name: Candid Health
+  ats: ashby
+  slug: candidhealth

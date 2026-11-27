@@ -1,11 +1,5 @@
 # Discovery backlog. scout.py promotes the top 2 each run.
 queue:
-- name: CaptivateIQ
-  ats: ashby
-  slug: captivateiq
-- name: Candid Health
-  ats: ashby
-  slug: candidhealth
 - name: Vetcove
   ats: ashby
   slug: vetcove
